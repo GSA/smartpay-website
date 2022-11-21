@@ -1,18 +1,42 @@
 ---
-title: A very long blog header that has a lot of detail but is still relevant
-description: This post has a long header
+title: 2023 GSA SmartPay Virtual Training Forum
+description: The GSA SmartPay Training Forum is the premier training event for charge card program managers.
 layout: layouts/post
-date: 2022-01-14
-author: Abraham Lincoln
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui suscipit rhoncus.
-image: hire-us.jpg
-image_alt_text: Hire Us
+date: 2022-11-21
+author: GSA SmartPay
+excerpt: This 3-day virtual event will feature comprehensive training covering all aspects of how to successfully manage your charge card program. Continuous Learning Points (CLPs) will be available for many of the scheduled and on-demand courses.
+image: 2023-virtual-forum.jpg
+image_alt_text: Person at a desk looking at a computer screen with multiple people on screen in a meeting with a laptop open to the side
 tags:
   - posts
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui suscipit rhoncus.
+## Mark your calendars
 
-Curabitur sed elit viverra, fermentum massa non, hendrerit ex. Vivamus eget mattis tortor, eu elementum sapien. Praesent elementum feugiat nisi venenatis vestibulum. Nulla pretium ipsum orci, ut feugiat arcu facilisis sit amet.
+### June 13-15, 2023 from 8AM - 4:40PM ET
+(More details coming soon)
 
-Morbi bibendum est non nibh aliquam, non dictum massa elementum. Nullam vitae auctor erat. Mauris at arcu ut purus sodales porttitor ut sit amet ex. Donec viverra quam nisl, a congue arcu fermentum rhoncus.
+The GSA SmartPay Training Forum is the premier training event for charge card program managers. This 3-day virtual event will feature comprehensive training covering all aspects of how to successfully manage your charge card program. Continuous Learning Points (CLPs) will be available for many of the scheduled and on-demand courses. In addition, attendees will have the opportunity to complete the [GSA SmartPay Program Certification (GSPC)](https://smartpay.gsa.gov/content/smart-bulletin-no-022) by taking the required GSA Qualifying and/or Bank/Brand Qualifying classes offered at the forum. 
+
+## Who should attend the training forum?
+
+- Agency/Organization Program Coordinators (A/OPCs)
+- Financial Managers
+- Approving Officials
+- Billing Officials
+- Other agency personnel who play a role in managing their agency’s GSA SmartPay charge card program
+
+_This event is not intended for cardholders._
+
+## 2022 GSA SmartPay Virtual Forum Information
+
+- [2022 GSA SmartPay Forum CLP Certificates and Class Surveys](https://www.intheorious.com/psa/pub/gsa2022eval/)
+- [2022 GSA SmartPay Forum Website](https://gsasmartpayforum.org/)
+
+### For Event Updates and Announcements
+
+Follow GSA SmartPay on [Twitter](https://twitter.com/gsasmartpaynews), [Facebook](https://www.facebook.com/GSASmartPayNews/), and [LinkedIn](https://www.linkedin.com/company/gsasmartpaynews)
+
+### For Questions
+
+If you have questions about the GSA SmartPay Training Forum, please contact the GSA SmartPay Program Support team at [gsa_smartpay@gsa.gov](mailto:gsa_smartpay@gsa.gov).

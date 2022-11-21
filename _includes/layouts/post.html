@@ -16,6 +16,10 @@ This is used in blog posts. The index page can be found at blog/index.html
             By <span class="text-bold">{{ author }}</span> · {{ date | date: '%B %d, %Y' }}
           </div>
         </div>
+        {% if image %}
+          {% assign imagepath="./_img/" | append: image %}
+          {% image imagepath image_alt_text %}
+        {% endif %}
         {{ content }}
       </div>
     </div>
