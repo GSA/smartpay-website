@@ -52,27 +52,81 @@ ga:
 
 # Site Navigation
 primary_navigation:
-  - name: Home
-    url: /
-  - name: Blog
-    url: /blog/
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
-    url: /document-with-sidenav/
-  - name: Document submenu
+  - name: News
+    url: /blog/ 
+  - name: Account Holders & Approving Officials
     children:
-      - name: Navigation link
+      - name: Purchase
         url: "#main-content"
-      - name: Navigation link
+      - name: Travel
         url: "#main-content"
-      - name: Navigation link
+      - name: Fleet
         url: "#main-content"
+      - name: Integrated
+        url: "#main-content"
+      - name: Training
+        url: "#main-content"
+      - name: Guides, Presentations & Publications
+        url: "#main-content"
+      - name: Fraud Prevention
+        url: "#main-content"
+      - name: Common Questions
+        url: "#main-content"                          
+  - name: Program Coordinators
+    children:
+      - name: Purchase
+        url: "#main-content"
+      - name: Travel
+        url: "#main-content"
+      - name: Fleet
+        url: "#main-content"
+      - name: Integrated
+        url: "#main-content"
+      - name: Training for A/OPCs
+        url: "#main-content"
+      - name: Guides, Presentations & Publications
+        url: "#main-content"
+      - name: Audit Repository
+        url: "#main-content"
+      - name: Fraud Prevention
+        url: "#main-content"
+      - name: Common Questions
+        url: "#main-content"                
+  - name: Business & Vendors
+    children:
+      - name: GSA SmartPay for Vendors
+        url: "#main-content"
+      - name: Recognizing the GSA SmartPay Account
+        url: "#main-content"
+      - name: Guides, Presentations & Publications
+        url: "#main-content"
+      - name: Vendor Common Questions
+        url: "#main-content"        
+  - name: About
+    children:
+      - name: The GSA SmartPay Program
+        url: "#main-content"
+      - name: Master Contract
+        url: "#main-content"
+      - name: Statistics
+        url: "#main-content"
+      - name: Policies
+        url: "#main-content"
+      - name: SmartTax
+        url: "#main-content"
+      - name: State / Local Government
+        url: "#main-content"
+      - name: Strategic Payment Solutions
+        url: "#main-content"
+      - name: Logos & Designs
+        url: "#main-content"
+      - name: Glossary
+        url: "#main-content"         
 
 secondary_navigation:
-  - name: Secondary link
-    url: "#main-content"
-  - name: Another secondary link
+  - name: Visit Online Training
+    url: https://training.smartpay.gsa.gov/
+  - name: Contact Us
     url: "#main-content"
 
 # Search.gov configuration
