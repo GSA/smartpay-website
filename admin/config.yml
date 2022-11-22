@@ -38,7 +38,8 @@ collections:
     meta: { path: { widget: string, label: "Path", index_file: "index" } }
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Questions", name: "questions", widget: "list" }
+      - { label: "Path", name: "permalink", widget: "string" }
+      - { label: "Description", name: "excerpt", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Posts
     name: posts
