@@ -1,11 +1,12 @@
 title: SmartPay
 email: contact@example.gov
 description: >- # this means to ignore newlines
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
+  Established in 1998, the GSA SmartPay Program is the world’s largest government charge card and commercial payment solutions program, providing services to more than 560 federal agencies, organizations, and Native American tribal governments.
+
+host: https://smartpay.gsa.gov/
 
 # Twitter handle. Only the handle, not the URL.
-twitter: 18F
+twitter: GSASmartPayNews
 
 #################################################################
 #
