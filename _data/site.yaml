@@ -84,7 +84,7 @@ primary_navigation:
       - name: Integrated
         url: "#main-content"
       - name: Training for A/OPCs
-        url: "#main-content"
+        url: "/online-training-aopcs/"
       - name: Guides, Presentations & Publications
         url: "#main-content"
       - name: Audit Repository
