@@ -29,6 +29,17 @@ publish_mode: editorial_workflow
 logo_url: https://smartpay.gsa.gov/sites/default/files/logo_0.png
 
 collections:
+  - label: "Pages"
+    name: "pages"
+    label_singular: "page"
+    nested: { depth: 4 }
+    folder: "pages/"
+    create: true
+    meta: { path: { widget: string, label: "Path", index_file: "index" } }
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Questions", name: "questions", widget: "list" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: Posts
     name: posts
     folder: posts/
