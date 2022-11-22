@@ -33,10 +33,10 @@ _This event is not intended for cardholders._
 - [2022 GSA SmartPay Forum CLP Certificates and Class Surveys](https://www.intheorious.com/psa/pub/gsa2022eval/)
 - [2022 GSA SmartPay Forum Website](https://gsasmartpayforum.org/)
 
-### For Event Updates and Announcements
+## For Event Updates and Announcements
 
 Follow GSA SmartPay on [Twitter](https://twitter.com/gsasmartpaynews), [Facebook](https://www.facebook.com/GSASmartPayNews/), and [LinkedIn](https://www.linkedin.com/company/gsasmartpaynews)
 
-### For Questions
+## Questions
 
 If you have questions about the GSA SmartPay Training Forum, please contact the GSA SmartPay Program Support team at [gsa_smartpay@gsa.gov](mailto:gsa_smartpay@gsa.gov).
