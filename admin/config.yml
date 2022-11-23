@@ -35,7 +35,6 @@ collections:
     nested: { depth: 4 }
     folder: "pages/"
     create: true
-    meta: { path: { widget: string, label: "Path", index_file: "index" } }
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Path", name: "permalink", widget: "string" }
