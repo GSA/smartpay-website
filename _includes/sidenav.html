@@ -6,21 +6,11 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
 <div class="tablet:grid-col-fill">
 
   <div class="border-top-1 border-accent-cool-darker padding-top-2 margin-bottom-4 usa-prose">
-    <h3 class="padding-bottom-1">Status</h3>
-    {% if piloting %}
-      <strong>Piloting:</strong> This service is currently in operation as a pilot.
-    {% else %}
-      <strong>Not Piloting:</strong> This service is still being built out and is not yet available as a pilot.
-    {% endif %}
-  </div>
-
-  <div class="border-top-1 border-accent-cool-darker padding-top-2 margin-bottom-4 usa-prose">
-    <h3 class="padding-bottom-1">Goals</h3>
-    <ul class="usa-list">
-      {%- for goal in goals %}
-        <li class="padding-bottom-2">{{ goal }}</li>
+    <h3 class="padding-bottom-1">{{ link-title }}</h3>
+    <ul class="usa-list--unstyled">
+      {%- for link in links %}
+        <li class="padding-bottom-2"><a href="{{ link.url }}">{{ link.text }}</a></li>
       {% endfor %}
     </ul>
   </div>
-
 </div>

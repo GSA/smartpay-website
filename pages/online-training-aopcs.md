@@ -3,7 +3,19 @@ title: Online Training for A/OPCs
 layout: layouts/page
 permalink: /online-training-aopcs/
 excerpt: Training is important in helping account holders and A/OPCs understand their roles and responsibilities, as well as reducing the risk of fraud, waste, and error.
-sidenav: false
+sidenav: true
+link-title: Training for A/OPCs
+links:
+  - text: New A/OPC Training
+    url: #
+  - text: GSA SmartPay Training Forum
+    url: #
+  - text: Online Training
+    url: #    
+  - text: On-site Training
+    url: #
+  - text: Other Training
+    url: #
 ---
 
 [OMB Circular A-I23 Appendix B](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A123/a123_appendix_b.pdf) requires each agency to provide training to all account holders and account managers (including A/OPCs and AOs). Training is important in helping account holders and A/OPCs understand their roles and responsibilities, as well as reducing the risk of fraud, waste, and error.
