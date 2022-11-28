@@ -108,7 +108,7 @@ primary_navigation:
       - name: The GSA SmartPay Program
         url: /about/
       - name: Master Contract
-        url: "#main-content"
+        url: /gsa-smartpay-master-contract/
       - name: Statistics
         url: "#main-content"
       - name: Policies
