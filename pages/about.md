@@ -16,7 +16,7 @@ links:
   - text: Refunds
     url: null
 ---
-Established in 1998, the GSA SmartPay Program is the world’s largest government charge card and commercial payment solutions program, providing services to more than 560 Federal agencies, organizations, and Native American tribal governments. GSA SmartPay payment solutions enable authorized government employees to make purchases on behalf of the Federal Government in support of their agency/organization’s mission.
+Established in 1998, the GSA SmartPay Program is the world’s largest government charge card and commercial payment solutions program, providing services to more than 560 Federal agencies, organizations, and Native American tribal governments. GSA SmartPay payment solutions enable authorized government employees to make purchases on behalf of the federal government in support of their agency/organization’s mission.
 
 Prior to using a GSA SmartPay payment solution, the Federal Government used traditional paper-based payment processes such as purchase orders for small dollar purchases (under the micro-purchase threshold).  In many cases, traditional paper-based processing techniques cost more to process than the amount of the transaction itself.  The inefficiency, costs and risks associated with these processes were a key factor in the dramatic increase in the use of GSA SmartPay payment solutions.
 
