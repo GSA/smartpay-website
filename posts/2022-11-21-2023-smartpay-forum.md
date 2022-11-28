@@ -5,7 +5,7 @@ layout: layouts/post
 date: 2022-11-21
 author: GSA SmartPay
 excerpt: This 3-day virtual event will feature comprehensive training covering all aspects of how to successfully manage your charge card program. Continuous Learning Points (CLPs) will be available for many of the scheduled and on-demand courses.
-image: 2023-virtual-forum.jpg
+image: uploads/2023-virtual-forum.jpg
 image_alt_text: Person at a desk looking at a computer screen with multiple people on screen in a meeting with a laptop open to the side
 tags:
   - posts
