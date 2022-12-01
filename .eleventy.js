@@ -7,6 +7,7 @@ const markdownItAnchor = require('markdown-it-anchor');
 const yaml = require("js-yaml");
 const svgSprite = require("eleventy-plugin-svg-sprite");
 const { imageShortcode, imageWithClassShortcode } = require('./config');
+const {parse} = require('csv-parse/sync');
 
 module.exports = function (config) {
   // Set pathPrefix for site
@@ -36,8 +37,16 @@ module.exports = function (config) {
     svgShortcode: 'usa_icons'
   });
 
-  // Allow yaml to be used in the _data dir
+  // Allow yaml and csv to be used in the _data dir
   config.addDataExtension("yaml", contents => yaml.load(contents));
+
+  config.addDataExtension("csv", (contents) => {
+    const records = parse(contents, {
+        columns: true,
+        skip_empty_lines: true,
+    });
+    return records;
+    });
 
   config.addFilter('readableDate', (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(
