@@ -11,6 +11,15 @@ tags:
   - posts
 ---
 
+<div class="usa-alert usa-alert--info">
+  <div class="usa-alert__body">
+    <h4 class="usa-alert__heading">Coming soon!</h4>
+    <p class="usa-alert__text">
+      Filling fast. Get your seat!
+    </p>
+  </div>
+</div>
+
 ## Mark your calendars
 
 ### June 13-15, 2023 from 8AM - 4:40PM ET
