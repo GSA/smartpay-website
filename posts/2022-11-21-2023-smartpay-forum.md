@@ -11,7 +11,7 @@ tags:
   - posts
 ---
 
-## Mark your calendars
+## Mark your calendars {.bg-secondary}
 
 ### June 13-15, 2023 from 8AM - 4:40PM ET
 (More details coming soon)
