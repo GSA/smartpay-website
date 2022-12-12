@@ -28,4 +28,17 @@ links:
     url: null            
 ---
 
+## Vega charts demo
 
+```bar-chart
+Letters,Amount
+A,28
+B,55
+C,43
+D,91
+E,81
+F,53
+G,19
+H,81
+I,52
+```
