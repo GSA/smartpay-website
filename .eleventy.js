@@ -9,6 +9,7 @@ const yaml = require("js-yaml");
 const svgSprite = require("eleventy-plugin-svg-sprite");
 const { imageShortcode, imageWithClassShortcode } = require('./config');
 const {parse} = require('csv-parse/sync');
+const charts = require('eleventy-charts');
 
 module.exports = function (config) {
   // Set pathPrefix for site
@@ -48,6 +49,10 @@ module.exports = function (config) {
     });
     return records;
     });
+
+  // Add charting plugin for data visualizations
+  
+  config.addPlugin(charts);
 
   config.addFilter('readableDate', (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(
