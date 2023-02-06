@@ -1,5 +1,4 @@
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require("markdown-it-attrs");
 const yaml = require("js-yaml");
@@ -14,7 +13,6 @@ module.exports = function(eleventyConfig) {
 
   // Add 11ty plugins
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(charts);
 
   // Add markdown-it plugins
