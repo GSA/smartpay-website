@@ -18,8 +18,9 @@
         href="{{ pagination.href.previous | url }}"
         class="usa-pagination__link usa-pagination__previous-page"
         aria-label="Previous page"
-      >
-        {% uswds_icon "navigate_before" %}
+      ><svg class="usa-icon" aria-hidden="true" role="img">
+          <use xlink:href="{{ '/assets/img/sprite.svg#navigate_before' | url }}"></use>
+        </svg>
         <span class="usa-pagination__link-text"> Previous </span>
       </a>
     </li>
@@ -150,10 +151,10 @@
         href="{{ pagination.href.next | url }}"
         class="usa-pagination__link usa-pagination__next-page"
         aria-label="Next page"
-      >
-        <span class="usa-pagination__link-text"> Next </span>
-        {% uswds_icon "navigate_next" %}
-      </a>
+      ><span class="usa-pagination__link-text"> Next </span
+      ><svg class="usa-icon" aria-hidden="true" role="img">
+        <use xlink:href="{{ '/assets/img/sprite.svg#navigate_next' | url }}"></use></svg
+      ></a>
     </li>
     {% endif %}
   </ul>
