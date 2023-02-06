@@ -11,6 +11,7 @@ in the form $setting: value,
 @use "uswds-core" with (
   // General
   $theme-show-notifications: false,
+  $theme-hero-image: "../../img/hero.png",
 
   // Typography
   $theme-font-role-heading: "sans",
