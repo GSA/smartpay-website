@@ -1,0 +1,23 @@
+---
+layout: layouts/base
+---
+{% if hero %}
+  {% include 'components/hero.njk' %}
+{% endif %}
+
+<div class="grid-container">
+  <main id="main-content" class="usa-section">
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid-col-8 usa-prose">
+        {{ content | safe }}
+      </div>
+      <div class="tablet:grid-col-fill">
+        {% include 'components/childsidenav.njk' %}
+      </div>
+    </div>
+  </main>
+  
+</div>
+
+
+

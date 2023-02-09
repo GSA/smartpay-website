@@ -114,7 +114,7 @@ primary_navigation:
       - name: Policies
         url: "#main-content"
       - name: SmartTax
-        url: "#main-content"
+        url: "/smarttax/"
       - name: State / Local Government
         url: "#main-content"
       - name: Strategic Payment Solutions
