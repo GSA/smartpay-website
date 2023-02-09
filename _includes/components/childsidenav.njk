@@ -16,7 +16,7 @@
          <h3 class="padding-bottom-1"><a href="/smarttax/" style=" text-decoration: none; color: #505050;"> SmartTax</a></h3>
           <ul class="usa-sidenav">
             {%- for item in collections.smarttax | sort(attribute='data.sortorder') %}
-              <li class="usa-sidenav__item"><a href="{{ item.url }}" {% if page.url == item.url %} class="usa-current" {% endif %} >{{ item.data.title }}</a></li>
+              <li class="usa-sidenav__item"><a href="{{ item.url | url }}" {% if page.url == item.url %} class="usa-current" {% endif %} >{{ item.data.title }}</a></li>
             {% endfor %}
           </ul>
         </nav>
