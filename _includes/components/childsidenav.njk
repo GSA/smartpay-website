@@ -1,0 +1,26 @@
+<!-- navigation style matching with home page
+  <div class="border-top-1 border-accent-cool-darker padding-top-2 margin-bottom-4 usa-prose">
+          <h3 class="padding-bottom-1">SmartTax</h3>
+          <ul class="usa-list--unstyled">
+            {%- for page in collections.smarttax | sort(attribute='data.sortorder') %}
+              <li class="padding-bottom-2"><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+            {% endfor %}
+          </ul>
+ </div>
+-->
+
+   <!-- USWDS default Sidenav -->
+   <div class="border-top-1 border-accent-cool-darker padding-top-2 margin-bottom-4 usa-prose">
+   
+        <nav aria-label="Side navigation">
+         <h3 class="padding-bottom-1"><a href="/smarttax/" style=" text-decoration: none; color: #505050;"> SmartTax</a></h3>
+          <ul class="usa-sidenav">
+            {%- for item in collections.smarttax | sort(attribute='data.sortorder') %}
+              <li class="usa-sidenav__item"><a href="{{ item.url }}" {% if page.url == item.url %} class="usa-current" {% endif %} >{{ item.data.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+    
+    </div>
+
+ 
