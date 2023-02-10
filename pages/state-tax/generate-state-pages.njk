@@ -1,0 +1,132 @@
+---
+layout: layouts/page
+pagination:
+  data: tax.states
+  size: 1
+  alias: state
+eleventyComputed:
+  title: "{{ state.name }} tax information"
+permalink: "/state-tax/{{ state.name | slug }}/"
+---
+
+{% if state.summary.special %}
+  <div class="usa-alert usa-alert--info">
+    <div class="usa-alert__body">
+      <h4 class="usa-alert__heading">State forms or exceptions apply</h4>
+      <p class="usa-alert__text">
+        {{ state.name }} has special forms, regulations, or exceptions.
+      </p>
+    </div>
+  </div>
+
+  <ul>
+    {% for specialItem in state.summary.special %}
+      <li>{{ specialItem }}</li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <ul>
+    <li>Individually billed accounts (IBA) are {% if not state.summary.iba_exempt %}not{% endif %} exempt from state sales tax.</li>
+    <li>Centrally billed accounts (CBA)) are {% if not state.summary.cba_exempt %}not{% endif %} exempt from state sales tax.</li>
+  </ul>
+{% endif %}
+<p>
+  <em>
+    <a href="https://smartpay.gsa.gov/content/recognizing-your-account">Need help recognizing a card or telling if a card is an IBA or CBA?</a>
+  </em>
+</p>
+
+{% if state.forms.purchase_required or state.forms.travel_required %}
+  <h2>Required forms</h2>
+  {% if state.forms.purchase_required %}
+    <h3>Purchase card</h3>
+    <ul>
+      {% for form in state.forms.purchase_required.links %}
+        <li><a href="{{ form.link }}">{{ form.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% if state.forms.purchase_required.notes %}
+      <h4>Notes</h4>
+      <ul>
+        {% for note in state.forms.purchase_required.notes %}
+          <li>{{ note }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endif %}
+  {% if state.forms.travel_required %}
+    <h3>Travel card</h3>
+    <ul>
+      {% for form in state.forms.travel_required.links %}
+        <li><a href="{{ form.link }}">{{ form.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% if state.forms.travel_required.notes %}
+      <h4>Notes</h4>
+      <ul>
+        {% for note in state.forms.travel_required.notes %}
+          <li>{{ note }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endif %}
+{% endif %}
+
+{% if state.forms.purchase_optional or state.forms.travel_optional %}
+  <h2>Optional forms</h2>
+  {% if state.forms.purchase_optional %}
+    <h3>Purchase card</h3>
+    <ul>
+      {% for form in state.forms.purchase_optional.links %}
+        <li><a href="{{ form.link }}">{{ form.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% if state.forms.purchase_optional.notes %}
+      <h4>Notes</h4>
+      <ul>
+        {% for note in state.forms.purchase_optional.notes %}
+          <li>{{ note }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endif %}
+  {% if state.forms.travel_optional %}
+    <h3>Travel card</h3>
+    <ul>
+      {% for form in state.forms.travel_optional.links %}
+        <li><a href="{{ form.link }}">{{ form.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% if state.forms.travel_optional.notes %}
+      <h4>Notes</h4>
+      <ul>
+        {% for note in state.forms.travel_optional.notes %}
+          <li>{{ note }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endif %}
+{% endif %}
+
+{% if state.policies %}
+  <h2>State laws, regulations, policies</h3>
+  <ul>
+    {% for form in state.policies.links %}
+      <li><a href="{{ form.link }}">{{ form.title }}</a></li>
+    {% endfor %}
+  </ul>
+  {% if state.policies.notes %}
+    <h4>Notes</h4>
+    <ul>
+      {% for note in state.policies.notes %}
+        <li>{{ note }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endif %}
+
+{% if state.contact %}
+  <h2>State point of contact</h2>
+  <p><a href="{{ state.contact.link }}">{{ state.contact.name }}</a></p>
+  <p>{{ state.contact.phone }}</p>
+{% endif %}
