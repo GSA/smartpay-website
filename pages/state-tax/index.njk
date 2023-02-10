@@ -6,6 +6,6 @@ permalink: /state-tax/
 
 <ul>
   {% for state in tax.states %}
-    <li><a href="/state-tax/{{ state.name | slug }}/">{{ state.name }}</a></li>
+    <li><a href="{{ ['/state-tax/', state.name | slug, '/'] | join | url }}">{{ state.name }}</a></li>
   {% endfor %}
 </ul>
