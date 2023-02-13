@@ -15,12 +15,12 @@ tags: smarttax
 
 ## What does the U.S. Constitution Say?
 
-The [Supremacy Clause of the U.S. Constitution](https://www.senate.gov/civics/constitution_item/constitution.htm), establishes that the U.S. Constitution and federal laws to be “the Supreme Law of the Land.”
+The [Supremacy Clause of the U.S. Constitution](https://www.archives.gov/founding-docs/constitution-transcript), establishes that the U.S. Constitution and federal laws to be “the Supreme Law of the Land.”
 
 ## US Supreme Court Decisions
 Legal precedent has been established by several high court judicial rulings, which include but are not limited to the following:
 
-[McCulloch v. Maryland, 17 U.S. 316 (1819)](https://supreme.justia.com/cases/federal/us/17/316/) States cannot directly levy tax directly on the federal government.
+[McCulloch v. Maryland, 17 U.S. 316 (1819)](https://www.archives.gov/milestone-documents/mcculloch-v-maryland) States cannot directly levy tax directly on the federal government.
 
 [Alabama v. King & Boozer, 314 U.S. 1 (1941)](https://supreme.justia.com/cases/federal/us/455/720/) - Taxes assessed to entities doing business with the federal government is not the same as directly assessing taxes to federal government.
 
