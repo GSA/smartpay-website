@@ -36,72 +36,44 @@ permalink: "/state-tax/{{ state.name | slug }}/"
   </em>
 </p>
 
-{% if state.forms.purchase_required or state.forms.travel_required %}
+{% if state.forms %}
   <h2>Required forms</h2>
-  {% if state.forms.purchase_required %}
-    <h3>Purchase card</h3>
-    <ul>
-      {% for form in state.forms.purchase_required.links %}
-        <li><a href="{{ form.link }}">{{ form.title }}</a></li>
-      {% endfor %}
-    </ul>
-    {% if state.forms.purchase_required.notes %}
-      <h4>Notes</h4>
-      <ul>
-        {% for note in state.forms.purchase_required.notes %}
-          <li>{{ note }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}
-  {% endif %}
-  {% if state.forms.travel_required %}
-    <h3>Travel card</h3>
-    <ul>
-      {% for form in state.forms.travel_required.links %}
-        <li><a href="{{ form.link }}">{{ form.title }}</a></li>
-      {% endfor %}
-    </ul>
-    {% if state.forms.travel_required.notes %}
-      <h4>Notes</h4>
-      <ul>
-        {% for note in state.forms.travel_required.notes %}
-          <li>{{ note }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}
-  {% endif %}
-{% endif %}
 
-{% if state.forms.purchase_optional or state.forms.travel_optional %}
-  <h2>Optional forms</h2>
-  {% if state.forms.purchase_optional %}
+  {% if state.forms.purchase %}
     <h3>Purchase card</h3>
     <ul>
-      {% for form in state.forms.purchase_optional.links %}
-        <li><a href="{{ form.link }}">{{ form.title }}</a></li>
+      {% for form in state.forms.purchase.links %}
+        <li>
+          <a href="{{ form.link }}">{{ form.title }}</a>
+          {% if form.optional %}<span class="usa-tag">Optional</span>{% endif %}
+        </li>
       {% endfor %}
     </ul>
-    {% if state.forms.purchase_optional.notes %}
+    {% if state.forms.purchase.notes %}
       <h4>Notes</h4>
       <ul>
-        {% for note in state.forms.purchase_optional.notes %}
-          <li>{{ note }}</li>
+        {% for note in state.forms.purchase.notes %}
+          <li>{{ note | safe }}</li>
         {% endfor %}
       </ul>
     {% endif %}
   {% endif %}
-  {% if state.forms.travel_optional %}
+
+  {% if state.forms.travel %}
     <h3>Travel card</h3>
     <ul>
-      {% for form in state.forms.travel_optional.links %}
-        <li><a href="{{ form.link }}">{{ form.title }}</a></li>
+      {% for form in state.forms.travel.links %}
+        <li>
+          <a href="{{ form.link }}">{{ form.title }}</a>
+          {% if form.optional %}<span class="usa-tag">Optional</span>{% endif %}
+        </li>
       {% endfor %}
     </ul>
-    {% if state.forms.travel_optional.notes %}
+    {% if state.forms.travel.notes %}
       <h4>Notes</h4>
       <ul>
-        {% for note in state.forms.travel_optional.notes %}
-          <li>{{ note }}</li>
+        {% for note in state.forms.travel.notes %}
+          <li>{{ note | safe }}</li>
         {% endfor %}
       </ul>
     {% endif %}
