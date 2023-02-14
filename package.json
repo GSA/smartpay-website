@@ -17,6 +17,7 @@
     "@11ty/eleventy-navigation": "^0.3.5",
     "@uswds/compile": "^1.0.0",
     "concurrently": "^7.6.0",
+    "eleventy-plugin-embed-everything": "^1.15.0",
     "gulp": "^4.0.2",
     "markdown-it-anchor": "^8.6.6",
     "markdown-it-attrs": "^4.1.6",
