@@ -1,12 +1,14 @@
 ---
 layout: layouts/page
 pagination:
-  data: tax.states
+  data: states
   size: 1
   alias: state
 eleventyComputed:
   title: "{{ state.name }} tax information"
-permalink: "/state-tax/{{ state.name | slug }}/"
+  permalink: "/state-tax-information/{{ state.name | slug }}/"
+tags:
+  - state-tax-information
 ---
 
 {% if state.summary.special %}
@@ -40,7 +42,7 @@ permalink: "/state-tax/{{ state.name | slug }}/"
   <h2>Required forms</h2>
 
   {% if state.forms.purchase %}
-    <h3>Purchase card</h3>
+    <h3><img src="{{ '/assets/img/smartpay-red-purchase-plain.svg' | url }}" style="height: 0.9em;"> Purchase card</h3>
     <ul>
       {% for form in state.forms.purchase.links %}
         <li>
@@ -60,7 +62,7 @@ permalink: "/state-tax/{{ state.name | slug }}/"
   {% endif %}
 
   {% if state.forms.travel %}
-    <h3>Travel card</h3>
+    <h3><img src="{{ '/assets/img/smartpay-blue-travel-plain.svg' | url }}" style="height: 0.9em;"> Travel card</h3>
     <ul>
       {% for form in state.forms.travel.links %}
         <li>

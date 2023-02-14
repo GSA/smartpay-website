@@ -1,0 +1,11 @@
+---
+title: State tax information
+layout: layouts/page
+permalink: /state-tax-information/
+---
+
+<ul>
+  {% for state in states %}
+    <li><a href="{{ ['/state-tax-information/', state.name | slug, '/'] | join | url }}">{{ state.name }}</a></li>
+  {% endfor %}
+</ul>
