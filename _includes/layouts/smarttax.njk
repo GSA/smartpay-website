@@ -1,14 +1,22 @@
 ---
 layout: layouts/base
 ---
+
+{# uncomment below if you want to display top hero image
 {% if hero %}
   {% include 'components/hero.njk' %}
 {% endif %}
+#}
 
 <div class="grid-container">
   <main id="main-content" class="usa-section">
+  
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-8 usa-prose">
+        <h1>{{title}}</h1>
+        {% if title_desc %}
+          <span class="text-semibold" >{{ title_desc }}</span>
+        {% endif %}
         {{ content | safe }}
       </div>
       <div class="tablet:grid-col-fill">

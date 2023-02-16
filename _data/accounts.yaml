@@ -5,7 +5,7 @@
     - url: "/assets/img/blue-card.png"
       alt: The blue travel card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
     - url: "/assets/img/silver-card.png"
-      alt: The blue travel card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
+      alt: The silver travel card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
   prefixes:
     - type: Visa
       number: "4486, 4614, 4716"
@@ -14,17 +14,17 @@
   sixdigts_identifiers:
     - type: IBA Travel Card
       url: "/assets/img/blue-card.png"
-      alt:  IBA travel card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
+      alt:  The blue IBA travel card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
       sixdigit: "1,2,3,4"
       billingtype: "Individually Billed (IBA)"
     - type: CBA Travel Card
       url: "/assets/img/blue-card.png"
-      alt:  CBA travel card image
+      alt:  The blue CBA travel card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
       sixdigit: "6,7,8,9,0"
       billingtype: "Centrally Billed (CBA)"
     - type: Tax Advantage Card
       url: "/assets/img/silver-card.png"
-      alt:  Tax advantage travel card image
+      alt:  The silver tax advantage travel card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
       sixdigit: "5"
       billingtype: "IBA/CBA"
   exemption_status: "Federal government travelers using IBA GSA SmartPay travel accounts may be exempt from state taxes in select states. In addition, state tax exemption forms, official business travel documentation or a federal government identification may be required to receive state tax exemption."

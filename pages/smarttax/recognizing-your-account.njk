@@ -1,6 +1,7 @@
 ---
 layout: layouts/smarttax
 title: Recognizing Your Account
+title_desc: Is your account centrally billed or individually billed and what does that mean?
 permalink: /smarttax/recognizing-your-account/
 sortorder: 4
 childpage: true
@@ -37,7 +38,7 @@ tags: smarttax
     </div>
   {% endif %}
   {% if account.prefixes %}
-    <h4>GSA SmartPay {{ account.name }} Prefixes:</h4>
+    <h4>GSA SmartPay {{ account.name }} Prefixes</h4>
     <div class="grid-container">
      {% for item in account.prefixes %}
       <div class="grid-row">
@@ -50,11 +51,7 @@ tags: smarttax
       </div>
       {% endfor %}
   </div>
-    <ul>
-       {% for item in account.prefixes %}
-          <li><b>{{ item.type}}:</b> {{item.number}} </li>
-       {% endfor %}
-    </ul>
+   
   {% endif %}
   {% if account.sixdigts_identifiers %}
     <h4>The Sixth Digit Identifies Billing Type</h4>
@@ -69,12 +66,39 @@ tags: smarttax
           </div>
           <div class="desktop:grid-col-6">
            <b>{{item.type}} </b><br/>
-           <b>Six Digit:</b> {{item.sixdigit}}<br />
+           <b>Sixth Digit:</b> {{item.sixdigit}}<br />
            <b>Billing Type:</b> {{item.billingtype}}<br/>
           </div>
         </div>
       {% endfor %}
     </div>
+    <table class="usa-table usa-table--borderless">
+     
+      <thead>
+        <tr>
+          <th scope="col">Card</th>
+          <th scope="col">Sixth Digit</th>
+          <th scope="col">Billing Type</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for item in account.sixdigts_identifiers %}
+        <tr>
+          <th scope="row">
+             <img
+            src="{{ item.url | url}}"
+            alt={{item.alt}}/> <br/>
+            {{item.type}}
+
+          </th>
+          <td>
+           {{item.sixdigit}}
+          </td>
+          <td>{{item.billingtype}}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+  </table>
    
 
   {% endif %}
