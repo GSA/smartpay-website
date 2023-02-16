@@ -2,7 +2,6 @@
 layout: layouts/smarttax
 title: SmartTax
 permalink: /smarttax/
-image: /assets/img/hero.jpg
 hero:
   image: /assets/img/hero.jpg
   heading: SmartTax Information
