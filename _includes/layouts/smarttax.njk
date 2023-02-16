@@ -9,13 +9,13 @@ layout: layouts/base
 #}
 
 <div class="grid-container">
+
   <main id="main-content" class="usa-section">
-  
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-8 usa-prose">
         <h1>{{title}}</h1>
         {% if title_desc %}
-          <span class="text-semibold" >{{ title_desc }}</span>
+          <p>{{ title_desc }}</p>
         {% endif %}
         {{ content | safe }}
       </div>
@@ -24,7 +24,7 @@ layout: layouts/base
       </div>
     </div>
   </main>
-  
+ 
 </div>
 
 

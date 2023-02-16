@@ -72,35 +72,6 @@ tags: smarttax
         </div>
       {% endfor %}
     </div>
-    <table class="usa-table usa-table--borderless">
-     
-      <thead>
-        <tr>
-          <th scope="col">Card</th>
-          <th scope="col">Sixth Digit</th>
-          <th scope="col">Billing Type</th>
-        </tr>
-      </thead>
-      <tbody>
-      {% for item in account.sixdigts_identifiers %}
-        <tr>
-          <th scope="row">
-             <img
-            src="{{ item.url | url}}"
-            alt={{item.alt}}/> <br/>
-            {{item.type}}
-
-          </th>
-          <td>
-           {{item.sixdigit}}
-          </td>
-          <td>{{item.billingtype}}</td>
-        </tr>
-      {% endfor %}
-      </tbody>
-  </table>
-   
-
   {% endif %}
   {% if account.exemption_status %}
     <h3>Tax Exemption Status</h3>
