@@ -28,15 +28,6 @@
       sixdigit: "5"
       billingtype: "IBA/CBA"
   exemption_status: "Federal government travelers using IBA GSA SmartPay travel accounts may be exempt from state taxes in select states. In addition, state tax exemption forms, official business travel documentation or a federal government identification may be required to receive state tax exemption."
-  best_practices:
-    - If the state exempts taxes, determine what additional information is required (tax exemption form, official travel documentation or a federal government identification) out and bring it with you on travel
-    - When traveling to a sales tax exempt state, contact the hotel before you travel to verify that taxes will not be charged to your GSA SmartPay travel account
-    - If the hotel does not recognize tax exemption status, please refer hotel representatives to the state’s taxation authority to verify tax exemption status
-    - Maintain copies of all receipts in order to verify taxes assessed; receipts should be maintained for six years and three months (or to length of agency’s policy)
-    - In accordance with the Travel and Transportation Reform Act of 1998 (PL 105-264), please use the GSA SmartPay travel account when you are on official federal government travel.  States will not exempt taxes on personal accounts and your agency will not have the ability to earn important refunds.     
-- name: Tax Advantage Travel Card Account
-  description: "The Tax Advantage Travel Card Account allows travelers to receive state sales tax exemption for hotels and car rentals. Learn more about this payment solution by watching the short video below."
-  video: https://www.youtube.com/embed/OpmX80EsIXg
 - name: Purchase Account
   description: "In accordance with the Federal Acquisition Regulation, the GSA SmartPay purchase account is the preferred method to purchase and pay for micro-purchases (FAR Part 13.201).  For purchases above the micro-purchase threshold, the purchase account may be used as an ordering and payment mechanism, but not as a contracting mechanism."
   card_images:
@@ -49,15 +40,7 @@
       number: "4614, 4716"
     - type: Mastercard
       number: "5565, 5568"
-  exemption_status: "All GSA SmartPay purchase accounts are centrally billed and should be exempt from state sales tax. The sixth-digit identifier used to differentiate travel and integrated accounts does not apply to purchase accounts or fleet accounts."
-  best_practices:
-    - If a vendor does not accept the GSA SmartPay purchase account, work with your program or program coordinator to identify another vendor who does.
-    - Verify the federal government’s tax exemption or discount status with the vendor prior to payment or at the point of sale.
-    - Verify that all CBAs are not assessed taxes, and in the event the taxes are assessed, notify your program coordinator. 
-    - Should there be a fraudulent charge on your account, initiate the dispute process within 90 days of the purchase.
-    - Maintain copies of all receipts in order to verify taxes assessed.
-    - Monitor your account activity frequently to identify any instances of fraud, misuse, or state tax assessment.
-    - Keep a record of exemptions and transactions, which include dates, vendors and taxes.
+  exemption_status: "All GSA SmartPay purchase accounts are centrally billed and should be exempt from state sales tax. The sixth-digit identifier used to differentiate travel and integrated accounts does not apply to purchase accounts or fleet accounts." 
 - name: Fleet Account
   description: "Use of GSA SmartPay fleet accounts enable agencies/organizations to conveniently obtain fuel and maintenance for vehicles and equipment, as well as manage tax-recovery efforts and collect detailed fleet management data."
   card_images:
@@ -76,13 +59,4 @@
       number: "7088"
   exemption_status: "All GSA SmartPay fleet accounts are centrally billed and should be exempt from state tax assessment."
   rental_car_exmption: "U.S. Government Rental Car Agreement Number 4 states that the government may receive tax exemption for centrally billed accounts if there is prior coordination between the account manager and the rental car company. Therefore, agencies should seek tax exemption when using a centrally billed card. This exemption must also be documented in the rental agreement. Although individually billed accounts are not mentioned in U.S. Government Rental Car Agreement Number 4, travelers should work with the rental car company before they travel so they can receive sales tax exemption in the 11 states which exempt IBA cards."
-  best_practices:
-    - If a vendor does not accept the GSA SmartPay fleet account, work with your fleet manager to identify another vendor who does.
-    - Verify the federal government’s sales tax exemption or discount status with vendors prior to payment or at the point of sale
-    - Verify that all CBAs are not assessed taxes, and in the event that taxes are assessed, contact your fleet manager immediately to initiate the reclamation process as soon as possible.
-    - Should there be fraudulent charges on your account, initiate the dispute process within 90 days of the purchase.
-    - Maintain copies of all receipts in order to verify taxes assessed.
-    - Monitor your account activity frequently to identify any instances of fraud, misuse, or state tax assessment.
-    - Keep a record of exemptions and transactions, which include dates, vendors, and amount of taxes charged.
-
-
+  
