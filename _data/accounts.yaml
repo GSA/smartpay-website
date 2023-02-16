@@ -1,4 +1,5 @@
 - name: Travel Account
+  section_id: section_1
   description: "The GSA SmartPay travel account can be used for official government travel and travel-related expenses, while allowing account holders access to GSA City Pair Program reduced airfares. Agencies and organizations are able to reduce travel processing costs and earn refunds, as annual spend has nearly tripled since the program’s inception in 1998. GSA SmartPay travel account revenue funds the GSA City Pair reduced cost airline ticket program."
   account_type_des: "Some states provide tax exemption on individually billed travel accounts (IBAs). To determine whether the travel or integrated account is a CBA, IBA, or Tax Advantage travel account, refer to the sixth digit of the account number. The sixth digit identifier that differentiates CBA and IBA accounts is specific to travel accounts and does not apply to other GSA SmartPay business lines."
   card_images:
@@ -29,6 +30,7 @@
       billingtype: "IBA/CBA"
   exemption_status: "Federal government travelers using IBA GSA SmartPay travel accounts may be exempt from state taxes in select states. In addition, state tax exemption forms, official business travel documentation or a federal government identification may be required to receive state tax exemption."
 - name: Purchase Account
+  section_id: section_2
   description: "In accordance with the Federal Acquisition Regulation, the GSA SmartPay purchase account is the preferred method to purchase and pay for micro-purchases (FAR Part 13.201).  For purchases above the micro-purchase threshold, the purchase account may be used as an ordering and payment mechanism, but not as a contracting mechanism."
   card_images:
     - url: "/assets/img/red-card.png"
@@ -42,6 +44,7 @@
       number: "5565, 5568"
   exemption_status: "All GSA SmartPay purchase accounts are centrally billed and should be exempt from state sales tax. The sixth-digit identifier used to differentiate travel and integrated accounts does not apply to purchase accounts or fleet accounts." 
 - name: Fleet Account
+  section_id: section_3
   description: "Use of GSA SmartPay fleet accounts enable agencies/organizations to conveniently obtain fuel and maintenance for vehicles and equipment, as well as manage tax-recovery efforts and collect detailed fleet management data."
   card_images:
     - url: "/assets/img/green-card.png"
