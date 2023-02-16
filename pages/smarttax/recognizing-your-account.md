@@ -3,9 +3,6 @@ layout: layouts/smarttax
 title: Recognizing Your Account
 permalink: /smarttax/recognizing-your-account/
 sortorder: 4
-childpage: true
-
-navfocus: true
 hero:
   image: /assets/img/hero.jpg
   heading: Recognizing Your Account
