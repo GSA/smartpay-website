@@ -28,6 +28,10 @@ tags: smarttax
   
    {% for p in qa.answer %}
     <p>
+      {% if loop.first %}
+        <b>Answer:</b>
+      {% endif %}
+      
       {{p.para | safe}}
     </p>
     {% endfor %}
