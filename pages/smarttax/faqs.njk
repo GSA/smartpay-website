@@ -1,0 +1,42 @@
+---
+layout: layouts/smarttax
+title: FAQs
+permalink: /smarttax/faqs/
+sortorder: 7
+hero:
+  image: /assets/img/hero.jpg
+  heading: Common Questions about State Taxes
+tags: smarttax
+---
+{% for faq in faqs %}
+<h3 class="site-preview-heading">{{ faq.account }}</h3>
+<p>{{faq.desc}}</p>
+<div class="usa-accordion">
+  {% for qa in faq.qa %}
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="true"
+      aria-controls="a{{qa.id}}"
+    >
+     
+     Question{% if qa.applies_to %} (applies to {{qa.applies_to}}){% endif %}: <span class="text-normal">{{qa.question | safe}}</span>
+    </button>
+  </h4>
+  <div id="a{{qa.id}}" class="usa-accordion__content usa-prose">
+  
+   {% for p in qa.answer %}
+    <p>
+      {% if loop.first %}
+        <b>Answer:</b>
+      {% endif %}
+      
+      {{p.para | safe}}
+    </p>
+    {% endfor %}
+  </div>
+  {% endfor %}
+
+</div>
+{% endfor %}
