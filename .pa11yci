@@ -3,10 +3,9 @@
     "concurrency": 1,
     "standard": "WCAG2AA",
     "runners": ["axe"],
-    "timeout": 240000,
+    "timeout": 10000,
     "chromeLaunchConfig": {
-        "ignoreHTTPSErrors": true,
-        "args": ["--disable-dev-shm-usage"]
+        "args": ["--no-sandbox"]
     }
   }
 }
