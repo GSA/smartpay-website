@@ -3,6 +3,9 @@
     "concurrency": 1,
     "standard": "WCAG2AA",
     "runners": ["axe"],
-    "timeout": 10000
+    "timeout": 10000,
+    "chromeLaunchConfig": {
+        "args": ["--no-sandbox"]
+    }
   }
 }
