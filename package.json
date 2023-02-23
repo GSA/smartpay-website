@@ -4,11 +4,12 @@
   "description": "SmartPay website",
   "scripts": {
     "start": "npm run serve",
+    "start-ci": "npm:styles && npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
     "federalist": "npm run build",
     "dev": "concurrently npm:styles npm:serve",
     "pa11y-ci": "pa11y-ci --sitemap http://localhost:8080/sitemap.xml --sitemap-exclude \"(/admin)\"  --sitemap-find \"^/\" --sitemap-replace \"http://localhost:8080/\"",
-    "pa11y-ci:gh": "npx start-server-and-test start 8080",
+    "pa11y-ci:gh": "npx start-server-and-test start-ci 8080",
     "serve": "npx @11ty/eleventy --serve --watch",
     "styles": "gulp watch",
     "test": "npm run pa11y-ci"
