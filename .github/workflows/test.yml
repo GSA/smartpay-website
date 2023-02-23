@@ -12,7 +12,7 @@ on:
       - main
       - staging
 jobs:
-  checkout_and_test:
+  accessibility_scan:
     runs-on: ubuntu-latest
 
     steps:
