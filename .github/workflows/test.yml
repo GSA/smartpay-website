@@ -3,7 +3,7 @@
 
 name: Build and Test
 env:
-  DEBUG: start-server-and-test
+  DEBUG: *
 on:
   push:
     branches: # Run actions when code is committed to these branches
