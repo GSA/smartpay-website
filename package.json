@@ -19,6 +19,7 @@
     "concurrently": "^7.6.0",
     "csv-parse": "^5.3.3",
     "eleventy-charts": "^1.0.3",
+    "eleventy-plugin-embed-everything": "^1.15.0",
     "gulp": "^4.0.2",
     "markdown-it-anchor": "^8.6.6",
     "markdown-it-attrs": "^4.1.6",

@@ -1,0 +1,131 @@
+- account: Travel
+  desc: State sales tax exemption applies primarily to hotels and car rentals and usually does not apply to meals and incidentals.
+  qa:
+    - id: 1
+      applies_to: both CBA and IBA
+      question: Aren’t government employees exempt from all hotel taxes?
+      answer: 
+        - para: No. In accordance with <a href="/smarttax/legal-history">legal precedence</a>, IBAs are subject to any tax that a state deems appropriate. There are states that choose to extend exemption for state sales tax only.  For a list of states that provide state sales tax exemption for IBAs, <a href="/smarttax/state-tax">please visit the tax map</a> for more information. 
+        - para: All states are required to honor state sales tax exemption for Travel CBAs. In summary, for both CBA and IBA solutions, states have the sovereign authority to levy any tax other than sales tax for transactions using a GSA SmartPay program solution, unless specifically exempt in state law.  
+    - id: 2
+      applies_to: both CBA and IBA
+      question: Am I still exempt from state sales tax if I choose to use a personal credit card instead of a GSA SmartPay Travel card for hotel stay?
+      answer: 
+        - para: No. State sales tax exemption is determined by method of payment, not by the federal entity that employs the cardholder. Vendors are only required to honor state sales tax exemption (when applicable by state law) to users that present valid federal government forms of payment, and many states specify GSA SmartPay payment solutions. 
+        - para: Nearly all agencies require the use of a federal government method of payment on travel. If you have any questions regarding mandatory usage of the GSA SmartPay Travel card, please reach out to your agency’s charge card program directly.
+    - id: 3
+      applies_to: both CBA and IBA
+      question: How do I know which card type is exempt from taxes?
+      answer: 
+        - para: If the sixth digit in the bank identification number (BIN) is 0, 5, 6, 7, 8, or 9, then the charge card statement is paid directly by the federal government and should not be subject to state sales tax. If the sixth digit in the BIN is 1, 2, 3, or 4, then the charge card is not paid directly by the federal government and therefore may be subject to state sales tax. Each state may have different documentation requirements for exemption.
+    - id: 4
+      applies_to: both CBA and IBA
+      question: A hotel indicates that a card doesn’t look like the card images on the GSA SmartPay website or images that the state provided. The BIN prefix however, does match. Is the card still tax exempt?
+      answer: 
+        - para: Yes. The card artwork on the GSA SmartPay website and provided to hotels and state taxation offices is the default card art for the GSA SmartPay 3 program. Some agencies requested permission from the Center for Charge Card Management to deviate from the default card artwork, or to issue “generic” card artwork.  The most reliable way to determine if a card is a GSA SmartPay charge card is to <a href="/smarttax/recognizing-your-account/">verify the prefix</a> (first four digits of the card).
+    - id: 5
+      applies_to: both CBA and IBA
+      question: Why does every state have different forms and documentation requirements for state sales tax exemption?
+      answer: 
+        - para: States have the authority to assess state sales taxes on consumers, and hotels are responsible for collecting taxes on behalf of a state’s revenue authority.  Once a hotel has determined that a cardholder qualifies for state sales tax exemption under state law, the hotel must document the evidence for sales tax exemption eligibility.
+        - para: Each state determines the level of information needed to constitute sufficient documented evidence, and that is usually collected through forms and documentation requirements. 
+        - para: Once information has been collected, the state has the right to review the evidence and determine if the exemption was appropriately applied. If the state deems that the hotel did not collect the proper documentation, the state has the authority to collect the state sales tax and penalties from the hotel. 
+    - id: 6
+      applies_to: both CBA and IBA
+      question: The hotel is asking for a form and/or information that doesn’t seem to be required. Do I need to provide it?
+      answer: 
+        - para: As stated in the previous answer, if a state determines that a hotel did not collect sufficient information in accordance with state law, the state has the authority to collect the state sales tax and penalties from the hotel. To mitigate this risk, hotels may over-document or ask for information not required by state law (e.g., tax identification numbers or tax exemption numbers). 
+        - para: Cardholders are not required to provide forms or information to hotels if the state does not require it. If the hotel is insistent, recommend the hotel contact the state taxation department directly for clarification.
+    - id: 7
+      applies_to: both CBA and IBA
+      question: Why isn’t there one form for all tax exemptions?
+      answer: 
+        - para: GSA and the broader federal government do not have the authority to dictate state sales tax exemption documentation requirements. Each state has the sovereign authority to determine individual state requirements.
+    - id: 8
+      applies_to: IBA only
+      question: I am in a state that should honor tax exemption for IBA Travel cards, but the hotel is insistent on charging taxes. What should I do?
+      answer: 
+        - para: Recommend that the hotel reaches out to the state taxation department directly for clarification. If the hotel is not willing to, there may be an opportunity to reclaim the taxes assessed directly from the state after your trip. 
+        - para: Reclamation requirements vary by state, and cardholders should contact states directly for more information about the process. As a best practice, travelers are encouraged to contact the hotel and confirm state sales tax exemption status and documentation requirements to avoid confusion.
+    - id: 9
+      applies_to: IBA only
+      question: I am in a state that should not honor tax exemption for IBA Travel cards, but the hotel has given me an exemption form to complete. Should I fill it out and get the tax exemption?
+      answer: 
+        - para: No. Due to complexity in state law as applied to federal government tax exemption, there is often confusion around tax exemption. In efforts to provide customer service to federal government employees, hotels in states that do not honor state sales tax exemption for IBA Travel may provide incorrect forms for tax exemption. Cardholders should not complete these forms and claim exemption.
+    - id: 10
+      applies_to: both CBA and IBA
+      question: A hotel exempted state sales tax, but I’m seeing all of these other taxes and fees on my bill. Are they allowed to do that?
+      answer: 
+        - para: Yes. <a href="/smarttax/legal-history/">Legal precedence</a> only supports exemption for state sales tax, unless state law also extends tax exemption to other specific types of taxes.
+    - id: 11
+      applies_to: both CBA and IBA
+      question: In addition to states, do counties and localities also exempt taxes?
+      answer: 
+        - para: Some municipalities may have separate tax exemption processes for federal government employees. As we are made aware of these, we add the information to the GSA SmartPay website.
+
+  
+- account: Purchase
+  desc: All GSA SmartPay Purchase cards and accounts are CBAs.
+  qa:
+    - id: 20
+      question: Why won’t a merchant exempt me from taxes even though I am using a Purchase card? Aren’t all CBAs exempt from taxes?
+      answer: 
+        - para: CBAs are exempt from state sales tax in all states. However, states have the authority to assess state sales taxes on consumers, and merchants are responsible for collecting taxes on behalf of a state’s revenue authority.  If a merchant determines a cardholder qualifies for state sales tax exemption under state law, merchants must document the evidence for sales tax exemption eligibility. Each individual state determines the level of information needed to constitute sufficient documented evidence and that is usually collected through forms and documentation requirements. Once information has been collected, the state has the right to review the documented evidence and determine if the exemption was appropriately applied.  If the state deems that the merchant did not collect the proper documentation, the state has the authority to collect the state sales tax and penalties from the merchant. As such, if a state determines that a merchant did not collect sufficient information in accordance with state law, the state has the authority to collect the state sales tax and penalties from the merchant. To mitigate this risk, merchants may over-document or ask for information not required by state law (e.g., tax identification numbers or tax exemption numbers).  Cardholders are not required to provide forms or information to hotels if the state does not require it. If the merchant is insistent, recommend the hotel reaches out to the state taxation department directly for clarification.
+    - id: 21
+      question: Are there states that don’t honor state sales tax exemption for Purchase cards?
+      answer: 
+        - para: No. However, there are a few states that do not directly tax the user and instead choose to tax the merchant. This is an indirect or pass-along tax, as the merchant can choose to pass along the amount of the gross receipts tax to the Purchase card user. Once the merchant passes along the tax it is no longer a state sales tax and it is allowable. Please also note that the merchant is not required to pass along the amount of the gross receipts tax to the cardholder. For more information about specific states, please <a href="smarttax/state-tax/">visit our tax map</a>
+    - id: 22
+      question: For states that directly tax the merchant, are GSA SmartPay cardholders exempt from these taxes?
+      answer: 
+        - para: Yes. There may be instances where the state will exempt the merchant from the gross receipts tax on federal government transactions, which may result in the merchant choosing to not pass the tax to the cardholder. In these states, the merchant is not required to engage in this process.
+    - id: 23
+      question: What happens if a merchant refuses to honor state sales tax exemption and won’t contact the state for clarification?
+      answer: 
+        - para: As a best practice, cardholders should clarify with merchants, prior to purchase, that the merchants will honor the state sales tax exemption. If the merchants do not, explore other options with merchants that will honor tax exemption.
+    - id: 24
+      question: The merchant refuses to honor state sales tax exemption and this is the only merchant I can use. What should I do?
+      answer: 
+        - para: Recommend that the merchant reaches out to the state taxation department directly for clarification. If the merchant is not willing to, please contact your agency’s charge card program for further information.
+    - id: 25
+      question: Can I use a Purchase card for travel-related expenses?
+      answer: 
+        - para: The Purchase card was not designed to be used for travel, especially for meals and incidental transactions. There may be agencies that allow limited use for specific types of travel-related expenses (e.g., booking room blocks).  Prior to using a Purchase card for travel-related expenses, cardholders must confirm that agency policy allows for this type of use and follow applicable policies and procedures for documentation.
+    - id: 26
+      question: I’m using a GSA SmartPay Purchase card at a hotel for a transaction that has been approved by my agency. Am I still exempt from state sales tax?
+      answer: 
+        - para: Yes. State sales tax exemption is based on payment liability and not by how an agency uses the charge card. For CBAs such as the Purchase card, the sixth digit identifier determining payment liability does not apply.
+    - id: 27
+      question: I am completing forms for the Amazon Tax Exemption Program. Do I have to complete all of these forms?
+      answer: 
+        - para: The Amazon Tax Exemption Program includes a process in which applicants must complete all tax exemption forms from each individual state. This occurs once during the application process to streamline future purchases as applicable tax exemption forms are saved and then applied for each individual transaction. Applicants should refer to agency policy to determine if participation in the Amazon Tax Exemption Program is allowable.
+    - id: 28
+      question:  I am participating in the Amazon Tax Exemption Program. Why am I still being charged taxes?
+      answer: 
+        - para: For items sold by third party vendors, please contact the sellers directly with the proper documentation or more information.
+    - id: 29
+      question: If I am purchasing an item from a merchant not located in the same state, which taxes am I responsible for and where do I submit a claim for exemption?
+      answer: 
+        - para: It depends on the state. Some merchants are required by law to charge taxes based on where the business is based, but most are required by law to charge taxes based on where the cardholder is based. Merchants are responsible for being familiar with this information.
+    - id: 30
+      question: A merchant insists that I provide a tax exemption number or tax identification number. What should I do?
+      answer: 
+        - para: If the state does not require this information, the cardholder is not required to provide it.  If a merchant is insistent or refuses to honor tax exemption, recommend that the merchant contact the state taxation department directly for clarification. If the state does require this information, please reach out to your agency’s budget or finance divisions to find out where this information may be housed within your agency/organization.
+    - id: 32
+      question: Am I exempt from taxes that are assessed by a federal authority (e.g., federal excise tax on telecommunications or fuel)?
+      answer: 
+        - para: No.
+    - id: 33
+      question: Do I have to pay tariffs or any fees, surcharges, or pass-along taxes as a result of tariffs?
+      answer: 
+        - para: Yes.
+    - id: 34
+      question: May I claim tax exemption from foreign or tribal governments?
+      answer: 
+        - para: Foreign and tribal governments are sovereign entities that have the discretionary authority to tax any person belonging to any other sovereign nation or entity. There may be treaties or agreements between the United States Government and these entities that govern taxation or exemption circumstances. In the instances that there are no treaties or agreements, cardholders are responsible for paying these taxes.
+  
+
+       
+    
+
+  
