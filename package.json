@@ -4,7 +4,7 @@
   "description": "SmartPay website",
   "scripts": {
     "start": "npm run serve",
-    "start-ci": "npm:styles && npx @11ty/eleventy --serve",
+    "start-ci": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
     "federalist": "npm run build",
     "dev": "concurrently npm:styles npm:serve",
