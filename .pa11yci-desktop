@@ -1,0 +1,12 @@
+{
+  "defaults": {
+    "concurrency": 1,
+    "standard": "WCAG2AA",
+    "runners": ["axe"],
+    "timeout": 10000,
+    "hideElements": [".usa-accordion__button"],
+    "chromeLaunchConfig": {
+        "args": ["--no-sandbox"]
+    }
+  }
+}
