@@ -18,10 +18,11 @@ Select the state or territory for state tax information. This information is bas
 </p>
 
 <form class="usa-form">
-  <label class="usa-label" for="ddlstates">Select a state: </label>
+  <label class="usa-sr-only" for="ddlstates">Select your state for exemption status, forms or certificates, and important info </label>
+  
   <div>
-    <select class="usa-select" name="ddlstates" id="ddlstates" >
-      <option value>- Select -</option>
+    <select class="usa-select" name="ddlstates" id="ddlstates" onchange="showstate()">
+      <option value>Select a state</option>
       {% for state in states %}
         <option value="{{ state.name }}">{{ state.name }}</option>
       {% endfor %}
@@ -32,7 +33,7 @@ Select the state or territory for state tax information. This information is bas
 <div id="container">
   {% for state in states %}
     <div id="{{ state.name }}" class="hidden-items">
-    <h2>{{ state.name }} tax information </h2>
+    <h2>{{ state.name }}</h2>
 
      {% if state.summary.special %}
       <div class="usa-alert usa-alert--info">
@@ -52,7 +53,8 @@ Select the state or territory for state tax information. This information is bas
     {% else %}
       <ul>
         <li>Individually billed accounts (IBA) are {% if not state.summary.iba_exempt %}not{% endif %} exempt from state sales tax.</li>
-        <li>Centrally billed accounts (CBA)) are {% if not state.summary.cba_exempt %}not{% endif %} exempt from state sales tax.</li>
+       <li>Centrally billed accounts (CBA) are {% if not state.summary.cba_exempt %}not{% endif %} exempt from state sales tax.</li>
+
       </ul>
     {% endif %}
     <p>
@@ -63,33 +65,16 @@ Select the state or territory for state tax information. This information is bas
 
     {% if state.forms %}
       <h3>Required forms</h3>
-
-      {% if state.forms.purchase %}
-        <h4><img src="{{ '/assets/img/smartpay-red-purchase-plain.svg' | url }}" style="height: 0.9em;"> Purchase card</h4>
-        <ul>
-          {% for form in state.forms.purchase.links %}
-            <li>
-              <a href="{{ form.link }}">{{ form.title }}</a>
-              {% if form.optional %}<span class="usa-tag">Optional</span>{% endif %}
-            </li>
-          {% endfor %}
-        </ul>
-        {% if state.forms.purchase.notes %}
-          <h4>Notes</h4>
-          <ul>
-            {% for note in state.forms.purchase.notes %}
-              <li>{{ note | safe }}</li>
-            {% endfor %}
-          </ul>
-        {% endif %}
-      {% endif %}
-
       {% if state.forms.travel %}
         <h4><img src="{{ '/assets/img/smartpay-blue-travel-plain.svg' | url }}" style="height: 0.9em;"> Travel card</h4>
         <ul>
           {% for form in state.forms.travel.links %}
             <li>
-              <a href="{{ form.link }}">{{ form.title }}</a>
+              {% if form.link %}
+                <a href="{{ form.link }}">{{ form.title }}</a>{{form.title_no_link}}
+              {% else %}
+                {{ form.title }}
+              {% endif %}
               {% if form.optional %}<span class="usa-tag">Optional</span>{% endif %}
             </li>
           {% endfor %}
@@ -103,13 +88,51 @@ Select the state or territory for state tax information. This information is bas
           </ul>
         {% endif %}
       {% endif %}
+
+      {% if state.forms.purchase %}
+        <h4><img src="{{ '/assets/img/smartpay-red-purchase-plain.svg' | url }}" style="height: 0.9em;"> Purchase card</h4>
+        <ul>
+          {% for form in state.forms.purchase.links %}
+            <li>
+              {% if form.link %}
+                <a href="{{ form.link }}">{{ form.title }}</a>{{form.title_no_link}}
+              {% else %}
+                {{ form.title }}
+              {% endif %}
+              {% if form.optional %}<span class="usa-tag">Optional</span>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+        {% if state.forms.purchase.notes %}
+          <h4>Notes</h4>
+          <ul>
+            {% for note in state.forms.purchase.notes %}
+              <li>{{ note | safe }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+
+        {% if state.forms.purchase.special_notes %}
+          <h4>Notes for the {{state.forms.purchase.special_notes.type }}:</h4>
+          <ul>
+            {% for note in state.forms.purchase.special_notes.notes %}
+              <li>{{ note | safe }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endif %}
+
+      
     {% endif %}
 
     {% if state.policies %}
       <h3>State laws, regulations, policies</h3>
       <ul>
         {% for form in state.policies.links %}
-          <li><a href="{{ form.link }}">{{ form.title }}</a></li>
+          <li>
+            <a href="{{ form.link }}">{{ form.title }}</a>
+            {{form.title_no_link}}
+          </li>
         {% endfor %}
       </ul>
       {% if state.policies.notes %}
