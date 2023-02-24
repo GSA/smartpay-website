@@ -1,14 +1,12 @@
 ---
 layout: layouts/smarttax
 title: Recognizing Your Account
-title_desc: Is your account centrally billed or individually billed and what does that mean?
 permalink: /smarttax/recognizing-your-account/
 sortorder: 4
 childpage: true
 hero:
   image: /assets/img/hero_smarttax.jpg
   heading: Recognizing Your Account
-  callout: Is your account centrally billed or individually billed and what does that mean?
 tags: smarttax
 ---
 <div class="margin-top-2">
@@ -16,7 +14,7 @@ tags: smarttax
   <a href="#{{account.section_id}}"><button type="button" class="usa-button margin-1">{{account.name}}</button></a>
 {% endfor %}
 </div>
-<p>The most reliable way to identify GSA SmartPay purchase and fleet charge cards is through the four digit bank identification number (BIN). In order to recognize GSA SmartPay travel, tax advantage, and integrated cards, please refer to the six-digit BIN.</p>
+<p>The most reliable way to identify GSA SmartPay® Purchase and Fleet charge cards is through the four digit bank identification number (BIN). In order to recognize GSA SmartPay Travel, Tax Advantage Travel, and Integrated cards, please refer to the six-digit BIN.</p>
 
 {% for account in accounts %}
   <h2 id="{{account.section_id}}">
@@ -81,9 +79,9 @@ tags: smarttax
   {% if account.exemption_status %}
     <h3>Tax Exemption Status</h3>
     <p>{{account.exemption_status}}</p>
-    {% if account.rental_car_exmption %}
+    {% if account.rental_car_exemption %}
       <h4>Rental Car Exemption Information</h4>
-      <p>{{account.rental_car_exmption}}</p>
+      <p>{{account.rental_car_exemption}}</p>
     {% endif %}
 
 
@@ -100,5 +98,3 @@ tags: smarttax
     <iframe width="560" height="315" src={{account.video}} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
    {% endif %}
 {% endfor %}
-
-
