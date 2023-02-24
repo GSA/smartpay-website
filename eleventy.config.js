@@ -1,7 +1,9 @@
+const { DateTime } = require('luxon')
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const embedEverythingPlugin = require("eleventy-plugin-embed-everything");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require("markdown-it-attrs");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 const yaml = require("js-yaml");
 const { parse } = require('csv-parse/sync');
 const charts = require('eleventy-charts');
@@ -40,6 +42,12 @@ module.exports = function(eleventyConfig) {
   // Make these variables available everywhere on the site
   eleventyConfig.addGlobalData("pathPrefix", pathPrefix);
 
+  // provide for sitemap
+  eleventyConfig.addPlugin(pluginRss);
+  // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+  eleventyConfig.addFilter('htmlDateString', (dateObj) => {
+    return DateTime.fromJSDate(dateObj).toFormat('yyyy-LL-dd')
+  })
   // Add a comment shortcode
   // eleventyConfig.addPairedShortcode("comment", () => {});
 

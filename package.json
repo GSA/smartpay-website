@@ -7,6 +7,10 @@
     "build": "npx @11ty/eleventy",
     "federalist": "npm run build",
     "dev": "concurrently npm:styles npm:serve",
+    "pa11y-ci": "npm run pa11y-ci:desktop && npm run pa11y-ci:mobile",
+    "pa11y-ci:desktop": "pa11y-ci --config ./.pa11yci-desktop --sitemap http://localhost:8080/sitemap.xml --sitemap-exclude \"(/admin)\"  --sitemap-find \"^/\" --sitemap-replace \"http://localhost:8080/\"",
+    "pa11y-ci:mobile": "pa11y-ci --config ./.pa11yci-mobile --sitemap http://localhost:8080/sitemap.xml --sitemap-exclude \"(/admin)\"  --sitemap-find \"^/\" --sitemap-replace \"http://localhost:8080/\"",
+    "pa11y-ci:gh": "npx start-server-and-test start 8080 pa11y-ci",
     "serve": "npx @11ty/eleventy --serve --watch",
     "styles": "gulp watch"
   },
@@ -15,15 +19,18 @@
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0-beta.1",
     "@11ty/eleventy-navigation": "^0.3.5",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@uswds/compile": "^1.0.0",
     "concurrently": "^7.6.0",
+    "csv-parse": "^5.3.3",
+    "eleventy-charts": "^1.0.3",
     "eleventy-plugin-embed-everything": "^1.15.0",
     "gulp": "^4.0.2",
     "markdown-it-anchor": "^8.6.6",
     "markdown-it-attrs": "^4.1.6",
-    "striptags": "^3.2.0",
-    "csv-parse": "^5.3.3",
-    "eleventy-charts": "^1.0.3"
+    "pa11y-ci": "^3.0.1",
+    "start-server-and-test": "^1.15.4",
+    "striptags": "^3.2.0"
   },
   "dependencies": {
     "@uswds/uswds": "^3.3.0",
