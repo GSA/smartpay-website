@@ -1,0 +1,138 @@
+---
+title: State tax information
+layout: layouts/smarttax
+permalink: /smarttax/state-tax-information/
+sortorder: 1
+tags: smarttax
+---
+<!--
+<ul>
+  {% for state in states %}
+    <li><a href="{{ ['/state-tax-information/', state.name | slug, '/'] | join | url }}">{{ state.name }}</a></li>
+  {% endfor %}
+</ul>
+-->
+
+<p>
+Select the state or territory for state tax information. This information is based on the state taxation authority. As a cardholder, you are responsible for working with the merchant to meet the requirements of the state. If the merchant has questions, they should reach out directly to the state.
+</p>
+
+<form class="usa-form">
+  <label class="usa-label" for="ddlstates">Select a state: </label>
+  <div>
+    <select class="usa-select" name="ddlstates" id="ddlstates" >
+      <option value>- Select -</option>
+      {% for state in states %}
+        <option value="{{ state.name }}">{{ state.name }}</option>
+      {% endfor %}
+    </select>
+  </div>
+</form>
+
+<div id="container">
+  {% for state in states %}
+    <div id="{{ state.name }}" class="hidden-items">
+    <h2>{{ state.name }} tax information </h2>
+
+     {% if state.summary.special %}
+      <div class="usa-alert usa-alert--info">
+        <div class="usa-alert__body">
+          <h4 class="usa-alert__heading">State forms or exceptions apply</h4>
+          <p class="usa-alert__text">
+            {{ state.name }} has special forms, regulations, or exceptions.
+          </p>
+        </div>
+      </div>
+
+      <ul>
+        {% for specialItem in state.summary.special %}
+          <li>{{ specialItem }}</li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <ul>
+        <li>Individually billed accounts (IBA) are {% if not state.summary.iba_exempt %}not{% endif %} exempt from state sales tax.</li>
+        <li>Centrally billed accounts (CBA)) are {% if not state.summary.cba_exempt %}not{% endif %} exempt from state sales tax.</li>
+      </ul>
+    {% endif %}
+    <p>
+      <em>
+        <a href="https://smartpay.gsa.gov/content/recognizing-your-account">Need help recognizing a card or telling if a card is an IBA or CBA?</a>
+      </em>
+    </p>
+
+    {% if state.forms %}
+      <h3>Required forms</h3>
+
+      {% if state.forms.purchase %}
+        <h4><img src="{{ '/assets/img/smartpay-red-purchase-plain.svg' | url }}" style="height: 0.9em;"> Purchase card</h4>
+        <ul>
+          {% for form in state.forms.purchase.links %}
+            <li>
+              <a href="{{ form.link }}">{{ form.title }}</a>
+              {% if form.optional %}<span class="usa-tag">Optional</span>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+        {% if state.forms.purchase.notes %}
+          <h4>Notes</h4>
+          <ul>
+            {% for note in state.forms.purchase.notes %}
+              <li>{{ note | safe }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endif %}
+
+      {% if state.forms.travel %}
+        <h4><img src="{{ '/assets/img/smartpay-blue-travel-plain.svg' | url }}" style="height: 0.9em;"> Travel card</h4>
+        <ul>
+          {% for form in state.forms.travel.links %}
+            <li>
+              <a href="{{ form.link }}">{{ form.title }}</a>
+              {% if form.optional %}<span class="usa-tag">Optional</span>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+        {% if state.forms.travel.notes %}
+          <h4>Notes</h4>
+          <ul>
+            {% for note in state.forms.travel.notes %}
+              <li>{{ note | safe }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+
+    {% if state.policies %}
+      <h3>State laws, regulations, policies</h3>
+      <ul>
+        {% for form in state.policies.links %}
+          <li><a href="{{ form.link }}">{{ form.title }}</a></li>
+        {% endfor %}
+      </ul>
+      {% if state.policies.notes %}
+        <h4>Notes</h4>
+        <ul>
+          {% for note in state.policies.notes %}
+            <li>{{ note }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endif %}
+
+    {% if state.contact %}
+      <h3>State point of contact</h3>
+      <p><a href="{{ state.contact.link }}">{{ state.contact.name }}</a></p>
+      <p>{{ state.contact.phone }}</p>
+    {% endif %}
+
+    
+    </div>
+  {% endfor %}
+</div>
+
+
+
+<script src="{{ '/assets/js/state-tax-info.js' | url }}"></script>
