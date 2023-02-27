@@ -301,8 +301,8 @@
     iba_exempt:
     cba_exempt:
     special:
-      - The state does not have a sales tax, instead it assesses a General Excise Tax (GET) on merchants.
-      - Individually billed accounts (IBA) are not exempt from GET.
+      - The state does not have a sales tax, instead it assesses a General Excise Tax (GET) and a Transient Accommodation Tax (TAT) on merchants.
+      - Individually billed accounts (IBA) are not exempt from GET or TAT.
       - Centrally billed accounts (CBA) may be exempt from GET.
     
   forms:
@@ -321,6 +321,8 @@
     links:
       - title:  Tax Facts 37-1 General Excise Tax
         link: https://tax.hawaii.gov/legal/a2_b2_1taxfacts/
+      - title:  An Introduction to the Transient Accommodations Tax
+        link: https://files.hawaii.gov/tax/legal/brochures/TAT_brochure.pdf
   contact:
     name: Hawaii Department of Taxation
     link: https://tax.hawaii.gov/legal/a2_b2_1taxfacts/
