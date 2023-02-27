@@ -5,7 +5,7 @@ permalink: /state-tax-information/
 ---
 
 <ul>
-  {% for state in states %}
-    <li><a href="{{ ['/state-tax-information/', state.name | slug, '/'] | join | url }}">{{ state.name }}</a></li>
+  {% for state in collections['state-tax-information'] | sort(false, false, "data.name") %}
+    <li><a href="{{ state.data.permalink | url }}">{{ state.data.name }}</a></li>
   {% endfor %}
 </ul>
