@@ -1,3 +1,5 @@
+# TEMPLATE:
+#
 # - name:
 #   updated_on:
 #   summary:
@@ -66,6 +68,94 @@
     link: https://dor.alaska.gov/
     phone: 907-269-6620
 
+- name: Arizona
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt:
+    iba_exempt:
+    special:
+      - Individually billed accounts (IBA) are not exempt from state use tax.
+      - IBAs are not exempt from transaction privilege tax.
+      - Centrally billed accounts (CBA) are exempt from state use tax.
+      - CBAs may not be exempt from transaction privilege tax.
+  forms:
+    purchase:
+      links:
+        - title: Transaction Privilege Tax Exemption Certificate
+          link: https://azdor.gov/forms/tpt-forms/tpt-exemption-certificate-general
+      notes:
+        - In addition to a state use tax assessed to the cardholder, the State of Arizona can also assess a transaction privilege tax on the merchant.
+        - All merchants doing business in the State of Arizona are subject to the transaction privilege tax.
+        - Merchants doing business with the federal government, where a CBA is used in the transaction, can request an exemption from the transaction privilege tax.
+        - The merchant is not required to process the exemption form.
+        - Should the merchant choose not to request an exemption, the state allows the transaction privilege tax to be passed along from the merchant to the cardholder.
+        - This is allowable, as the transaction privilege tax is not a state sales tax.
+  policies:
+    links:
+      - title: Transaction Privilege Tax Exemptions
+        link: https://azdor.gov/transaction-privilege-tax/tpt-exemptions
+  contact:
+    name: Arizona Department of Revenue
+    link: https://azdor.gov/
+    phone: 602-255-3381
+
+- name: Arkansas
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  policies:
+    links:
+      - title: Agency 006.05 Arkansas Rules - See GR-47. Exemptions from Tax – Sales to the United States Government and GR-47.1 Exemptions from Tax – Federal Credit Card Purchases (p. 87)
+        link: https://www.dfa.arkansas.gov/images/uploads/revenuePolicyLegalOffice/et2008_3.pdf
+  contact:
+    name: Arkansas Department of Finance and Administration
+    link: https://www.dfa.arkansas.gov/
+    phone: 501-682-7104
+
+- name: California
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  policies:
+    links:
+      - title: Publication 102, Sales to the United States Government
+        link: https://www.cdtfa.ca.gov/formspubs/pub102/#bankcards
+  contact:
+    name: California Department of Tax and Fee Administration
+    link: https://www.cdtfa.ca.gov/taxes-and-fees/sutprograms.htm
+    phone: 800-400-7115
+
+- name: Colorado
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    purchase:
+      links:
+        - title: DR 1367 Affidavit Of Sales Paid By Government Credit Card
+          link: https://tax.colorado.gov/sales-use-tax-forms
+        - title: DR 5002 Standard Colorado Affidavit of Exempt Sale
+          link: https://tax.colorado.gov/sales-use-tax-forms
+    travel:
+      links:
+        - title: DR 1367 Affidavit Of Sales Paid By Government Credit Card
+          link: https://tax.colorado.gov/sales-use-tax-forms
+        - title: DR 5002 Standard Colorado Affidavit of Exempt Sale
+          link: https://tax.colorado.gov/sales-use-tax-forms
+  policies:
+    links:
+      - title: Tax Exemption Qualifications
+        link: https://tax.colorado.gov/tax-exemption-qualifications
+      - title: FYI Sales 63 Government Purchases Exemptions
+        link: https://tax.colorado.gov/sites/tax/files/Sales63.pdf
+  contact:
+    name: Colorado Department of Revenue
+    link: https://cdor.colorado.gov
+    phone: 303-238-7378
+
 - name: Connecticut
   updated_on: 2023-02-15
   summary:
@@ -83,6 +173,38 @@
     name: Connecticut Department of Revenue
     link: https://portal.ct.gov/
     phone: 860-297-5962
+
+- name: Delaware
+  updated_on: 2023-02-15
+  summary:
+    special:
+      - The state does not have a sales tax, instead it imposes an occupancy tax for hotel stay.
+      - The federal government is exempt from occupancy tax.
+  forms:
+    travel:
+      links:
+        - title: "Form 6100: Exemption Certificate from Tax on Occupancy of Hotel, Motel and Tourist Home Rooms"
+          link: https://revenuefiles.delaware.gov/docs/6100.pdf
+  contact:
+    name: Delaware Division of Revenue
+    link: https://revenue.delaware.gov
+    phone: 302-577-8205
+
+- name: District of Columbia
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  policies:
+    links:
+      - title: OTR'S Position for Sales Tax Concerning Hotels
+        link: https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/tax_guide_hotels.pdf
+      - title: OTR Notice 2019-08 District of Columbia Sales Tax Exemption Payment Policy for Federal Government and District of Columbia Agencies
+        link: https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/GSA_Notice.pdf
+  contact:
+    name: DC Office of Tax and Revenue
+    link: https://otr.cfo.dc.gov/
+    phone: 202-727-4829
 
 - name: Florida
   updated_on: 2023-02-15
@@ -106,3 +228,956 @@
     name: Florida Department of Revenue
     link: https://floridarevenue.com/
     phone: 850-488-6800
+
+- name: Georgia
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    travel:
+      links:
+        - title: State of Georgia Certificate of Exemption of Local Hotel/Motel Excise Tax
+          link: https://sao.georgia.gov/search?search=sog%20hotel%20tax%20exempt&sm_site_name=sao
+      notes:
+        - A $5.00 hotel-motel fee is imposed for each calendar night a hotel or motel room is rented in Georgia.  This fee does not apply to hotel rooms rented by the federal government when a centrally billed card is the form of payment.
+  policies:
+    links:
+      - title: Rule 560-13-2-.01 State Hotel-Motel Fee
+        link: https://rules.sos.ga.gov/gac/560-13-2
+  contact:
+    name: Georgia Department of Revenue
+    link: https://dor.georgia.gov/
+    phone: 404-417-6649
+
+- name: Guam
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  contact:
+    name: Guam Department of Revenue and Taxation
+    link: https://www.guamtax.com/
+    phone: 671-635-1835
+
+- name: Hawaii
+  updated_on: 2023-02-15
+  summary:
+    special:
+      - The state does not have a sales tax, instead it assesses a General Excise Tax (GET) on merchants.
+      - Individually billed accounts (IBA) are not exempt from GET.
+      - Centrally billed accounts (CBA) may be exempt from GET.
+  forms:
+    purchase:
+      notes:
+        - The State of Hawaii does not assess state sales tax on consumers.  Instead, the state assesses GET on businesses for the sale of goods.
+        - Businesses have the ability to pass along the GET to cardholders.
+        - If a business sells goods to the federal government, the sale is exempt and the business may claim a deduction.
+        - Should the vendor not claim a deduction, the assessment of GET is allowable as it is not a state sales tax.
+  policies:
+    links:
+      - title: Tax Facts 37-1 General Excise Tax
+        link: https://tax.hawaii.gov/legal/a2_b2_1taxfacts/
+  contact:
+    name: Hawaii Department of Taxation
+    link: https://tax.hawaii.gov/
+    phone: 808-587-1577
+
+- name: Idaho
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    purchase:
+      links:
+        - title: Form ST-101 Sales Tax Resale or Exemption Certificate
+          link: https://tax.idaho.gov/taxes/sales-use/sales-tax/retailers/general/resale/
+    travel:
+      links:
+        - title: Form ST-104HM Tax Exemption on Lodging Accommodations
+          link: https://tax.idaho.gov/taxes/sales-use/forms/
+  contact:
+    name: Idaho State Tax Commission
+    link: https://tax.idaho.gov/
+    phone: 800-972-7660
+
+- name: Illinois
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+    special: []
+  forms:
+    purchase:
+      links:
+        - title: Form CRT 61 Certificate of Resale
+          link: https://tax.illinois.gov/forms/sales/salesandusetax.html
+          optional:
+      notes:
+        - 'The state requires an e-number for tax exemption. To receive an e-number, please apply using <a href="https://tax.illinois.gov/forms/reg/stax-1.html">the STAX-1 application</a>.'
+  policies:
+    links:
+      - title: Sales and Use Tax Exemptions
+        link: https://tax.illinois.gov/research/taxinformation/sales/rot.html
+      - title: PIO-37 Information for exclusively charitable, religious, or educational organizations; governmental bodies; and certain other tax-exempt organizations
+        link: https://tax.illinois.gov/research/publications/pio-37.html
+  contact:
+    name: Illinois Department of Revenue
+    link: https://www2.illinois.gov/rev/Pages/default.aspx
+    phone: 800-732-8866
+
+- name: Indiana
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    purchase:
+      links:
+        - title: General Sales Tax Exemption Certificate
+          link: https://www.in.gov/dor/tax-forms/sales-tax-forms/
+  contact:
+    name: Indiana Department of Revenue
+    link: https://www.in.gov/dor/
+    phone: 317-232-2240
+
+- name: Iowa
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    purchase:
+      links:
+        - title: Iowa Sales/Use/Excise Tax Exemption Certificate 31-014
+          link: https://tax.iowa.gov/forms/iowa-salesuseexcise-tax-exemption-certificate-31-014
+  contact:
+    name: Iowa Department of Revenue
+    link: https://tax.iowa.gov/
+    phone: 515-281-3114
+
+- name: Kansas
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: true
+  forms:
+    purchase:
+      links:
+        - title: Form ST-28G U.S. Government, Federal Agency or Instrumentality Exemption Certificate
+          link: https://www.ksrevenue.gov/pdf/st28g.pdf
+    travel:
+      links:
+        - title: Form ST-28H Sales and/or Transient Guest Tax Exemption Certificate for Lodging
+          link: https://www.ksrevenue.gov/pdf/st28h.pdf
+  policies:
+    links:
+      - title: Tax Entity Exemption Certificates
+        link: https://www.ksrevenue.gov/prpecentitylearnmore.html
+  contact:
+    name: Kansas Department of Revenue
+    link: https://www.ksrevenue.gov/
+    phone: 785-368-8222
+
+- name: Kentucky
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    purchase:
+      links:
+        - title: Purchase Exemption Certificate - Form 51A126 (12-09) Purchase Exemption Certificate
+          link: https://revenue.ky.gov/Business/Sales-Use-Tax/Pages/default.aspx
+      notes: []
+  policies:
+    links:
+      - title: 103 KAR 30:235. Sales to the Federal Government
+        link: https://apps.legislature.ky.gov/law/kar/titles/103/030/235/
+  contact:
+    name: Kentucky Department of Revenue
+    link: https://revenue.ky.gov/
+    phone: 502-564-4581​
+
+- name: Louisiana
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: true
+  forms:
+    purchase:
+      links:
+        - title: Form R-1304 Sales Tax Exemption for Certain Purchases and Leases for the Federal Government or the U.S. Department of Navy
+          link: https://revenue.louisiana.gov/Forms/ForBusinesses
+        - title: Form R-1356-L Sales Tax Exemption for Purchases by the Federal Government
+          link: https://revenue.louisiana.gov/Forms/ForBusinesses
+    travel:
+      links:
+        - title: R-1376 Government Employees Hotel Lodging Sales/Use Tax Exemption Certificate
+          link: https://revenue.louisiana.gov/Forms/ForBusinesses
+  policies:
+    links:
+      - title: Revenue Ruling No. 07-008 Sales Tax Federal Credit Card Purchases
+        link: https://revenue.louisiana.gov/LawsPolicies/RR07008.pdf
+      - title: Revenue Information Bulletin No. 10-012 Sales Tax
+        link: https://www.revenue.louisiana.gov/LawsPolicies/RIB10012.pdf
+    notes:
+      - In addition to applicable forms, federal government employees may be required to present an active GSA SmartPay charge card, valid government identification, and either valid travel orders on agency letterhead or one of the completed forms above.
+  contact:
+    name: Louisiana Department of Revenue
+    link: https://revenue.louisiana.gov/
+    phone: 225-219-7462
+
+- name: Maine
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  policies:
+    links:
+      - title: Maine Revenue Services Sales, Fuel & Special Tax Division Instructional Bulletin 36
+        link: https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/Bull3620160404.pdf
+  contact:
+    name: Maine Department of Revenue
+    link: https://www.maine.gov/portal/index.html
+    phone: 207-624-9693
+
+- name: Maryland
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  policies:
+    links:
+      - title: Business tax tip #6 Retail Sales Involving Exemption Certificates
+        link: https://www.marylandtaxes.gov/forms/Business_Tax_Tips/bustip6.pdf
+      - title: Tax Exemptions - Section for Tax Exempt Sales to Government Employees
+        link: https://www.marylandtaxes.gov/business/sales-use/tax-exemptions/
+  contact:
+    name: Comptroller of Maryland
+    link: https://www.marylandtaxes.gov/
+    phone: 800-638-2937
+
+- name: Massachusetts
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    travel:
+      notes:
+        - "To claim exemption as a federal employee you must provide the hotel with the following:"
+        - A government identification.
+        - Proof on agency letterhead or electronically by authorized personnel indicating that the employee is traveling at the direction of the federal government during the period of occupancy, including the reason, dates, and location for travel.
+  policies:
+    links:
+      - title: "Directive 18-1: Taxation of Purchases and Room Rentals by Government Employees"
+        link: https://www.mass.gov/directive/directive-18-1-taxation-of-purchases-and-room-rentals-by-government-employees
+      - title: "TIR 01-21: Room Occupancy Excise Exemption for Employees of the United States"
+        link: https://www.mass.gov/technical-information-release/tir-01-21-room-occupancy-excise-exemption-for-employees-of-the-united-states
+  contact:
+    name: Massachusetts Department of Revenue
+    link: https://www.mass.gov/orgs/massachusetts-department-of-revenue
+    phone: 617-887-6367
+
+- name: Michigan
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    purchase:
+      links:
+        - title: Form 3372 Michigan Sales and Use Tax Certificate of Exemption
+          link: https://www.michigan.gov/taxes/business-taxes/sales-use-tax/2023-sales-and-use-tax-forms
+  contact:
+    name: Michigan Department of Treasury
+    link: https://www.michigan.gov/treasury/
+    phone: 517-636-4357
+
+- name: Minnesota
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    purchase:
+      links:
+        - title: Form ST3, Certificate of Exemption
+          link: https://www.revenue.state.mn.us/form-search?search_text=&field_document_type=All&field_audience=All&field_tax_type=176&field_tax_year=All
+  policies:
+    links:
+      - title: Sales Tax Fact Sheet 142
+        link: https://www.revenue.state.mn.us/sites/default/files/2021-03/FS142.pdf
+  contact:
+    name: Minnesota Department of Revenue
+    link: https://www.revenue.state.mn.us/
+    phone: 800-657-3777 or 651-296-6181
+
+- name: Mississippi
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  policies:
+    links:
+      - title: Sales Tax Exemptions
+        link: https://www.dor.ms.gov/business/sales-tax-exemptions
+      - title: 'Sales Tax Frequently Asked Questions - Question for “Are sales to federal, state, county, and city governments exempt from sales tax?”'
+        link: https://www.dor.ms.gov/business/sales-tax-frequently-asked-questions#:~:text=Does%20Mississippi%20impose%20a%20sales,are%20exemptions%20provided%20by%20law.
+  contact:
+    name: Mississippi Department of Revenue
+    link: https://www.dor.ms.gov/
+    phone: 601-923-7700
+
+- name: Missouri
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  policies:
+    links:
+      - title: 'Sales Tax Taxability and Exemptions - Question “Are federal employees required to have an exemption letter in the name of the agency they are representing?”'
+        link: https://dor.mo.gov/faq/taxation/business/sales-use-tax-exemptions.html#:~:text=No.,to%20obtain%20an%20exemption%20letter.
+  contact:
+    name: Missouri Department of Revenue
+    link: https://dor.mo.gov/
+    phone: 573-751-2836
+
+- name: Montana
+  updated_on: 2023-02-15
+  summary:
+    special:
+      - The state does not have a sales tax, instead it assesses a lodging sales tax for hotel stay.
+      - Centrally billed accounts (CBA) are exempt from the lodging sales tax.
+  policies:
+    links:
+      - title: 42.14.303 Exempt Accommodations and Accommodation Sales
+        link: https://rules.mt.gov/gateway/ruleno.asp?RN=42.14.303
+      - title: Accommodations Taxes
+        link: https://leg.mt.gov/content/Publications/fiscal/leg_reference/Brochures/Accommodations-Taxes-2020_Final.pdf
+  contact:
+    name: Montana Department of Revenue
+    link: https://mtrevenue.gov/
+    phone: 866-859-2254 or 406-444-5828
+
+- name: Nebraska
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    purchase:
+      links:
+        - title: Form 13 Nebraska Resale or Exempt Sale Certificate for Sales Tax Exemption
+          link: https://revenue.nebraska.gov/about/forms/sales-and-use-tax-forms
+        - title: Streamlined Sales Tax Certificate of Exemption
+          link: https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/streamline/Exemption_Certificate_12-21-2021.pdf
+  policies:
+    links:
+      - title: Nebraska Sales Tax Guide for Charge Card Purchases by United States (Federal) Government Employees
+        link: https://revenue.nebraska.gov/files/doc/info/6-494.pdf
+  contact:
+    name: Nebraska Department of Revenue
+    link: https://revenue.nebraska.gov/
+    phone: 402-471-5729 or 800-742-7474
+
+- name: Nevada
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  contact:
+    name: Nevada Department of Revenue
+    link: https://tax.nv.gov/
+    phone: 866-962-3707
+
+- name: New Hampshire
+  updated_on: 2023-02-15
+  summary:
+    special:
+      - The state does not have a sales tax, but assesses a meals and rental tax for hotel stay.
+      - Individually billed accounts (IBA) are not exempt from the meals and rental tax.
+  policies:
+    links:
+      - title: Frequently Asked Questions - Meals and Rooms (Rentals) Tax - Refer to the question, “Are non-profit organizations exempt from the Meals and Rooms (Rentals) Tax?”
+        link: https://www.revenue.nh.gov/faq/meals-rooms.htm
+  contact:
+    name: New Hampshire Department of Revenue
+    link: https://www.revenue.nh.gov/
+    phone: 603-230-5000
+
+- name: New Jersey
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    purchase:
+      links:
+        - title: Form ST-4 Exempt Use Certificate
+          link: https://www.state.nj.us/treasury/taxation/pdf/other_forms/sales/st4.pdf
+          optional: true
+      notes:
+        - "No forms are required. However, cardholders must provide vendors with one of the following:"
+        - A purchase order, if there is an existing contract.
+        - Signed document on agency letterhead authorizing the official government purchase.
+        - For cash purchases under $150, the submission of Form ST-4, above.
+  policies:
+    links:
+      - title: Tax Topic Bulletin S&U-6 - See page 18, “Exempt Use Certificate”
+        link: https://www.state.nj.us/treasury/taxation/pdf/pubs/sales/su6.pdf
+  contact:
+    name: New Jersey Department of Treasury
+    link: https://www.state.nj.us/treasury/
+    phone: 609-826-4400 or 800-323-4400
+
+- name: New Mexico
+  updated_on: 2023-02-15
+  summary:
+    special:
+      - The state does not have a sales tax, instead it assesses a gross receipts tax on merchants.
+      - Individually billed accounts (IBA) are not exempt from the gross receipts tax.
+      - Centrally billed accounts (CBA) may be exempt from the gross receipts tax.
+  forms:
+    purchase:
+      notes:
+        - No forms are required, however the federal government is only exempt from specific types of transactions in New Mexico. CBAs are not subject to gross receipts taxes on tangible property but are eligible for intangible property (e.g., lodging).  Cardholders should be able to present the CBA card, which must indicate “United States of America," however merchants can request a Type 9 nontaxable transaction certificate.
+  policies:
+    links:
+      - title: Gross Receipts Tax
+        link: https://www.tax.newmexico.gov/all-nm-taxes/2020/12/20/what-is-new-mexicos-sales-tax-rate/
+      - title: New Mexico FYI-240 Transactions with Government Agencies
+        link: https://www.tax.newmexico.gov/governments/governmental-gross-receipts-tax/
+      - title: New Mexico FYI-204 Nontaxable Transaction Certificates (NTTCs)
+        link: https://www.tax.newmexico.gov/businesses/non-taxable-transaction-certificates-nttc/
+      - title: Gross Receipts and Compensating Tax Act Regulations - See section 3.2.212.19 "PROOF OF PAYMENT" for more information about forms/documentation requirements
+        link: https://www.tax.newmexico.gov/businesses/wp-content/uploads/sites/7/2020/11/FYI-230__Compensating-Tax_5-18.pdf
+  contact:
+    name: New Mexico Taxation and Revenue Department
+    link: https://www.tax.newmexico.gov/
+    phone: 866-285-2996
+
+- name: New York
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: true
+  forms:
+    travel:
+      links:
+        - title: Form ST-129 New York State and Local Sales and Use Tax Exemption Certificate - Tax on occupancy of hotel or motel rooms
+          link: https://www.tax.ny.gov/forms/sales_tax_exemption_documents.htm
+          optional:
+      notes:
+        - Form ST-129 cannot be used to claim exemption from locally imposed hotel occupancy taxes (e.g., local bed tax). When presenting the certificate, provide government identification.
+  policies:
+    links:
+      - title: Publication 848:(2/15):A Guide to Sales Tax for Hotel and Motel Operators - Section “The United States of America and any of its agencies or instrumentalities”
+        link: https://www.tax.ny.gov/pdf/publications/sales/pub848.pdf
+      - title: Tax Bulletin ST-700 (TB-ST-700) Purchases and Sales by Governmental Entities
+        link: https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/purchases_and_sales_by_governmental_entities.htm
+  contact:
+    name: New York Department of Taxation and Finance
+    link: https://www.tax.ny.gov/
+    phone: 518-485-2889
+
+- name: North Carolina
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    purchase:
+      links:
+        - title: Form E-595E 4-2022, Streamlined Sales and Use Tax Agreement Certificate of Exemption
+          link: https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-forms-and-certificates/exemption-certificates/form-e-595e-streamlined-sales-and-use-tax-certificate-exemption
+      notes: []
+  policies:
+    links:
+      - title: Sales and Use Tax, Sale and Purchase Exemptions, United States Government
+        link: https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sale-and-purchase-exemptions/united-states-government#:~:text=Sales%20by%20and%20sales%20directly,to%20sales%20or%20use%20tax.
+      - title: Sales and Use Tax Bulletins - 36-1 Sales by and Sales to the United States Government, or any Qualifying Agencies or Instrumentalities Thereof
+        link: https://www.ncdor.gov/media/13881/open
+    notes: []
+  contact:
+    name: North Carolina Department of Revenue
+    link: https://www.ncdor.gov/
+    phone: 877-252-3052
+
+- name: North Dakota
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    purchase:
+      links:
+        - title: SFN 21919 (6-2021) Application for Sales Tax Exemption Certificate
+          link: https://www.tax.nd.gov/sites/www/files/documents/forms/application-for-sales-tax-exemption-certificate.pdf
+    travel:
+      links:
+        - title: SFN 21937 (11-2011) Exemption Certificate For Government And Qualifying School Lodging Accommodations
+          link: https://www.tax.nd.gov/sites/www/files/documents/forms/exemption-certificate-for-govt-and-qualifying-school-lodging-accommodations.pdf
+  policies:
+    links:
+      - title: "Guideline - Sales Tax: Exempt Organizations"
+        link: https://www.tax.nd.gov/sites/www/files/documents/guidelines/business/sales-use/guideline-exempt-organizations.pdf
+  contact:
+    name: North Dakota Office of the State Tax Commissioner
+    link: https://www.tax.nd.gov/
+    phone: 701-328-1246
+
+- name: Northern Marinara Islands
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  contact:
+    name: Division of Revenue and Taxation
+    link: https://finance.gov.mp/revenue-taxation.php
+    phone: 670-664-1040
+
+- name: Ohio
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  forms:
+    purchase:
+      links:
+        - title: Sales and Use Tax Blanket Exemption Certificate
+          link: https://tax.ohio.gov/static/forms/fill-in/sales_and_use/exemption_certificates/st_stec_b_fi.pdf
+          optional: true
+      notes:
+        - This form can help confirm the transaction is not subject to sales tax in a time where the vendor may be unsure of the validity of the transaction.
+  contact:
+    name: Ohio Department of Taxation Business
+    link: https://tax.ohio.gov/
+    phone: 888-405-4039
+
+- name: Oklahoma
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: false
+  policies:
+    links:
+      - title: Oklahoma Sales Tax Exemption Packet - See p. 19, Item 61
+        link: https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/general/Packet-E.pdf
+      - title: Chapter 65 Sales and Use Tax - See p. 12, 710:65-7-15. Vendors' responsibility - sales to entities with other specific statutory exemptions
+        link: https://oklahoma.gov/content/dam/ok/en/tax/documents/resources/rules-and-policies/agency-rules/proposed-rules/710-Chapter-65.pdf
+  contact:
+    name: Oklahoma Tax Commission
+    link: https://oklahoma.gov/tax.html
+    phone: 405-521-3160
+
+- name: Oregon
+  updated_on: 2023-02-15
+  summary:
+    special:
+      - The state does not have a sales tax, instead it assesses a transient lodging tax for hotel stay.
+      - Individually billed accounts (IBA) are exempt from transient lodging tax.
+  forms:
+    travel:
+      notes:
+        - Proof of federal employment may be required.
+  policies:
+    links:
+      - title: Transient Lodging Tax - Exemptions
+        link: https://www.oregon.gov/DOR/programs/businesses/Pages/lodging.aspx
+  contact:
+    name: Oregon Department of Revenue
+    link: https://www.oregon.gov/dor/Pages/index.aspx
+    phone: 503-378-4988 or 800-356-4222
+
+- name: Pennsylvania
+  updated_on: 2023-02-15
+  summary:
+    special:
+      - Individually billed accounts (IBA) are exempt from hotel occupancy tax.
+      - Centrally billed accounts (CBA) are exempt from state sales tax.
+  forms:
+    purchase:
+      links:
+        - title: Form REV-1220 (TR) 03-22 Exemption Certificate
+          link: https://revenue-pa.custhelp.com/app/answers/detail/a_id/424/~/when-should-i-use-a-rev-1220-pa-exemption-certificate%3F
+    travel:
+      links:
+        - title: Form REV-1220 (TR) 03-22 Exemption Certificate
+          link: https://revenue-pa.custhelp.com/app/answers/detail/a_id/424/~/when-should-i-use-a-rev-1220-pa-exemption-certificate%3F
+  contact:
+    name: Pennsylvania Department of Revenue
+    link: https://www.revenue.pa.gov/Pages/default.aspx
+    phone: 717-787-1064
+
+- name: Puerto Rico
+  updated_on: 2023-02-15
+  summary:
+    cba_exempt: true
+    iba_exempt: true
+  forms:
+    purchase:
+      links:
+        - title: Puerto Rico Department of Treasury Form AS2916.1 (English Version)
+          link: http://www.hacienda.pr.gov/sites/default/files/documentos/as_2916_1_2015.pdf
+        - title: Puerto Rico Department of Treasury Form SC2916 (Spanish Version)
+          link: http://www.hacienda.gobierno.pr/sites/default/files/documentos/sc_2916_2015_1.pdf
+    travel:
+      links:
+        - title: Request for Room Tax Exemption
+          link: https://roomtax.prtourism.com/exemption_reqs.php?lan
+      notes:
+        - Travelers are required to complete the online Request for Room Tax Exemption through Puerto Rico's Tourism Bureau. Once the form is approved, the traveler will be provided a tax exemption letter that must be provided to the hotel.
+  contact:
+    name: Puerto Rico Department of Treasury
+    phone: 787-721-2020
+
+# - name: South Carolina
+#   updated_on:
+#   summary:
+#     cba_exempt:
+#     iba_exempt:
+#     special: []
+#   forms:
+#     purchase:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#     travel:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#   policies:
+#     links:
+#       - title:
+#         link:
+#     notes: []
+#   contact:
+#     name:
+#     link:
+#     phone:
+
+# - name: South Dakota
+#   updated_on:
+#   summary:
+#     cba_exempt:
+#     iba_exempt:
+#     special: []
+#   forms:
+#     purchase:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#     travel:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#   policies:
+#     links:
+#       - title:
+#         link:
+#     notes: []
+#   contact:
+#     name:
+#     link:
+#     phone:
+
+# - name: Tennessee
+#   updated_on:
+#   summary:
+#     cba_exempt:
+#     iba_exempt:
+#     special: []
+#   forms:
+#     purchase:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#     travel:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#   policies:
+#     links:
+#       - title:
+#         link:
+#     notes: []
+#   contact:
+#     name:
+#     link:
+#     phone:
+
+# - name: Texas
+#   updated_on:
+#   summary:
+#     cba_exempt:
+#     iba_exempt:
+#     special: []
+#   forms:
+#     purchase:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#     travel:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#   policies:
+#     links:
+#       - title:
+#         link:
+#     notes: []
+#   contact:
+#     name:
+#     link:
+#     phone:
+
+# - name: Utah
+#   updated_on:
+#   summary:
+#     cba_exempt:
+#     iba_exempt:
+#     special: []
+#   forms:
+#     purchase:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#     travel:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#   policies:
+#     links:
+#       - title:
+#         link:
+#     notes: []
+#   contact:
+#     name:
+#     link:
+#     phone:
+
+# - name: Vermont
+#   updated_on:
+#   summary:
+#     cba_exempt:
+#     iba_exempt:
+#     special: []
+#   forms:
+#     purchase:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#     travel:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#   policies:
+#     links:
+#       - title:
+#         link:
+#     notes: []
+#   contact:
+#     name:
+#     link:
+#     phone:
+
+# - name: Virgin Islands
+#   updated_on:
+#   summary:
+#     cba_exempt:
+#     iba_exempt:
+#     special: []
+#   forms:
+#     purchase:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#     travel:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#   policies:
+#     links:
+#       - title:
+#         link:
+#     notes: []
+#   contact:
+#     name:
+#     link:
+#     phone:
+
+# - name: Virginia
+#   updated_on:
+#   summary:
+#     cba_exempt:
+#     iba_exempt:
+#     special: []
+#   forms:
+#     purchase:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#     travel:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#   policies:
+#     links:
+#       - title:
+#         link:
+#     notes: []
+#   contact:
+#     name:
+#     link:
+#     phone:
+
+# - name: Washington
+#   updated_on:
+#   summary:
+#     cba_exempt:
+#     iba_exempt:
+#     special: []
+#   forms:
+#     purchase:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#     travel:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#   policies:
+#     links:
+#       - title:
+#         link:
+#     notes: []
+#   contact:
+#     name:
+#     link:
+#     phone:
+
+# - name: West Virginia
+#   updated_on:
+#   summary:
+#     cba_exempt:
+#     iba_exempt:
+#     special: []
+#   forms:
+#     purchase:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#     travel:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#   policies:
+#     links:
+#       - title:
+#         link:
+#     notes: []
+#   contact:
+#     name:
+#     link:
+#     phone:
+
+# - name: Wisconsin
+#   updated_on:
+#   summary:
+#     cba_exempt:
+#     iba_exempt:
+#     special: []
+#   forms:
+#     purchase:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#     travel:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#   policies:
+#     links:
+#       - title:
+#         link:
+#     notes: []
+#   contact:
+#     name:
+#     link:
+#     phone:
+
+# - name: Wyoming
+#   updated_on:
+#   summary:
+#     cba_exempt:
+#     iba_exempt:
+#     special: []
+#   forms:
+#     purchase:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#     travel:
+#       links:
+#         - title:
+#           link:
+#           optional:
+#       notes: []
+#   policies:
+#     links:
+#       - title:
+#         link:
+#     notes: []
+#   contact:
+#     name:
+#     link:
+#     phone:
