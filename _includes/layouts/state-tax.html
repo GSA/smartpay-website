@@ -1,0 +1,42 @@
+---
+layout: layouts/page
+date: Last Modified
+eleventyComputed:
+  title: "{{ state }} tax information"
+  permalink: "/state-tax-information/{{ state | slug }}/"
+---
+
+{% if exceptionsApply %}
+  <div class="usa-alert usa-alert--info">
+    <div class="usa-alert__body">
+      <h4 class="usa-alert__heading">State forms or exceptions apply</h4>
+      <p class="usa-alert__text">
+        {{ state }} has special forms, regulations, or exceptions.
+      </p>
+    </div>
+  </div>
+{% endif %}
+
+<ul>
+  {% for summaryItem in summary %}
+    <li>{{ summaryItem }}</li>
+  {% endfor %}
+</ul>
+
+<div>
+  <small><i><a href="https://smartpay.gsa.gov/content/recognizing-your-account">Need help recognizing a card or telling if a card is an IBA or CBA?</a></i></small>
+</div>
+
+{{ content }}
+
+<h2>State point of contact</h2>
+<div>
+  <a href="{{ contact.link }}">{{ contact.name }}</a>
+</div>
+<div>
+  {{ contact.phone }}
+</div>
+
+<div class="margin-top-4">
+  <small>Updated {{ page.date | formatDateMedium }}</small>
+</div>
