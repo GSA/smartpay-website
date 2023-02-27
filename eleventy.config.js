@@ -7,7 +7,6 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const yaml = require("js-yaml");
 const { parse } = require('csv-parse/sync');
 const charts = require('eleventy-charts');
-const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
   const pathPrefix = process.env.BASEURL || "/";
@@ -45,10 +44,12 @@ module.exports = function(eleventyConfig) {
 
   // provide for sitemap
   eleventyConfig.addPlugin(pluginRss);
+
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return DateTime.fromJSDate(dateObj).toFormat('yyyy-LL-dd')
-  })
+    return DateTime.fromJSDate(dateObj).toFormat('yyyy-LL-dd');
+  });
+
   // Add a comment shortcode
   // eleventyConfig.addPairedShortcode("comment", () => {});
 
