@@ -1,10 +1,10 @@
 ---
-layout: layouts/page
+layout: layouts/smarttax
 date: Last Modified
 tags: state-tax-information
 eleventyComputed:
   title: "{{ name }} tax information"
-  permalink: "/state-tax-information/{{ name | slug }}/"
+  permalink: "/smarttax/state-tax-information/{{ name | slug }}/"
 ---
 
 {% if exceptionsApply %}
@@ -28,7 +28,7 @@ eleventyComputed:
   <small><i><a href="https://smartpay.gsa.gov/content/recognizing-your-account">Need help recognizing a card or telling if a card is an IBA or CBA?</a></i></small>
 </div>
 
-{{ content }}
+{{ content | safe }}
 
 <h2>State point of contact</h2>
 <div>
