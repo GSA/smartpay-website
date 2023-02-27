@@ -4,6 +4,7 @@ const markdownItAttrs = require("markdown-it-attrs");
 const yaml = require("js-yaml");
 const { parse } = require('csv-parse/sync');
 const charts = require('eleventy-charts');
+const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
   const pathPrefix = process.env.BASEURL || "/";
@@ -40,6 +41,11 @@ module.exports = function(eleventyConfig) {
 
   // Add a comment shortcode
   // eleventyConfig.addPairedShortcode("comment", () => {});
+
+  // Format dates
+  eleventyConfig.addFilter("formatDateMedium", (dateObj) => {
+    return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
+  });
 
   return {
     pathPrefix,
