@@ -1,9 +1,10 @@
 ---
 layout: layouts/page
 date: Last Modified
+tags: state-tax-information
 eleventyComputed:
-  title: "{{ state }} tax information"
-  permalink: "/state-tax-information/{{ state | slug }}/"
+  title: "{{ name }} tax information"
+  permalink: "/state-tax-information/{{ name | slug }}/"
 ---
 
 {% if exceptionsApply %}
@@ -11,7 +12,7 @@ eleventyComputed:
     <div class="usa-alert__body">
       <h4 class="usa-alert__heading">State forms or exceptions apply</h4>
       <p class="usa-alert__text">
-        {{ state }} has special forms, regulations, or exceptions.
+        {{ name }} has special forms, regulations, or exceptions.
       </p>
     </div>
   </div>
