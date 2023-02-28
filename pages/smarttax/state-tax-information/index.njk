@@ -1,0 +1,16 @@
+---
+title: State tax information
+layout: layouts/smarttax
+permalink: /smarttax/state-tax-information/
+tags: smarttax
+---
+
+<p>
+Select the state or territory for state tax information. This information is based on the state taxation authority. As a cardholder, you are responsible for working with the merchant to meet the requirements of the state. If the merchant has questions, they should reach out directly to the state.
+</p>
+
+<ul class="usa-list usa-list--unstyled padding-top-2" style="column-count: 2;">
+  {% for state in collections['state-tax-information'] | sort(false, false, "data.name") %}
+    <li><a href="{{ state.data.permalink | url }}">{{ state.data.name }}</a></li>
+  {% endfor %}
+</ul>

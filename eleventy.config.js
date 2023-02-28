@@ -44,12 +44,19 @@ module.exports = function(eleventyConfig) {
 
   // provide for sitemap
   eleventyConfig.addPlugin(pluginRss);
+
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return DateTime.fromJSDate(dateObj).toFormat('yyyy-LL-dd')
-  })
+    return DateTime.fromJSDate(dateObj).toFormat('yyyy-LL-dd');
+  });
+
   // Add a comment shortcode
   // eleventyConfig.addPairedShortcode("comment", () => {});
+
+  // Format dates
+  eleventyConfig.addFilter("formatDateMedium", (dateObj) => {
+    return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
+  });
 
   return {
     pathPrefix,
