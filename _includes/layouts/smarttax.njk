@@ -18,6 +18,9 @@ layout: layouts/base
           <p>{{ title_desc }}</p>
         {% endif %}
         {{ content | safe }}
+        {% if billed_account %}
+          {% include 'components/billedaccount.njk' %}
+        {% endif %}
       </div>
       <div class="tablet:grid-col-fill">
         {% include 'components/childsidenav.njk' %}

@@ -62,4 +62,13 @@
       number: "7088"
   exemption_status: "All GSA SmartPay Fleet accounts are centrally billed and should be exempt from state tax assessment."
   rental_car_exemption: "U.S. Government Rental Car Agreement Number 4 states that the government may receive tax exemption for centrally billed accounts if there is prior coordination between the account manager and the rental car company. Therefore, agencies should seek tax exemption when using a centrally billed card. This exemption must also be documented in the rental agreement. Although individually billed accounts are not mentioned in U.S. Government Rental Car Agreement Number 4, travelers should work with the rental car company before they travel so they can receive sales tax exemption in the 11 states which exempt IBA cards."
+- name: Centrally Billed and Individually Billed Account
+  section_id: section_3
+  accounts: 
+    - type: Centrally billed accounts (CBA)
+      desc: "Accounts are issued at the agency, bureau, division, or fleet level, rather than to individuals (even if an individual’s name is on the card). The federal government is billed directly for the purchase of goods and services and should not be assessed sales or use tax. These include:"
+      cards:
+    - type: Individually billed accounts (IBA)
+      desc:
+      
   
