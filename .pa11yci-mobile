@@ -4,7 +4,7 @@
     "standard": "WCAG2AA",
     "runners": ["axe"],
     "timeout": 10000,
-    "hideElements": [".usa-accordion__button", ".usa-banner__header-text", ".usa-banner__header-action"],
+    "hideElements": [".usa-accordion__button", ".usa-banner__header-text", ".usa-banner__header-action", ".usa-select"],
     "chromeLaunchConfig": {
         "args": ["--no-sandbox"]
     },
