@@ -9,8 +9,17 @@ tags: smarttax
 Select the state or territory for state tax information. This information is based on the state taxation authority. As a cardholder, you are responsible for working with the merchant to meet the requirements of the state. If the merchant has questions, they should reach out directly to the state.
 </p>
 
-<ul class="usa-list usa-list--unstyled padding-top-2" style="column-count: 2;">
-  {% for state in collections['state-tax-information'] | sort(false, false, "data.name") %}
-    <li><a href="{{ state.data.permalink | url }}">{{ state.data.name }}</a></li>
-  {% endfor %}
-</ul>
+<form class="usa-form">
+  <label class="usa-sr-only" for="ddlstates">Select your state for exemption status, forms or certificates, and important info </label>
+
+  <div>
+    <select class="usa-select" name="ddlstates" id="ddlstates" onchange="showstate()">
+      <option value>Select a state</option>
+      {% for state in collections['state-tax-information'] | sort(false, false, "data.name") %}
+        <option value="{{ state.data.permalink | url }}">{{ state.data.name }}</option>
+      {% endfor %}
+    </select>
+  </div>
+</form>
+
+<script src="{{ '/assets/js/state-tax-info.js' | url }}"></script>
