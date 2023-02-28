@@ -10,11 +10,6 @@ hero:
 billed_account: true
 tags: smarttax
 ---
-<div class="margin-top-2">
-{% for account in accounts %}
-  <a href="#{{account.section_id}}"><button type="button" class="usa-button margin-1">{{account.name}}</button></a>
-{% endfor %}
-</div>
 <p>The most reliable way to identify GSA SmartPay® Purchase and Fleet charge cards is through the four digit bank identification number (BIN). In order to recognize GSA SmartPay Travel, Tax Advantage Travel, and Integrated cards, please refer to the six-digit BIN.</p>
 
 {% for account in accounts %}
