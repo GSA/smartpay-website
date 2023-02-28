@@ -3,3 +3,18 @@
 @import 'overrides/direct-link';
 @import 'overrides/sticky-footer';
 @import 'overrides/logo';
+
+// For inline forms with a single input and an adjacent submit button
+
+.usa-form.sp-inline-form {
+  display: flex;
+  flex-direction: row;
+}
+.usa-form .sp-inline-form-input {
+  flex: 0 1 auto;
+}
+.usa-form .sp-inline-form-submit-button {
+  flex: 1 1 0%;
+  @include u-margin-top(1);
+  @include u-margin-left(1);
+}
