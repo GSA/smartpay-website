@@ -1,11 +1,27 @@
 ---
 layout: layouts/smarttax
-date: Last Modified
+date: git Last Modified
 tags: state-tax-information
+hideTitle: true
 eleventyComputed:
   title: "{{ name }} tax information"
   permalink: "/smarttax/state-tax-information/{{ name | slug }}/"
 ---
+
+<form class="usa-form sp-inline-form" onsubmit="event.preventDefault(); return showstate();">
+  <label class="usa-sr-only" for="ddlstates">Select your state for exemption status, forms or certificates, and important info </label>
+
+  <select class="usa-select sp-inline-form-input" name="ddlstates" id="ddlstates">
+    <option value>Select a state</option>
+    {% for state in collections['state-tax-information'] | sort(false, false, "data.name") %}
+      <option value="{{ state.data.permalink | url }}">{{ state.data.name }}</option>
+    {% endfor %}
+  </select>
+
+  <button class="usa-button sp-inline-form-submit-button" type="submit">Go</button>
+</form>
+
+<h1>{{ title }}</h1>
 
 {% if exceptionsApply %}
   <div class="usa-alert usa-alert--info">
@@ -41,3 +57,5 @@ eleventyComputed:
 <div class="margin-top-4">
   <small>Updated {{ page.date | formatDateMedium }}</small>
 </div>
+
+<script src="{{ '/assets/js/state-tax-info.js' | url }}"></script>
