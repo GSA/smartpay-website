@@ -5,7 +5,7 @@ name: Tennessee
 exceptionsApply: false
 summary:
   - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are not exempt from state sales tax.
+  - Centrally billed accounts (CBA) are exempt from state sales tax.
 contact:
   name: Tennessee Department of Revenue
   link: https://www.tn.gov/revenue
