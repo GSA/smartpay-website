@@ -21,20 +21,27 @@ tags: smarttax
       aria-controls="a{{qa.id}}"
     >
      
-     Question{% if qa.applies_to %} (applies to {{qa.applies_to}}){% endif %}: <span class="text-normal">{{qa.question | safe}}</span>
+     {{qa.question | safe}}
     </button>
   </h4>
   <div id="a{{qa.id}}" class="usa-accordion__content usa-prose">
   
    {% for p in qa.answer %}
     <p>
-      {% if loop.first %}
-        <b>Answer:</b>
-      {% endif %}
-      
       {{p.para | safe}}
     </p>
-    {% endfor %}
+  {% endfor %}
+  
+   <p>
+    
+    {% if qa.applies_to %}
+       {% for item in qa.applies_to %}
+          <span class="usa-tag">{{item}}</span>
+       {% endfor %}
+    {% endif %}
+   
+   </p>
+    
   </div>
   {% endfor %}
 
