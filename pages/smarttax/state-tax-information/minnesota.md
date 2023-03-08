@@ -12,12 +12,12 @@ contact:
   phone: 800-657-3777 or 651-296-6181
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [Form ST3, Certificate of Exemption](https://www.revenue.state.mn.us/form-search?search_text=&field_document_type=All&field_audience=All&field_tax_type=176&field_tax_year=All)
 
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [Sales Tax Fact Sheet 142](https://www.revenue.state.mn.us/sites/default/files/2021-03/FS142.pdf)

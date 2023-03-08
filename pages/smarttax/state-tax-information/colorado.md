@@ -12,19 +12,19 @@ contact:
   phone: 303-238-7378
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
-
-* [DR 1367 Affidavit Of Sales Paid By Government Credit Card](https://tax.colorado.gov/sales-use-tax-forms)
-* [DR 5002 Standard Colorado Affidavit of Exempt Sale](https://tax.colorado.gov/sales-use-tax-forms)
-
-### Travel card
+### Purchase Card
 
 * [DR 1367 Affidavit Of Sales Paid By Government Credit Card](https://tax.colorado.gov/sales-use-tax-forms)
 * [DR 5002 Standard Colorado Affidavit of Exempt Sale](https://tax.colorado.gov/sales-use-tax-forms)
 
-## State laws, regulations, policies
+### Travel Card
+
+* [DR 1367 Affidavit Of Sales Paid By Government Credit Card](https://tax.colorado.gov/sales-use-tax-forms)
+* [DR 5002 Standard Colorado Affidavit of Exempt Sale](https://tax.colorado.gov/sales-use-tax-forms)
+
+## Laws, Regulations, Policies
 
 * [Tax Exemption Qualifications](https://tax.colorado.gov/tax-exemption-qualifications)
 * [FYI Sales 63 Government Purchases Exemptions](https://tax.colorado.gov/sites/tax/files/Sales63.pdf)

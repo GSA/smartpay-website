@@ -12,6 +12,6 @@ contact:
   phone: 603-230-5000
 ---
 
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [Frequently Asked Questions](https://www.revenue.nh.gov/faq/meals-rooms.htm) - Meals and Rooms (Rentals) Tax - Refer to the question, “Are non-profit organizations exempt from the Meals and Rooms (Rentals) Tax?”

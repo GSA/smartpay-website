@@ -12,8 +12,8 @@ contact:
   phone: 802-828-2551
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [F0003 Streamlined Exemption Certificate](https://tax.vermont.gov/business/nonprofits/exemption-certificates)

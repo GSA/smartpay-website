@@ -14,9 +14,9 @@ contact:
   phone: 602-255-3381
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [Transaction Privilege Tax Exemption Certificate](https://azdor.gov/forms/tpt-forms/tpt-exemption-certificate-general)
 
@@ -32,6 +32,6 @@ Notes for the transaction privilege tax:
 * Should the merchant choose not to request an exemption, the state allows the transaction privilege tax to be passed along from the merchant to the cardholder.
 * This is allowable, as the transaction privilege tax is not a state sales tax.
 
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [Transaction Privilege Tax Exemptions](https://azdor.gov/transaction-privilege-tax/tpt-exemptions)

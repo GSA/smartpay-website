@@ -12,8 +12,8 @@ contact:
   phone: 801-297-2200 or 800-662-4335
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [TC-721G Utah State Tax Commission Exemption Certificate for Government](https://tax.utah.gov/forms-pubs)

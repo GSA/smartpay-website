@@ -12,6 +12,6 @@ contact:
   phone: 800-400-7115
 ---
 
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [Publication 102, Sales to the United States Government](https://www.cdtfa.ca.gov/formspubs/pub102/#bankcards)

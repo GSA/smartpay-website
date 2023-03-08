@@ -12,12 +12,12 @@ contact:
   phone: 717-787-1064
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [Form REV-1220 (TR) 03-22 Exemption Certificate](https://revenue-pa.custhelp.com/app/answers/detail/a_id/424/~/when-should-i-use-a-rev-1220-pa-exemption-certificate%3F)
 
-### Travel card
+### Travel Card
 
 * [Form REV-1220 (TR) 03-22 Exemption Certificate](https://revenue-pa.custhelp.com/app/answers/detail/a_id/424/~/when-should-i-use-a-rev-1220-pa-exemption-certificate%3F)

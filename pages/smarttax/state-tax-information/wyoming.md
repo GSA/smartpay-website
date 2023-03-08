@@ -12,9 +12,9 @@ contact:
   phone: 307-777-5275
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [Streamlined Sales and Use Tax Agreement Certificate of Exemption](https://sao.wyo.gov/wp-content/uploads/2019/10/exempt.pdf)
 
