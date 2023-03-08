@@ -12,18 +12,18 @@ contact:
   phone: 225-219-7462
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [Form R-1304 Sales Tax Exemption for Certain Purchases and Leases for the Federal Government or the U.S. Department of Navy](https://revenue.louisiana.gov/Forms/ForBusinesses)
 * [Form R-1356-L Sales Tax Exemption for Purchases by the Federal Government](https://revenue.louisiana.gov/Forms/ForBusinesses)
 
-### Travel card
+### Travel Card
 
 * [R-1376 Government Employees Hotel Lodging Sales/Use Tax Exemption Certificate](https://revenue.louisiana.gov/Forms/ForBusinesses)
 
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [Revenue Ruling No. 07-008 Sales Tax Federal Credit Card Purchases](https://revenue.louisiana.gov/LawsPolicies/RR07008.pdf)
 * [Revenue Information Bulletin No. 10-012 Sales Tax](https://www.revenue.louisiana.gov/LawsPolicies/RIB10012.pdf)

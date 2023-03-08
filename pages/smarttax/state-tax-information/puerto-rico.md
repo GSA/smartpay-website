@@ -12,14 +12,14 @@ contact:
   phone: 787-721-2020
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [Puerto Rico Department of Treasury Form AS2916.1 (English Version)](http://www.hacienda.pr.gov/sites/default/files/documentos/as_2916_1_2015.pdf)
 * [Puerto Rico Department of Treasury Form SC2916 (Spanish Version)](http://www.hacienda.gobierno.pr/sites/default/files/documentos/sc_2916_2015_1.pdf)
 
-### Travel card
+### Travel Card
 
 * [Request for Room Tax Exemption](https://roomtax.prtourism.com/exemption_reqs.php?lan)
 

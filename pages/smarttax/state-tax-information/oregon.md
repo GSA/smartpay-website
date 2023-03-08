@@ -4,7 +4,7 @@ layout: layouts/state-tax
 name: Oregon
 exceptionsApply: true
 summary:
-  - The state does not have a sales tax, instead it assesses a transient lodging tax for hotel stay.
+  - The state does not have a sales tax; instead it assesses a transient lodging tax for hotel stay.
   - Individually billed accounts (IBA) are exempt from transient lodging tax.
 contact:
   name: Oregon Department of Revenue
@@ -12,14 +12,14 @@ contact:
   phone: 503-378-4988 or 800-356-4222
 ---
 
-## Required forms
+## Forms
 
-### Travel card
+### Travel Card
 
 #### Notes
 
 Proof of federal employment may be required.
 
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [Transient Lodging Tax - Exemptions](https://www.oregon.gov/DOR/programs/businesses/Pages/lodging.aspx)

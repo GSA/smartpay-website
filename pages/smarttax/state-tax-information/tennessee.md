@@ -12,12 +12,12 @@ contact:
   phone: 615-253-0600
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [Tennessee Sales or Use Tax Government Certificate of Exemption](https://www.tn.gov/revenue/taxes/sales-and-use-tax/forms.html)
 
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [09-01 - Purchases by Government Employees](https://www.tn.gov/content/dam/tn/revenue/documents/notices/sales/sales09-01.pdf)

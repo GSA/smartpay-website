@@ -12,7 +12,7 @@ contact:
   phone: 844-898-8542
 ---
 
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [SC REVENUE RULING #09-1](https://dor.sc.gov/resources-site/lawandpolicy/Advisory%20Opinions/RR09-1.pdf)
 * [SC REVENUE RULING #13-2](https://dor.sc.gov/resources-site/lawandpolicy/Advisory%20Opinions/RR13-2.pdf)

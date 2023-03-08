@@ -12,8 +12,8 @@ contact:
   phone: 317-232-2240
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [General Sales Tax Exemption Certificate](https://www.in.gov/dor/tax-forms/sales-tax-forms/)

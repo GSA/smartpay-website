@@ -12,12 +12,12 @@ contact:
   phone: 800-982-8297
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [F0003 Streamlined Sales and Use Tax Certificate of Exemption](https://tax.wv.gov/Business/SalesAndUseTax/StreamlinedSalesAndUseTax/Pages/StreamlinedSalesAndUseTax.aspx)
 
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [Sales and Use Tax Exemptions](https://tax.wv.gov/Documents/TSD/tsd300.pdf)

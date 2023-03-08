@@ -12,8 +12,8 @@ contact:
   phone: 515-281-3114
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [Iowa Sales/Use/Excise Tax Exemption Certificate 31-014](https://tax.iowa.gov/forms/iowa-salesuseexcise-tax-exemption-certificate-31-014)

@@ -12,9 +12,9 @@ contact:
   phone: 860-297-5962
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [CERT - 134 Connecticut Exempt Purchases by Qualifying Government Agencies](https://portal.ct.gov/DRS/Sales-Tax/Exemption-Certificates) <span class="usa-tag">Optional</span>
 

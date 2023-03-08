@@ -12,14 +12,12 @@ contact:
   phone: 502-564-4581​
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [Purchase Exemption Certificate](https://revenue.ky.gov/Business/Sales-Use-Tax/Pages/default.aspx) - Form 51A126 (12-09) Purchase Exemption Certificate
 
-#### Notes
-
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [103 KAR 30:235. Sales to the Federal Government](https://apps.legislature.ky.gov/law/kar/titles/103/030/235/)

@@ -12,6 +12,6 @@ contact:
   phone: 334-242-1490
 ---
 
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [What is the latest FEDERAL CREDIT CARD PROGRAM GSA SmartPay® 3 Information?](https://www.revenue.alabama.gov/faqs/what-is-the-latest-federal-credit-card-program-gsa-smartpay-3-information/)

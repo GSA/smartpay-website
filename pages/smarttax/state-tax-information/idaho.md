@@ -12,12 +12,12 @@ contact:
   phone: 800-972-7660
 ---
 
-## Required forms
+## Forms
 
-### Purchase card
+### Purchase Card
 
 * [Form ST-101 Sales Tax Resale or Exemption Certificate](https://tax.idaho.gov/taxes/sales-use/sales-tax/retailers/general/resale/)
 
-### CBA Travel card
+### CBA Travel Card
 
 * [Form ST-104HM Tax Exemption on Lodging Accommodations](https://tax.idaho.gov/taxes/sales-use/forms/)

@@ -12,7 +12,7 @@ contact:
   phone: 804-367-8037
 ---
 
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [Sales Tax Exemptions](https://www.tax.virginia.gov/sales-tax-exemptions)
 * [Rulings of the Tax Commissioner: Retail Sales and Use Tax](https://www.tax.virginia.gov/laws-rules-decisions/rulings-tax-commissioner/02-105)

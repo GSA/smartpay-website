@@ -12,10 +12,10 @@ contact:
   phone: 340-715-1040
 ---
 
-## Required forms
+## Forms
 
-### Travel card
+### Travel Card
 
 #### Notes
 
-For IBA Travel cards, official government identification is required.
+For IBA Travel Cards, official government identification is required.

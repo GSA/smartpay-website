@@ -12,7 +12,7 @@ contact:
   phone: 800-638-2937
 ---
 
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [Business tax tip #6 Retail Sales Involving Exemption Certificates](https://www.marylandtaxes.gov/forms/Business_Tax_Tips/bustip6.pdf)
 * [Tax Exemptions](https://www.marylandtaxes.gov/business/sales-use/tax-exemptions/) - Section for Tax Exempt Sales to Government Employees

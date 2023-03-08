@@ -11,9 +11,9 @@ contact:
   phone: 907-269-6620
 ---
 
-## Required forms
+## Forms
 
-### Travel card
+### Travel Card
 
 * [Form 631 Vehicle Rental Tax Government Use Exemption Certificate](http://www.tax.alaska.gov/programs/programs/forms/index.aspx?60255)
 
@@ -21,7 +21,7 @@ contact:
 
 Alaska imposes a separate excise tax on rental vehicles. Government employees are exempt from this tax.
 
-## State laws, regulations, policies
+## Laws, Regulations, Policies
 
 * [Vehicle Rental Tax Exemption FAQs](https://tax.alaska.gov/programs/programs/help/faq/faq.aspx?60255#section2)
 
