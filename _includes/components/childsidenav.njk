@@ -15,12 +15,13 @@
   tags:smarttax
   sidenav_parent_text: SmartTax
   parent_link: /smarttax/
-  
+
   when introducing new side nav, please update elseif sidenav_parent_text=='New side nav parent header text' and set menuitems to its collection tags value. 
-  e.g. adding new side nav for Policies, adding below line code to it
-  {% elseif sidenav_parent_text=='Policies' %}
-    {% set menuitems = collections.policies %}
+  e.g. adding new side nav for About, adding below line code to else if condition section
+  {% elseif sidenav_parent_text=='About' %}
+    {% set menuitems = collections.about %}
   {% endif %}
+  
 #}
    <div class="border-top-1 border-accent-cool-darker padding-top-2 margin-bottom-4 usa-prose">
         <nav aria-label="Side navigation">
@@ -29,8 +30,8 @@
           
             {% if sidenav_parent_text=='SmartTax' %}
               {% set menuitems = collections.smarttax | sort(attribute='data.sortorder') %}
-            {% elseif sidenav_parent_text=='Policies' %}
-              {% set menuitems = collections.policies %}
+            {% elseif sidenav_parent_text=='About' %}
+              {% set menuitems = collections.about %}
             {% endif %}
             {%- for item in menuitems %}
               <li class="usa-sidenav__item"><a href="{{ item.url | url }}" {% if page.url == item.url %} class="usa-current" {% endif %} >{{ item.data.title }}</a></li>
