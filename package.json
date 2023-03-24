@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "@uswds/uswds": "^3.3.0",
-    "elasticlunr": "^0.9.5"
+    "elasticlunr": "^0.9.5",
+    "sass-embedded-darwin-x64": "^1.60.0"
   }
 }
