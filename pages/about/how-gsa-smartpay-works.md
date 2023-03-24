@@ -1,6 +1,7 @@
 ---
 layout: layouts/page
 title: How GSA SmartPay® Works
+description: The GSA SmartPay program provides agencies and organizations with a comprehensive portfolio of payment solutions to support mission needs.
 permalink: /about/how-gsa-smartpay-works
 sortorder:
 hero:
