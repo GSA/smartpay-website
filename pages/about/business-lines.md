@@ -2,7 +2,7 @@
 layout: layouts/page
 title: Business Lines
 description: Descriptions and resources for each of the GSA SmartPay business lines
-permalink: /about/business-lines
+permalink: /about/business-lines/
 sortorder:
 hero:
 category: about

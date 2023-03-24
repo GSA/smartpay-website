@@ -2,7 +2,7 @@
 layout: layouts/page
 title: About GSA SmartPay®
 description: The GSA SmartPay program is the world’s largest government charge card and commercial payment solutions program.
-permalink: /about/about-gsa-smartpay
+permalink: /about/about-gsa-smartpay/
 sortorder:
 hero:
 category: about

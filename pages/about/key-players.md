@@ -2,7 +2,7 @@
 layout: layouts/page
 title: Key Players in the Process
 description: The important participants in the GSA SmartPay program and descriptions of their roles
-permalink: /about/key-players
+permalink: /about/key-players/
 sortorder:
 hero:
 category: about
