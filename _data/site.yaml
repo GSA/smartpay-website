@@ -152,8 +152,8 @@ side_navs:
     header_text: About
     parent_url: /about/
     children:
-      - text: Key Players in the Purchasing Process
-        url: /about/key-players-purchasing-process/
+      - text: Key Players in the Process
+        url: /about/key-players/
       - text: How GSA SmartPay Works
         url: /about/how-gsa-smartpay-works/
       - text: GSA SmartPay Benefits
