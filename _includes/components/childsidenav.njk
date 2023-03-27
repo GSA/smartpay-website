@@ -13,7 +13,7 @@
           {% for menu in site.side_navs %}
             {% if menu.name == sidenav %}
               {% set sideNavItems = menu.children %}
-              <h3 class="padding-bottom-1"><a href={{menu.parent_url | url }} style=" text-decoration: none; color: #505050;"> {{menu.header_text}} </a></h3>
+              <h2 class="padding-bottom-1"><a href={{menu.parent_url | url }} style=" text-decoration: none; color: #505050;"> {{menu.header_text}} </a></h2>
               <ul class="usa-sidenav">
               {% for item in sideNavItems %}
                 <li class="usa-sidenav__item"><a href="{{ item.url | url }}" {% if page.url == item.url %} class="usa-current" {% endif %} >{{item.text}}</a></li>
