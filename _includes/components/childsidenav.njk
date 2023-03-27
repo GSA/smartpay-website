@@ -10,13 +10,17 @@
 -->
    <div class="border-top-1 border-accent-cool-darker padding-top-2 margin-bottom-4 usa-prose">
         <nav aria-label="Side navigation">
-          {% set menu = site.side_navs | selectattr('name', 'equalto', sidenav) | first %}
-         <h3 class="padding-bottom-1"><a href={{menu.parent_url | url }} style=" text-decoration: none; color: #505050;"> {{menu.header_text}} </a></h3>
-          <ul class="usa-sidenav">
-            {%- for item in menu.children %}
+          {% for menu in site.side_navs %}
+            {% if menu.name == sidenav %}
+              {% set sideNavItems = menu.children %}
+              <h3 class="padding-bottom-1"><a href={{menu.parent_url | url }} style=" text-decoration: none; color: #505050;"> {{menu.header_text}} </a></h3>
+              <ul class="usa-sidenav">
+              {% for item in sideNavItems %}
                 <li class="usa-sidenav__item"><a href="{{ item.url | url }}" {% if page.url == item.url %} class="usa-current" {% endif %} >{{item.text}}</a></li>
-            {% endfor %}
-          </ul>
+              {% endfor %}
+              </ul>
+            {% endif %}
+          {% endfor %}
         </nav>
     </div>
 
