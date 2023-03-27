@@ -130,6 +130,39 @@ secondary_navigation:
   - name: Contact Us
     url: "#main-content"
 
+side_navs:
+  - name: smarttax
+    header_text: SmartTax
+    parent_url: /smarttax/
+    children:
+      - text: About SmartTax
+        url: /smarttax/about-smarttax/
+      - text: Legal History
+        url: /smarttax/legal-history/
+      - text: Recognizing Your Account
+        url: /smarttax/recognizing-your-account/
+      - text: FAQs
+        url: /smarttax/faqs/
+      - text: State Tax Information
+        url: /smarttax/state-tax-information/
+      - text: Surcharges
+        url: /smarttax/surcharges/
+
+  - name: about
+    header_text: About
+    parent_url: /about/
+    children:
+      - text: Key Players in the Purchasing Process
+        url: /about/key-players-purchasing-process/
+      - text: How GSA SmartPay Works
+        url: /about/how-gsa-smartpay-works/
+      - text: GSA SmartPay Benefits
+        url: /about/gsa-smartpay-benefits/
+      - text: Refunds
+        url: /about/refunds
+      
+    
+
 # Search.gov configuration
 #
 # 1. Create an account with Search.gov https://search.usa.gov/signup

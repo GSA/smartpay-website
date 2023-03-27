@@ -1,5 +1,5 @@
 ---
-layout: layouts/smarttax
+layout: layouts/page
 title: Legal History
 permalink: /smarttax/legal-history/
 sortorder: 3
@@ -8,6 +8,7 @@ hero:
   heading: Legal History
 billed_account: true
 tags: smarttax
+sidenav: smarttax
 ---
 
 
