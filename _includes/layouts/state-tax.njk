@@ -1,11 +1,12 @@
 ---
-layout: layouts/smarttax
+layout: layouts/page
 date: git Last Modified
 tags: state-tax-information
 hideTitle: true
 eleventyComputed:
   title: "{{ name }} Tax Information"
   permalink: "/smarttax/state-tax-information/{{ name | slug }}/"
+sidenav: smarttax
 ---
 
 <form class="usa-form sp-inline-form" onsubmit="event.preventDefault(); return showstate();">
