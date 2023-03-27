@@ -1,5 +1,5 @@
 ---
-layout: layouts/smarttax
+layout: layouts/page
 title: Legal History
 permalink: /smarttax/legal-history/
 sortorder: 3

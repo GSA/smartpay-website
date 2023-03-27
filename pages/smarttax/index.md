@@ -1,5 +1,5 @@
 ---
-layout: layouts/smarttax
+layout: layouts/page
 title: SmartTax
 permalink: /smarttax/
 hero:

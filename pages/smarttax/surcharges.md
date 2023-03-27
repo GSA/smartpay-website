@@ -1,5 +1,5 @@
 ---
-layout: layouts/smarttax
+layout: layouts/page
 title: Surcharges
 permalink: /smarttax/surcharges/
 sortorder: 6

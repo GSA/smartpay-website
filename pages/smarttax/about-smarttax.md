@@ -1,5 +1,5 @@
 ---
-layout: layouts/smarttax
+layout: layouts/page
 title: About SmartTax
 permalink: /smarttax/about-smarttax/
 sortorder: 2
