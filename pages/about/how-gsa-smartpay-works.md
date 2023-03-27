@@ -9,8 +9,7 @@ category: about
 tags:
   - about
   - master contract
-parent_link: /about/
-sidenav_parent: about
+sidenav: about
 ---
 
 Through the [GSA SmartPay 3 Master Contract](https://smartpay.gsa.gov/content/master-contract), the GSA SmartPay program provides agencies/organizations with a comprehensive portfolio of purchase, travel, fleet and integrated payment solutions to support mission needs.

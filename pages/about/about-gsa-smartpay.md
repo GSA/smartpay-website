@@ -9,8 +9,7 @@ category: about
 tags:
   - about
   - master contract
-parent_link: /about/  
-sidenav_parent: 
+sidenav: about
 ---
 
 Established in 1998, the GSA SmartPay program is the world’s largest government charge card and commercial payment solutions program, providing services to more than 560 federal agencies/organizations and Native American tribal governments.

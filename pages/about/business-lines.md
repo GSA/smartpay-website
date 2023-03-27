@@ -12,8 +12,7 @@ tags:
   - travel
   - integrated
   - fleet
-parent_link: /about/
-sidenav_parent: about
+sidenav: about
 ---
 
 <table class="usa-table usa-table--borderless">

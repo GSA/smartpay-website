@@ -9,8 +9,7 @@ category: about
 tags:
   - about
   - roles
-parent_link: /about/
-sidenav_parent: 
+sidenav: about
 ---
 
 Key program participants in the GSA SmartPay® program include:
