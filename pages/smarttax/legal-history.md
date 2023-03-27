@@ -8,8 +8,7 @@ hero:
   heading: Legal History
 billed_account: true
 tags: smarttax
-sidenav_parent_text: SmartTax
-parent_link: /smarttax/
+sidenav: smarttax
 ---
 
 

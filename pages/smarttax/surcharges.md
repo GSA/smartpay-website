@@ -8,7 +8,6 @@ hero:
   heading: Surcharges
   callout: Common Questions about Surcharges and Convenience Fees
 tags: smarttax
-sidenav_parent_text: SmartTax
-parent_link: /smarttax/
+sidenav: smarttax
 ---
 Content coming soon...

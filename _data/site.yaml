@@ -130,6 +130,32 @@ secondary_navigation:
   - name: Contact Us
     url: "#main-content"
 
+side_navs:
+  - name: smarttax
+    header_text: SmartTax
+    parent_url: /smarttax/
+    children:
+      - text: About SmartTax
+        url: /smarttax/about-smarttax/
+      - text: Legal History
+        url: /smarttax/legal-history/
+      - text: Recognizing Your Account
+        url: /smarttax/recognizing-your-account/
+      - text: FAQs
+        url: /smarttax/faqs/
+      - text: State Tax Information
+        url: /smarttax/state-tax-information/
+      - text: Surcharges
+        url: /smarttax/surcharges/
+
+  - name: about
+    header_text: About
+    parent_url: /smarttax/
+    children:
+      - text: About SmartTax
+        url: /smarttax/about-smarttax/
+    
+
 # Search.gov configuration
 #
 # 1. Create an account with Search.gov https://search.usa.gov/signup

@@ -7,8 +7,7 @@ hero:
   image: /assets/img/hero.jpg
   heading: About SmartTax
 tags: smarttax
-sidenav_parent_text: SmartTax
-parent_link: /smarttax/
+sidenav: smarttax
 ---
 
 Content coming soon...
