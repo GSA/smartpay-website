@@ -40,14 +40,14 @@ sidenav: about
       <th scope="row">Travel</th>
       <td>To pay for travel and travel-related expenses. Primary mechanism used to purchase airline, rail and bus tickets at significantly reduced fares under the <a href="https://www.gsa.gov/travel/plan-book/transportation-airfare-rates-pov-rates-etc/city-pair-program-cpp">GSA City Pair Program (CPP)</a>.</td>
       <td>Individually Billed Account (IBAs) or CBA</td>
-      <td><a href="{{ '/assets/documents/smartpay-travel-hints.pdf' | url }}">Helpful Hints for Purchase Account Use</a></td>
+      <td><a href="{{ '/assets/documents/smartpay-travel-hints.pdf' | url }}">Helpful Hints for Travel Account Use</a></td>
     </tr> 
     <tr>
       <td><img src="{{ '/assets/img/smartpay-green-fleet-plain.svg' | url }}" alt="Green fleet card"/></td>
       <th scope="row">Fleet</th>
       <td>To pay for the purchase of fuel, maintenance and repair of government owned/operated motor equipment, aviation, small marine vessels and large marine vessels</td>
       <td>CBA</td>
-      <td><a href="{{ '/assets/documents/smartpay-fleet-hints.pdf' | url }}">Helpful Hints for Purchase Account Use</a></td>
+      <td><a href="{{ '/assets/documents/smartpay-fleet-hints.pdf' | url }}">Helpful Hints for Fleet Account Use</a></td>
     </tr>
     <tr>
       <td><img src="{{ '/assets/img/smartpay-silver-advantage-plain.svg' | url }}" alt="Silver tax advantage card"/></td>     
