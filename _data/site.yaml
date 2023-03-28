@@ -152,16 +152,15 @@ side_navs:
     header_text: About
     parent_url: /about/
     children:
+      - text: About GSA SmartPay®
+        url: /about/about-gsa-smartpay/
+      - text: Business Lines
+        url: /about/business-lines/        
+      - text: How GSA SmartPay® Works
+        url: /about/how-gsa-smartpay-works/
       - text: Key Players in the Process
         url: /about/key-players/
-      - text: How GSA SmartPay Works
-        url: /about/how-gsa-smartpay-works/
-      - text: GSA SmartPay Benefits
-        url: /about/gsa-smartpay-benefits/
-      - text: Refunds
-        url: /about/refunds
-      
-    
+
 
 # Search.gov configuration
 #
