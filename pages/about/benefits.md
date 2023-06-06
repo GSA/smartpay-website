@@ -1,6 +1,7 @@
 ---
 layout: layouts/page
 title: Benefits of the Program
+description: "Some of the benefits customers can expect when they choose GSA SmartPay."
 permalink: /about/benefits/
 sortorder:
 hero:

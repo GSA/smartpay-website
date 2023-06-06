@@ -1,0 +1,77 @@
+---
+layout: layouts/page
+title: Business Lines
+description: "GSA SmartPay business lines include purchase, travel, fleet, tax advantage, and integrated."
+permalink: /about/business-lines/
+sortorder:
+hero:
+  image: 
+  heading: 
+category: about
+tags:
+  - account
+  - purchase
+  - travel
+  - fleet
+  - tax advantage
+  - integrated
+sidenav: about
+---
+
+<!--Needs card images. Proposed layout is two column (or image floats).-->
+
+There are several business lines associated with the GSA SmartPay® program.
+
+## Purchase 
+**Use**  
+To pay for supplies or services.
+
+**Account Type(s)**  
+Centrally Billed Account (CBA).
+
+**Publication**  
+[Helpful Hints for Purchase Account Use]({{ '/assets/files/purchase-account-helpful-hints.pdf' | url }}).
+
+## Travel
+**Use**  
+To pay for travel and travel related expenses. Primary mechanism used to purchase airline, rail and bus tickets at significantly reduced fares under the [GSA City Pair Program](ttps://www.gsa.gov/travel/plan-book/transportation-airfare-rates-pov-rates-etc/city-pair-program-cpp) (CPP).  
+
+**Account Type(s)**  
+Individually Billed Account (IBAs) or CBA.
+
+**Publication**  
+[Helpful Hints for Travel Account Use]({{ '/assets/files/travel-account-helpful-hints.pdf' | url }}).
+
+## Fleet
+**Use**  
+To pay for the purchase of fuel, maintenance and repair of government owned/operated motor equipment, aviation, small marine vessels and large marine vessels.
+
+**Account Type**  
+CBA.  
+
+**Publication**  
+[Helpful Hints for Fleet Account Use]({{ '/assets/files/fleet-account-helpful-hints.pdf' | url }}).
+
+## Tax Advantage Travel
+**Use**  
+To pay for travel and travel related expenses.
+
+**Account Type**  
+Combines IBA and CBA transactions to provide tax exemption at the point of sale for rental car and lodging expenses.
+
+**Publication**  
+[GSA SmartPay® Tax Advantage Travel Account]({{ '/assets/files/tax-advantage-travel-account.pdf' | url }}).
+
+## Integrated
+**Use**  
+To pay for purchases involving two or more business lines (i.e. fleet, purchase, and/or travel) on a single account.
+
+**Account Type**  
+Considered CBA, but may involve both IBA and CBA transactions, which is determined at the agency’s task order level.
+
+**Publications**  
+[Purchase]({{ '/assets/files/purchase-account-helpful-hints.pdf' | url }}), [Travel]({{ '/assets/files/travel-account-helpful-hints.pdf' | url }}) and [Fleet]({{ '/assets/files/fleet-account-helpful-hints.pdf' | url }}) Helpful Hints.
+
+<!--Link when built-->
+
+Review frequently asked questions about the GSA SmartPay program.
