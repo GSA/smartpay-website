@@ -12,6 +12,8 @@ tags:
   - about
   - refunds
   - oversight
+  - payment
+  - master contract
 sidenav: about
 ---
 

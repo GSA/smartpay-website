@@ -1,0 +1,29 @@
+---
+layout: layouts/page
+title: Logos and Designs
+description: GSA SmartPay brand logos and card designs.
+permalink: /about/logos/
+sortorder:
+hero:
+  image: 
+  heading: 
+category: about
+tags:
+  - brand
+  - logo
+  - about
+sidenav: about
+---
+
+The following graphics may be printed or downloaded to indicate an agency’s use, or a business's acceptance, of GSA SmartPay® payment solutions:
+
+- [GSA SmartPay Logo]({{ '/assets/img/splogo.jpg' | url }})
+- [GSA SmartPay 3 Fleet, Purchase, Travel and Integrated Card Designs]({{ '/assets/files/card-designs.pdf' | url }})
+- [Tax Advantage Travel Card Design]({{ '/assets/files/tax-advantage-card-design.pdf' | url }})
+
+Please note:
+- The card designs may not be used in any manner to infer that the government endorses a particular business.
+- No business or agency/organization may sell, reverse engineer, modify or create derivative works based on the GSA SmartPay card designs in whole or in part for any purpose, without the express written consent of the GSA Center for Charge Card Management. 
+- All copyright and other proprietary notices contained on the materials must be adhered to in strict compliance.
+
+Further guidance from GSA’s Office of Strategic Communication is available on the [GSA Logo Policy page](https://www.gsa.gov/reference/gsa-logo-policy).
