@@ -3,6 +3,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const embedEverythingPlugin = require("eleventy-plugin-embed-everything");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require("markdown-it-attrs");
+let markdownItFootnote = require("markdown-it-footnote");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const yaml = require("js-yaml");
 const { parse } = require('csv-parse/sync');
@@ -22,6 +23,7 @@ module.exports = function(eleventyConfig) {
   // Add markdown-it plugins
   eleventyConfig.amendLibrary("md", md => md.use(markdownItAnchor));
   eleventyConfig.amendLibrary("md", md => md.use(markdownItAttrs));
+  eleventyConfig.amendLibrary("md", md => md.use(markdownItFootnote));
 
   // Read YAML files in the _data directory
   eleventyConfig.addDataExtension("yml", contents => yaml.load(contents));
