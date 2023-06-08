@@ -1,0 +1,80 @@
+---
+layout: layouts/page
+title: How GSA SmartPay® Works
+description: "The GSA SmartPay program is the world’s largest government charge card and commercial payment solutions program."
+permalink: /how-it-works/
+sortorder:
+hero:
+  image: 
+  heading: 
+category: how it works
+tags:
+  - banks
+  - master contract
+sidenav: how-it-works
+---
+
+Through the GSA SmartPay 3 Master Contract, the GSA SmartPay program provides agencies/organizations with a comprehensive portfolio of purchase, travel, fleet and integrated payment solutions to support mission needs.
+
+Agencies/organizations issue a task order under the GSA SmartPay 3 Master Contract to one of the GSA SmartPay contractor banks, Citibank or U.S. Bank. Then, the awarded bank provides payment solutions to the agency.
+
+GSA SmartPay transactions involve the account holder, chosen payment solution, acquiring bank, issuing bank, brand network, and merchant.
+
+## How a GSA SmartPay Transaction Works
+
+https://youtu.be/sfWxZlbZwgo
+
+<ol class="usa-process-list">
+  <li class="usa-process-list__item">
+    <h3 class="usa-process-list__heading">Payment Transactions</h3>
+    <p class="margin-top-05">
+      An account holder uses a GSA SmartPay solution as a method of procurement and payment for the authorized purchase of goods and services.
+    </p>
+  </li>
+  <li class="usa-process-list__item">
+    <h3 class="usa-process-list__heading">Approval and Funds Request</h3>
+    <p>
+      The acquiring bank receives authorization from the issuing bank through the brand network (VISA/MC).
+    </p>
+    <p>
+      The merchant finalizes the transaction and the acquiring bank requests payment from the issuing bank through the brand network.
+    </p>
+  </li>
+  <li class="usa-process-list__item">
+    <h3 class="usa-process-list__heading">Funds Interchange</h3>
+    <p>
+      Once approved, the issuing bank provides funds to the acquiring bank through the brand network. The brand assesses an interchange fee on the approved amount.
+    </p>
+  </li>
+    <li class="usa-process-list__item">
+    <h3 class="usa-process-list__heading">Merchant Payment & Account Holder Billing</h3>
+    <p>
+      The acquiring bank assesses a processing fee on the approved funds and the merchant receives payment.
+    </p>
+    <p>
+      The issuing bank bills the account holder for the full amount of the goods and/or services purchased.
+    </p>  
+  </li>
+</ol>
+
+## Glossary
+### Account Holder 
+An individual issued an account at the request of an agency/organization.
+
+### Merchant
+The entity accepting payment from an agency/organization in exchange for goods/services. The merchant may be a required source inside or outside the federal government, another government agency or a private sector merchant of supplies or services.
+
+### Acquiring Bank
+A financial institution that processes GSA SmartPay account payments on behalf of a merchant. It allows merchants to accept payments from the issuing bank within the authorization network.
+
+### Issuing Bank
+A financial institution that issues GSA SmartPay accounts to account holders and is responsible for paying the acquiring bank for the goods/services purchased.
+
+### Interchange Fee 
+A fee paid by the merchant’s financial institutions to the card issuing bank for processing its customer merchant payment transaction. In most instances, the interchange fee is a percentage of the total transaction amount and is passed on to the merchant through its financial institution’s fees.
+
+### Brand Network 
+A financial institution that dictates where payments can be processed and facilitates the payment process between account holders, merchants, and issuing financial institutions.
+
+### Processing Fee
+A percentage-based fee charged by the acquiring bank to the merchant on every payment processed.
