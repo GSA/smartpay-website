@@ -1,6 +1,6 @@
 ---
 layout: layouts/page
-title: Program Statistics Overview
+title: Program Statistics
 description: "Statistical summaries and monthly reporting for the GSA SmartPay program."
 permalink: /about/statistics/
 sortorder:
