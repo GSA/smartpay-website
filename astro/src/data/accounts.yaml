@@ -1,0 +1,68 @@
+- name: Travel Account
+  section_id: section_1
+  description: "The GSA SmartPay Travel account can be used for official government travel and travel-related expenses, while allowing account holders access to GSA City Pair Program reduced airfares. Agencies and organizations are able to reduce travel processing costs and earn refunds, as annual spend has nearly tripled since the program’s inception in 1998. GSA SmartPay Travel account revenue funds the GSA City Pair reduced cost airline ticket program."
+  account_type_des: "Some states provide tax exemption on individually billed Travel accounts (IBA). To determine whether the Travel or Integrated account is a CBA, IBA, or Tax Advantage Travel account, refer to the sixth digit of the account number. The sixth digit identifier that differentiates CBA and IBA accounts is specific to Travel accounts and does not apply to other GSA SmartPay business lines."
+  card_images:
+    - url: "/assets/img/blue-card.png"
+      alt: The blue travel card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
+    - url: "/assets/img/silver-card.png"
+      alt: The silver travel card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
+  prefixes:
+    - type: Visa
+      number: "4486, 4614, 4716"
+    - type: Mastercard
+      number: "5565, 5568"
+  sixdigts_identifiers:
+    - type: IBA Travel Card
+      url: "/assets/img/blue-card.png"
+      alt:  The blue IBA travel card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
+      sixdigit: "1,2,3,4"
+      billingtype: "Individually Billed (IBA)"
+    - type: CBA Travel Card
+      url: "/assets/img/blue-card.png"
+      alt:  The blue CBA travel card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
+      sixdigit: "6,7,8,9,0"
+      billingtype: "Centrally Billed (CBA)"
+    - type: Tax Advantage Card
+      url: "/assets/img/silver-card.png"
+      alt:  The silver tax advantage travel card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
+      sixdigit: "5"
+      billingtype: "IBA/CBA"
+  exemption_status: "Federal government travelers using IBA GSA SmartPay Travel accounts may be exempt from state taxes in select states. In addition, state tax exemption forms, official business travel documentation or a federal government identification may be required to receive state tax exemption."
+- name: Purchase Account
+  section_id: section_2
+  description: "In accordance with the Federal Acquisition Regulation, the GSA SmartPay Purchase account is the preferred method to purchase and pay for micro-purchases (FAR Part 13.201). For purchases above the micro-purchase threshold, the Purchase account may be used as an ordering and payment mechanism, but not as a contracting mechanism."
+  card_images:
+    - url: "/assets/img/red-card.png"
+      alt: The red purchase account card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
+    - url: "/assets/img/yellow-card.png"
+      alt: The yellow purchase account card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
+  prefixes:
+    - type: Visa
+      number: "4614, 4716"
+    - type: Mastercard
+      number: "5565, 5568"
+  exemption_status: "All GSA SmartPay Purchase accounts are centrally billed and should be exempt from state sales tax. The sixth-digit identifier used to differentiate Travel and Integrated accounts does not apply to Purchase accounts or Fleet accounts." 
+- name: Fleet Account
+  section_id: section_3
+  description: "Use of GSA SmartPay Fleet accounts enable agencies/organizations to conveniently obtain fuel and maintenance for vehicles and equipment, as well as manage tax-recovery efforts and collect detailed fleet management data."
+  card_images:
+    - url: "/assets/img/green-card.png"
+      alt: The fleet card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
+    - url: "/assets/img/yellow-card.png"
+      alt: The fleet card with the GSA logo, SmartPay 3, and United States of America wordmarks, with the name John Smith and placeholder digits
+  prefixes:
+    - type: Visa
+      number: "4486, 4614"
+    - type: Mastercard
+      number: "5563, 5565, 5568"
+    - type: WEX
+      number: "5565, 6900, 7071"
+    - type: Voyager
+      number: "7088"
+  exemption_status: "All GSA SmartPay Fleet accounts are centrally billed and should be exempt from state tax assessment."
+  rental_car_exemption: "U.S. Government Rental Car Agreement Number 4 states that the government may receive tax exemption for centrally billed accounts if there is prior coordination between the account manager and the rental car company. Therefore, agencies should seek tax exemption when using a centrally billed card. This exemption must also be documented in the rental agreement. Although individually billed accounts are not mentioned in U.S. Government Rental Car Agreement Number 4, travelers should work with the rental car company before they travel so they can receive sales tax exemption in the 11 states which exempt IBA cards."
+- name: Centrally Billed and Individually Billed Account
+  section_id: section_4
+
+  

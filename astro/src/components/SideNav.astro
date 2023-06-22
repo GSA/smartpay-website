@@ -1,0 +1,16 @@
+---
+const { id, pages, category} = Astro.props;
+---
+  <nav aria-label="Secondary navigation">
+    <ul class="usa-sidenav">
+      {pages.map(page => (
+        <li class="usa-sidenav__item">
+          <a 
+            class={id === page.id ? 'usa-current' : null } 
+            href={`${import.meta.env.BASE_URL}${category}/${page.slug}`}
+          >{page.data.title}
+          </a>
+        </li>))}
+    </ul>
+  </nav>
+

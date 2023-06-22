@@ -1,0 +1,97 @@
+---
+layout: layouts/page
+title: Recognizing Your Account
+permalink: /smarttax/recognizing-your-account/
+sortorder: 4
+hero:
+  image: /assets/img/hero_smarttax.jpg
+  heading: Recognizing Your Account
+billed_account: true
+tags: smarttax
+sidenav: smarttax
+---
+
+<p>The most reliable way to identify GSA SmartPay® Purchase and Fleet charge cards is through the four digit bank identification number (BIN). In order to recognize GSA SmartPay Travel, Tax Advantage Travel, and Integrated cards, please refer to the six-digit BIN.</p>
+
+{% for account in accounts %}
+  <h2 id="{{account.section_id}}">
+  {{ account.name }}
+  </h2>
+  <p> {{ account.description }}</p>
+  {% if account.account_type_des %}
+  <h3>{{ account.name }} Types</h3>
+  <p>{{account.additional_des}} </p>
+  {% endif %}
+
+  {% if account.card_images %}
+    <p>{{ account.name }} may have two different designs:</p>
+    <div class="grid-container">
+      <div class="grid-row grid-gap">
+        {% for image in account.card_images %}
+          <div class="grid-col-4">
+            <img
+            src="{{ image.url | url}}"
+            alt={{image.alt}}/>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+  {% if account.prefixes %}
+    <h4>GSA SmartPay {{ account.name }} Prefixes</h4>
+    <div class="grid-container">
+     {% for item in account.prefixes %}
+      <div class="grid-row">
+        <div class="desktop:grid-col-3">
+          <b>{{item.type}}</b>
+        </div>
+        <div class="desktop:grid-col-3">
+          {{item.number}}
+        </div>
+      </div>
+      {% endfor %}
+  </div>
+   
+  {% endif %}
+  {% if account.sixdigts_identifiers %}
+    <h4>The Sixth Digit Identifies Billing Type</h4>
+    <p class="text-italic">Sixth-digit identifiers for IBAs apply to the travel business line only.</p>
+    <div class="grid-container">
+       {% for item in account.sixdigts_identifiers %}
+        <div class="grid-row grid-gap">
+          <div class="desktop:grid-col-4">
+            <img
+            src="{{ item.url | url}}"
+            alt={{item.alt}}/>
+          </div>
+          <div class="desktop:grid-col-6">
+           <b>{{item.type}} </b><br/>
+           <b>Sixth Digit:</b> {{item.sixdigit}}<br />
+           <b>Billing Type:</b> {{item.billingtype}}<br/>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+  {% if account.exemption_status %}
+    <h3>Tax Exemption Status</h3>
+    <p>{{account.exemption_status}}</p>
+    {% if account.rental_car_exemption %}
+      <h4>Rental Car Exemption Information</h4>
+      <p>{{account.rental_car_exemption}}</p>
+    {% endif %}
+
+
+  {% endif %}
+  {% if account.best_practices %}
+    <h4>Best Practices</h4>
+    <ul>
+      {% for listitem in account.best_practices %}
+        <li>{{listitem}}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+   {% if account.video %}
+    <iframe width="560" height="315" src={{account.video}} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   {% endif %}
+{% endfor %}
