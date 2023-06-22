@@ -21,5 +21,23 @@ i.e.
 */
 
 @use "uswds-core" as *;
+@import '_components/header';
+@import '_components/banner';
+@import '_components/spinner';
 
-@import "site";
+html, body {
+    height: 100%;
+}
+
+.flex-shrink-0 {
+    flex-shrink: 0;
+}
+#app {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    flex-wrap: nowrap;
+}
+.flex-fill {
+    flex: 1 0 auto;
+}
