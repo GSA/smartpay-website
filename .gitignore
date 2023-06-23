@@ -121,4 +121,4 @@ _site
 node_modules
 
 # astro type information
-.astro/
+.astro
