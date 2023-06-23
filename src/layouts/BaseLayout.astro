@@ -1,9 +1,7 @@
 ---
 import GSAHeader from '../components/GSAHeader.astro';
-import BusinessLine from '../components/Businesslines.astro';
 import USAIdentifier from '../components/USAIdentifier.astro';
 import Banner from '../components/Banner.astro';
-import Businesslines from '../components/Businesslines.astro';
 
 
 const { title } = Astro.props;
@@ -28,15 +26,12 @@ const { title } = Astro.props;
     <div id="app" class="grid-row flex flex-column height-full">
       <a class="usa-skipnav" href="#main-content">Skip to main content</a>
       <Banner />
-      <div  class="background flex-fill">
+      <div class="background flex-fill">
         <GSAHeader />
-        <div id="main-content" class="wide-layout">
-          <main>
-            <slot />
-          </main>
-        </div>
+        <main id="main-content" class="wide-layout">
+          <slot />
+        </main>
       </div>
-      <Businesslines />
       <USAIdentifier /> 
     </div>
     <script is:inline src={`${import.meta.env.BASE_URL}js/uswds.min.js`}></script>

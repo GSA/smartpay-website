@@ -1,5 +1,15 @@
 declare module 'astro:content' {
 	interface Render {
+		'.mdx': Promise<{
+			Content: import('astro').MarkdownInstance<{}>['Content'];
+			headings: import('astro').MarkdownHeading[];
+			remarkPluginFrontmatter: Record<string, any>;
+		}>;
+	}
+}
+
+declare module 'astro:content' {
+	interface Render {
 		'.md': Promise<{
 			Content: import('astro').MarkdownInstance<{}>['Content'];
 			headings: import('astro').MarkdownHeading[];
@@ -189,419 +199,25 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"about": {
-"about.md": {
-	id: "about.md";
-  slug: "about";
+"benefits.md": {
+	id: "benefits.md";
+  slug: "benefits";
   body: string;
   collection: "about";
   data: any
 } & { render(): Render[".md"] };
-};
-"smarttax": {
-"about-smarttax.md": {
-	id: "about-smarttax.md";
-  slug: "about-smarttax";
+"business-lines.md": {
+	id: "business-lines.md";
+  slug: "business-lines";
   body: string;
-  collection: "smarttax";
+  collection: "about";
   data: any
 } & { render(): Render[".md"] };
 "index.md": {
 	id: "index.md";
-  slug: "index";
+  slug: "./";
   body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"legal-history.md": {
-	id: "legal-history.md";
-  slug: "legal-history";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/alabama.md": {
-	id: "state-tax-information/alabama.md";
-  slug: "state-tax-information/alabama";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/alaska.md": {
-	id: "state-tax-information/alaska.md";
-  slug: "state-tax-information/alaska";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/arizona.md": {
-	id: "state-tax-information/arizona.md";
-  slug: "state-tax-information/arizona";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/arkansas.md": {
-	id: "state-tax-information/arkansas.md";
-  slug: "state-tax-information/arkansas";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/california.md": {
-	id: "state-tax-information/california.md";
-  slug: "state-tax-information/california";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/colorado.md": {
-	id: "state-tax-information/colorado.md";
-  slug: "state-tax-information/colorado";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/connecticut.md": {
-	id: "state-tax-information/connecticut.md";
-  slug: "state-tax-information/connecticut";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/delaware.md": {
-	id: "state-tax-information/delaware.md";
-  slug: "state-tax-information/delaware";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/district-of-columbia.md": {
-	id: "state-tax-information/district-of-columbia.md";
-  slug: "state-tax-information/district-of-columbia";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/florida.md": {
-	id: "state-tax-information/florida.md";
-  slug: "state-tax-information/florida";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/georgia.md": {
-	id: "state-tax-information/georgia.md";
-  slug: "state-tax-information/georgia";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/guam.md": {
-	id: "state-tax-information/guam.md";
-  slug: "state-tax-information/guam";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/hawaii.md": {
-	id: "state-tax-information/hawaii.md";
-  slug: "state-tax-information/hawaii";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/idaho.md": {
-	id: "state-tax-information/idaho.md";
-  slug: "state-tax-information/idaho";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/illinois.md": {
-	id: "state-tax-information/illinois.md";
-  slug: "state-tax-information/illinois";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/indiana.md": {
-	id: "state-tax-information/indiana.md";
-  slug: "state-tax-information/indiana";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/iowa.md": {
-	id: "state-tax-information/iowa.md";
-  slug: "state-tax-information/iowa";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/kansas.md": {
-	id: "state-tax-information/kansas.md";
-  slug: "state-tax-information/kansas";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/kentucky.md": {
-	id: "state-tax-information/kentucky.md";
-  slug: "state-tax-information/kentucky";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/louisiana.md": {
-	id: "state-tax-information/louisiana.md";
-  slug: "state-tax-information/louisiana";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/maine.md": {
-	id: "state-tax-information/maine.md";
-  slug: "state-tax-information/maine";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/maryland.md": {
-	id: "state-tax-information/maryland.md";
-  slug: "state-tax-information/maryland";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/massachusetts.md": {
-	id: "state-tax-information/massachusetts.md";
-  slug: "state-tax-information/massachusetts";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/michigan.md": {
-	id: "state-tax-information/michigan.md";
-  slug: "state-tax-information/michigan";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/minnesota.md": {
-	id: "state-tax-information/minnesota.md";
-  slug: "state-tax-information/minnesota";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/mississippi.md": {
-	id: "state-tax-information/mississippi.md";
-  slug: "state-tax-information/mississippi";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/missouri.md": {
-	id: "state-tax-information/missouri.md";
-  slug: "state-tax-information/missouri";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/montana.md": {
-	id: "state-tax-information/montana.md";
-  slug: "state-tax-information/montana";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/nebraska.md": {
-	id: "state-tax-information/nebraska.md";
-  slug: "state-tax-information/nebraska";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/nevada.md": {
-	id: "state-tax-information/nevada.md";
-  slug: "state-tax-information/nevada";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/new-hampshire.md": {
-	id: "state-tax-information/new-hampshire.md";
-  slug: "state-tax-information/new-hampshire";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/new-jersey.md": {
-	id: "state-tax-information/new-jersey.md";
-  slug: "state-tax-information/new-jersey";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/new-mexico.md": {
-	id: "state-tax-information/new-mexico.md";
-  slug: "state-tax-information/new-mexico";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/new-york.md": {
-	id: "state-tax-information/new-york.md";
-  slug: "state-tax-information/new-york";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/north-carolina.md": {
-	id: "state-tax-information/north-carolina.md";
-  slug: "state-tax-information/north-carolina";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/north-dakota.md": {
-	id: "state-tax-information/north-dakota.md";
-  slug: "state-tax-information/north-dakota";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/northern-mariana-islands.md": {
-	id: "state-tax-information/northern-mariana-islands.md";
-  slug: "state-tax-information/northern-mariana-islands";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/ohio.md": {
-	id: "state-tax-information/ohio.md";
-  slug: "state-tax-information/ohio";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/oklahoma.md": {
-	id: "state-tax-information/oklahoma.md";
-  slug: "state-tax-information/oklahoma";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/oregon.md": {
-	id: "state-tax-information/oregon.md";
-  slug: "state-tax-information/oregon";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/pennsylvania.md": {
-	id: "state-tax-information/pennsylvania.md";
-  slug: "state-tax-information/pennsylvania";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/puerto-rico.md": {
-	id: "state-tax-information/puerto-rico.md";
-  slug: "state-tax-information/puerto-rico";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/south-carolina.md": {
-	id: "state-tax-information/south-carolina.md";
-  slug: "state-tax-information/south-carolina";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/south-dakota.md": {
-	id: "state-tax-information/south-dakota.md";
-  slug: "state-tax-information/south-dakota";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/tennessee.md": {
-	id: "state-tax-information/tennessee.md";
-  slug: "state-tax-information/tennessee";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/texas.md": {
-	id: "state-tax-information/texas.md";
-  slug: "state-tax-information/texas";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/utah.md": {
-	id: "state-tax-information/utah.md";
-  slug: "state-tax-information/utah";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/vermont.md": {
-	id: "state-tax-information/vermont.md";
-  slug: "state-tax-information/vermont";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/virgin-islands.md": {
-	id: "state-tax-information/virgin-islands.md";
-  slug: "state-tax-information/virgin-islands";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/virginia.md": {
-	id: "state-tax-information/virginia.md";
-  slug: "state-tax-information/virginia";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/washington.md": {
-	id: "state-tax-information/washington.md";
-  slug: "state-tax-information/washington";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/west-virginia.md": {
-	id: "state-tax-information/west-virginia.md";
-  slug: "state-tax-information/west-virginia";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/wisconsin.md": {
-	id: "state-tax-information/wisconsin.md";
-  slug: "state-tax-information/wisconsin";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"state-tax-information/wyoming.md": {
-	id: "state-tax-information/wyoming.md";
-  slug: "state-tax-information/wyoming";
-  body: string;
-  collection: "smarttax";
-  data: any
-} & { render(): Render[".md"] };
-"surcharges.md": {
-	id: "surcharges.md";
-  slug: "surcharges";
-  body: string;
-  collection: "smarttax";
+  collection: "about";
   data: any
 } & { render(): Render[".md"] };
 };
@@ -609,9 +225,7 @@ declare module 'astro:content' {
 	};
 
 	type DataEntryMap = {
-		"faq": {
-};
-
+		
 	};
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;

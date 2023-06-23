@@ -1,0 +1,33 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import SideNav from '../../components/SideNav.astro'
+
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('about');
+  return entries.map(entry => {
+    const slug = entry.slug == './' ? undefined : entry.slug
+    return {
+      params: { slug: slug },
+      props: { entry, entries }
+    }
+  })
+}
+
+const { entry, entries } = Astro.props;
+const { Content, headings } = await entry.render();
+---
+<PageLayout>
+  <SideNav 
+    parent_path="about"
+    pages={entries}
+    headings={headings}
+    id={entry.id}
+  />
+  <div class="usa-prose">
+    <h1>{ entry.data.title }</h1>
+  <Content />
+</div>
+</PageLayout>
+    

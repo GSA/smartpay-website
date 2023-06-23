@@ -2,6 +2,8 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Hero from "../components/Hero.astro"
 import hero_image from "../assets/images/smartpay_website_hero.jpg"
+import Businesslines from '../components/Businesslines.astro';
+
 ---
 <BaseLayout>
 	<Hero  hero_image={hero_image}>
@@ -13,4 +15,6 @@ import hero_image from "../assets/images/smartpay_website_hero.jpg"
 			<a class="usa-button" href="about/">Find out more</a>
 		</div>
     </Hero>
+    <Businesslines />
+
 </BaseLayout>
