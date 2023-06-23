@@ -7,7 +7,7 @@ export default defineConfig({
     site: 'https://training.smartpay.gsa.gov',
     base: process.env.BASEURL,
     integrations: [mdx()],
-    outDir: '../_site',
+    outDir: '_site',
     markdown: {
       rehypePlugins: [uswds_links]
     }
