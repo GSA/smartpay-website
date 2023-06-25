@@ -12,15 +12,17 @@ pages.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
           >{page.data.title} {page.id}
           </a>
           <ul class="usa-sidenav__sublist">
-            {id === page.id && headings.map(h => (
-              <li class="usa-sidenav__item">
-                <a 
-                  href={`#${h.slug}`}
-                  onclick={`document.querySelector('#${h.slug}').scrollIntoView({behavior: "smooth"}); event.preventDefault();`}
-                >
-                  {h.text}
-                </a>
-              </li>)
+            {id === page.id && headings
+              .filter(h => h.level == 2)
+              .map(h => (
+                <li class="usa-sidenav__item">
+                  <a 
+                    href={`#${h.slug}`}
+                    onclick={`document.querySelector('#${h.slug}').scrollIntoView({behavior: "smooth"}); event.preventDefault();`}
+                  >
+                    {h.text}
+                  </a>
+                </li>)
             )}
           </ul>
         </li>))}
