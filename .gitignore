@@ -118,5 +118,7 @@ web_modules/
 
 # 11ty Related
 _site
-public
 node_modules
+
+# astro type information
+.astro

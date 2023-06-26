@@ -7,23 +7,25 @@ in the form $setting: value,
 ----------------------------------------
 */
 
-
 @use "uswds-core" with (
-  // General
-  $theme-show-notifications: false,
-  $theme-hero-image: "../../img/hero.png",
+    $theme-image-path: "../images",
+    $theme-font-path: "../fonts",
 
-  // Components
-  $theme-banner-max-width: "desktop",
-  $theme-footer-max-width: "desktop",
-  $theme-header-max-width: "desktop",
-  $theme-header-min-width: "desktop",
-  $theme-identifier-max-width: "desktop",
-  $theme-site-alert-max-width: "desktop",
-  $theme-breadcrumb-background-color: "base-lightest",
-  $theme-breadcrumb-font-size: "3xs",
+    $theme-color-primary-light: #8DA9E0,
+    $theme-color-primary: #405E97,
+    $theme-color-primary-vivid: #2753A7,
+    $theme-color-primary-dark: #1B3973,
 
-  // Spacing
-  $theme-grid-container-max-width: "desktop",
-  $theme-site-margins-breakpoint: "desktop",
-);
+    $theme-color-base-lightest: #F6F7F9,
+    $theme-color-base-lighter: #E8EBF0,
+    $theme-color-base-light: #7F8CA3,
+    $theme-color-base: #566580,
+    $theme-color-base-dark: #465166,
+    $theme-color-base-darker: #3E495D,
+    $theme-color-base-darkest: #2D3544,
+    $theme-color-base-ink: #1A1F28,
+
+ 
+    $theme-summary-box-background-color: "base-lightest",
+    $theme-summary-box-border-color: "base-light"
+  );

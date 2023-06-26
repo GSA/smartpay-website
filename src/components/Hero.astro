@@ -1,0 +1,21 @@
+---
+    const { hero_image, background_class = 'bg-primary' } = Astro.props;
+    const style = hero_image ? `background-image: url(${hero_image})`: 'background-image: none'
+---
+
+<section class:list={['padding-y-4', `${ background_class }`, { 'usa-hero': hero_image }]} style={style}>
+  <div class="grid-container">
+    <div class="usa-hero__callout">
+      <h1 class="usa-hero__heading"><span class="usa-hero__heading--alt">GSA SmartPay</span>
+      </h1>
+      <p v-if="$slots.subheader" >
+        <slot name="subheader"></slot>
+     </p>
+      <div v-if="$slots.linkbutton">
+        <slot name="linkbutton"></slot>
+      </div>
+      
+    
+    </div>
+  </div>
+</section>

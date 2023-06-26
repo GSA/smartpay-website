@@ -1,0 +1,50 @@
+.usa-nav__primary button.exit {
+  color: color($theme-color-primary);
+  &:hover {
+    color: color($theme-color-base-dark);
+  }
+}
+
+.usa-header--extended {  
+  .usa-logo {
+    margin: 1rem 0 0.5rem;
+  }
+}
+.usa-header {  
+    .usa-logo {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: self-end;
+      font-size: 1.125rem;
+      line-height: 1.7;  
+      margin: 1rem 0 0.5rem;
+
+      @include at-media($theme-header-min-width)  {
+        font-size: 2.13rem;
+        line-height: 1;
+        em {
+            margin-top: .25em;
+        }
+      }
+      .usa-logo-img {
+        float: left;
+        height: units(5);
+        margin-right: units(1);
+  
+        @include at-media($theme-header-min-width) {
+          margin-top: 0;
+          height: units(6);
+        }
+  
+        + .usa-logo__text {
+          float: left;
+        }
+      }
+    }
+  
+    &.usa-header--extended .usa-logo-img {
+      @include at-media($theme-header-min-width) {
+        height: 6rem;
+      }
+    }
+  }
