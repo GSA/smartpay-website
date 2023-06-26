@@ -1,7 +1,8 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+const { title } = Astro.props;
 ---
-<BaseLayout>
+<BaseLayout title={title}>
   <section class="grid-container usa-section">
     <div class="grid-row grid-gap">
       <slot />
