@@ -10,9 +10,9 @@
     "astro": "astro",
     "federalist": "astro build",
     "pa11y-ci": "npm run pa11y-ci:desktop && npm run pa11y-ci:mobile",
-    "pa11y-ci:desktop": "pa11y-ci --config ./.pa11yci-desktop --sitemap http://localhost:3000/sitemap-0.xml   --sitemap-find \"^https://smartpay.gsa.gov/\" --sitemap-replace \"http://localhost:3000/\"",
-    "pa11y-ci:mobile": "pa11y-ci --config ./.pa11yci-mobile --sitemap http://localhost:3000/sitemap-0.xml   --sitemap-find \"^https://smartpay.gsa.gov\" --sitemap-replace \"http://localhost:3000/\"",
-    "pa11y-ci:gh": "npx start-server-and-test start http://localhost:3000 pa11y-ci"
+    "pa11y-ci:desktop": "pa11y-ci --config ./.pa11yci-desktop --sitemap http://localhost:8080/sitemap-0.xml   --sitemap-find \"^https://smartpay.gsa.gov/\" --sitemap-replace \"http://localhost:8080/\"",
+    "pa11y-ci:mobile": "pa11y-ci --config ./.pa11yci-mobile --sitemap http://localhost:8080/sitemap-0.xml   --sitemap-find \"^https://smartpay.gsa.gov\" --sitemap-replace \"http://localhost:8080/\"",
+    "pa11y-ci:gh": "npx start-server-and-test serve http://localhost:8080 pa11y-ci"
   },
   "dependencies": {
     "@astrojs/mdx": "^0.19.7",
