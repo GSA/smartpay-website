@@ -55,14 +55,6 @@
         color: color($theme-color-base-darkest);
     }
 }
-// call out section
-.sp_callout{
-  
-  h2{
-    color: color($theme-color-base-darkest);
-  }
-  
-}
 // Business Line Section
 .align-items-center{
   display:flex;
@@ -73,4 +65,10 @@
   h2, h3 {
     color: white;
   }
+}
+
+// based on new design, h1-h3 are using Merriweather and use base darkest color
+h1, h2, h3{
+  font-family: family('serif');
+  color: color($theme-color-base-darkest);
 }
