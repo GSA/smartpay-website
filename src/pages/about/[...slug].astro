@@ -20,14 +20,15 @@ const { Content, headings } = await entry.render();
 ---
 <PageLayout title={entry.data.title}>
   <SideNav 
+    title="About the GSA SmartPay Program"
     parent_path="about"
     pages={entries}
     headings={headings}
     id={entry.id}
   />
-  <div class="usa-prose">
+  <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
     <h1>{ entry.data.title }</h1>
-  <Content />
+    <Content />
 </div>
 </PageLayout>
     

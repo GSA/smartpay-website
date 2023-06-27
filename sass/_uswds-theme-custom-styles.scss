@@ -21,6 +21,7 @@ i.e.
 */
 
 @use "uswds-core" as *;
+@import '_components/side_nav.scss';
 
 html, body {
    height: 100%;
