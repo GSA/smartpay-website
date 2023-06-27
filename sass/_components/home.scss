@@ -1,10 +1,4 @@
-.usa-nav__primary button.exit {
-  color: color($theme-color-primary);
-  &:hover {
-    color: color($theme-color-base-dark);
-  }
-}
-
+//header section
 .usa-header--extended {  
   .usa-logo {
     margin: 1rem 0 0.5rem;
@@ -48,3 +42,35 @@
       }
     }
   }
+
+
+// Hero Section
+.usa-hero{
+    color: color($theme-color-base-ink);
+    .usa-hero__callout{
+        background-color: white;
+        max-width: 27em;
+    }
+    .usa-hero__heading--alt{
+        color: color($theme-color-base-darkest);
+    }
+}
+// call out section
+.sp_callout{
+  
+  h2{
+    color: color($theme-color-base-darkest);
+  }
+  
+}
+// Business Line Section
+.align-items-center{
+  display:flex;
+  align-items: center;
+}
+.usa-section--dark{
+  color: white;
+  h2, h3 {
+    color: white;
+  }
+}
