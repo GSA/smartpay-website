@@ -1,0 +1,37 @@
+.usa-sidenav {
+    .usa-sidenav__item {
+        background-color: color($theme-color-base-lightest);
+        &:hover {
+            background-color: color($theme-color-base);
+            color: color($theme-color-base-lightest);
+        }
+    }
+    a:not(.usa-button):hover {
+        background-color: color($theme-color-base);
+    }
+    a:not(.usa-button):not(.usa-current):hover {
+        color: color($theme-color-base-lightest);
+    }
+    .usa-sidenav__item.current {
+        background-color: color($theme-color-base);
+        &:hover {
+            color: color($theme-color-base-lightest)
+        }
+    }
+    
+    .usa-current {
+        color: color($theme-color-base-lightest);
+        font-weight: normal;
+    }
+}
+.sp_site_nav {
+    h4 {
+        margin-top:0;
+        padding-top: 1em;
+        border-top: 2px solid color($theme-color-base-light);
+        padding-left: .5em;
+        color: color($theme-color-base);
+    }
+}
+
+

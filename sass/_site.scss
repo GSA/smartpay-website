@@ -4,70 +4,6 @@
   flex-shrink: 0;
 }
 
-.wp-post h1{
-  font-size: 2.5rem;
-  font-weight:700;
-}
-.wp-post h2{
-  font-size: 1.8rem;
-  font-weight:700;
-}
-
-.wp-header__logo {
-  height: 100%;
-  margin-left: 0;
-}
-
-.wp-header__logo-image {
-  @include u-height('full');
-
-  @include at-media(desktop) {
-    @include u-height(7);
-  }
-}
-
-.wp-header__logo-text {
-  display: none;
-
-  @include at-media(desktop) {
-    display: inline;
-    position: relative;
-    bottom: 8px;
-    padding-left: 1rem;
-    @include u-font('sans', 'lg');
-  }
-}
-
-.wp-header__nav {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-
-  @include at-media(desktop) {
-    flex-direction: row;
-  }
-}
-
-.wp-header__nav-title {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.wp-header__nav-title-text {
-  @include u-font('sans', 'lg');
-  @include u-line-height('sans', 1);
-  @include u-text('bold');
-  @include u-text('no-underline');
-  @include u-text('base-darkest');
-}
-
-.wp-header__nav-links {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
 .usa-nav__primary > .usa-nav__primary-item > a {
   @include u-text('base-darkest');
 }
@@ -76,18 +12,6 @@
   @include u-text('primary');
 }
 
-.wp-header__secondary {
-  bottom: 4.8rem;
-}
-
-.wp-breadcrumb {
-  @include u-bg('base-lightest');
-
-  .usa-breadcrumb {
-    padding-top: 0;
-    padding-bottom: 0;
-  }
-}
 
 // Darken the hero image
 .usa-hero {
@@ -118,36 +42,6 @@
   flex-direction: row;
 }
 
-.wp-social-icon {
-  @include u-circle(5);
-  @include u-bg('primary');
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  margin-right: 1em;
-
-  img {
-    filter: invert(1);
-  }
-}
-
-.wp-insights-heading {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-
-  @include at-media(tablet) {
-    flex-direction: row;
-  }
-}
-
-.wp-insights-heading__header {
-  @include at-media(tablet) {
-    margin: 0;
-    align-self: flex-start;
-  }
-}
 
 blockquote {
   @include u-bg('base-lightest');
