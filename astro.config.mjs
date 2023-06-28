@@ -14,4 +14,4 @@ export default defineConfig({
       rehypePlugins: [uswds_links],
       remarkPlugins: [[prefix_links, {baseURL: process.env.BASEURL || '/'}]]
     }
-  });
+});

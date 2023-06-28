@@ -16,7 +16,8 @@ link:
 [root link](/about)
 [full link](https://sam.gov/)
 
-![image](/images/us_flag_small.png)
+![image description](/images/us_flag_small.png)
+
 ### H3 Headings don't go in the menu
 GSA SmartPay payment solutions enable authorized government employees to make purchases on behalf of the federal government in support of their agency’s mission.
 
