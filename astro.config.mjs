@@ -7,7 +7,7 @@ import sitemap from "@astrojs/sitemap";
 // https://astro.build/config
 export default defineConfig({
     site: 'https://smartpay.gsa.gov',
-    base: import.meta.env.BASE_URL,
+    base: process.env.BASEURL,
     integrations: [mdx(), sitemap()],
     outDir: '_site',
     markdown: {
