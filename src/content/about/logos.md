@@ -12,8 +12,8 @@ tags:
 The following graphics may be printed or downloaded to indicate an agency’s use, or a business's acceptance, of GSA SmartPay® payment solutions:
 
 - [GSA SmartPay Logo](../assets/img/splogo.jpg)
-- [GSA SmartPay 3 Fleet, Purchase, Travel and Integrated Card Designs](../assets/files/card-designs.pdf)
-- [Tax Advantage Travel Card Design](../assets/files/tax-advantage-card-design.pdf)
+- [GSA SmartPay 3 Fleet, Purchase, Travel and Integrated Card Designs](../files/card-designs.pdf)
+- [Tax Advantage Travel Card Design](../files/tax-advantage-card-design.pdf)
 
 Please note:
 
