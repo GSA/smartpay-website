@@ -1,5 +1,5 @@
 ---
-title: About the Master Contract
+title: Master Contract
 description: About the GSA SmartPay Master Contract, contracting banks, and terms and conditions.
 order: 3
 category: about
