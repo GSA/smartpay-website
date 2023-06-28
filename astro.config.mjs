@@ -12,6 +12,6 @@ export default defineConfig({
     outDir: '_site',
     markdown: {
       rehypePlugins: [uswds_links],
-      remarkPlugins: [[prefix_links, {baseURL: process.env.BASEURL}]]
+      remarkPlugins: [[prefix_links, {baseURL: process.env.BASEURL || '/'}]]
     }
   });

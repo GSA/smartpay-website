@@ -5,12 +5,8 @@ export default (options) => {
     // only process links that start at the root
     // 
     if (node.url.startsWith('/')) {
-        const relativeUrl = node.url.replace(/^\//, "")
-        console.log(node)
-        console.log(relativeUrl)
-        console.log("Base: ", import.meta.env.BASE_URL)
-
-        node.url = options.baseURL + relativeUrl
+        
+        node.url = `${options.baseURL}/${node.url}`
     }
   }
 
