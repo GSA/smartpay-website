@@ -3,6 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import Hero from "../components/Hero.astro"
 import hero_image from "../assets/images/smartpay_website_hero.jpg"
 import Businesslines from '../components/Businesslines.astro';
+import Callout from "../components/Callout.astro";
 
 ---
 <BaseLayout title="GSA SmartPay">
@@ -11,10 +12,12 @@ import Businesslines from '../components/Businesslines.astro';
         <span slot="subheader">
             The GSA SmartPay Program is the largest government charge card and commercial payment solutions program in the world.
         </span>
-		<div slot ="linkbutton">
-			<a class="usa-button" href="about/">Find out more</a>
-		</div>
+		<div slot ="linkbutton" class="display-flex">
+            <a class="usa-button" href="about/">Find out more</a>
+            <a class="usa-button usa-button--outline" href="#">Benefits</a>
+        </div>
     </Hero>
+    <Callout />
     <Businesslines />
 
 </BaseLayout>
