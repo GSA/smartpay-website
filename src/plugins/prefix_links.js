@@ -6,7 +6,7 @@ export default (options) => {
     // 
     if (node.url.startsWith('/')) {
         
-        node.url = `${options.baseURL}/${node.url}`
+        node.url = `${options.baseURL}${node.url}`
     }
   }
 
