@@ -11,6 +11,10 @@ THis might be a bunch of stuff
 
 We want to see if we can pick this up in the sub navigation
 Established in 1998, the GSA SmartPay program is the world’s largest government charge card and commercial payment solutions program, providing services to more than 560 federal agencies/organizations and Native American tribal governments.
+link:
+[relative link](business-lines)
+[root link](/about)
+[full link](https://sam.gov/)
 
 ### H3 Headings don't go in the menu
 GSA SmartPay payment solutions enable authorized government employees to make purchases on behalf of the federal government in support of their agency’s mission.
