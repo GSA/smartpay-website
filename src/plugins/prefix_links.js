@@ -10,8 +10,9 @@ export default (options) => {
   }
 
   function transform(tree) {
+   
     if (options) {
-      visit(tree, "link", visitor)
+      visit(tree, ["link", "image"], visitor)
     } else {
       throw Error("Missing required `baseURL` option.")
     }
