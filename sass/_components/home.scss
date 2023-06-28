@@ -46,13 +46,13 @@
 
 // Hero Section
 .usa-hero{
-    color: color($theme-color-base-ink);
+    color: color('ink');
     .usa-hero__callout{
         background-color: white;
         max-width: 27em;
     }
     .usa-hero__heading--alt{
-        color: color($theme-color-base-darkest);
+        color: color('base-darkest');
     }
 }
 // Business Line Section
@@ -70,5 +70,9 @@
 // based on new design, h1-h3 are using Merriweather and use base darkest color
 h1, h2, h3{
   font-family: family('serif');
-  color: color($theme-color-base-darkest);
+  color: color('base-darkest');
+}
+
+.base-color{
+  color:color('base');
 }
