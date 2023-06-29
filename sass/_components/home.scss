@@ -22,12 +22,12 @@
       }
       .usa-logo-img {
         float: left;
-        height: units(5);
+        height: 5rem;
         margin-right: units(1);
   
         @include at-media($theme-header-min-width) {
           margin-top: 0;
-          height: units(6);
+          height: 5rem;
         }
   
         + .usa-logo__text {
@@ -38,7 +38,7 @@
   
     &.usa-header--extended .usa-logo-img {
       @include at-media($theme-header-min-width) {
-        height: 6rem;
+        height: 5rem;
       }
     }
   }
@@ -47,6 +47,7 @@
 // Hero Section
 .usa-hero{
     color: color('ink');
+    line-height: line-height('body', 6);
     .usa-hero__callout{
         background-color: white;
         max-width: 27em;
@@ -61,7 +62,9 @@
   align-items: center;
 }
 .usa-section--dark{
+  line-height: line-height('body', 6);
   color: white;
+  background-color: color('primary-dark');
   h2, h3 {
     color: white;
   }
@@ -73,6 +76,10 @@ h1, h2, h3{
   color: color('base-darkest');
 }
 
+h2 {
+  font-size: 1.75em;
+}
 .base-color{
   color:color('base');
 }
+

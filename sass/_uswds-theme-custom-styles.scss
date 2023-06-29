@@ -26,6 +26,7 @@ i.e.
 
 html, body {
    height: 100%;
+   line-height: line-height('body', 6);
 }
 
 .flex-shrink-0 {
@@ -40,3 +41,4 @@ html, body {
 .flex-fill {
    flex: 1 0 auto;
 }
+
