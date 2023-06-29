@@ -9,7 +9,7 @@ tags:
   - master contract
 ---
 
-Eligibility for the program is determined by the GSA SmartPay® Contracting Officer. Federal agencies, departments, tribal organizations and approved non-federal entities (including those eligible to use GSA sources of supply and/or cost-reimbursable contractors) can apply to obtain GSA SmartPay payment solutions. Further eligibility information can be found in section C.2.1.1 of the [GSA SmartPay 3 Master Contract]({{ '/about/master-contract/' | url }}).
+Eligibility for the program is determined by the GSA SmartPay® Contracting Officer. Federal agencies, departments, tribal organizations and approved non-federal entities (including those eligible to use GSA sources of supply and/or cost-reimbursable contractors) can apply to obtain GSA SmartPay payment solutions. Further eligibility information can be found in section C.2.1.1 of the [GSA SmartPay 3 Master Contract](/about/master-contract/).
 
 For those eligible to apply, contact your agency/organization program coordinator (A/OPC) to obtain and submit an application for the GSA SmartPay account. Please note:
 
@@ -19,9 +19,10 @@ For those eligible to apply, contact your agency/organization program coordinato
 
 ## Tribes, Tribal Organizations, and Other Non-Federal Entities
 
-The GSA SmartPay Fleet, Purchase, Travel and Integrated payment solutions can be used by tribes, tribal organizations, and other non-federal entities. To participate in the GSA SmartPay program, [fill out and submit the application]({{ '/assets/files/gsasmartpay-application.pdf' | url }}).
+The GSA SmartPay Fleet, Purchase, Travel and Integrated payment solutions can be used by tribes, tribal organizations, and other non-federal entities. To participate in the GSA SmartPay program, [fill out and submit the application](/files/gsasmartpay-application.pdf).
 
-Tribes, tribal organizations, and non-federal entities that are interested in quickly meeting their immediate need with minimal resources may want to seriously consider joining the GSA pool. 
+Tribes, tribal organizations, and non-federal entities that are interested in quickly meeting their immediate need with minimal resources may want to seriously consider joining the GSA pool.
+
 For further details about the application process and about the GSA pool option, please reach out to Pamela Morgan (Business Management Specialist, Center for Charge Card Management) at [pamela.morgan@gsa.gov](mailto:pamela.morgan@gsa.gov).
 
 ## State/Local Governments
