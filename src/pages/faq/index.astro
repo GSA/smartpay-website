@@ -1,0 +1,30 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import SideNav from '../../components/SideNav.astro'
+import { getCollection, getEntry, getEntryBySlug } from 'astro:content';
+
+const entry = await getEntryBySlug('faq','cardholder');
+console.log(entry)
+
+const pages = await getCollection('faq');
+console.log(pages)
+pages.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
+const content_components = pages.map(async entry => (
+  {...entry, Content: (await entry.render()).Content}
+))
+
+const entries = await Promise.all(content_components)
+
+---
+<PageLayout title="Frequent Asked Questions">
+ 
+  <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
+    {entries.map(item => (  
+      <div style="page-break-after: auto;">
+        <h1 class="text-primary">{item.data.title}</h1> 
+        <item.Content />
+      </div>
+      
+    ))}
+  </div>
+</PageLayout>
