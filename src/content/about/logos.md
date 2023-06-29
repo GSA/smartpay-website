@@ -11,11 +11,61 @@ tags:
 
 The following graphics may be printed or downloaded to indicate an agency’s use, or a business's acceptance, of GSA SmartPay® payment solutions:
 
-- GSA SmartPay Logo
-  - [EPS format](/files/gsasmartpay_vector.eps)
-  - [PNG format](/files/gsasmartpay.png)
-- [GSA SmartPay 3 Fleet, Purchase, Travel and Integrated Card Designs](/files/card-designs.pdf)
-- [Tax Advantage Travel Card Design](/files/tax-advantage-card-design.pdf)
+<table class="usa-table usa-table--borderless">
+  <thead>
+    <tr>
+      <th scope="col">Description</th>
+      <th scope="col">Image Preview</th>
+      <th scope="col">Download</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">GSA SmartPay Logo</th>
+      <td>
+        <img src="/images/gsa-smartpay-logo_thumb.png" alt="GSA SmartPay Logo with GSA star logo, SmartPay, and Supporting your mission" />
+      </td>
+      <td><a href="/files/gsa-smartpay-program-logo.zip">Download ZIP file</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Travel Card Design</th>
+      <td>
+        <img src="/images/blue-card_thumb.png" alt="Blue charge card with the word Travel and numbers 1234 5678 9012 3456 and the name John Smith, with an airplane in the background" />
+      </td>
+      <td><a href="/files/gsa-smartpay-travel-card-design.zip">Download ZIP file</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Purchase Card Design</th>
+      <td>
+        <img src="/images/red-card_thumb.png" alt="Red charge card with the word Purchase and numbers 1234 5678 9012 3456 and the name John Smith, with a bird in the background"/>
+      </td>
+      <td><a href="/files/gsa-smartpay-purchase-card-design.zip">Download ZIP file</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Fleet Card Design</th>
+      <td>
+        <img src="/images/green-card_thumb.png" alt="Green charge card with the word Fleet and numbers 1234 5678 9012 3456 and the name John Smith, with a road in the background" />
+      </td>
+      <td><a href="/files/gsa-smartpay-fleet-card-design.zip">Download ZIP file</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Integrated Card Design</th>
+      <td>
+        <img src="/images/yellow-card_thumb.png" alt="Yellow charge card with the word Intergrated and numbers 1234 5678 9012 3456 and the name John Smith, with a globe outline in the background" />
+      </td>
+      <td><a href="/files/gsa-smartpay-integrated-card-design.zip">Download ZIP file</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Tax Advantage Card Design</th>
+      <td>
+        <img src="/images/silver-card_thumb.png" alt="Silver charge card with the words Tax advantage and numbers 1234 5678 9012 3456 and the name John Smith, with a car and buildings in the background" />
+      </td>
+      <td><a href="/files/gsa-smartpay-tax-advantage-card-design.zip">Download ZIP file</a></td>
+    </tr>    
+  </tbody>
+</table>
+
+_Logo download contains SVG, PNG, and EPS formats. Card downloads contain PNG and JPG formats._
 
 Please note:
 
