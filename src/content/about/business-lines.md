@@ -25,7 +25,7 @@ To pay for supplies or services.
 Centrally Billed Account (CBA).
 
 **Publication**  
-[Helpful Hints for Purchase Account Use](../files/purchase-account-helpful-hints.pdf).
+[Helpful Hints for Purchase Account Use](/files/purchase-account-helpful-hints.pdf).
 
 ## Travel
 
@@ -36,7 +36,7 @@ To pay for travel and travel related expenses. Primary mechanism used to purchas
 Individually Billed Account (IBAs) or CBA.
 
 **Publication**  
-[Helpful Hints for Travel Account Use](../files/travel-account-helpful-hints.pdf).
+[Helpful Hints for Travel Account Use](/files/travel-account-helpful-hints.pdf).
 
 ## Fleet
 
@@ -47,7 +47,7 @@ To pay for the purchase of fuel, maintenance and repair of government owned/oper
 CBA.  
 
 **Publication**  
-[Helpful Hints for Fleet Account Use](../files/fleet-account-helpful-hints.pdf).
+[Helpful Hints for Fleet Account Use](/files/fleet-account-helpful-hints.pdf).
 
 ## Tax Advantage Travel
 
@@ -58,7 +58,7 @@ To pay for travel and travel related expenses.
 Combines IBA and CBA transactions to provide tax exemption at the point of sale for rental car and lodging expenses.
 
 **Publication**  
-[GSA SmartPay® Tax Advantage Travel Account](../files/tax-advantage-travel-account.pdf).
+[GSA SmartPay® Tax Advantage Travel Account](/files/tax-advantage-travel-account.pdf).
 
 ## Integrated
 
@@ -69,7 +69,7 @@ To pay for purchases involving two or more business lines (i.e. fleet, purchase,
 Considered CBA, but may involve both IBA and CBA transactions, which is determined at the agency’s task order level.
 
 **Publications**  
-[Purchase](../files/purchase-account-helpful-hints.pdf), [Travel](../files/travel-account-helpful-hints.pdf) and [Fleet](../files/fleet-account-helpful-hints.pdf) Helpful Hints.
+[Purchase](/files/purchase-account-helpful-hints.pdf), [Travel](/files/travel-account-helpful-hints.pdf) and [Fleet](/files/fleet-account-helpful-hints.pdf) Helpful Hints.
 
 <!--Link when built-->
 

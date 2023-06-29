@@ -12,10 +12,10 @@ tags:
 The following graphics may be printed or downloaded to indicate an agency’s use, or a business's acceptance, of GSA SmartPay® payment solutions:
 
 - GSA SmartPay Logo
-  - [EPS format](../files/gsasmartpay_vector.eps)
-  - [PNG format](../files/gsasmartpay.png)
-- [GSA SmartPay 3 Fleet, Purchase, Travel and Integrated Card Designs](../files/card-designs.pdf)
-- [Tax Advantage Travel Card Design](../files/tax-advantage-card-design.pdf)
+  - [EPS format](/files/gsasmartpay_vector.eps)
+  - [PNG format](/files/gsasmartpay.png)
+- [GSA SmartPay 3 Fleet, Purchase, Travel and Integrated Card Designs](/files/card-designs.pdf)
+- [Tax Advantage Travel Card Design](/files/tax-advantage-card-design.pdf)
 
 Please note:
 
