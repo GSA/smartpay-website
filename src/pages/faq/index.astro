@@ -2,13 +2,16 @@
 import PageLayout from '../../layouts/PageLayout.astro';
 import SideNav from '../../components/SideNav.astro'
 import { getCollection, getEntry, getEntryBySlug } from 'astro:content';
+//import { handleAccordionSearch } from '../../utils/accordionSearch';
+
+
 
 const entry = await getEntryBySlug('faq','cardholder');
 console.log(entry)
 
 const pages = await getCollection('faq');
 console.log(pages)
-pages.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
+pages.sort((a, b) => (a.data.order) - b.data.order)
 const content_components = pages.map(async entry => (
   {...entry, Content: (await entry.render()).Content}
 ))
@@ -28,3 +31,8 @@ const entries = await Promise.all(content_components)
     ))}
   </div>
 </PageLayout>
+<script is:inline src="/js/accordionSearch.js"></script>
+<script>
+  // why function is not working?
+ // import "../../utils/accordionSearch.js"
+</script>
