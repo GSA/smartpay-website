@@ -1,13 +1,11 @@
 
     function expandAllAccordions(){
-        this.alert("hello")
         const buttons = document.querySelectorAll('.usa-accordion__button');
         buttons.forEach((button)=>{
             button.setAttribute('aria-expanded','true');
         })
         var accordionContents = document.querySelectorAll('.usa-accordion__content');
         accordionContents.forEach((content)=>{
-        this.alert(content);
         content.removeAttribute('hidden');
         });
 
@@ -19,7 +17,6 @@
         })
         var accordionContents = document.querySelectorAll('.usa-accordion__content');
         accordionContents.forEach((content)=>{
-        this.alert(content);
         content.setAttribute('hidden','hidden');
         });
 

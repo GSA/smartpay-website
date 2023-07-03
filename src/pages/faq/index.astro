@@ -1,30 +1,32 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
-import SideNav from '../../components/SideNav.astro'
-import { getCollection, getEntry, getEntryBySlug } from 'astro:content';
-//import { handleAccordionSearch } from '../../utils/accordionSearch';
-
-
-
-const entry = await getEntryBySlug('faq','cardholder');
-console.log(entry)
-
+import SideNav from '../../components/SinglePageSideNav.astro'
+import { getCollection} from 'astro:content';
 const pages = await getCollection('faq');
-console.log(pages)
+//console.log(pages)
 pages.sort((a, b) => (a.data.order) - b.data.order)
 const content_components = pages.map(async entry => (
   {...entry, Content: (await entry.render()).Content}
 ))
 
 const entries = await Promise.all(content_components)
-
+// const sidebar_entries =[{id:'index.astro', slug:'./', data:{title: 'Frequently Asked Questions'}}]
+const headings = [{ slug: 'state-tax-faq', text:"State Tax FAQ"}, 
+{slug:'cardholder-faq',text:'Cardholder FAQ'},
+{slug: 'agencyorganization-program-coordinators-aopcs-faq', text:"A/OPCs FAQ"}, 
+{slug:'merchant-faq',text:'Merchant FAQ'},
+{slug:'government-shutdown-faq',text:'Government Shutdown FAQ'},
+]
 ---
 <PageLayout title="Frequent Asked Questions">
- 
+  <SideNav 
+  title="Frequently Asked Questions"
+  headings ={headings}
+/>
+
   <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
     {entries.map(item => (  
-      <div style="page-break-after: auto;">
-        <h1 class="text-primary">{item.data.title}</h1> 
+      <div>
         <item.Content />
       </div>
       
