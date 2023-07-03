@@ -1,47 +1,40 @@
 ---
-title: A title goes here
-excerpt: Some excerpt
+title: Benefits of the Program
+description: "Some of the benefits customers can expect when they choose GSA SmartPay."
 order: 1
+category: about
+tags:
+  - about
+  - benefits
+  - refunds
 ---
-This is just a bunch of text to test in-page nav.
 
-THis might be a bunch of stuff
+Some of the benefits for customers using GSA SmartPay® solutions as a payment method include:
 
-## An H2 element
+## Cost Savings Realized
 
-We want to see if we can pick this up in the sub navigation
-Established in 1998, the GSA SmartPay program is the world’s largest government charge card and commercial payment solutions program, providing services to more than 560 federal agencies/organizations and Native American tribal governments.
+Customers have the opportunity to realize administrative cost savings through payment efficiencies. In FY22 alone, the estimated administrative savings for the purchase card was $1.34 billion per year ($70 per transaction) when used in place of a written purchase order. In addition, agencies pay no direct fees to use GSA SmartPay solutions.
 
-### H3 Headings don't go in the menu
-GSA SmartPay payment solutions enable authorized government employees to make purchases on behalf of the federal government in support of their agency’s mission.
+## Agency Refunds
 
-#### Neither for H4
+Agencies have the opportunity to earn refunds based on the dollar volume of transactions and the speed of payment.
 
-GSA SmartPay payment solutions:
+## Safety and Transparency
 
-##### or H5 
+The GSA SmartPay program provides secure solutions for efficient payment transactions. Customers also have access to tools that provide increased transparency to spend and performance data.
 
-* Streamline transaction processing.
-* Increase accountability.
-* Provide a more efficient and effective means to monitor transactions and to identify fraud, waste, and abuse.
+## Electronic Access to Data
 
-The GSA Center for Charge Card Management (CCCM) and GSA SmartPay contractor banks are dedicated to identifying opportunities to provide customers with GSA SmartPay solutions to help address agency payment challenges. 
+Through the GSA SmartPay contractor bank’s Electronic Access System (EAS), account managers and account holders have immediate access to complete transaction-level data, helping to mitigate fraud, waste and abuse.
 
-CCCM seeks to increase awareness of available payment solutions under the [GSA SmartPay 3 Master Contract](https://smartpay.gsa.gov/about/master-contract) and help agencies continue to find ways to increase payment efficiencies, earn refunds and identify innovative ways to improve cost savings.
-Established in 1998, the GSA SmartPay program is the world’s largest government charge card and commercial payment solutions program, providing services to more than 560 federal agencies/organizations and Native American tribal governments.
+## Worldwide Acceptance
 
-GSA SmartPay payment solutions enable authorized government employees to make purchases on behalf of the federal government in support of their agency’s mission.
+Through the use of commercial payment infrastructure, customers are able to use GSA SmartPay solutions anywhere in the world where merchants accept cards.
 
-GSA SmartPay payment solutions:
+## Identification for Discount Programs
 
-* Streamline transaction processing.
-* Increase accountability.
-* Provide a more efficient and effective means to monitor transactions and to identify fraud, waste, and abuse.
+GSA SmartPay solutions provide automatic point-of-sale recognition for many GSA discount programs, including [Federal Strategic Sourcing Initiative](https://www.gsa.gov/buy-through-us/purchasing-programs/federal-strategic-sourcing-initiative-fssi) (FSSI), the [GSA City Pair Program](https://www.gsa.gov/travel/plan-book/transportation-airfare-rates-pov-rates-etc/city-pair-program-cpp) (CPP) and more.
 
-The GSA Center for Charge Card Management (CCCM) and GSA SmartPay contractor banks are dedicated to identifying opportunities to provide customers with GSA SmartPay solutions to help address agency payment challenges. 
+## Other Benefits
 
-CCCM seeks to increase awareness of available payment solutions under the [GSA SmartPay 3 Master Contract](https://smartpay.gsa.gov/about/master-contract) and help agencies continue to find ways to increase payment efficiencies, earn refunds and identify innovative ways to improve cost savings.
-
-## Another H2 element 
-
-We also want to see if we can pick this up in the sub navigation
+GSA SmartPay payment solutions provide other, less tangible benefits, including travel insurance and eliminating the need for imprest funds or petty cash at the agency.
