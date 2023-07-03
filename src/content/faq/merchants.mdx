@@ -4,6 +4,7 @@ order: 4
 ---
 import Accordion from '../../components/Accordion.astro';
 
+
 # Merchant FAQ
 
 <Accordion  question="Do I have to accept GSA SmartPay® accounts?" expand="true">
@@ -18,6 +19,26 @@ To promote the use of the GSA SmartPay payment solutions at their establishments
 <Accordion  question="How do I identify GSA SmartPay Accounts?">
 Most GSA SmartPay Accounts will use government-specific designs and will display the GSA SmartPay logo, including the phrase “United States Government” or “For Official Use Only.”
 The five standard card designs are displayed below:
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+        <img src="/images/red-card.svg" alt="Red charge card with the word Purchase and numbers 1234 5678 9012 3456 and the name John Smith, with a bird in the background"/>
+    </div>
+    <div class="tablet:grid-col"> 
+    <img src="/images/blue-card.svg" 
+    alt="Blue charge card with the word Travel and numbers 1234 5678 9012 3456 and the name John Smith, with an airplane in the background"/>
+    </div>
+  </div>
+  <div class="grid-row">
+    <div class="tablet:grid-col"><img src="/images/green-card.svg" alt="Green charge card with the word Fleet and numbers 1234 5678 9012 3456 and the name John Smith, with a road in the background"/></div>
+    <div class="tablet:grid-col"><img src="/images/yellow-card.svg" alt="Yellow charge card with the word Intergrated and numbers 1234 5678 9012 3456 and the name John Smith, with a globe outline in the background"/></div>
+  </div>
+  <div class="grid-row">
+    <div class="tablet:grid-col"><img src="/images/silver-card.svg" alt="Silver charge card with the words Tax advantage and numbers 1234 5678 9012 3456 and the name John Smith, with a car and buildings in the background" /></div>
+    <div class="tablet:grid-col"></div>
+  </div>
+</div>
 
 </Accordion>
 <Accordion  question="How do I accept a GSA SmartPay account?">
