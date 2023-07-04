@@ -36,21 +36,20 @@
             content.removeAttribute('hidden');
             });
         }
-        // when user use cmd+g to exist search
-        else if ((e.ctrlKey || e.metaKey) && e.key === 'g')
-        {
-            const buttons = document.querySelectorAll('.usa-accordion__button');
-            buttons.forEach((button)=>{
-                button.setAttribute('aria-expanded','false');
-            })
-            var accordionContents = document.querySelectorAll('.usa-accordion__content');
-            accordionContents.forEach((content)=>{
-                content.setAttribute('hidden','hidden');
-            });
-        }
+
     })
 
     window.addEventListener('beforeunload',function(event){
-       this.collapseAllAccordions();
-    })
+        this.alert("hello");
+       
+      // this.collapseAllAccordions();
+      const buttons = document.querySelectorAll('.usa-accordion__button');
+        buttons.forEach((button)=>{
+            button.setAttribute('aria-expanded','false');
+        })
+        var accordionContents = document.querySelectorAll('.usa-accordion__content');
+        accordionContents.forEach((content)=>{
+        content.setAttribute('hidden','hidden');
+        });
+    });
 //}
