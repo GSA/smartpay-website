@@ -23,19 +23,17 @@ const headings = [{ slug: 'state-tax-faq', text:"State Tax FAQ"},
   title="Frequently Asked Questions"
   headings ={headings}
 />
-
   <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
+    <h1>Frequently Asked Questions</h1>
     {entries.map(item => (  
       <div>
         <item.Content />
       </div>
-      
     ))}
   </div>
 </PageLayout>
-<!--<script type="text/javascript" is:inline src="/js/accordionSearch.js" ></script>-->
 <script >
- 
-  import "../../utils/accordionSearch.js"
-  
+  import {handleAccordionSearch, increaseHeadingLevels} from "../../assets/js/faqHelper.js"
+  handleAccordionSearch();
+  increaseHeadingLevels();
 </script>

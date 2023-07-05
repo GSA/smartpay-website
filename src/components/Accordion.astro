@@ -1,5 +1,5 @@
 ---
-import {generateUniqueId} from '../utils/idGenerator';
+//import {generateUniqueId} from '../assets/js/faqHelper';
 //const uniqueID = generateUniqueId({category})
 
 import {v4 as uuidv4} from 'uuid';
@@ -21,7 +21,8 @@ const DynamicHeading = valid_headings.includes(heading_level)? heading_level: "h
         {question}
       </button>
     </DynamicHeading>
-    <div id={uniqueID} class="usa-accordion__content usa-prose">
+    <!--sd-accordion-js has no actual style, it used as identifier in faqHelper.js to querry all accordiance, since usa-accordion__content class also used on banner -->
+    <div id={uniqueID} class="usa-accordion__content usa-prose sd-accordion-js">
       <slot />
     </div>
   </div>
