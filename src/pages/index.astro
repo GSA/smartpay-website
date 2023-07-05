@@ -13,8 +13,8 @@ import Callout from "../components/Callout.astro";
             The GSA SmartPay Program is the largest government charge card and commercial payment solutions program in the world.
         </span>
 		<div slot ="linkbutton" class="display-flex">
-            <a class="usa-button" href="about/">Find out more</a>
-            <a class="usa-button usa-button--outline" href="about/benefits">Benefits</a>
+            <a class="usa-button" href={`${import.meta.env.BASE_URL}about/`}>Find out more</a>
+            <a class="usa-button usa-button--outline" href={`${import.meta.env.BASE_URL}about/benefits`}>Benefits</a>
         </div>
     </Hero>
     <Callout />
