@@ -3,20 +3,14 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import SideNav from '../../components/SinglePageSideNav.astro'
 import { getCollection} from 'astro:content';
 const pages = await getCollection('faq');
-//console.log(pages)
 pages.sort((a, b) => (a.data.order) - b.data.order)
-const content_components = pages.map(async entry => (
-  {...entry, Content: (await entry.render()).Content}
-))
 
+const content_components = pages.map(async entry => (
+  {...entry, ...(await entry.render())}
+))
 const entries = await Promise.all(content_components)
-// const sidebar_entries =[{id:'index.astro', slug:'./', data:{title: 'Frequently Asked Questions'}}]
-const headings = [{ slug: 'state-tax-faq', text:"State Tax FAQ"}, 
-{slug:'cardholder-faq',text:'Cardholder FAQ'},
-{slug: 'agencyorganization-program-coordinators-aopcs-faq', text:"A/OPCs FAQ"}, 
-{slug:'merchant-faq',text:'Merchant FAQ'},
-{slug:'government-shutdown-faq',text:'Government Shutdown FAQ'},
-]
+const headings = entries.map(entry => entry.headings[0])
+
 ---
 <PageLayout title="Frequent Asked Questions">
   <SideNav 
