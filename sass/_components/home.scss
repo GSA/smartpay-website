@@ -74,7 +74,9 @@
     }
 }
 
-
+.usa-nav__submenu{
+  width: 16rem;
+}
 // based on new design, h1-h3 are using Merriweather and use base darkest color
 h1, h2, h3{
   font-family: family('serif');
