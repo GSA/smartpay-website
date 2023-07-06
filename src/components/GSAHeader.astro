@@ -31,10 +31,28 @@ import searchIcon from "../assets/images/usa-icons/search--white.svg"
             </button>
             <ul id="extended-nav-section-about" class="usa-nav__submenu">
               <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
+                <a href={`${import.meta.env.BASE_URL}about/`}><span class="margin-x-1">About GSA SmartPay</span></a>
               </li>
               <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
+                <a href={`${import.meta.env.BASE_URL}about/benefits`}><span class="margin-x-1">Benefits of the Program </span></a>
+              </li>
+              <li class="usa-nav__submenu-item">
+                <a href={`${import.meta.env.BASE_URL}about/business-lines`}><span class="margin-x-1">Business Lines</span></a>
+              </li>
+              <li class="usa-nav__submenu-item">
+                <a href={`${import.meta.env.BASE_URL}about/master-contract`}><span class="margin-x-1">Master Contract</span></a>
+              </li>
+              <li class="usa-nav__submenu-item">
+                <a href={`${import.meta.env.BASE_URL}about/logos`}><span class="margin-x-1">Logos and Designs</span></a>
+              </li>
+              <li class="usa-nav__submenu-item">
+                <a href={`${import.meta.env.BASE_URL}about/refunds`}><span class="margin-x-1">Refunds</span></a>
+              </li>
+              <li class="usa-nav__submenu-item">
+                <a href={`${import.meta.env.BASE_URL}about/strategic-payment-solutions`}><span class="margin-x-1">Strategic Payment Solutions</span></a>
+              </li>
+              <li class="usa-nav__submenu-item">
+                <a href={`${import.meta.env.BASE_URL}about/statistics`}><span class="margin-x-1">Statistics and Reports</span></a>
               </li>
             </ul>
           </li>
@@ -49,10 +67,10 @@ import searchIcon from "../assets/images/usa-icons/search--white.svg"
             </button>
             <ul id="extended-nav-section-how-it-works" class="usa-nav__submenu">
               <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
+                <a href={`${import.meta.env.BASE_URL}how-it-works/`}><span class="margin-x-1">How the Program Works</span></a>
               </li>
               <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
+                <a href={`${import.meta.env.BASE_URL}how-it-works/eligibility`}><span class="margin-x-1">Eligibility</span></a>
               </li>
             </ul>
           </li>
@@ -67,30 +85,18 @@ import searchIcon from "../assets/images/usa-icons/search--white.svg"
             </button>
             <ul id="extended-nav-section-stakeholders" class="usa-nav__submenu">
               <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
+                <a href={`${import.meta.env.BASE_URL}stakeholders/key-players`}><span class="margin-x-1">Key Players</span></a>
               </li>
               <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
+                <a href={`${import.meta.env.BASE_URL}stakeholders/program-coordinators`}><span class="margin-x-1">Agency/Org Program Coordinators</span></a>
+              </li>
+              <li class="usa-nav__submenu-item">
+                <a href={`${import.meta.env.BASE_URL}stakeholders/account-holders`}><span class="margin-x-1">Card/Account Holders</span></a>
               </li>
             </ul>
           </li>
           <li class="usa-nav__primary-item">
-            <button
-              type="button"
-              class="usa-accordion__button usa-nav__link"
-              aria-expanded="false"
-              aria-controls="extended-nav-section-merchants"
-            >
-              <span>Merchants</span>
-            </button>
-            <ul id="extended-nav-section-merchants" class="usa-nav__submenu">
-              <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
-              </li>
-              <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
-              </li>
-            </ul>
+            <a href={`${import.meta.env.BASE_URL}merchants/merchant-overview`} class="usa-nav-link"><span>Merchants</span></a>
           </li>
           <li class="usa-nav__primary-item">
             <button
@@ -103,10 +109,16 @@ import searchIcon from "../assets/images/usa-icons/search--white.svg"
             </button>
             <ul id="extended-nav-section-statetax" class="usa-nav__submenu">
               <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
+                <a href={`${import.meta.env.BASE_URL}smarttax/state-tax-forms`}><span class="margin-x-1">State Tax Forms</span></a>
               </li>
               <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
+                <a href={`${import.meta.env.BASE_URL}smarttax/resources`}><span class="margin-x-1">State Tax Forms</span></a>
+              </li>
+              <li class="usa-nav__submenu-item">
+                <a href={`${import.meta.env.BASE_URL}smarttax/recognizing-your-account`}><span class="margin-x-1">Recognizing Charge Cards</span></a>
+              </li>
+              <li class="usa-nav__submenu-item">
+                <a href={`${import.meta.env.BASE_URL}smarttax/legal-history`}><span class="margin-x-1">Legal History</span></a>
               </li>
             </ul>
           </li>
@@ -121,10 +133,13 @@ import searchIcon from "../assets/images/usa-icons/search--white.svg"
             </button>
             <ul id="extended-nav-section-policy" class="usa-nav__submenu">
               <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
+                <a href={`${import.meta.env.BASE_URL}policies-and-audits/policies`}><span class="margin-x-1">Policies</span></a>
               </li>
               <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
+                <a href={`${import.meta.env.BASE_URL}policies-and-audits/audits`}><span class="margin-x-1">Audit Repository</span></a>
+              </li>
+              <li class="usa-nav__submenu-item">
+                <a href={`${import.meta.env.BASE_URL}policies-and-audits/smart-bulletins`}><span class="margin-x-1">Smart Bulletins</span></a>
               </li>
             </ul>
           </li>
@@ -139,10 +154,13 @@ import searchIcon from "../assets/images/usa-icons/search--white.svg"
             </button>
             <ul id="extended-nav-section-resources" class="usa-nav__submenu">
               <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
+                <a href={`${import.meta.env.BASE_URL}resources/tools/section-889`}><span class="margin-x-1">889 tool</span></a>
               </li>
               <li class="usa-nav__submenu-item">
-                <a href=""><span class="margin-x-1">&lt;Navigation link&gt;</span></a>
+                <a href={`${import.meta.env.BASE_URL}resources/publications/`}><span class="margin-x-1">Publications and Videos</span></a>
+              </li>
+              <li class="usa-nav__submenu-item">
+                <a href={`${import.meta.env.BASE_URL}events/gsa-smartpay-forum`}><span class="margin-x-1">Events</span></a>
               </li>
             </ul>
           </li>
@@ -156,12 +174,12 @@ import searchIcon from "../assets/images/usa-icons/search--white.svg"
               </a>
             </li>
             <li class="usa-nav__secondary-item">
-              <a href="javascript:void(0);">
+              <a href={`${import.meta.env.BASE_URL}contact/`}>
                 Contact
               </a>
             </li>
             <li class="usa-nav__secondary-item">
-              <a href="javascript:void(0);">
+              <a href={`${import.meta.env.BASE_URL}faq/`}>
                 FAQs
               </a>
             </li>
