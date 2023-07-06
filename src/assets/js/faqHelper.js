@@ -32,7 +32,6 @@ export function handleAccordionSearch(){
 
     window.addEventListener('beforeunload',function(e){
         // beforeunload no longer working?
-        alert("search window closed");
         collapseAllAccordions();
     });
 }
