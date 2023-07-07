@@ -44,11 +44,14 @@ html, body {
    flex: 1 0 auto;
 }
 
+<<<<<<< HEAD
 .usa-intro {
    @include u-font('sans', $theme-type-scale-lg);
    @include u-color('base-darker');
 }
 
+=======
+>>>>>>> main
 /* global h4 headings are sans */
  
 h4 {
@@ -59,4 +62,8 @@ h4 {
    h4 {
       @include u-font('sans', $theme-type-scale-sm)
    }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> main
