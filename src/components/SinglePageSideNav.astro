@@ -1,0 +1,22 @@
+---
+const { id, headings,path, title} = Astro.props;
+
+---
+<div class="usa-layout-docs__sidenav desktop:grid-col-4">
+  <nav class="sp_site_nav" aria-label="Secondary navigation">
+    <h4>{ title }</h4>
+      <ul class="usa-sidenav">
+            {headings.map(h => (
+                <li class="usa-sidenav__item">
+                  <a 
+                    href={`#${h.slug}`}
+                    onclick={`document.querySelector('#${h.slug}').scrollIntoView({behavior: "smooth"}); event.preventDefault();`}
+                  >
+                  {h.text}
+                  </a>
+                </li>)
+            )}
+     </ul>
+  </nav>
+</div>
+

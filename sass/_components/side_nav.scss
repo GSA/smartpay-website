@@ -29,6 +29,9 @@
     }
 }
 .sp_site_nav {
+    // let the sidebar sticky to the top left when screen are scrolling
+    position: sticky;
+    top: 0;
     h4 {
         margin-top:0;
         padding-top: 1em;
