@@ -73,4 +73,4 @@ Considered CBA, but may involve both IBA and CBA transactions, which is determin
 
 <!--Link when built-->
 
-Review frequently asked questions about the GSA SmartPay program.
+Review [frequently asked questions about the GSA SmartPay program](/faq).
