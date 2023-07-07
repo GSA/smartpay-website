@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
-import uswds_links from "./src/plugins/uswds_links";
-import prefix_links from './src/plugins/prefix_links';
+import process_anchors from "./src/plugins/process_anchors";
+import process_image_urls from './src/plugins/process_image_urls';
 import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
@@ -11,7 +11,9 @@ export default defineConfig({
     integrations: [mdx(), sitemap()],
     outDir: '_site',
     markdown: {
-      rehypePlugins: [uswds_links],
-      remarkPlugins: [[prefix_links, {baseURL: process.env.BASEURL || '/'}]]
+      rehypePlugins: [
+        [process_anchors, {baseURL: process.env.BASEURL || '/'}],
+        [process_image_urls, {baseURL: process.env.BASEURL || '/'}]
+      ],
     }
 });
