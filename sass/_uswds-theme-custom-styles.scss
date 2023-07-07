@@ -32,12 +32,14 @@ html, body {
 .flex-shrink-0 {
    flex-shrink: 0;
 }
+
 #app {
    display: flex;
    flex-direction: column;
    height: 100%;
    flex-wrap: nowrap;
 }
+
 .flex-fill {
    flex: 1 0 auto;
 }
@@ -47,3 +49,14 @@ html, body {
    @include u-color('base-darker');
 }
 
+/* global h4 headings are sans */
+ 
+h4 {
+   @include u-font('sans', $theme-type-scale-sm)
+}
+
+.usa-prose {
+   h4 {
+      @include u-font('sans', $theme-type-scale-sm)
+   }
+}
