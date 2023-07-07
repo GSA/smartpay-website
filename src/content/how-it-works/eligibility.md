@@ -1,6 +1,7 @@
 ---
 title: Eligibility and the Application Process
 description: "Who is eligible and how to apply for GSA SmartPay solutions."
+intro: "Eligibility for the program is determined by the GSA SmartPay® Contracting Officer."
 order: 1
 category: how it works
 tags:
@@ -9,7 +10,7 @@ tags:
   - master contract
 ---
 
-Eligibility for the program is determined by the GSA SmartPay® Contracting Officer. Federal agencies, departments, tribal organizations and approved non-federal entities (including those eligible to use GSA sources of supply and/or cost-reimbursable contractors) can apply to obtain GSA SmartPay payment solutions. Further eligibility information can be found in section C.2.1.1 of the [GSA SmartPay 3 Master Contract](/about/master-contract/).
+Federal agencies, departments, tribal organizations and approved non-federal entities (including those eligible to use GSA sources of supply and/or cost-reimbursable contractors) can apply to obtain GSA SmartPay payment solutions. Further eligibility information can be found in section C.2.1.1 of the [GSA SmartPay 3 Master Contract](/about/master-contract/).
 
 For those eligible to apply, contact your agency/organization program coordinator (A/OPC) to obtain and submit an application for the GSA SmartPay account. Please note:
 

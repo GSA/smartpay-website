@@ -1,6 +1,7 @@
 ---
 title: Benefits of the Program
 description: "Some of the benefits customers can expect when they choose GSA SmartPay."
+intro: "Some of the benefits for customers using GSA SmartPay® solutions as a payment method include:"
 order: 1
 category: about
 tags:
@@ -8,8 +9,6 @@ tags:
   - benefits
   - refunds
 ---
-
-Some of the benefits for customers using GSA SmartPay® solutions as a payment method include:
 
 ## Cost Savings Realized
 

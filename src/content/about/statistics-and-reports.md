@@ -1,6 +1,7 @@
 ---
 title: Statistics and Reports
 description: "We offer statistics and monthly reporting on spend, transactions, and the number of account holders."
+intro: "We offer statistics and monthly reporting on spend, transactions, and the number of account holders."
 order: 7
 category: about
 tags:
@@ -9,8 +10,6 @@ tags:
   - master contract
 sidenav: about
 ---
-
-We offer statistics and monthly reporting on spend, transactions, and the number of account holders.
 
 ---
 

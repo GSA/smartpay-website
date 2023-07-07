@@ -1,6 +1,7 @@
 ---
 title: Business Lines
 description: "GSA SmartPay business lines include purchase, travel, fleet, tax advantage, and integrated."
+intro: "There are several business lines associated with the GSA SmartPay® program."
 order: 2
 category: about
 tags:
@@ -13,8 +14,6 @@ tags:
 ---
 
 <!--Needs card images. Proposed layout is two column (or image floats).-->
-
-There are several business lines associated with the GSA SmartPay® program.
 
 ## Purchase
 
