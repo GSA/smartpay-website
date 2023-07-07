@@ -28,6 +28,13 @@ const { Content, headings } = await entry.render();
   />
   <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
     <h1>{ entry.data.title }</h1>
+
+    { entry.data.intro && ( 
+      <p class="usa-intro">
+        { entry.data.intro }
+      </p>
+    )}
+
     <Content />
 </div>
 </PageLayout>
