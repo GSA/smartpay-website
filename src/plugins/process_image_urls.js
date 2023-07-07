@@ -39,7 +39,6 @@ function process_mdx_image(node, baseURL) {
   export default (options) => {
     return tree => {
       visit(tree,  [{"type": "element", "tagName": "img"}, {"type":'mdxJsxFlowElement', "name": "img"}], (node, index, parent) => {
-        console.log(node)
         if (node.type === 'mdxJsxFlowElement') {
             process_mdx_image(node, options.baseURL)
         } else {
