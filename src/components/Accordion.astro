@@ -3,12 +3,12 @@
 //const uniqueID = generateUniqueId({category})
 
 import {v4 as uuidv4} from 'uuid';
-const { question, expand=false, heading_level="h2" } = Astro.props;
+const { question, expand=false, heading_level="h3" } = Astro.props;
 
 const uniqueID = uuidv4()
 
 const valid_headings =["h2","h3","h4","h5","h6"]
-const DynamicHeading = valid_headings.includes(heading_level)? heading_level: "h2";
+const DynamicHeading = valid_headings.includes(heading_level)? heading_level: "h3";
 ---
 <div class="usa-accordion usa-accordion--bordered margin-top-2">
     <DynamicHeading class="usa-accordion__heading">

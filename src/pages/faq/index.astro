@@ -1,35 +1,40 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
 import SideNav from '../../components/FAQSideNav.astro'
-import { getCollection} from 'astro:content';
-const pages = await getCollection('faq');
-pages.sort((a, b) => (a.data.order) - b.data.order)
+import { getEntry} from 'astro:content';
+const page = await getEntry('faq','faq');
 
-const content_components = pages.map(async entry => (
-  {...entry, ...(await entry.render())}
-))
-const entries = await Promise.all(content_components)
+const faq = await page.render()
+const Content = faq.Content
+const headings = faq.headings
 
-const headings = entries.map(entry => entry.headings)
-//console.log(headings)
-
+// put h3 items as submenu of h2 and form new headings
+const newHeadings = []
+let currentParent = null;
+for(const heading of headings){
+  if(heading.depth ===2 )
+  {
+    currentParent = {...heading, submenu:[]}
+    newHeadings.push(currentParent)
+  }
+  else if(heading.depth===3 && currentParent)
+  {
+    currentParent.submenu.push(heading);
+  }
+}
+//console.log(newHeadings)
 ---
 <PageLayout title="Frequent Asked Questions">
   <SideNav 
   title="Frequently Asked Questions"
-  headings ={headings}
-/>
+  headings ={newHeadings}
+  />
   <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
     <h1>Frequently Asked Questions</h1>
-    {entries.map(item => (  
-      <div>
-        <item.Content />
-      </div>
-    ))}
+    <Content />
   </div>
 </PageLayout>
 <script >
-  import {handleAccordionSearch, increaseHeadingLevels} from "../../assets/js/faqHelper.js"
+  import {handleAccordionSearch} from "../../assets/js/faqHelper.js"
   handleAccordionSearch();
-  increaseHeadingLevels();
 </script>
