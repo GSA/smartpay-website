@@ -1,6 +1,6 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
-import SideNav from '../../components/SinglePageSideNav.astro'
+import SideNav from '../../components/FAQSideNav.astro'
 import { getCollection} from 'astro:content';
 const pages = await getCollection('faq');
 pages.sort((a, b) => (a.data.order) - b.data.order)
@@ -9,7 +9,9 @@ const content_components = pages.map(async entry => (
   {...entry, ...(await entry.render())}
 ))
 const entries = await Promise.all(content_components)
-const headings = entries.map(entry => entry.headings[0])
+
+const headings = entries.map(entry => entry.headings)
+//console.log(headings)
 
 ---
 <PageLayout title="Frequent Asked Questions">

@@ -1,0 +1,32 @@
+---
+const {  headings,title} = Astro.props;
+---
+<div class="usa-layout-docs__sidenav desktop:grid-col-4">
+  <nav class="sp_site_nav" aria-label="Secondary navigation">
+    <h4>{ title }</h4>
+      <ul class="usa-sidenav">
+            {headings.map(h => (
+                <li class="usa-sidenav__item">
+                  <a 
+                    href={`#${h[0].slug}`}
+                    onclick={`document.querySelector('#${h[0].slug}').scrollIntoView({behavior: "smooth"}); event.preventDefault();`}
+                  >
+                  {h[0].text}
+                  </a>
+                  {h.filter(item=> item.depth==2).map(item=>(<ul class="usa-sidenav__sublist">
+                    <li class="usa-sidenav__item">
+                      <a 
+                        href={`#${item.slug}`}
+                        onclick={`document.querySelector('#${item.slug}').scrollIntoView({behavior: "smooth"}); event.preventDefault();`}
+                      >
+                        {item.text}
+                      </a>
+                    </li>
+                  </ul>)) 
+                }
+                </li>)
+            )}
+     </ul>
+  </nav>
+</div>
+
