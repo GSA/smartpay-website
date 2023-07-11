@@ -17,6 +17,13 @@
             color: color('base-lightest');
         }
     }
+
+    // used for FAQ page that doesn't have usa-current but have sub menu
+  
+    a:not(:hover):not(.usa-current) {
+       
+        background-color:color('base-lightest');
+    }
     .usa-sidenav__item.current {
         background-color: color('base');
         &:hover {
