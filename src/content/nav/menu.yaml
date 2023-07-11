@@ -1,0 +1,60 @@
+- title: About
+  submenu:
+  - title: About GSA SmartPay
+    href: about/
+  - title: Benefits of the Program
+    href: about/benefits
+  - title: Business Lines
+    href: about/business-lines
+  - title: Master Contract
+    href: about/master-contract
+  - title: Logos and Designs
+    href: about/logos
+  - title: Refunds
+    href: about/refunds
+  - title: Strategic Payment Solutions
+    href: about/strategic-payment-solutions
+  - title: Statistics and Reports
+    href: about/statistics
+- title: How it Works
+  submenu: 
+  - title: How the Program Works
+    href: how-it-works/
+  - title: Eligibility
+    href: how-it-works/eligibility
+- title: Stakeholders
+  submenu:
+  - title: Key Players
+    href: stakeholders/
+  - title: Agency/Org Program Coordinators
+    href: stakeholders/program-coordinators
+  - title: Card/Account Holders
+    href: stakeholders/account-holders
+- title: Merchants
+  href: merchants/merchant-overview
+- title: State Tax Information
+  submenu:
+  - title: State Tax Forms
+    href: smarttax/state-tax-forms
+  - title: Tax Resources
+    href: smarttax/resources
+  - title: Recognizing Charge Cards
+    href: smarttax/recognizing-your-account
+  - title: Legal History
+    href: smarttax/legal-history
+- title: Policies & Audits
+  submenu:
+  - title: Policies
+    href: policies-and-audits/policies
+  - title: Audit Repository
+    href: policies-and-audits/audits
+  - title: Smart Bulletins
+    href: policies-and-audits/smart-bulletins
+- title: Resources
+  submenu:
+  - title: 889 tool
+    href: resources/tools/section-889
+  - title: Publications and Videos
+    href: resources/publications
+  - title: Events
+    href: events/gsa-smartpay-forum
