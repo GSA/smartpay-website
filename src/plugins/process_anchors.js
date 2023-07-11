@@ -17,7 +17,7 @@ import path from 'path'
 function isInternalDomain(url) {
   try { 
     const domain = new URL(url)
-    return domain.hostname.endsWith('smartpay.gsa.gov')
+    return domain.hostname.endsWith('smartpay.gsa.gov') || domain.protocol=='mailto:'
   } catch(e) {
     // this represents urls like "/some/path" without domain
     return true
