@@ -1,0 +1,41 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import SideNav from '../../components/SideNav.astro'
+
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('stakeholders');
+  return entries.map(entry => {
+    const slug = entry.slug == './' ? undefined : entry.slug
+    return {
+      params: { slug: slug },
+      props: { entry, entries }
+    }
+  })
+}
+
+const { entry, entries } = Astro.props;
+const { Content, headings } = await entry.render();
+---
+<PageLayout title={entry.data.title}>
+  <SideNav 
+    title="Stakeholders"
+    parent_path="stakeholders"
+    pages={entries}
+    headings={headings}
+    id={entry.id}
+  />
+  <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
+    <h1>{ entry.data.title }</h1>
+
+    { entry.data.intro && ( 
+      <p class="usa-intro">
+        { entry.data.intro }
+      </p>
+    )}
+
+    <Content />
+</div>
+</PageLayout>
+    
