@@ -1,5 +1,5 @@
 ---
-const { id, pages, headings, parent_path, title} = Astro.props;
+const { id, pages, headings, parent_path, title, additional_menu={}} = Astro.props;
 pages.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
 
 ---
@@ -29,6 +29,10 @@ pages.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
             )}
           </ul>
         </li>))}
+        {additional_menu&&
+        <li ><a href={`${import.meta.env.BASE_URL}${additional_menu.path}`}>{additional_menu.text}</a></li>
+        }
+
     </ul>
   </nav>
 </div>
