@@ -26,9 +26,9 @@
   submenu:
   - title: Key Players
     href: stakeholders/
-  - title: Agency/Org Program Coordinators
+  - title: Program Coordinator Responsibilities
     href: stakeholders/program-coordinators
-  - title: Card/Account Holders
+  - title: Card/Account Holder Responsibilities
     href: stakeholders/account-holders
 - title: Merchants
   href: merchants/merchant-overview
