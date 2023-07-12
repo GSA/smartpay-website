@@ -1,0 +1,7 @@
+---
+const { parent_nav_path, parent_nav_text} = Astro.props;
+import previousNavIcon from '../assets/images/previous-nav-icon.svg'
+---
+<div class="display-flex">
+    <img src={previousNavIcon} style="vertical-align:center;"><a class="usa-link" href={`${import.meta.env.BASE_URL}${parent_nav_path}`}>Return to the {parent_nav_text}</a>
+</div>
