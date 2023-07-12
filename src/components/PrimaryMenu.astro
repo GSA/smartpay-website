@@ -1,0 +1,24 @@
+---
+import PrimaryMenuItem from './PrimaryMenuItem.astro';
+import closeIcon from '../assets/images/usa-icons/close.svg'
+
+import { getEntry } from 'astro:content';
+const menuData = await getEntry('nav', 'menu');
+---
+
+<button type="button" class="usa-nav__close">
+  <img src={ closeIcon } alt="Close" />
+</button>
+<ul id='header_main_menu' class="usa-nav__primary usa-accordion">
+  {
+    menuData.data.map(menu => (
+      <PrimaryMenuItem 
+        title={ menu.title }
+        href={ menu.href } 
+        submenu={ menu.submenu }
+      />
+    ))
+  }
+</ul>
+    
+
