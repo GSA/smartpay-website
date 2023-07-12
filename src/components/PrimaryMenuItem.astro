@@ -1,0 +1,37 @@
+---
+const {title, submenu, href} = Astro.props;
+let title_slug = title.toLowerCase().replace(' ', '-');
+---
+
+ { submenu 
+  ? ( /* Menu items with dropdown content  */
+    <li class="usa-nav__primary-item">
+      <button
+        type="button"
+        class="usa-accordion__button usa-nav__link"
+        aria-expanded="false"
+        aria-controls={`extended-nav-section-${title_slug}`}
+    >
+      <span>
+        {title}
+      </span>
+      </button>
+      <ul id={`extended-nav-section-${title_slug}`} class="usa-nav__submenu">
+        { submenu.map(menuItem => (
+          <li class="usa-nav__submenu-item padding-x-1">
+            <a href={`${import.meta.env.BASE_URL}${menuItem.href}`}><span>{menuItem.title}</span></a>
+          </li>
+        ))}
+      </ul>
+    </li>
+  )
+  : ( /* Menu items without dropdown content  */
+    <li class="usa-nav__primary-item">
+      <a href={`${import.meta.env.BASE_URL}${href}`} class="usa-nav-link">
+        <span>
+          {title}
+        </span>
+      </a>
+    </li>
+  )
+}
