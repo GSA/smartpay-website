@@ -13,11 +13,11 @@ tags:
 
 ## 2020
 
-- January: U.S. Department of Housing and Urban Development (HUD), Washington, DC - Government Purchase Cards
-- January: U.S. Department of Housing and Urban Development (HUD), Washington, DC - Government Travel Cards
-- March: Controls Over the SEC’s Travel Charge Card Program Could Be Strengthened To More Fully Comply With Requirements and Maximize Benefits
-- March: Department of Transportation (DOT) Needs To Enhance Oversight of Its Purchase Card Program To Mitigate Internal Control Weaknesses
-- November: Disaster Response: Agencies Should Assess Contracting Workforce Needs and Purchase Card Fraud Risk
+- January: [U.S. Department of Housing and Urban Development (HUD), Washington, DC - Government Purchase Cards](/policies-and-audits/audits/2020-hud-purchase)
+- January: [U.S. Department of Housing and Urban Development (HUD), Washington, DC - Government Travel Cards](/policies-and-audits/audits/2020-hud-travel)
+- March: [Controls Over the SEC’s Travel Charge Card Program Could Be Strengthened To More Fully Comply With Requirements and Maximize Benefits](/policies-and-audits/audits/2020-sec-travel)
+- March: [Department of Transportation (DOT) Needs To Enhance Oversight of Its Purchase Card Program To Mitigate Internal Control Weaknesses](/policies-and-audits/audits/2020-dot-purchase)
+- November: [Disaster Response: Agencies Should Assess Contracting Workforce Needs and Purchase Card Fraud Risk](/policies-and-audits/audits/2020-gao-disaster-response)
 
 ## 2019
 
