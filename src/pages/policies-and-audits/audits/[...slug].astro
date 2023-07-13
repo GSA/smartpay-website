@@ -5,9 +5,6 @@ import SideNav from '../../../components/SinglePageSideNav.astro'
 import TopNav from '../../../components/TopNav.astro'
 export async function getStaticPaths() {
   const entries = await getCollection('audits');
-  console.log(entries)
-  
-
   return entries.map(entry => {
     const slug = entry.slug == './' ? undefined : entry.slug
     return {
