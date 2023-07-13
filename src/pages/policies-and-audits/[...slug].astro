@@ -6,11 +6,12 @@ import { getCollection, getEntry } from 'astro:content';
 
 export async function getStaticPaths() {
   const entries = await getCollection('policies-and-audits');
+  //console.log(entries)
   const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
 
   return entries.map(entry => {
     return {
-      params: { slug: entry.slug },
+      params: { slug: entry.slug},
       props: { entry, entries, smartbulletinsData }
     }
   })
@@ -20,6 +21,7 @@ const { Content, headings } = await entry.render();
 const parent_path ="policies-and-audits"
 ---
 <PageLayout title={entry.data.title}>
+  
   <SideNav 
     title="Policies & Audits"
     parent_path={parent_path}
