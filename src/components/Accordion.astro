@@ -10,18 +10,19 @@ const uniqueID = uuidv4()
 const valid_headings =["h2","h3","h4","h5","h6"]
 const DynamicHeading = valid_headings.includes(heading_level)? heading_level: "h3";
 ---
+<!--sd-accordion-js and sd-accordion-button-js are used as identifier in faqHelper.js to querry all faq accordion, no actual style involved, as usa-accordion class are used on multiple places including banner and nav menu-->
 <div class="usa-accordion usa-accordion--bordered margin-top-2">
     <DynamicHeading class="usa-accordion__heading">
       <button
         type="button"
-        class="usa-accordion__button"
+        class="usa-accordion__button sd-accordion-button-js"
         aria-expanded={expand}
         aria-controls={uniqueID}
       >
         {question}
       </button>
     </DynamicHeading>
-    <!--sd-accordion-js has no actual style, it used as identifier in faqHelper.js to querry all accordiance, since usa-accordion__content class also used on banner -->
+    
     <div id={uniqueID} class="usa-accordion__content usa-prose sd-accordion-js">
       <slot />
     </div>
