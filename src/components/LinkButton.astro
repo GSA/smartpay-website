@@ -1,5 +1,7 @@
 ---
 const { text, link } = Astro.props;
+const newLink = link.includes("http")? link: `${import.meta.env.BASE_URL}${link}`
+console.log(newLink)
 ---
 
 <a href={link} class="usa-button">{text}</a>

@@ -4,37 +4,43 @@ parent_nav_text: Polices & Audits
 parent_nav_path: policies-and-audits/policies
 order: 2
 bulletins:
-  - number: No.037
+  - number: No. 037
     title: TikTok Ban; Micro-Purchasing Implications
     audience: Purchase, Integrated
     published: Jun 22, 2023
     lastupdated: N/A
-  - number: No.036
+    filename: smart-bulletin-037
+  - number: No. 036
     title: Use of GSA SmartPay Charge Cards to Pay for Electric Vehicle Charging Pursuant to the “Charging Helps Agencies Realize General Efficiencies” Act or “CHARGE” Act)
     audience: Purchase
     published: Sep 1, 2020
     lastupdated: N/A
-  - number: No.035
+    filename: smart-bulletin-036
+  - number: No. 035
     title: GSA SmartPay® – OMB Circular No. A-123, Appendix B Agency Reporting to GSA/CCCM; Submission Implementing Guidance for Transit Benefit Accounts
     audience: Purchase
     published: Sep 1, 2020 
     lastupdated:  N/A 
-  - number: No.034
+    filename: smart-bulletin-035
+  - number: No. 034
     title: Requests for JPMorgan Chase & Co. (JPM) GSA SmartPay 2® (SP2) Data
     audience: All Business Lines
     published: Aug 28, 2020
     lastupdated: N/A
-  - number: No.033
+    filename: smart-bulletin-034
+  - number: No. 033
     title: Card Management Implications and Information for Agency Consideration in Relation to the Section 889 Prohibition on
     audience: Purchase, Travel, Fleet and Integrated
     published: Aug 20, 2020
     lastupdated: N/A
-  - number: No.032
+    filename: smart-bulletin-033
+  - number: No. 032
     title:  Updates to Commercial Interchange Fee for VISA and MasterCard Products
     audience: Purchase, Travel, VISA/MasterCard Fleet, and Integrated
     published: Dec 20, 2019
     lastupdated: N/A
-  - number: No.031
+    filename: smart-bulletin-032
+  - number: No. 031
     title: GSA SmartPay – OMB Circular A-123, Appendix B Implementing Guidance and Clarifications/Updates
     audience: Purchase, Travel, Fleet and Integrated
     published: Dec 19, 2019
