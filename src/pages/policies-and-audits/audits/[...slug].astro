@@ -25,11 +25,11 @@ const { Content, headings } = await entry.render();
 
   <TopNav parent_nav_path="policies-and-audits/audits" parent_nav_text = "Audit Repository" />
       <SideNav 
-      title="Frequently Asked Questions"
+      title={entry.data.title}
       headings ={headings}
       />
       <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
-        <h1>Audit Repository</h1>
+        <h1>{entry.data.title}</h1>
         <Content />
       </div>
     </div>
