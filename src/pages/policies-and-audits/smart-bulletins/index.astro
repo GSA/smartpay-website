@@ -1,7 +1,6 @@
 ---
 import { getEntry } from 'astro:content';
 import PageLayout from '../../../layouts/PageLayout.astro';
-import Intro from '../../../components/Intro.astro'
 import TopNav from '../../../components/TopNav.astro'
 const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
 ---
@@ -9,7 +8,7 @@ const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
     <div>
      <TopNav parent_nav_path={smartbulletinsData.data.parent_nav_path} parent_nav_text = {smartbulletinsData.data.parent_nav_text} />
       <h1>{smartbulletinsData.data.title}</h1>
-      <Intro into ={smartbulletinsData.data.into} />
+      <p class="usa-intro">{smartbulletinsData.data.into}</p>
       <!--smart buletins table -->
       <table class="usa-table usa-table--borderless">
         <thead>
@@ -24,13 +23,13 @@ const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
         <tbody>
          { smartbulletinsData.data.bulletins.map(item=>(
             <tr>
-            <th scope="row">{item.number}</th>
+            <th scope="row" class="grid-col-1">{item.number}</th>
             <td>
              <a href={`${import.meta.env.BASE_URL}files/smartbulletins/${item.number}.pdf`}>{item.title}</a> 
             </td>
-            <td>{item.audience}</td>
-            <td>{item.published}</td>
-            <td>{item.lastupdated}</td>
+            <td class="grid-col-2">{item.audience}</td>
+            <td class="grid-col-2">{item.published}</td>
+            <td class="grid-col-1">{item.lastupdated}</td>
           </tr>
 
          ))}
