@@ -1,7 +1,7 @@
 export function handleAccordionSearch(){
 
     function expandAllAccordions(){
-        const buttons = document.querySelectorAll('.usa-accordion__button');
+        const buttons = document.querySelectorAll('.sd-accordion-button-js');
         buttons.forEach((button)=>{
             button.setAttribute('aria-expanded','true');
         })
@@ -12,28 +12,13 @@ export function handleAccordionSearch(){
         });
 
     }
-    function collapseAllAccordions(){
-        const buttons = document.querySelectorAll('.usa-accordion__button');
-        buttons.forEach((button)=>{
-            button.setAttribute('aria-expanded','false');
-        })
-        var accordionContents = document.querySelectorAll('.usa-accordion__content');
-        accordionContents.forEach((content)=>{
-        content.setAttribute('hidden','hidden');
-        });
-
-    }
     window.addEventListener("keydown", function(e) {
         // when user press cmd+f or ctrl + f for search, make all accordion expanded for search
+    
         if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
             expandAllAccordions();
         }
     })
-
-    window.addEventListener('beforeunload',function(e){
-        // beforeunload no longer working?
-        collapseAllAccordions();
-    });
 }
     // // below JS is to increase original heading level from the FAQ collection because addtional H1 tag Frequently Asked Qunestions is added. 
     export function increaseHeadingLevels(){
