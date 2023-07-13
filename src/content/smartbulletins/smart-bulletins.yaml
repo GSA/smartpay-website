@@ -9,31 +9,31 @@ bulletins:
     audience: Purchase, Integrated
     published: Jun 22, 2023
     lastupdated: N/A
-    filename: smart-bulletin-037
+    filename: smart-bulletin-037.pdf
   - number: No. 036
     title: Use of GSA SmartPay Charge Cards to Pay for Electric Vehicle Charging Pursuant to the “Charging Helps Agencies Realize General Efficiencies” Act or “CHARGE” Act)
     audience: Purchase
     published: Sep 1, 2020
     lastupdated: N/A
-    filename: smart-bulletin-036
+    filename: smart-bulletin-036.pdf
   - number: No. 035
     title: GSA SmartPay® – OMB Circular No. A-123, Appendix B Agency Reporting to GSA/CCCM; Submission Implementing Guidance for Transit Benefit Accounts
     audience: Purchase
     published: Sep 1, 2020 
     lastupdated:  N/A 
-    filename: smart-bulletin-035
+    filename: smart-bulletin-035.pdf
   - number: No. 034
     title: Requests for JPMorgan Chase & Co. (JPM) GSA SmartPay 2® (SP2) Data
     audience: All Business Lines
     published: Aug 28, 2020
     lastupdated: N/A
-    filename: smart-bulletin-034
+    filename: smart-bulletin-034.pdf
   - number: No. 033
     title: Card Management Implications and Information for Agency Consideration in Relation to the Section 889 Prohibition on
     audience: Purchase, Travel, Fleet and Integrated
     published: Aug 20, 2020
     lastupdated: N/A
-    filename: smart-bulletin-033
+    filename: smart-bulletin-033.pdf
   - number: No. 032
     title:  Updates to Commercial Interchange Fee for VISA and MasterCard Products
     audience: Purchase, Travel, VISA/MasterCard Fleet, and Integrated
@@ -45,3 +45,54 @@ bulletins:
     audience: Purchase, Travel, Fleet and Integrated
     published: Dec 19, 2019
     lastupdated: N/A
+    filename: smart-bulletin-031.pdf
+  - number: No. 030
+    title: GSA SmartPay – OMB Circular No. A-123, Appendix B Agency Reporting to GSA/CCCM; Submission Implementing Guidance
+    audience: Purchase, Travel, Fleet and Integrated
+    published: Dec 18, 2019
+    lastupdated: N/A
+    filename: smart-bulletin-030.pdf
+  - number: No. 029
+    title: Interim Federal Acquisition Regulation (FAR) Rule Prohibiting Acquiring Certain Telecommunications and Video Surveillance Equipment or Services
+    audience: Purchase and Integrated
+    published: Aug 13, 2019
+    lastupdated: N/A
+    filename: smart-bulletin-029.pdf   
+  - number: No. 028
+    title: "GSA SmartPay® – Re-emphasizing Record Keeping Requirements (Issued pursuant to Government Accountability Office (GAO) Audit Report # GAO-17-276)"
+    audience: Purchase and Integrated
+    published: Mar 29, 2017
+    lastupdated: N/A
+    filename: smart-bulletin-028.pdf
+  - number: No. 027
+    title: GSA SmartPay– Identifying Cost Saving Opportunities in Purchase Card Spend
+    audience: Purchase and Integrated
+    published: Aug 1, 2016
+    lastupdated: N/A
+    filename: smart-bulletin-027.pdf
+  - number: No. 026
+    title: GSA SmartPay–FPDS Reporting for Orders under Indefinite Delivery Vehicles At or Below the Micro-Purchase Threshold
+    audience: Purchase and Integrated
+    published: Jun 2, 2016
+    lastupdated: N/A
+    filename: smart-bulletin-026.pdf   
+  - number: No. 025
+    title: GSA SmartPay-Record Retention Requirements
+    audience: Purchase, Travel, Fleet and Integrated
+    published: Sep 10, 2015
+    lastupdated: N/A
+    filename: smart-bulletin-025.pdf
+  - number: No. 024
+    title: GSA SmartPay – Rewards Program Policy and Guidance
+    audience: Purchase, Integrated and Fleet
+    published: May 22, 2019
+    lastupdated: N/A
+    filename: smart-bulletin-024.pdf
+  - number: No. 023
+    title: GSA SmartPay - Third Party Payment Processors
+    audience: Purchase, Travel, Fleet and Integrated
+    published: 
+    lastupdated: N/A
+    filename: smart-bulletin-0.pdf   
+
+  
