@@ -1,0 +1,20 @@
+---
+const {items} = Astro.props;
+---
+
+<div class="bg-base-lightest padding-2">
+    <ul class="usa-icon-list">
+      {items.map(text => (
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green">
+          <svg class="usa-icon" aria-hidden="true" role="img">
+            <use xlink:href={`${import.meta.env.BASE_URL}images/sprite.svg#check_circle`}></use>
+          </svg>
+        </div>
+        <div class="usa-icon-list__content">
+          {text}
+        </div>
+      </li>
+      ))}
+    </ul>
+  </div>
