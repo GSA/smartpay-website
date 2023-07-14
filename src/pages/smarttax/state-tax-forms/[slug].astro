@@ -24,6 +24,8 @@ const { Content, headings } = await entry.render();
   <SinglePageSideNav 
     title={entry.data.name}
     headings={headings}
+    returnLink = "../"
+    returnLinkText = "Return to State Tax Forms"
   />
   <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
     <h1>{ entry.data.name } Tax Information</h1>
