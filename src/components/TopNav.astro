@@ -1,0 +1,10 @@
+---
+const { parent_nav_path, parent_nav_text} = Astro.props;
+import previousNavIcon from '../assets/images/previous-nav-icon.svg'
+const url = `${import.meta.env.BASE_URL}${parent_nav_path}`
+
+---
+<div class="display-flex margin-bottom-2" style="width:100%">
+    <img src={previousNavIcon} aria-hidden="true" role="img" >
+    <a class="usa-link" href={url}>{parent_nav_text}</a>
+</div>

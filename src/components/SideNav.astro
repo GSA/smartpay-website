@@ -1,7 +1,6 @@
 ---
 const { id, pages, headings, parent_path, title} = Astro.props;
 pages.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
-
 ---
 <div class="usa-layout-docs__sidenav desktop:grid-col-4">
   <nav class="sp_site_nav" aria-label="Secondary navigation">
@@ -11,7 +10,7 @@ pages.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
         <li class:list={["usa-sidenav__item", {current: id === page.id }]}>
           <a 
             class={id === page.id ? 'usa-current' : null } 
-            href={`${import.meta.env.BASE_URL}${parent_path}/${page.slug}`}
+            href={`${import.meta.env.BASE_URL}${parent_path}/${page.slug || page.id}`}
           >{page.data.title}
           </a>
           <ul class="usa-sidenav__sublist">
