@@ -39,7 +39,7 @@ bulletins:
     audience: Purchase, Travel, VISA/MasterCard Fleet, and Integrated
     published: Dec 20, 2019
     lastupdated: N/A
-    filename: smart-bulletin-032
+    filename: smart-bulletin-032.pdf
   - number: No. 031
     title: GSA SmartPay – OMB Circular A-123, Appendix B Implementing Guidance and Clarifications/Updates
     audience: Purchase, Travel, Fleet and Integrated
@@ -159,7 +159,7 @@ bulletins:
     audience: Purchase, Integrated
     published: May 17, 2016
     lastupdated: May 17, 2016
-    filename: smart-bulletin-0.pdf
+    filename: smart-bulletin-012.pdf
   - number: No. 011
     title: Federal Strategic Sourcing Initiatives (FSSI) Blanket Purchase Agreements (BPAs)
     audience: Purchase, Integrated
@@ -171,7 +171,7 @@ bulletins:
     audience: Travel, Integrated
     published: May 4, 2010
     lastupdated: N/A
-    filename: smart-bulletin-0.pdf
+    filename: smart-bulletin-010.pdf
   - number: No. 009
     title: GSA SmartPay® – Clarification Regarding Selected Uses of Purchase and Travel Charge Cards
     audience: Purchase, Travel, and Integrated
