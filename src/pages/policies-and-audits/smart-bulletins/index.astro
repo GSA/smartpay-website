@@ -1,0 +1,40 @@
+---
+import { getEntry } from 'astro:content';
+import PageLayout from '../../../layouts/PageLayout.astro';
+import TopNav from '../../../components/TopNav.astro'
+const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
+---
+<PageLayout title={smartbulletinsData.data.title}>
+    <div>
+     <TopNav parent_nav_path={smartbulletinsData.data.parent_nav_path} parent_nav_text = {smartbulletinsData.data.parent_nav_text} />
+      <h1>{smartbulletinsData.data.title}</h1>
+      <p class="usa-intro">{smartbulletinsData.data.into}</p>
+      <!--smart buletins table -->
+      <table class="usa-table usa-table--borderless">
+        <thead>
+          <tr>
+            <th scope="col">Number</th>
+            <th scope="col">Title</th>
+            <th scope="col">Audience</th>
+            <th scope="col">Published</th>
+            <th scope="col">Last Updated</th>
+          </tr>
+        </thead>
+        <tbody>
+         { smartbulletinsData.data.bulletins.map(item=>(
+            <tr>
+            <th scope="row" class="grid-col-1">{item.number}</th>
+            <td>
+             <a href={`${import.meta.env.BASE_URL}files/smartbulletins/${item.filename}`}>{item.title}</a> 
+            </td>
+            <td class="grid-col-2">{item.audience}</td>
+            <td class="grid-col-2">{item.published}</td>
+            <td class="grid-col-2">{item.lastupdated}</td>
+          </tr>
+
+         ))}
+          
+        </tbody>
+      </table>
+    </div>
+</PageLayout>
