@@ -2,33 +2,30 @@
 import { getCollection } from 'astro:content';
 import PageLayout from '../../../layouts/PageLayout.astro';
 import SideNav from '../../../components/SinglePageSideNav.astro'
-import TopNav from '../../../components/TopNav.astro'
 export async function getStaticPaths() {
   const entries = await getCollection('audits');
   return entries.map(entry => {
-    const slug = entry.slug == './' ? undefined : entry.slug
     return {
-      params: { slug: slug},
-      props: { entry, entries}
+      params: { slug: entry.slug},
+      props: { entry}
     }
   })
 }
-const { entry, entries} = Astro.props;
+const { entry} = Astro.props;
 const { Content, headings } = await entry.render();
 
 ---
 
 <PageLayout title ={entry.data.title} >
-
-  <TopNav parent_nav_path="policies-and-audits/audits" parent_nav_text = "Audit Repository" />
       <SideNav 
       title={entry.data.title}
       headings ={headings}
+      parent_nav_path="policies-and-audits/audits"
+      parent_nav_text = "Audit Repository" 
       />
       <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
         <h1>{entry.data.title}</h1>
         <Content />
       </div>
     </div>
-  
 </PageLayout>

@@ -1,5 +1,5 @@
 ---
-const { id, pages, headings, parent_path, title, additional_menu=null} = Astro.props;
+const { id, pages, headings, parent_path, title} = Astro.props;
 pages.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
 ---
 <div class="usa-layout-docs__sidenav desktop:grid-col-4">
