@@ -1,12 +1,12 @@
 ---
 import { getCollection } from 'astro:content';
 
-const {current_state} = Astro.props;
+const {current_state, label} = Astro.props;
 const states = await getCollection('state-taxes');
 
 states.sort((a, b) => a.data.name.localeCompare(b.data.name));
 ---
-<label class="usa-label" for="ddlstates">Select a state/US territory  </label>
+<label class="usa-label text-bold" for="ddlstates">{label} </label>
 <form id="state-tax-form" class="usa-form sp-inline-form margin-bottom-4">  
     <select class="usa-select sp-inline-form-input" name="ddlstates" id="ddlstates">
       <option value="">Select a state</option>

@@ -29,9 +29,14 @@ const { Content, headings } = await entry.render();
   />
   <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
     <h1>{ entry.data.name } Tax Information</h1>
-    <StateTaxSelection current_state={entry.data.name}/>
+    <StateTaxSelection 
+      current_state={entry.data.name}
+      label="Select a different state/US territory"
+    />
     {entry.data.summary &&
-      <StateTaxSummaryList items={entry.data.summary} />
+      <StateTaxSummaryList 
+        items={entry.data.summary} 
+      />
     }
     
     <Content />
