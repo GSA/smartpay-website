@@ -3,11 +3,13 @@ const {headings, title, parent_nav_path, parent_nav_text} = Astro.props;
 import TopNav from "./TopNav.astro";
 ---
 <div class="usa-layout-docs__sidenav desktop:grid-col-4">
-  <TopNav parent_nav_path = {parent_nav_path} parent_nav_text ={parent_nav_text} />
+  { parent_nav_path && parent_nav_text && (
+    <TopNav parent_nav_path = {parent_nav_path} parent_nav_text ={parent_nav_text} />
+  )}
   <nav class="sp_site_nav" aria-label="Secondary navigation">
     <h4>{ title }</h4>
       <ul class="usa-sidenav">
-            {headings.map(h => (
+            {headings.filter(h => h.depth == 2).map(h => (
                 <li class="usa-sidenav__item">
                   <a 
                     href={`#${h.slug}`}

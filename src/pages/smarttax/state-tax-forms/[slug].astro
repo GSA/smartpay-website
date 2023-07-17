@@ -1,0 +1,45 @@
+---
+import PageLayout from '@layouts/PageLayout.astro';
+import SinglePageSideNav from  '@components/SinglePageSideNav.astro'
+import StateTaxSelection from '@components/StateTaxSelection.astro';
+import StateTaxSummaryList from '@components/StateTaxSummaryList.astro';
+
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('state-taxes');
+  return entries.map(entry => {
+
+    return {
+      params: { slug: entry.slug },
+      props: { entry, entries }
+    }
+  })
+}
+
+const { entry } = Astro.props;
+const { Content, headings } = await entry.render();
+---
+<PageLayout title={`${entry.data.name} Tax Information`}>
+  <SinglePageSideNav 
+    title={entry.data.name}
+    headings={headings}
+    parent_nav_path = "smarttax/state-tax-forms"
+    parent_nav_text = "Return to State Tax Forms"
+  />
+  <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
+    <h1>{ entry.data.name } Tax Information</h1>
+    <StateTaxSelection 
+      current_state={entry.data.name}
+      label="Select a different state/US territory"
+    />
+    {entry.data.summary &&
+      <StateTaxSummaryList 
+        items={entry.data.summary} 
+      />
+    }
+    
+    <Content />
+</div>
+</PageLayout>
+    
