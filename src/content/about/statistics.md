@@ -29,7 +29,13 @@ GSA SmartPay statistics for fiscal year 2022:
 - The Department of Veterans Affairs was the top agency by program spend with $14 billion (41.7% of total spend).
 
 ---
+## Purchase Card FPDS Reports
 
+[FAR 4.606(a)(2)](https://www.ecfr.gov/current/title-48/chapter-1/subchapter-A/part-4/subpart-4.6/section-4.606) requires the GSA Center for Charge Card Management to provide summary government-wide purchase account data on an annual basis. We developed the GSA SmartPay® Purchase Card Statistics Report to report this data to the Federal Procurement Data System (FPDS).
+
+- [GSA SmartPay Purchase Card Statistics Report for FPDS (xlsx)](/files/purchase-report.xlsx)
+
+---
 ## Sales, Transactions, Account Holder Data
 
 The following program data is provided for informational purposes only and should not be used to calculate agency refunds, basis points, or usage of GSA SmartPay® payment solutions by agency personnel. This data has been provided by the respective banks and has not been verified for accuracy.
@@ -39,13 +45,7 @@ The following program data is provided for informational purposes only and shoul
 
 ---
 
-## Purchase Card FPDS Reports
 
-[FAR 4.606(a)(2)](https://www.ecfr.gov/current/title-48/chapter-1/subchapter-A/part-4/subpart-4.6/section-4.606) requires the GSA Center for Charge Card Management to provide summary government-wide purchase account data on an annual basis. We developed the GSA SmartPay® Purchase Card Statistics Report to report this data to the Federal Procurement Data System (FPDS).
-
-- [GSA SmartPay Purchase Card Statistics Report for FPDS (xlsx)](/files/purchase-report.xlsx)
-
----
 
 ## Refund Reporting
 
