@@ -7,9 +7,8 @@ import { getCollection } from 'astro:content';
 export async function getStaticPaths() {
   const entries = await getCollection('smarttax');
   return entries.map(entry => {
-    const slug = entry.slug == './' ? undefined : entry.slug
     return {
-      params: { slug: slug },
+      params: { slug: entry.slug },
       props: { entry, entries }
     }
   })
@@ -36,6 +35,14 @@ const { Content, headings } = await entry.render();
     )}
 
     <Content />
-</div>
+  </div>
 </PageLayout>
-    
+
+<style is:global>
+  img {
+    width: 49%;
+  }
+  table img {
+    width: 120px;
+  }
+</style>
