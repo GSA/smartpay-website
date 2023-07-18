@@ -26,7 +26,7 @@ const navigation_items = [
     }
 ]
 
-const { entry, entries } = Astro.props;
+const { entry } = Astro.props;
 const { Content } = await entry.render();
 ---
 <PageLayout title={entry.data.title}>
