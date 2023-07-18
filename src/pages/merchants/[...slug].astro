@@ -5,7 +5,7 @@ import SideNav from '../../components/SideNav.astro'
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('about');
+  const entries = await getCollection('merchants');
   return entries.map(entry => {
     const slug = entry.slug == './' ? undefined : entry.slug
     return {
@@ -15,15 +15,25 @@ export async function getStaticPaths() {
   })
 }
 
-const { entry, entries } = Astro.props;
-const { Content, headings } = await entry.render();
+const navigation_items = [
+    {
+        slug: "faq/#merchants",
+        data: {"title": "Merchants FAQs" }
+    },
+    {
+        slug: "smarttax/recognizing-your-account",
+        data: {"title": "Recognizing Card Types" }
+    }
+]
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
 ---
 <PageLayout title={entry.data.title}>
   <SideNav 
-    title="About the GSA SmartPay Program"
-    parent_path="about/"
-    pages={entries}
-    headings={headings}
+    title="Merchants"
+    parent_path=""
+    pages={navigation_items}
     id={entry.id}
   />
   <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
