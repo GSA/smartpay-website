@@ -60,4 +60,8 @@ h4 {
    h4 {
       @include u-font('sans', $theme-type-scale-sm)
    }
+
+   hr {
+      border-color: color('base-ligher')
+   }
 }
