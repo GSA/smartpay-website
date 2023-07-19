@@ -35,6 +35,8 @@ The FTR implements statutory requirements and executive branch policies for trav
 
 **Date Issued:** July 27, 2016
 
+This bulletin clarifies that federal travelers away from their duty station on official business may be reimbursed for the use of transportation network companies under the FTR when these services are permitted by local laws and ordinances. 
+
 [Learn more about Bulletin 16-05](https://www.gsa.gov/cdnstatic/FTR_Bulletin_16-05_Reimbursement_for_Use_of_Transportation_Network_Companies_While_on_Official_Travel.pdf)
 
 ---
@@ -55,7 +57,7 @@ This is a source of public law.
 
 **Business Line(s):** All
 
-**Description:** The CFR is a codification (arrangement of) the general and permanent rules published in the Federal Register by the executive departments and agencies of the Federal Government. This is a source of public law.
+The CFR is a codification (arrangement of) the general and permanent rules published in the Federal Register by the executive departments and agencies of the Federal Government. This is a source of public law.
 
 [Learn more about CFR](https://www.archives.gov/federal-register/cfr?_ga=2.88888668.673315487.1679407179-286562013.1679077284)
 
@@ -80,7 +82,7 @@ This Circular serves as a framework for agencies to best manage their government
 
 **Date Issued:** September 6, 2013 
 
-**Description:** This Memo is a response to Public Law (P.L.) 112-194, the Government Charge Card Abuse Prevention Act of 2012. It provides supplemental guidance to the OMB Circular A-123, Appendix B.
+This Memo is a response to Public Law (P.L.) 112-194, the Government Charge Card Abuse Prevention Act of 2012. It provides supplemental guidance to the OMB Circular A-123, Appendix B.
 
 [Learn more about OMB Memorandum M-13-21](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-21.pdf)
 
