@@ -28,12 +28,12 @@ tags:
 - Assure proper use of the account.
 - Determine if purchases are necessary for accomplishing the mission of the agency.
 
-## Account Holders
+## Card/Account Holders
 
-- Designated by an agency/organization to receive an account.
+- Designated by an agency/organization to receive a card/account.
 - Secure the payment solution.
 - Maintain records relating to transactions, as required.
-- Use the account ethically for official government purposes only.
+- Use the card/account ethically for official government purposes only.
 
 ## Designated Billing Offices (DBO)
 
