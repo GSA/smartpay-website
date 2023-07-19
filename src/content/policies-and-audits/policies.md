@@ -109,6 +109,8 @@ The federal government's aggressive response to the coronavirus disease 2019 (CO
 
 This memorandum directs agencies to leverage and continue to employ existing financial transparency and accountability mechanisms wherever possible. 
 
+[Learn more about OMB Memorandum M-20-21](https://www.whitehouse.gov/wp-content/uploads/2020/04/Implementation-Guidance-for-Supplemental-Funding-Provided-in-Response.pdf)
+
 ---
 ## Per Diem Rates
 
