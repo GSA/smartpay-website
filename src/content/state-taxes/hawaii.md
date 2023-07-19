@@ -1,14 +1,18 @@
 ---
 name: Hawaii
+contact:
+  link: https://tax.hawaii.gov/
+  name: Hawaii Department of Taxation
+  phone: 808-587-1577
 exceptionsApply: true
 summary:
-  - The state does not have a sales tax; instead it assesses a General Excise Tax (GET) and a Transient Accomodation Tax (TAT) on merchants.
-  - Individually billed accounts (IBA) are not exempt from GET or TAT.
-  - Centrally billed accounts (CBA) may be exempt from GET.
-contact:
-  name: Hawaii Department of Taxation
-  link: https://tax.hawaii.gov/
-  phone: 808-587-1577
+- icon: error_outline
+  text: The state <b>does not</b> have a sales tax; instead it assesses a General
+    Excise Tax (GET) and a Transient Accomodation Tax (TAT) on merchants.
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from GET or TAT.
+- icon: error_outline
+  text: Centrally billed accounts (CBA) <b>may be</b> exempt from GET.
 ---
 
 ## Forms

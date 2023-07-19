@@ -1,14 +1,20 @@
 ---
 name: New Mexico
+contact:
+  link: https://www.tax.newmexico.gov/
+  name: New Mexico Taxation and Revenue Department
+  phone: 866-285-2996
 exceptionsApply: true
 summary:
-  - The state does not have a sales tax; instead it assesses a gross receipts tax on merchants.
-  - Individually billed accounts (IBA) are not exempt from the gross receipts tax.
-  - Centrally billed accounts (CBA) may be exempt from the gross receipts tax.
-contact:
-  name: New Mexico Taxation and Revenue Department
-  link: https://www.tax.newmexico.gov/
-  phone: 866-285-2996
+- icon: error_outline
+  text: The state <b>does not</b> have a sales tax; instead it assesses a gross receipts
+    tax on merchants.
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from the gross receipts
+    tax.
+- icon: error_outline
+  text: Centrally billed accounts (CBA) <b>may be</b> exempt from the gross receipts
+    tax.
 ---
 
 ## Forms

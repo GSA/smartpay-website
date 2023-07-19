@@ -1,12 +1,13 @@
 ---
 name: Alaska
+contact:
+  link: https://dor.alaska.gov/
+  name: Alaska Department of Revenue
+  phone: 907-269-6620
 exceptionsApply: true
 summary:
-  - The state does not have a sales tax.
-contact:
-  name: Alaska Department of Revenue
-  link: https://dor.alaska.gov/
-  phone: 907-269-6620
+- icon: highlight_off
+  text: The state <b>does not</b> have a sales tax.
 ---
 
 ## Forms

@@ -1,13 +1,16 @@
 ---
 name: Arkansas
+contact:
+  link: https://www.dfa.arkansas.gov/
+  name: Arkansas Department of Finance and Administration
+  phone: 501-682-7104
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Arkansas Department of Finance and Administration
-  link: https://www.dfa.arkansas.gov/
-  phone: 501-682-7104
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Laws, Regulations, Policies

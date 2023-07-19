@@ -1,13 +1,15 @@
 ---
 name: Texas
+contact:
+  link: https://comptroller.texas.gov/
+  name: Texas Comptroller of Public Accounts
+  phone: 800-252-5555
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Texas Comptroller of Public Accounts
-  link: https://comptroller.texas.gov/
-  phone: 800-252-5555
+- icon: check_circle_outline
+  text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

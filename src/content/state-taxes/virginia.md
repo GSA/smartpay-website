@@ -1,13 +1,16 @@
 ---
 name: Virginia
+contact:
+  link: https://www.tax.virginia.gov/
+  name: Virginia Department of Taxation
+  phone: 804-367-8037
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Virginia Department of Taxation
-  link: https://www.tax.virginia.gov/
-  phone: 804-367-8037
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Laws, Regulations, Policies

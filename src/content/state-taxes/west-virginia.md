@@ -1,13 +1,16 @@
 ---
 name: West Virginia
+contact:
+  link: https://tax.wv.gov/Pages/default.aspx
+  name: West Virginia State Tax Department
+  phone: 800-982-8297
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: West Virginia State Tax Department
-  link: https://tax.wv.gov/Pages/default.aspx
-  phone: 800-982-8297
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

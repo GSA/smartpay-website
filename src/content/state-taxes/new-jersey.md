@@ -1,13 +1,16 @@
 ---
 name: New Jersey
+contact:
+  link: https://www.state.nj.us/treasury/
+  name: New Jersey Department of Treasury
+  phone: 609-826-4400 or 800-323-4400
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: New Jersey Department of Treasury
-  link: https://www.state.nj.us/treasury/
-  phone: 609-826-4400 or 800-323-4400
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

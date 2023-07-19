@@ -1,13 +1,16 @@
 ---
 name: Kentucky
+contact:
+  link: https://revenue.ky.gov/
+  name: Kentucky Department of Revenue
+  phone: 502-564-4581​
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Kentucky Department of Revenue
-  link: https://revenue.ky.gov/
-  phone: 502-564-4581​
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

@@ -1,13 +1,16 @@
 ---
 name: District of Columbia
+contact:
+  link: https://otr.cfo.dc.gov/
+  name: DC Office of Tax and Revenue
+  phone: 202-727-4829
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: DC Office of Tax and Revenue
-  link: https://otr.cfo.dc.gov/
-  phone: 202-727-4829
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Laws, Regulations, Policies

@@ -1,13 +1,17 @@
 ---
 name: New Hampshire
+contact:
+  link: https://www.revenue.nh.gov/
+  name: New Hampshire Department of Revenue
+  phone: 603-230-5000
 exceptionsApply: true
 summary:
-  - The state does not have a sales tax, but assesses a meals and rental tax for hotel stay.
-  - Individually billed accounts (IBA) are not exempt from the meals and rental tax.
-contact:
-  name: New Hampshire Department of Revenue
-  link: https://www.revenue.nh.gov/
-  phone: 603-230-5000
+- icon: error_outline
+  text: The state <b>does not</b> have a sales tax, but assesses a meals and rental
+    tax for hotel stay.
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from the meals and
+    rental tax.
 ---
 
 ## Laws, Regulations, Policies

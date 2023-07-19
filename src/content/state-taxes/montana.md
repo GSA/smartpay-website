@@ -1,13 +1,16 @@
 ---
 name: Montana
+contact:
+  link: https://mtrevenue.gov/
+  name: Montana Department of Revenue
+  phone: 866-859-2254 or 406-444-5828
 exceptionsApply: true
 summary:
-  - The state does not have a sales tax; instead it assesses a lodging sales tax for hotel stay.
-  - Centrally billed accounts (CBA) are exempt from the lodging sales tax.
-contact:
-  name: Montana Department of Revenue
-  link: https://mtrevenue.gov/
-  phone: 866-859-2254 or 406-444-5828
+- icon: error_outline
+  text: The state <b>does not</b> have a sales tax; instead it assesses a lodging
+    sales tax for hotel stay.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from the lodging sales tax.
 ---
 
 ## Laws, Regulations, Policies

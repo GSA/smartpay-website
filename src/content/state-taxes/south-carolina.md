@@ -1,13 +1,16 @@
 ---
 name: South Carolina
+contact:
+  link: https://dor.sc.gov/
+  name: South Carolina Department of Revenue
+  phone: 844-898-8542
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: South Carolina Department of Revenue
-  link: https://dor.sc.gov/
-  phone: 844-898-8542
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Laws, Regulations, Policies

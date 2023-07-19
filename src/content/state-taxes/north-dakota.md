@@ -1,13 +1,16 @@
 ---
 name: North Dakota
+contact:
+  link: https://www.tax.nd.gov/
+  name: North Dakota Office of the State Tax Commissioner
+  phone: 701-328-1246
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: North Dakota Office of the State Tax Commissioner
-  link: https://www.tax.nd.gov/
-  phone: 701-328-1246
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

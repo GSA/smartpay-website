@@ -1,13 +1,16 @@
 ---
 name: Delaware
+contact:
+  link: https://revenue.delaware.gov
+  name: Delaware Division of Revenue
+  phone: 302-577-8205
 exceptionsApply: true
 summary:
-  - The state does not have a sales tax; instead it imposes an occupancy tax for hotel stay.
-  - The federal government is exempt from occupancy tax.
-contact:
-  name: Delaware Division of Revenue
-  link: https://revenue.delaware.gov
-  phone: 302-577-8205
+- icon: error_outline
+  text: The state <b>does not</b> have a sales tax; instead it imposes an occupancy
+    tax for hotel stay.
+- icon: check_circle_outline
+  text: The federal government <b>is</b> exempt from occupancy tax.
 ---
 
 ## Forms

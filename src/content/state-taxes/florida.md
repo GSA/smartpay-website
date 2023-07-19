@@ -1,13 +1,16 @@
 ---
 name: Florida
+contact:
+  link: https://floridarevenue.com/
+  name: Florida Department of Revenue
+  phone: 850-488-6800
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Florida Department of Revenue
-  link: https://floridarevenue.com/
-  phone: 850-488-6800
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

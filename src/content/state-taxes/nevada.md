@@ -1,13 +1,16 @@
 ---
 name: Nevada
+contact:
+  link: https://tax.nv.gov/
+  name: Nevada Department of Revenue
+  phone: 866-962-3707
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Nevada Department of Revenue
-  link: https://tax.nv.gov/
-  phone: 866-962-3707
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Point of Contact
