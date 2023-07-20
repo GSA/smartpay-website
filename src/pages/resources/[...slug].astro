@@ -2,14 +2,13 @@
 import PageLayout from '../../layouts/PageLayout.astro';
 import SideNav from '../../components/SideNav.astro'
 
-import { getCollection } from 'astro:content';
+import { getCollection, getEntryBySlug } from 'astro:content';
 
 export async function getStaticPaths() {
   const entries = await getCollection('resources');
   return entries.map(entry => {
-    const slug = entry.slug == './' ? undefined : entry.slug
     return {
-      params: { slug: slug },
+      params: { slug: entry.slug},
       props: { entry, entries }
     }
   })
