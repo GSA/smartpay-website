@@ -15,6 +15,7 @@ summary:
 - icon: error_outline
   text: Centrally billed accounts (CBA) <b>may be</b> exempt from the gross receipts
     tax.
+updated: 2023-02-15
 ---
 
 ## Forms

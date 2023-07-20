@@ -11,6 +11,7 @@ summary:
     sales tax for hotel stay.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from the lodging sales tax.
+updated: 2023-02-15
 ---
 
 ## Laws, Regulations, Policies

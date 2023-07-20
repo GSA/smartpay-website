@@ -12,6 +12,7 @@ summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from the meals and
     rental tax.
+updated: 2023-02-15
 ---
 
 ## Laws, Regulations, Policies
