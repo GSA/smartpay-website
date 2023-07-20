@@ -5,7 +5,13 @@ contact:
   name: Illinois Department of Revenue
   phone: 800-732-8866
 exceptionsApply: true
-summary: null
+summary:
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+
 ---
 
 ## Forms

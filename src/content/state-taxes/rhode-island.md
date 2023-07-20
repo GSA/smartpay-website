@@ -1,0 +1,25 @@
+---
+name: Rhode Island
+contact:
+  link: https://tax.ri.gov/
+  name: Division of Taxation
+  phone: 1-401-574-8829
+
+exceptionsApply: false
+summary:
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+---
+
+## Forms
+
+### Purchase Card
+
+* [State of Rhode Island – Division of Taxation Sales and Use Tax ](https://tax.ri.gov/sites/g/files/xkgbur541/files/forms/2014/Sales/GSA-Fedl-Empl-Exempt.pdf) 
+
+## Point of Contact
+- [Division of Taxation](https://tax.ri.gov/)
+- 1-401-574-8829

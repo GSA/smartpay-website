@@ -24,7 +24,7 @@ summary:
 No forms are required. However, cardholders must provide vendors with one of the following:
 * A purchase order, if there is an existing contract.
 * Signed document on agency letterhead authorizing the official government purchase.
-* For cash purchases under $150, the submission of [Form ST-4](https://www.nj.gov/treasury/taxation/prntsale.shtml), above.
+* For cash purchases under $150, the submission of [Form ST-4](https://www.state.nj.us/treasury/taxation/pdf/other_forms/sales/st4.pdf), above.
 
 ## Laws, Regulations, Policies
 
