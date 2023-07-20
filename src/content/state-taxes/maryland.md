@@ -1,13 +1,16 @@
 ---
 name: Maryland
+contact:
+  link: https://www.marylandtaxes.gov/
+  name: Comptroller of Maryland
+  phone: 800-638-2937
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Comptroller of Maryland
-  link: https://www.marylandtaxes.gov/
-  phone: 800-638-2937
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Laws, Regulations, Policies

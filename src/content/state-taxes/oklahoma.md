@@ -1,13 +1,16 @@
 ---
 name: Oklahoma
+contact:
+  link: https://oklahoma.gov/tax.html
+  name: Oklahoma Tax Commission
+  phone: 405-521-3160
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Oklahoma Tax Commission
-  link: https://oklahoma.gov/tax.html
-  phone: 405-521-3160
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Laws, Regulations, Policies

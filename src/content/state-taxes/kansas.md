@@ -1,13 +1,15 @@
 ---
 name: Kansas
+contact:
+  link: https://www.ksrevenue.gov/
+  name: Kansas Department of Revenue
+  phone: 785-368-8222
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Kansas Department of Revenue
-  link: https://www.ksrevenue.gov/
-  phone: 785-368-8222
+- icon: check_circle_outline
+  text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

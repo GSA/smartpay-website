@@ -1,15 +1,19 @@
 ---
 name: Arizona
+contact:
+  link: https://azdor.gov/
+  name: Arizona Department of Revenue
+  phone: 602-255-3381
 exceptionsApply: true
 summary:
-  - Individually billed accounts (IBA) are not exempt from state use tax.
-  - IBAs are not exempt from transaction privilege tax.
-  - Centrally billed accounts (CBA) are exempt from state use tax.
-  - CBAs may not be exempt from transaction privilege tax.
-contact:
-  name: Arizona Department of Revenue
-  link: https://azdor.gov/
-  phone: 602-255-3381
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state use tax.
+- icon: highlight_off
+  text: IBAs <b>are not</b> exempt from transaction privilege tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state use tax.
+- icon: error_outline
+  text: CBAs <b>may not be</b> exempt from transaction privilege tax.
 ---
 
 ## Forms

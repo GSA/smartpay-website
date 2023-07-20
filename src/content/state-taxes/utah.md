@@ -1,13 +1,16 @@
 ---
 name: Utah
+contact:
+  link: https://tax.utah.gov/
+  name: Utah State Tax Commission
+  phone: 801-297-2200 or 800-662-4335
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Utah State Tax Commission
-  link: https://tax.utah.gov/
-  phone: 801-297-2200 or 800-662-4335
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

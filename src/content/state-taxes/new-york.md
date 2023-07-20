@@ -1,13 +1,15 @@
 ---
 name: New York
+contact:
+  link: https://www.tax.ny.gov/
+  name: New York Department of Taxation and Finance
+  phone: 518-485-2889
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: New York Department of Taxation and Finance
-  link: https://www.tax.ny.gov/
-  phone: 518-485-2889
+- icon: check_circle_outline
+  text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

@@ -1,13 +1,16 @@
 ---
 name: Washington
+contact:
+  link: https://dor.wa.gov/
+  name: Department of Revenue Washington State
+  phone: 360-705-6705
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Department of Revenue Washington State
-  link: https://dor.wa.gov/
-  phone: 360-705-6705
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Laws, Regulations, Policies

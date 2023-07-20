@@ -1,11 +1,11 @@
 ---
 name: Illinois
-exceptionsApply: true
-summary:
 contact:
-  name: Illinois Department of Revenue
   link: https://www2.illinois.gov/rev/Pages/default.aspx
+  name: Illinois Department of Revenue
   phone: 800-732-8866
+exceptionsApply: true
+summary: null
 ---
 
 ## Forms

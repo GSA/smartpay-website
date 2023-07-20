@@ -1,13 +1,16 @@
 ---
 name: Northern Mariana Islands
+contact:
+  link: https://finance.gov.mp/revenue-taxation.php
+  name: Division of Revenue and Taxation
+  phone: 670-664-1040
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Division of Revenue and Taxation
-  link: https://finance.gov.mp/revenue-taxation.php
-  phone: 670-664-1040
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Point of Contact

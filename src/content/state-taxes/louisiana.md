@@ -1,13 +1,15 @@
 ---
 name: Louisiana
+contact:
+  link: https://revenue.louisiana.gov/
+  name: Louisiana Department of Revenue
+  phone: 225-219-7462
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Louisiana Department of Revenue
-  link: https://revenue.louisiana.gov/
-  phone: 225-219-7462
+- icon: check_circle_outline
+  text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

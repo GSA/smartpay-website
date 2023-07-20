@@ -1,13 +1,15 @@
 ---
 name: Puerto Rico
+contact:
+  link: null
+  name: Puerto Rico Department of Treasury
+  phone: 787-721-2020
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Puerto Rico Department of Treasury
-  link:
-  phone: 787-721-2020
+- icon: check_circle_outline
+  text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

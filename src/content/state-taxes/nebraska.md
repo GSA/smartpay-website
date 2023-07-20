@@ -1,13 +1,16 @@
 ---
 name: Nebraska
+contact:
+  link: https://revenue.nebraska.gov/
+  name: Nebraska Department of Revenue
+  phone: 402-471-5729 or 800-742-7474
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Nebraska Department of Revenue
-  link: https://revenue.nebraska.gov/
-  phone: 402-471-5729 or 800-742-7474
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

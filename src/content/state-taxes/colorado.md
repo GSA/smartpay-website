@@ -1,13 +1,16 @@
 ---
 name: Colorado
+contact:
+  link: https://cdor.colorado.gov
+  name: Colorado Department of Revenue
+  phone: 303-238-7378
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Colorado Department of Revenue
-  link: https://cdor.colorado.gov
-  phone: 303-238-7378
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

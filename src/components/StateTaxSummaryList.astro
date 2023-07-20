@@ -1,20 +1,31 @@
 ---
 const {items} = Astro.props;
+
+const icon_colors = {
+  'highlight_off': 'text-error-dark',
+  'check_circle_outline': 'text-success-dark',
+  'error_outline': 'text-warning-darker'
+}
+
+const add_link = items.some(({text}) => text.includes('(IBA)') || text.includes('(CBA)'));
 ---
 
 <div class="bg-base-lightest padding-2">
     <ul class="usa-icon-list">
-      {items.map(text => (
+      {items.map(({text, icon}) => (
       <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-green">
+        <div class:list={["usa-icon-list__icon", icon_colors[icon]]}>
           <svg class="usa-icon" aria-hidden="true" role="img">
-            <use xlink:href={`${import.meta.env.BASE_URL}images/sprite.svg#check_circle`}></use>
+            <use xlink:href={`${import.meta.env.BASE_URL}images/sprite.svg#${icon}`}></use>
           </svg>
         </div>
-        <div class="usa-icon-list__content">
-          {text}
-        </div>
+        <div class="usa-icon-list__content" set:html={text} />
       </li>
       ))}
     </ul>
+    {add_link && (
+    <p class="margin-bottom-0">
+      <a class="usa-link" href={`${import.meta.env.BASE_URL}smarttax/recognizing-your-account`}>Need help recognizing a card or telling if a card is an IBA or CBA?</a>
+    </p>
+    )}
   </div>

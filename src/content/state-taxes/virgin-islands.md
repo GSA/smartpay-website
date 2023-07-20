@@ -1,13 +1,15 @@
 ---
 name: Virgin Islands
+contact:
+  link: https://bir.vi.gov/
+  name: Virgin Islands Bureau of Internal Revenue
+  phone: 340-715-1040
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Virgin Islands Bureau of Internal Revenue
-  link: https://bir.vi.gov/
-  phone: 340-715-1040
+- icon: check_circle_outline
+  text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

@@ -1,13 +1,16 @@
 ---
 name: Ohio
+contact:
+  link: https://tax.ohio.gov/
+  name: Ohio Department of Taxation Business
+  phone: 888-405-4039
 exceptionsApply: false
 summary:
-  - Individually billed accounts (IBA) are not exempt from state sales tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Ohio Department of Taxation Business
-  link: https://tax.ohio.gov/
-  phone: 888-405-4039
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms

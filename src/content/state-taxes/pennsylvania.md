@@ -1,13 +1,16 @@
 ---
 name: Pennsylvania
+contact:
+  link: https://www.revenue.pa.gov/Pages/default.aspx
+  name: Pennsylvania Department of Revenue
+  phone: 717-787-1064
 exceptionsApply: true
 summary:
-  - Individually billed accounts (IBA) are exempt from hotel occupancy tax.
-  - Centrally billed accounts (CBA) are exempt from state sales tax.
-contact:
-  name: Pennsylvania Department of Revenue
-  link: https://www.revenue.pa.gov/Pages/default.aspx
-  phone: 717-787-1064
+- icon: check_circle_outline
+  text: Individually billed accounts (IBA) <b>are</b> exempt from hotel occupancy
+    tax.
+- icon: check_circle_outline
+  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 ---
 
 ## Forms
