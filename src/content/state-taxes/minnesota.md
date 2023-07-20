@@ -11,6 +11,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -21,7 +22,7 @@ summary:
 
 ## Laws, Regulations, Policies
 
-* [Sales Tax Fact Sheet 142](https://www.revenue.state.mn.us/sites/default/files/2021-03/FS142.pdf)
+* [Credit Card Payments](https://www.revenue.state.mn.us/guide/credit-card-payments)
 
 ## Point of Contact
 - [https://www.revenue.state.mn.us/](https://www.revenue.state.mn.us/)

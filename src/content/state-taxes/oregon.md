@@ -12,6 +12,7 @@ summary:
 - icon: check_circle_outline
   text: Individually billed accounts (IBA) <b>are</b> exempt from transient lodging
     tax.
+updated: 2023-02-15
 ---
 
 ## Forms

@@ -1,9 +1,9 @@
 ---
-name: Northern Mariana Islands
+name: American Somoa
 contact:
-  link: https://finance.gov.mp/revenue-taxation.php
-  name: Division of Revenue and Taxation
-  phone: 670-664-1040
+  link: https://www.dfa.arkansas.gov/
+  name: American Samoa Tax Office - Department of the Treasury
+  phone: 1-684-633-4116
 exceptionsApply: false
 summary:
 - icon: highlight_off
@@ -15,5 +15,5 @@ updated: 2023-02-15
 ---
 
 ## Point of Contact
-- [https://finance.gov.mp/revenue-taxation.php](https://finance.gov.mp/revenue-taxation.php)
-- 670-664-1040
+- [American Samoa Tax Office - Department of the Treasury](https://www.americansamoa.gov/tax-office)
+- 1-684-633-4116

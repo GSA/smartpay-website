@@ -17,6 +17,9 @@ export async function getStaticPaths() {
   })
 }
 
+const options: Intl.DateTimeFormatOptions = { year: 'numeric', month: 'long', day: 'numeric' };
+const format_date = date => date.toLocaleDateString('us-EN', options)
+
 const { entry } = Astro.props;
 const { Content, headings } = await entry.render();
 ---
@@ -40,6 +43,9 @@ const { Content, headings } = await entry.render();
     }
     
     <Content />
+    <p class="margin-top-3 text-base-darker">
+      <i>Updated {format_date(entry.data.updated)}</i>
+    </p>
 </div>
 </PageLayout>
     

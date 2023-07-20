@@ -8,8 +8,11 @@ exceptionsApply: false
 summary:
 - icon: check_circle_outline
   text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.
+- icon: highlight_off
+  text: Individually billed accounts (IBA) <b>are not</b> exempt from transient guest tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms

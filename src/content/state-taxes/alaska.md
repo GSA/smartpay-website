@@ -8,6 +8,7 @@ exceptionsApply: true
 summary:
 - icon: highlight_off
   text: The state <b>does not</b> have a sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms

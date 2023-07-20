@@ -11,6 +11,7 @@ summary:
     tax for hotel stay.
 - icon: check_circle_outline
   text: The federal government <b>is</b> exempt from occupancy tax.
+updated: 2023-02-15
 ---
 
 ## Forms
