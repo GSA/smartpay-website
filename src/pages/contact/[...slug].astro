@@ -18,9 +18,9 @@ export async function getStaticPaths() {
 const { entry, entries } = Astro.props;
 /*
   The contact pages have a different side nav for the index than 
-  for the rest of the contact pages. 
+  for the rest of the contact pages. This filters out the index
+  so it doesn't appear in the side nav.
 */
-
 const non_index_entries = entries.filter(entry => entry.slug != './');
 const { Content, headings } = await entry.render();
 ---
