@@ -36,5 +36,5 @@ To learn which bank/brand provides your agency’s GSA SmartPay 3 services, plea
 - [U.S. Bank Online Account Access](https://access.usbank.com/cpsApp1/index.jsp) (self register, commercial site).
 
 ### WEX
-866-939-4472
+- 866-939-4472
 
