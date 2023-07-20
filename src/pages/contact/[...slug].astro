@@ -1,6 +1,7 @@
 ---
-import PageLayout from '../../layouts/PageLayout.astro';
-import SideNav from '../../components/SideNav.astro'
+import PageLayout from '@layouts/PageLayout.astro';
+import SideNav from '@components/SideNav.astro';
+import SinglePageSideNav from '@components/SinglePageSideNav.astro';
 
 import { getCollection } from 'astro:content';
 
@@ -14,18 +15,36 @@ export async function getStaticPaths() {
     }
   })
 }
-
 const { entry, entries } = Astro.props;
+/*
+  The contact pages have a different side nav for the index than 
+  for the rest of the contact pages. 
+*/
+
+const non_index_entries = entries.filter(entry => entry.slug != './');
 const { Content, headings } = await entry.render();
 ---
 <PageLayout title={entry.data.title}>
-  <SideNav 
-    title="Contact"
-    parent_path="contact/"
-    pages={entries}
-    headings={headings}
-    id={entry.id}
-  />
+  
+    {  entry.slug != './' 
+    ? (
+      <SideNav 
+        title="Contact"
+        parent_path="contact/"
+        pages={non_index_entries}
+        headings={headings}
+        id={entry.id}
+      />
+    )
+    : (
+    <SinglePageSideNav
+      title="Contact"
+      headings={headings}
+      parent_path="contact/"
+    />
+    )
+  }
+  
   <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
     <h1>{ entry.data.title }</h1>
 

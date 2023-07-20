@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: Contact information for the GSA SmartPay program.
-intro: Contact information for the GSA SmartPay program support team and bank contact information for questions related to specific accounts
+intro: Contact information for the GSA SmartPay program support team and bank contact information for questions related to specific accounts.
 slug: "./"
 order: 0
 category: contact
