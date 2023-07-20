@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import PageLayout from '../../../layouts/PageLayout.astro';
-import SideNav from '../../../components/SinglePageSideNav.astro'
+import TopNav from '@components/TopNav.astro';
 export async function getStaticPaths() {
   const entries = await getCollection('publications');
   return entries.map(entry => {
@@ -12,19 +12,15 @@ export async function getStaticPaths() {
   })
 }
 const { entry} = Astro.props;
-const { Content, headings } = await entry.render();
+const { Content} = await entry.render();
 
 ---
 
 <PageLayout title ={entry.data.title} >
-      <SideNav 
-      title={entry.data.title}
-      headings ={headings}
-      parent_nav_path="resources/publications"
-      parent_nav_text = "Return to the Publications and Videos" 
-      />
-      <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
+  <TopNav parent_nav_path="resources/publications" parent_nav_text = "Return to the Publications and Videos" />
+      <div class="usa-layout-docs__main usa-prose usa-layout-docs">
         <h1>{entry.data.title}</h1>
+        <p class="usa-intro">{entry.data.intro}</p>
         <Content />
       </div>
     </div>
