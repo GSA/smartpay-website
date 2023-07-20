@@ -17,10 +17,8 @@ export async function getStaticPaths() {
   })
 }
 
-function format_date(date) {
-  const options: Intl.DateTimeFormatOptions = { year: 'numeric', month: 'long', day: 'numeric' };
-  return date.toLocaleDateString('us-EN', options)
-}
+const options: Intl.DateTimeFormatOptions = { year: 'numeric', month: 'long', day: 'numeric' };
+const format_date = date => date.toLocaleDateString('us-EN', options)
 
 const { entry } = Astro.props;
 const { Content, headings } = await entry.render();
