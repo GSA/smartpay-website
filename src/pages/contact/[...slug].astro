@@ -16,35 +16,16 @@ export async function getStaticPaths() {
   })
 }
 const { entry, entries } = Astro.props;
-/*
-  The contact pages have a different side nav for the index than 
-  for the rest of the contact pages. This filters out the index
-  so it doesn't appear in the side nav.
-*/
-const non_index_entries = entries.filter(entry => entry.slug != './');
 const { Content, headings } = await entry.render();
 ---
 <PageLayout title={entry.data.title}>
-  
-    {  entry.slug != './' 
-    ? (
-      <SideNav 
-        title="Contact"
-        parent_path="contact/"
-        pages={non_index_entries}
-        headings={headings}
-        id={entry.id}
-      />
-    )
-    : (
-    <SinglePageSideNav
+  <SideNav 
       title="Contact"
-      headings={headings}
       parent_path="contact/"
+      pages={entries}
+      headings={headings}
+      id={entry.id}
     />
-    )
-  }
-  
   <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
     <h1>{ entry.data.title }</h1>
 

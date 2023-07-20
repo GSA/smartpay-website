@@ -1,7 +1,7 @@
 ---
 title: Bank Contact Information
 description: Guidance on contacting issuing banks with questions related to account information 
-order: 2
+order: 1
 category: contact
 tags:
   - about
