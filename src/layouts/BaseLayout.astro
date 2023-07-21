@@ -1,8 +1,7 @@
 ---
-import GSAHeader from '../components/GSAHeader.astro';
-import USAIdentifier from '../components/USAIdentifier.astro';
-import Banner from '../components/Banner.astro';
-
+import GSAHeader from '@components/GSAHeader.astro';
+import USAIdentifier from '@components/USAIdentifier.astro';
+import Banner from '@components/Banner.astro';
 
 const { title } = Astro.props;
 ---
@@ -28,9 +27,9 @@ const { title } = Astro.props;
       <Banner />
       <div class="background flex-fill">
         <GSAHeader />
-        <main id="main-content" class="wide-layout">
+        <div class="border-top-1px border-base-lightest wide-layout">
           <slot />
-        </main>
+        </div>
       </div>
       <USAIdentifier /> 
     </div>
