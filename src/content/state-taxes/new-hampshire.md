@@ -13,7 +13,7 @@ summary:
   text: Individually billed accounts (IBA) <b>are not</b> exempt from the meals and
     rental tax.
 - icon: check_circle_outline
-  text: Centrally Billed Accounts (CBA) <b>are</b> exempt from the meals and rental tax
+  text: Centrally Billed Accounts (CBA) <b>are</b> exempt from the meals and rental tax.
 updated: 2023-02-15
 ---
 
