@@ -24,7 +24,6 @@ updated: 2023-02-15
 
 * [Form 01-339, Texas Sales and Use Tax Resale Certificate / Exemption Certification](https://comptroller.texas.gov/taxes/exempt/forms//)
 
-
 ## Laws, Regulations, Policies
 
 * [Guidelines to Texas Tax Exemptions](https://comptroller.texas.gov/taxes/publications/96-1045.php) - Select AP-204 Federal and all Others
