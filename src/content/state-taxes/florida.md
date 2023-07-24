@@ -6,7 +6,7 @@ contact:
   phone: 850-488-6800
 exceptionsApply: false
 summary:
-- icon: highlight_off
+- icon: check_circle_outline
   text: Individually billed accounts (IBA) <b>are</b> exempt from state sales
     tax.
 - icon: check_circle_outline
