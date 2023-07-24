@@ -31,5 +31,5 @@ To claim exemption as a federal employee you must provide the hotel with the fol
 * [TIR 01-21: Room Occupancy Excise Exemption for Employees of the United States](https://www.mass.gov/technical-information-release/tir-01-21-room-occupancy-excise-exemption-for-employees-of-the-united-states)
 
 ## Point of Contact
-- [https://www.mass.gov/orgs/massachusetts-department-of-revenue](https://www.mass.gov/orgs/massachusetts-department-of-revenue)
+- [Massachusetts Department of Revenue](https://www.mass.gov/orgs/massachusetts-department-of-revenue)
 - 617-887-6367

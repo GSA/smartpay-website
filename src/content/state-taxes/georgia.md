@@ -29,5 +29,5 @@ A $5.00 hotel-motel fee is imposed for each calendar night a hotel or motel room
 * [Rule 560-13-2-.01 State Hotel-Motel Fee](https://rules.sos.ga.gov/gac/560-13-2)
 
 ## Point of Contact
-- [https://dor.georgia.gov/](https://dor.georgia.gov/)
+- [Georgia Department of Revenue](https://dor.georgia.gov/)
 - 404-417-6649

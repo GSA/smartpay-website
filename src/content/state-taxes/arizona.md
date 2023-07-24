@@ -40,5 +40,5 @@ Notes for the transaction privilege tax:
 * [Transaction Privilege Tax Exemptions](https://azdor.gov/transaction-privilege-tax/tpt-exemptions)
 
 ## Point of Contact
-- [https://www.dfa.arkansas.gov/](https://www.dfa.arkansas.gov/)
+- [Arizona Department of Revenue](https://www.dfa.arkansas.gov/)
 - 501-682-7104

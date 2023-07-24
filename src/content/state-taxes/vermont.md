@@ -21,5 +21,5 @@ updated: 2023-02-15
 * [F0003 Streamlined Exemption Certificate](https://tax.vermont.gov/business/nonprofits/exemption-certificates)
 
 ## Point of Contact
-- [https://tax.vermont.gov/](https://tax.vermont.gov/)
+- [Vermont Department of Taxation](https://tax.vermont.gov/)
 - 802-828-2551

@@ -19,5 +19,5 @@ updated: 2023-02-15
 * [Sales Tax Taxability and Exemptions](https://dor.mo.gov/faq/taxation/business/sales-use-tax-exemptions.html#:~:text=No.,to%20obtain%20an%20exemption%20letter.) - Question “Are federal employees required to have an exemption letter in the name of the agency they are representing?”
 
 ## Point of Contact
-- [https://dor.mo.gov/](https://dor.mo.gov/)
+- [Missouri Department of Revenue](https://dor.mo.gov/)
 - 573-751-2836

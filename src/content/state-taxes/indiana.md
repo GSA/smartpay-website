@@ -21,5 +21,5 @@ updated: 2023-02-15
 * [General Sales Tax Exemption Certificate](https://www.in.gov/dor/tax-forms/sales-tax-forms/)
 
 ## Point of Contact
-- [https://www.in.gov/dor/](https://www.in.gov/dor/)
+- [Indiana Department of Revenue](https://www.in.gov/dor/)
 - 317-232-2240

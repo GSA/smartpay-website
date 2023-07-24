@@ -28,5 +28,5 @@ Proof of federal employment may be required.
 * [Transient Lodging Tax - Exemptions](https://www.oregon.gov/DOR/programs/businesses/Pages/lodging.aspx)
 
 ## Point of Contact
-- [https://www.oregon.gov/dor/Pages/index.aspx](https://www.oregon.gov/dor/Pages/index.aspx)
+- [Oregon Department of Revenue](https://www.oregon.gov/dor/Pages/index.aspx)
 - 503-378-4988 or 800-356-4222

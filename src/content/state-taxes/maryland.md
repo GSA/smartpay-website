@@ -20,5 +20,5 @@ updated: 2023-02-15
 * [Tax Exemptions](https://www.marylandtaxes.gov/business/sales-use/tax-exemptions/) - Section for Tax Exempt Sales to Government Employees
 
 ## Point of Contact
-- [https://www.marylandtaxes.gov/](https://www.marylandtaxes.gov/)
+- [Comptroller of Maryland](https://www.marylandtaxes.gov/)
 - 800-638-2937

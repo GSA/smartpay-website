@@ -15,5 +15,5 @@ updated: 2023-02-15
 ---
 
 ## Point of Contact
-- [https://www.guamtax.com/](https://www.guamtax.com/)
+- [Guam Department of Revenue and Taxation](https://www.guamtax.com/)
 - 671-635-1835

@@ -32,5 +32,5 @@ No forms are required. However, cardholders must provide vendors with one of the
 * [Tax Topic Bulletin S&U-6](https://www.state.nj.us/treasury/taxation/pdf/pubs/sales/su6.pdf) - See page 18, “Exempt Use Certificate”
 
 ## Point of Contact
-- [https://www.state.nj.us/treasury/](https://www.state.nj.us/treasury/)
+- [New Jersey Department of Treasury](https://www.state.nj.us/treasury/)
 - 609-826-4400 or 800-323-4400

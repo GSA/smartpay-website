@@ -25,5 +25,5 @@ updated: 2023-02-15
 * [103 KAR 30:235. Sales to the Federal Government](https://apps.legislature.ky.gov/law/kar/titles/103/030/235/)
 
 ## Point of Contact
-- [https://revenue.ky.gov/](https://revenue.ky.gov/)
+- [Kentucky Department of Revenue](https://revenue.ky.gov/)
 - 502-564-4581​

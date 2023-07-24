@@ -25,5 +25,5 @@ updated: 2023-02-15
 * [09-01 - Purchases by Government Employees](https://www.tn.gov/content/dam/tn/revenue/documents/notices/sales/sales09-01.pdf)
 
 ## Point of Contact
-- [https://www.tn.gov/revenue](https://www.tn.gov/revenue)
+- [Tennessee Department of Revenue](https://www.tn.gov/revenue)
 - 615-253-0600

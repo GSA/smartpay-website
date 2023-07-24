@@ -25,5 +25,5 @@ updated: 2023-02-15
 * [Exempt Entities](https://dor.sd.gov/media/sgxnhnhl/exemptentities.pdf#:~:text=Federal%20Government%20and%20the%20South%20Dakota%20Department%20of,required%20to%20collect%20sales%20tax%20on%20taxable%20sales.)
 
 ## Point of Contact
-- [https://dor.sd.gov/](https://dor.sd.gov/)
+- [South Dakota Department of Revenue](https://dor.sd.gov/)
 - 800-829-9188

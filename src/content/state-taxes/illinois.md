@@ -30,5 +30,5 @@ The state requires an e-number for tax exemption. To receive an e-number, please
 * [PIO-37 Information for exclusively charitable, religious, or educational organizations; governmental bodies; and certain other tax-exempt organizations](https://tax.illinois.gov/research/publications/pio-37.html)
 
 ## Point of Contact
-- [https://www2.illinois.gov/rev/Pages/default.aspx](https://www2.illinois.gov/rev/Pages/default.aspx)
+- [Illinois Department of Revenue](https://www2.illinois.gov/rev/Pages/default.aspx)
 - 800-732-8866

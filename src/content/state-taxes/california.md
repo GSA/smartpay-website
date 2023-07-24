@@ -19,5 +19,5 @@ updated: 2023-02-15
 * [Publication 102, Sales to the United States Government](https://www.cdtfa.ca.gov/formspubs/pub102/#bankcards)
 
 ## Point of Contact
-- [https://www.cdtfa.ca.gov/taxes-and-fees/sutprograms.htm](https://www.cdtfa.ca.gov/taxes-and-fees/sutprograms.htm)
+- [California Department of Tax and Fee Administration](https://www.cdtfa.ca.gov/taxes-and-fees/sutprograms.htm)
 - 800-400-7115
