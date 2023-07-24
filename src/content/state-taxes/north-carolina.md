@@ -11,6 +11,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -25,5 +26,5 @@ summary:
 * [Sales and Use Tax Bulletins](https://www.ncdor.gov/media/13881/open) - 36-1 Sales by and Sales to the United States Government, or any Qualifying Agencies or Instrumentalities Thereof
 
 ## Point of Contact
-- [https://www.ncdor.gov/](https://www.ncdor.gov/)
+- [North Carolina Department of Revenue](https://www.ncdor.gov/)
 - 877-252-3052

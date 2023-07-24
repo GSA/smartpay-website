@@ -11,6 +11,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -20,5 +21,5 @@ summary:
 * [General Sales Tax Exemption Certificate](https://www.in.gov/dor/tax-forms/sales-tax-forms/)
 
 ## Point of Contact
-- [https://www.in.gov/dor/](https://www.in.gov/dor/)
+- [Indiana Department of Revenue](https://www.in.gov/dor/)
 - 317-232-2240

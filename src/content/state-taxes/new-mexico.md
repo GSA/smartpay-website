@@ -15,6 +15,7 @@ summary:
 - icon: error_outline
   text: Centrally billed accounts (CBA) <b>may be</b> exempt from the gross receipts
     tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -33,5 +34,5 @@ No forms are required, however the federal government is only exempt from specif
 * [Gross Receipts and Compensating Tax Act Regulations](https://www.tax.newmexico.gov/businesses/wp-content/uploads/sites/7/2020/11/FYI-230__Compensating-Tax_5-18.pdf) - See section 3.2.212.19 "PROOF OF PAYMENT" for more information about forms/documentation requirements
 
 ## Point of Contact
-- [https://www.tax.newmexico.gov/](https://www.tax.newmexico.gov/)
+- [New Mexico Taxation and Revenue Department](https://www.tax.newmexico.gov/)
 - 866-285-2996

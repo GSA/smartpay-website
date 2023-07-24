@@ -11,6 +11,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -24,5 +25,5 @@ summary:
 * [Sales and Use Tax Exemptions](https://tax.wv.gov/Documents/TSD/tsd300.pdf)
 
 ## Point of Contact
-- [https://tax.wv.gov/Pages/default.aspx](https://tax.wv.gov/Pages/default.aspx)
+- [West Virginia State Tax Department](https://tax.wv.gov/Pages/default.aspx)
 - 800-982-8297

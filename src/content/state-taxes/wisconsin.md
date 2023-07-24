@@ -10,6 +10,7 @@ summary:
   text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -25,5 +26,5 @@ summary:
 * [Exempt Sales to the Federal Government](https://www.revenue.wi.gov/Pages/TaxPro/2010/news-2010-100816.aspx#:~:text=Sales%20to%20the%20United%20States,Wisconsin%20sales%20and%20use%20taxes.)
 
 ## Point of Contact
-- [https://www.revenue.wi.gov/](https://www.revenue.wi.gov/)
+- [Wisconsin Department of Revenue](https://www.revenue.wi.gov/)
 - 608-266-2776

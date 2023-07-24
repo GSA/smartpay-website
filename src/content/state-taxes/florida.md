@@ -7,10 +7,11 @@ contact:
 exceptionsApply: false
 summary:
 - icon: highlight_off
-  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+  text: Individually billed accounts (IBA) <b>are</b> exempt from state sales
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -30,5 +31,5 @@ As a Certificate of Exemption is not required for federal government agencies or
 * [GT-800034 Sales and Use Tax on Rental of Living or Sleeping Accommodations for active duty military members](https://floridarevenue.com/Forms_library/current/gt800034.pdf)
 
 ## Point of Contact
-- [https://floridarevenue.com/](https://floridarevenue.com/)
+- [Florida Department of Revenue](https://floridarevenue.com/)
 - 850-488-6800

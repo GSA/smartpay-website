@@ -11,6 +11,7 @@ summary:
     tax for hotel stay.
 - icon: check_circle_outline
   text: The federal government <b>is</b> exempt from occupancy tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -20,5 +21,5 @@ summary:
 * [Form 6100: Exemption Certificate from Tax on Occupancy of Hotel, Motel and Tourist Home Rooms](https://revenuefiles.delaware.gov/docs/6100.pdf)
 
 ## Point of Contact
-- [https://revenue.delaware.gov](https://revenue.delaware.gov)
+- [Delaware Division of Revenue](https://revenue.delaware.gov)
 - 302-577-8205

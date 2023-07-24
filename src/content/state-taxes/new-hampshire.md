@@ -12,12 +12,13 @@ summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from the meals and
     rental tax.
+updated: 2023-02-15
 ---
 
 ## Laws, Regulations, Policies
 
-* [Frequently Asked Questions](https://www.revenue.nh.gov/faq/meals-rooms.htm) - Meals and Rooms (Rentals) Tax - Refer to the question, “Are non-profit organizations exempt from the Meals and Rooms (Rentals) Tax?”
+- [Frequently Asked Questions - Meals and Rooms (Rentals) Tax](https://www.revenue.nh.gov/faq/meals-rooms.htm) - Refer to the question, “Are non-profit organizations exempt from the Meals and Rooms (Rentals) Tax?”
 
 ## Point of Contact
-- [https://www.revenue.nh.gov/](https://www.revenue.nh.gov/)
+- [New Hampshire Department of Revenue](https://www.revenue.nh.gov/)
 - 603-230-5000

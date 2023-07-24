@@ -17,7 +17,7 @@ Guidance, hints, and troubleshooting for use of the GSA SmartPay Purchase accoun
 
 [View all Purchase Publications](/resources/publications/purchase)
 
-## Fleet Publiccations
+## Fleet Publications
 
 Guidance for account holders on the use of the GSA SmartPay Fleet account
 

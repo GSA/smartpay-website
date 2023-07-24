@@ -11,6 +11,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Laws, Regulations, Policies
@@ -19,5 +20,5 @@ summary:
 
 
 ## Point of Contact
-- [https://www.revenue.alabama.gov/](https://www.revenue.alabama.gov/)
+- [Alabama Department of Revenue](https://www.revenue.alabama.gov/)
 - 334-242-1490

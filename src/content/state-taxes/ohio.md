@@ -11,6 +11,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -24,5 +25,5 @@ summary:
 This form can help confirm the transaction is not subject to sales tax in a time where the vendor may be unsure of the validity of the transaction.
 
 ## Point of Contact
-- [https://tax.ohio.gov/](https://tax.ohio.gov/)
+- [Ohio Department of Taxation Business](https://tax.ohio.gov/)
 - 888-405-4039

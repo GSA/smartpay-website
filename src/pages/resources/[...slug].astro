@@ -1,8 +1,8 @@
 ---
-import PageLayout from '../../layouts/PageLayout.astro';
-import SideNav from '../../components/SideNav.astro'
+import PageLayout from '@layouts/PageLayout.astro';
+import SideNav from '@components/SideNav.astro'
 
-import { getCollection, getEntryBySlug } from 'astro:content';
+import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const entries = await getCollection('resources');
@@ -25,7 +25,7 @@ const { Content, headings } = await entry.render();
     headings={headings}
     id={entry.id}
   />
-  <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
+  <main id="main-content" class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
     <h1>{ entry.data.title }</h1>
 
     { entry.data.intro && ( 
@@ -33,8 +33,7 @@ const { Content, headings } = await entry.render();
         { entry.data.intro }
       </p>
     )}
-
     <Content />
-</div>
+  </main>
 </PageLayout>
     

@@ -1,0 +1,25 @@
+---
+
+    // This component is intended to allow simple styles to be appended to images. 
+    // This is primarily to allow resizing of images in mdx files. To use:
+    
+    // - append css statements after the image url separated by a double underscore: __
+    // - for example: "/images/files.svg__width:42px"
+    // - which will result in adding style:{width:42px} to the image tag
+
+    // This is probably most useful when you can replace the native <img> tage
+    // with this component like:
+    // import Image from "@components/Image.astro"
+    // export const components = {img:Image}
+
+    
+    const {src, alt} = Astro.props
+    const [url, ...attr] = src.split('__') 
+    const attributes = attr.join(';')
+---
+
+    { attributes 
+        ? <img src={url} alt={alt} style={attributes} />
+        : <img src={url} alt={alt} />
+    }
+   

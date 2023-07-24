@@ -11,6 +11,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -20,5 +21,5 @@ summary:
 * [F0003 Streamlined Exemption Certificate](https://tax.vermont.gov/business/nonprofits/exemption-certificates)
 
 ## Point of Contact
-- [https://tax.vermont.gov/](https://tax.vermont.gov/)
+- [Vermont Department of Taxation](https://tax.vermont.gov/)
 - 802-828-2551

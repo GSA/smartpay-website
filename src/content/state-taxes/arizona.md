@@ -14,6 +14,7 @@ summary:
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state use tax.
 - icon: error_outline
   text: CBAs <b>may not be</b> exempt from transaction privilege tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -39,5 +40,5 @@ Notes for the transaction privilege tax:
 * [Transaction Privilege Tax Exemptions](https://azdor.gov/transaction-privilege-tax/tpt-exemptions)
 
 ## Point of Contact
-- [https://www.dfa.arkansas.gov/](https://www.dfa.arkansas.gov/)
+- [Arizona Department of Revenue](https://www.dfa.arkansas.gov/)
 - 501-682-7104

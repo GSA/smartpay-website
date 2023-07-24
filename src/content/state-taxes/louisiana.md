@@ -10,18 +10,19 @@ summary:
   text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
+
+### Travel Card
+
+* [R-1376 Government Employees Hotel Lodging Sales/Use Tax Exemption Certificate](https://revenue.louisiana.gov/Forms/ForBusinesses)
 
 ### Purchase Card
 
 * [Form R-1304 Sales Tax Exemption for Certain Purchases and Leases for the Federal Government or the U.S. Department of Navy](https://revenue.louisiana.gov/Forms/ForBusinesses)
 * [Form R-1356-L Sales Tax Exemption for Purchases by the Federal Government](https://revenue.louisiana.gov/Forms/ForBusinesses)
-
-### Travel Card
-
-* [R-1376 Government Employees Hotel Lodging Sales/Use Tax Exemption Certificate](https://revenue.louisiana.gov/Forms/ForBusinesses)
 
 ## Laws, Regulations, Policies
 
@@ -33,5 +34,5 @@ summary:
 In addition to applicable forms, federal government employees may be required to present an active GSA SmartPay charge card, valid government identification, and either valid travel orders on agency letterhead or one of the completed forms above.
 
 ## Point of Contact
-- [https://revenue.louisiana.gov/](https://revenue.louisiana.gov/)
+- [Louisiana Department of Revenue](https://revenue.louisiana.gov/)
 - 225-219-7462

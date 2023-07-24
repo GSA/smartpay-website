@@ -11,6 +11,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -24,5 +25,5 @@ summary:
 This is a multi-state form.  Not all states allow all exemptions listed on this form. Purchasers are responsible for knowing if they qualify to claim exemption from tax in the state that would otherwise be due tax on this sale.
 
 ## Point of Contact
-- [https://revenue.wyo.gov/](https://revenue.wyo.gov/)
+- [Wyoming Department of Revenue](https://revenue.wyo.gov/)
 - 307-777-5275

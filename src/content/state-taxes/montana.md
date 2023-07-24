@@ -11,6 +11,7 @@ summary:
     sales tax for hotel stay.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from the lodging sales tax.
+updated: 2023-02-15
 ---
 
 ## Laws, Regulations, Policies
@@ -19,5 +20,5 @@ summary:
 * [Accommodations Taxes](https://leg.mt.gov/content/Publications/fiscal/leg_reference/Brochures/Accommodations-Taxes-2020_Final.pdf)
 
 ## Point of Contact
-- [https://mtrevenue.gov/](https://mtrevenue.gov/)
+- [Montana Department of Revenue](https://mtrevenue.gov/)
 - 866-859-2254 or 406-444-5828

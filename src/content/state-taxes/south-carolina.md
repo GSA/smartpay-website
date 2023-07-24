@@ -11,6 +11,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Laws, Regulations, Policies
@@ -20,5 +21,5 @@ summary:
 * [SC REVENUE RULING #15-11](https://dor.sc.gov/resources-site/lawandpolicy/Advisory%20Opinions/RR15-11.pdf)
 
 ## Point of Contact
-- [https://dor.sc.gov/](https://dor.sc.gov/)
+- [South Carolina Department of Revenue](https://dor.sc.gov/)
 - 844-898-8542

@@ -11,6 +11,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -24,12 +25,12 @@ summary:
 No forms are required. However, cardholders must provide vendors with one of the following:
 * A purchase order, if there is an existing contract.
 * Signed document on agency letterhead authorizing the official government purchase.
-* For cash purchases under $150, the submission of [Form ST-4](https://www.nj.gov/treasury/taxation/prntsale.shtml), above.
+* For cash purchases under $150, the submission of [Form ST-4](https://www.state.nj.us/treasury/taxation/pdf/other_forms/sales/st4.pdf), above.
 
 ## Laws, Regulations, Policies
 
 * [Tax Topic Bulletin S&U-6](https://www.state.nj.us/treasury/taxation/pdf/pubs/sales/su6.pdf) - See page 18, “Exempt Use Certificate”
 
 ## Point of Contact
-- [https://www.state.nj.us/treasury/](https://www.state.nj.us/treasury/)
+- [New Jersey Department of Treasury](https://www.state.nj.us/treasury/)
 - 609-826-4400 or 800-323-4400

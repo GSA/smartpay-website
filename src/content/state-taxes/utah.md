@@ -11,6 +11,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -20,5 +21,5 @@ summary:
 * [TC-721G Utah State Tax Commission Exemption Certificate for Government](https://tax.utah.gov/forms-pubs)
 
 ## Point of Contact
-- [https://tax.utah.gov/](https://tax.utah.gov/)
+- [Utah State Tax Commission](https://tax.utah.gov/)
 - 801-297-2200 or 800-662-4335

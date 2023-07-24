@@ -10,6 +10,7 @@ summary:
   text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -28,5 +29,5 @@ Form ST-129 cannot be used to claim exemption from locally imposed hotel occupan
 * [Tax Bulletin ST-700 (TB-ST-700) Purchases and Sales by Governmental Entities](https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/purchases_and_sales_by_governmental_entities.htm)
 
 ## Point of Contact
-- [https://www.tax.ny.gov/](https://www.tax.ny.gov/)
+- [New York Department of Taxation and Finance](https://www.tax.ny.gov/)
 - 518-485-2889

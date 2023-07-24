@@ -11,16 +11,17 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
 
-### Purchase Card
+### CBA Travel Card
 
 * [DR 1367 Affidavit Of Sales Paid By Government Credit Card](https://tax.colorado.gov/sales-use-tax-forms)
 * [DR 5002 Standard Colorado Affidavit of Exempt Sale](https://tax.colorado.gov/sales-use-tax-forms)
 
-### Travel Card
+### Purchase Card
 
 * [DR 1367 Affidavit Of Sales Paid By Government Credit Card](https://tax.colorado.gov/sales-use-tax-forms)
 * [DR 5002 Standard Colorado Affidavit of Exempt Sale](https://tax.colorado.gov/sales-use-tax-forms)
@@ -31,5 +32,5 @@ summary:
 * [FYI Sales 63 Government Purchases Exemptions](https://tax.colorado.gov/sites/tax/files/Sales63.pdf)
 
 ## Point of Contact
-- [https://cdor.colorado.gov](https://cdor.colorado.gov)
+- [Colorado Department of Revenue](https://cdor.colorado.gov)
 - 303-238-7378

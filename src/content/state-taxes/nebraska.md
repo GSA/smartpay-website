@@ -11,6 +11,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+updated: 2023-02-15
 ---
 
 ## Forms
@@ -25,5 +26,5 @@ summary:
 * [Nebraska Sales Tax Guide for Charge Card Purchases by United States (Federal) Government Employees](https://revenue.nebraska.gov/files/doc/info/6-494.pdf)
 
 ## Point of Contact
-- [https://revenue.nebraska.gov/](https://revenue.nebraska.gov/)
+- [Nebraska Department of Revenue](https://revenue.nebraska.gov/)
 - 402-471-5729 or 800-742-7474
