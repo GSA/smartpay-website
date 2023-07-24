@@ -10,8 +10,10 @@ summary:
   text: The state <b>does not</b> have a sales tax; instead it assesses a transient
     lodging tax for hotel stay.
 - icon: check_circle_outline
-  text: Individually billed accounts (IBA) <b>are</b> exempt from transient lodging
+  text: Individually billed accounts (IBA) <b>are</b> exempt from the transient lodging
     tax.
+- icon: check_circle_outline
+  text: Centrally Billed Accounts (CBA) <b>are</b> exempt from the transient lodging tax.
 updated: 2023-02-15
 ---
 
