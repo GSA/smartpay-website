@@ -1,6 +1,6 @@
 ---
+import TopNav from "@components/TopNav.astro";
 const {headings, title, parent_nav_path, parent_nav_text} = Astro.props;
-import TopNav from "./TopNav.astro";
 ---
 <div class="usa-layout-docs__sidenav desktop:grid-col-4">
   { parent_nav_path && parent_nav_text && (

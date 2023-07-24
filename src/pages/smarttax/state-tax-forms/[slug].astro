@@ -30,7 +30,7 @@ const { Content, headings } = await entry.render();
     parent_nav_path = "smarttax/state-tax-forms"
     parent_nav_text = "Return to State Tax Forms"
   />
-  <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
+  <main id="main-content" class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
     <h1>{ entry.data.name } Tax Information</h1>
     <StateTaxSelection 
       current_state={entry.data.name}
@@ -46,6 +46,6 @@ const { Content, headings } = await entry.render();
     <p class="margin-top-3 text-base-darker">
       <i>Updated {format_date(entry.data.updated)}</i>
     </p>
-</div>
+  </main>
 </PageLayout>
     

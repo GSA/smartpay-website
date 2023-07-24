@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import PageLayout from '../../../layouts/PageLayout.astro';
+import PageLayout from '@layouts/PageLayout.astro';
 import TopNav from '@components/TopNav.astro';
 export async function getStaticPaths() {
   const entries = await getCollection('publications');
@@ -13,15 +13,12 @@ export async function getStaticPaths() {
 }
 const { entry} = Astro.props;
 const { Content} = await entry.render();
-
 ---
-
 <PageLayout title ={entry.data.title} >
   <TopNav parent_nav_path="resources/publications" parent_nav_text = "Return to the Publications and Videos" />
-      <div class="usa-layout-docs__main usa-prose usa-layout-docs">
-        <h1>{entry.data.title}</h1>
-        <p class="usa-intro">{entry.data.intro}</p>
-        <Content />
-      </div>
-    </div>
+  <main id="main-content" class="usa-layout-docs__main usa-prose usa-layout-docs">
+    <h1>{entry.data.title}</h1>
+    <p class="usa-intro">{entry.data.intro}</p>
+    <Content />
+  </main>
 </PageLayout>
