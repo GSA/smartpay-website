@@ -21,5 +21,5 @@ updated: 2023-02-15
 * [23VAC10-210-690. Governments; sales to](https://law.lis.virginia.gov/admincode/title23/agency10/chapter210/section690/#:~:text=Purchases%20of%20meals%2C%20lodging%2C%20and,purchase%20order%20(e.g.%2C%20by%20direct))
 
 ## Point of Contact
-- [https://www.tax.virginia.gov/](https://www.tax.virginia.gov/)
+- [Virginia Department of Taxation](https://www.tax.virginia.gov/)
 - 804-367-8037

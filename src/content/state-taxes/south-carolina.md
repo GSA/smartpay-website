@@ -21,5 +21,5 @@ updated: 2023-02-15
 * [SC REVENUE RULING #15-11](https://dor.sc.gov/resources-site/lawandpolicy/Advisory%20Opinions/RR15-11.pdf)
 
 ## Point of Contact
-- [https://dor.sc.gov/](https://dor.sc.gov/)
+- [South Carolina Department of Revenue](https://dor.sc.gov/)
 - 844-898-8542

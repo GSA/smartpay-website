@@ -15,14 +15,14 @@ updated: 2023-02-15
 
 ## Forms
 
+### Travel Card
+
+* [Request for Room Tax Exemption](https://roomtax.prtourism.com/exemption_reqs.php?lan)
+
 ### Purchase Card
 
 * [Puerto Rico Department of Treasury Form AS2916.1 (English Version)](https://hacienda.pr.gov/downloads/pdf/formularios/AS%202916.1.pdf)
 * [Puerto Rico Department of Treasury Form SC2916 (Spanish Version)](http://www.hacienda.gobierno.pr/sites/default/files/documentos/sc_2916_2015_1.pdf)
-
-### Travel Card
-
-* [Request for Room Tax Exemption](https://roomtax.prtourism.com/exemption_reqs.php?lan)
 
 #### Notes
 

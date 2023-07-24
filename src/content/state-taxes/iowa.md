@@ -21,5 +21,5 @@ updated: 2023-02-15
 * [Iowa Sales/Use/Excise Tax Exemption Certificate 31-014](https://tax.iowa.gov/forms/iowa-salesuseexcise-tax-exemption-certificate-31-014)
 
 ## Point of Contact
-- [https://tax.iowa.gov/](https://tax.iowa.gov/)
+- [Iowa Department of Revenue](https://tax.iowa.gov/)
 - 515-281-3114

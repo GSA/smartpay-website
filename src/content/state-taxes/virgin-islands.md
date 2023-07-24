@@ -22,5 +22,5 @@ updated: 2023-02-15
 For IBA Travel Cards, official government identification is required.
 
 ## Point of Contact
-- [https://bir.vi.gov/](https://bir.vi.gov/)
+- [Virgin Islands Bureau of Internal Revenue](https://bir.vi.gov/)
 - 340-715-1040

@@ -25,5 +25,5 @@ updated: 2023-02-15
 * [Credit Card Payments](https://www.revenue.state.mn.us/guide/credit-card-payments)
 
 ## Point of Contact
-- [https://www.revenue.state.mn.us/](https://www.revenue.state.mn.us/)
+- [Minnesota Department of Revenue](https://www.revenue.state.mn.us/)
 - 800-657-3777 or 651-296-6181

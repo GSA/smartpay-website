@@ -19,5 +19,5 @@ updated: 2023-02-15
 * [US government sales](https://dor.wa.gov/education/industry-guides/lodging-guide/us-government-sales#:~:text=Sales%20made%20directly%20to%20the,reimbursement%20from%20the%20federal%20government.)
 
 ## Point of Contact
-- [https://dor.wa.gov/](https://dor.wa.gov/)
+- [Department of Revenue Washington State](https://dor.wa.gov/)
 - 360-705-6705

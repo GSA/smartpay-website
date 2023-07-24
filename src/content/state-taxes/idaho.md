@@ -16,14 +16,14 @@ updated: 2023-02-15
 
 ## Forms
 
-### Purchase Card
-
-* [Form ST-101 Sales Tax Resale or Exemption Certificate](https://tax.idaho.gov/taxes/sales-use/sales-tax/retailers/general/resale/)
-
 ### CBA Travel Card
 
 * [Form ST-104HM Tax Exemption on Lodging Accommodations](https://tax.idaho.gov/taxes/sales-use/forms/)
 
+### Purchase Card
+
+* [Form ST-101 Sales Tax Resale or Exemption Certificate](https://tax.idaho.gov/taxes/sales-use/forms/)
+
 ## Point of Contact
-- [https://tax.idaho.gov/](https://tax.idaho.gov/)
+- [Idaho State Tax Commission](https://tax.idaho.gov/)
 - 800-972-7660

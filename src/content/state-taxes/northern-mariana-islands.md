@@ -15,5 +15,5 @@ updated: 2023-02-15
 ---
 
 ## Point of Contact
-- [https://finance.gov.mp/revenue-taxation.php](https://finance.gov.mp/revenue-taxation.php)
+- [Division of Revenue and Taxation](https://finance.gov.mp/revenue-taxation.php)
 - 670-664-1040

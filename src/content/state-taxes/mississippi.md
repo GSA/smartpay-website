@@ -20,5 +20,5 @@ updated: 2023-02-15
 * [Sales Tax Frequently Asked Questions](https://www.dor.ms.gov/business/sales-tax-frequently-asked-questions#:~:text=Does%20Mississippi%20impose%20a%20sales,are%20exemptions%20provided%20by%20law.) - Question for “Are sales to federal, state, county, and city governments exempt from sales tax?”
 
 ## Point of Contact
-- [https://www.dor.ms.gov/](https://www.dor.ms.gov/)
+- [Mississippi Department of Revenue](https://www.dor.ms.gov/)
 - 601-923-7700

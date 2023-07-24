@@ -21,5 +21,5 @@ updated: 2023-02-15
 * [Form 3372 Michigan Sales and Use Tax Certificate of Exemption](https://www.michigan.gov/taxes/business-taxes/sales-use-tax/2023-sales-and-use-tax-forms)
 
 ## Point of Contact
-- [https://www.michigan.gov/treasury/](https://www.michigan.gov/treasury/)
+- [Michigan Department of Treasury](https://www.michigan.gov/treasury/)
 - 517-636-4357

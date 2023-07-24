@@ -36,5 +36,5 @@ Notes for the GET:
 * [An Introduction to the Transient Accommodations Tax](https://files.hawaii.gov/tax/legal/brochures/TAT_brochure.pdf)
 
 ## Point of Contact
-- [https://tax.hawaii.gov/](https://tax.hawaii.gov/)
+- [Hawaii Department of Taxation](https://tax.hawaii.gov/)
 - 808-587-1577

@@ -25,5 +25,5 @@ updated: 2023-02-15
 * [Sales and Use Tax Exemptions](https://tax.wv.gov/Documents/TSD/tsd300.pdf)
 
 ## Point of Contact
-- [https://tax.wv.gov/Pages/default.aspx](https://tax.wv.gov/Pages/default.aspx)
+- [West Virginia State Tax Department](https://tax.wv.gov/Pages/default.aspx)
 - 800-982-8297
