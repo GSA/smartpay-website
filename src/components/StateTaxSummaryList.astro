@@ -7,7 +7,7 @@ const icon_colors = {
   'error_outline': 'text-warning-darker'
 }
 
-const add_link = items.some(({text}) => text.includes('(IBA)') || text.includes('(CBA)'));
+const explains_iba_ibc = items.some(({text}) => text.includes('(IBA)')) &&  items.some(({text}) => text.includes('(CBA)'));
 ---
 
 <div class="bg-base-lightest padding-2">
@@ -23,9 +23,16 @@ const add_link = items.some(({text}) => text.includes('(IBA)') || text.includes(
       </li>
       ))}
     </ul>
-    {add_link && (
-    <p class="margin-bottom-0">
-      <a class="usa-link" href={`${import.meta.env.BASE_URL}smarttax/recognizing-your-account`}>Need help recognizing a card or telling if a card is an IBA or CBA?</a>
-    </p>
-    )}
+    {explains_iba_ibc 
+    ? (
+      <p class="margin-bottom-0">
+        <a class="usa-link" href={`${import.meta.env.BASE_URL}smarttax/recognizing-your-account`}>Need help recognizing a card or telling if a card is an IBA or CBA?</a>
+      </p>
+    )
+    : (
+      <p class="margin-bottom-0">
+        <a class="usa-link" href={`${import.meta.env.BASE_URL}smarttax/recognizing-your-account`}>Need help recognizing a card or telling if a card is an individually billed account (IBA) or a centrally billed account (CBA)?</a>
+      </p>
+    )  
+  }
   </div>
