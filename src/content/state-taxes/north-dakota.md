@@ -11,18 +11,18 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
-updated: 2023-02-15
+updated: 2023-07-24
 ---
 
 ## Forms
 
 ### CBA Travel Card
 
-* [SFN 21937 (11-2011) Exemption Certificate For Government And Qualifying School Lodging Accommodations](https://www.tax.nd.gov/sites/www/files/documents/forms/exemption-certificate-for-govt-and-qualifying-school-lodging-accommodations.pdf)
+* [SFN 21937 (11-2011) Exemption Certificate For Government And Qualifying School Lodging Accommodations](https://www.tax.nd.gov/sites/www/files/documents/forms/business/sales-use/exemption-certificate-for-govt-and-qualifying-school-lodging-accommodations.pdf)
 
 ### Purchase Card
 
-* [SFN 21919 (6-2021) Application for Sales Tax Exemption Certificate](https://www.tax.nd.gov/sites/www/files/documents/forms/application-for-sales-tax-exemption-certificate.pdf)
+* [SFN 21919 (6-2021) Application for Sales Tax Exemption Certificate](https://www.tax.nd.gov/sites/www/files/documents/forms/business/sales-use/application-for-sales-tax-exemption-certificate.pdf)
 
 ## Laws, Regulations, Policies
 

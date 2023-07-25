@@ -18,7 +18,7 @@ updated: 2023-02-15
 
 ### Purchase Card
 
-* [Form:2040 Streamlined Sales and Use Tax Certificate of Exemption](https://sddor.seamlessdocs.com/f/2040)
+* [Form: 2040 Streamlined Sales and Use Tax Certificate of Exemption](https://sddor.seamlessdocs.com/f/2040)
 
 ## Laws, Regulations, Policies
 
