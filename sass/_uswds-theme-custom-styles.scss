@@ -62,6 +62,12 @@ h4 {
    }
 
    hr {
-      border-color: color('base-ligher')
+      border-color: color('base-lighter')
+   }
+}
+// below to resolve the mobile issue for full size template page ( without side nav)
+@media screen and (max-width:768px) {
+   body{
+      width:fit-content;
    }
 }
