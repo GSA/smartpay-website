@@ -57,3 +57,19 @@ jobs:
         run: npm ci
       - name: Run broken link checker on internal links
         run: npm run links:internal
+
+  linter:
+    runs-on: ubuntu-latest
+    needs: setup
+    steps:
+      - name: Checkout code from ${{ github.repository }}
+        uses: actions/checkout@v3
+      - name: Setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Run linter
+        run: npm run lint
