@@ -20,7 +20,7 @@ const { title } = Astro.props;
 
     <meta property="og:title" content={title} />
     <meta property="og:url" content={Astro.url} />
-    <meta property="og:image" content={`${import.meta.env.BASE_URL}images/smartpay_meta_og_images.jpg`} /> 
+    <meta property="og:image" content={`${Astro.site}images/smartpay_meta_og_images.jpg`} /> 
 
     <title>{title}</title>
     
