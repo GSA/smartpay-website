@@ -24,7 +24,7 @@ for(const heading of headings){
 }
 //console.log(newHeadings)
 ---
-<PageLayout title="Frequent Asked Questions">
+<PageLayout title={page.data.title} description={page.data.description}>
   <SideNav 
   title="Frequently Asked Questions"
   headings ={newHeadings}
