@@ -1,6 +1,6 @@
 ---
 title: Key Players in the Process
-description: "The important participants in the GSA SmartPay program and descriptions of their roles"
+description: The important participants in the GSA SmartPay program and descriptions of their roles
 intro: "Key program participants in the GSA SmartPay® program include:"
 slug: "./"
 order: 0

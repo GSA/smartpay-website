@@ -1,5 +1,6 @@
 ---
-title: "Publications and Videos"
+title: Publications and Videos
+description: Guidance, hints, and troubleshooting for use of the GSA SmartPay card/account holders.
 order: 2
 intro: We offer a variety of resources for account holders including guides, presentations and publications specific to travel, purchase, fleet and more.
 

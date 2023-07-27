@@ -1,5 +1,6 @@
 ---
 title: Events
+description: Upcoming events for GSA SmartPay card/account holders and program managers.
 order: 3
 ---
 
