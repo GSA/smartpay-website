@@ -1,10 +1,11 @@
 ---
-import redcard from "@assets/images/red-card.svg"
-import bluecard from "@assets/images/blue-card.svg"
-import silvercard from "@assets/images/silver-card.svg"
-import greencard from "@assets/images/green-card.svg"
-import yellowcard from "@assets/images/yellow-card.svg"
+import redcard from "@assets/images/red-card.svg";
+import bluecard from "@assets/images/blue-card.svg";
+import silvercard from "@assets/images/silver-card.svg";
+import greencard from "@assets/images/green-card.svg";
+import yellowcard from "@assets/images/yellow-card.svg";
 ---
+
 <section class="usa-graphic-list usa-section usa-section--dark">
   <div class="grid-container">
     <div class="grid-row grid-gap margin-bottom-4">
@@ -15,7 +16,11 @@ import yellowcard from "@assets/images/yellow-card.svg"
       </div>
       <div class="tablet:grid-col-6 align-items-center">
         <div class="padding-left-1">
-        <a class="usa-button usa-button--outline usa-button--inverse" href={`${import.meta.env.BASE_URL}about/business-lines`}>Learn more about business lines</a>
+          <a
+            class="usa-button usa-button--outline usa-button--inverse"
+            href={`${import.meta.env.BASE_URL}about/business-lines`}
+            >Learn more about business lines</a
+          >
         </div>
       </div>
     </div>
@@ -24,15 +29,22 @@ import yellowcard from "@assets/images/yellow-card.svg"
         <div class="grid-container padding-0">
           <div class="grid-row grid-gap">
             <div class="mobile-lg:grid-col">
-              <img src={redcard} class="usa-media-block__img" 
-              width="217px"
-              alt="Red charge card with the word Purchase and numbers 1234 5678 9012 3456 and the name John Smith, with a bird in the background">
+              <a
+                href={`${
+                  import.meta.env.BASE_URL
+                }about/business-lines/#purchase`}
+              >
+                <img
+                  src={redcard}
+                  class="usa-media-block__img"
+                  width="217px"
+                  alt="Red charge card with the word Purchase and numbers 1234 5678 9012 3456 and the name John Smith, with a bird in the background"
+                />
+              </a>
             </div>
             <div class="usa-media-block__body mobile-lg:grid-col">
               <h3 class="usa-graphic-list__heading">Purchase</h3>
-              <p>
-                Use to procure, order, and pay for supplies and services.
-              </p>
+              <p>Use to procure, order, and pay for supplies and services.</p>
             </div>
           </div>
         </div>
@@ -41,13 +53,19 @@ import yellowcard from "@assets/images/yellow-card.svg"
         <div class="grid-container padding-0">
           <div class="grid-row grid-gap">
             <div class="mobile-lg:grid-col">
-              <img src={bluecard} class="usa-media-block__img" alt="Blue charge card with the word Travel and numbers 1234 5678 9012 3456 and the name John Smith, with an airplane in the background">
-            </div>      
+              <a
+                href={`${import.meta.env.BASE_URL}about/business-lines/#travel`}
+              >
+                <img
+                  src={bluecard}
+                  class="usa-media-block__img"
+                  alt="Blue charge card with the word Travel and numbers 1234 5678 9012 3456 and the name John Smith, with an airplane in the background"
+                />
+              </a>
+            </div>
             <div class="usa-media-block__body mobile-lg:grid-col">
               <h3 class="usa-graphic-list__heading">Travel</h3>
-              <p>
-                Use for official travel and travel-related expenses.
-              </p>
+              <p>Use for official travel and travel-related expenses.</p>
             </div>
           </div>
         </div>
@@ -58,52 +76,76 @@ import yellowcard from "@assets/images/yellow-card.svg"
         <div class="grid-container padding-0">
           <div class="grid-row grid-gap">
             <div class="mobile-lg:grid-col">
-              <img src={silvercard} class="usa-media-block__img" alt="Silver charge card with the words Tax advantage and numbers 1234 5678 9012 3456 and the name John Smith, with a car and buildings in the background">
-            </div>
-            <div class="usa-media-block__body  mobile-lg:grid-col">
-              <h3 class="usa-graphic-list__heading">
-                Tax Advantage
-              </h3>
-              <p>
-                Use for travel with point-of-sale tax exemption for lodging and car rentals.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="usa-media-block tablet:grid-col-6">
-        <div class="grid-container padding-0">
-          <div class="grid-row grid-gap">
-            <div class="mobile-lg:grid-col">
-              <img src={greencard} class="usa-media-block__img" alt="Green charge card with the word Fleet and numbers 1234 5678 9012 3456 and the name John Smith, with a road in the background">
-            </div>
-            <div class="usa-media-block__body  mobile-lg:grid-col">
-              <h3 class="usa-graphic-list__heading">Fleet</h3>
-              <p>
-                Use for fuel, maintenance, and repair of government owned/operated vehicles.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="usa-graphic-list__row grid-row grid-gap">
-      <div class="usa-media-block tablet:grid-col-6">
-        <div class="grid-container padding-0">
-          <div class="grid-row grid-gap">
-            <div class="mobile-lg:grid-col">
-              <img src={yellowcard} class="usa-media-block__img" alt="Yellow charge card with the word Intergrated and numbers 1234 5678 9012 3456 and the name John Smith, with a globe outline in the background">
+              <a
+                href={`${
+                  import.meta.env.BASE_URL
+                }about/business-lines/#tax-advantage-travel`}
+              >
+                <img
+                  src={silvercard}
+                  class="usa-media-block__img"
+                  alt="Silver charge card with the words Tax advantage and numbers 1234 5678 9012 3456 and the name John Smith, with a car and buildings in the background"
+                />
+              </a>
             </div>
             <div class="usa-media-block__body mobile-lg:grid-col">
-              <h3 class="usa-graphic-list__heading">
-                Integrated
-              </h3>
+              <h3 class="usa-graphic-list__heading">Tax Advantage</h3>
               <p>
-                Combines two or more business lines on a single account.
+                Use for travel with point-of-sale tax exemption for lodging and
+                car rentals.
               </p>
             </div>
           </div>
-        </div> 
+        </div>
+      </div>
+      <div class="usa-media-block tablet:grid-col-6">
+        <div class="grid-container padding-0">
+          <div class="grid-row grid-gap">
+            <div class="mobile-lg:grid-col">
+              <a
+                href={`${import.meta.env.BASE_URL}about/business-lines/#fleet`}
+              >
+                <img
+                  src={greencard}
+                  class="usa-media-block__img"
+                  alt="Green charge card with the word Fleet and numbers 1234 5678 9012 3456 and the name John Smith, with a road in the background"
+                />
+              </a>
+            </div>
+            <div class="usa-media-block__body mobile-lg:grid-col">
+              <h3 class="usa-graphic-list__heading">Fleet</h3>
+              <p>
+                Use for fuel, maintenance, and repair of government
+                owned/operated vehicles.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="usa-graphic-list__row grid-row grid-gap">
+      <div class="usa-media-block tablet:grid-col-6">
+        <div class="grid-container padding-0">
+          <div class="grid-row grid-gap">
+            <div class="mobile-lg:grid-col">
+              <a
+                href={`${
+                  import.meta.env.BASE_URL
+                }about/business-lines/#integrated`}
+              >
+                <img
+                  src={yellowcard}
+                  class="usa-media-block__img"
+                  alt="Yellow charge card with the word Intergrated and numbers 1234 5678 9012 3456 and the name John Smith, with a globe outline in the background"
+                />
+              </a>
+            </div>
+            <div class="usa-media-block__body mobile-lg:grid-col">
+              <h3 class="usa-graphic-list__heading">Integrated</h3>
+              <p>Combines two or more business lines on a single account.</p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
