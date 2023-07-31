@@ -18,13 +18,13 @@
     href: about/statistics
 - title: How it Works
   submenu: 
-  - title: How the Program Works
+  - title: How GSA SmartPay Works
     href: how-it-works/
-  - title: Eligibility
+  - title: Eligibility and the Application Process
     href: how-it-works/eligibility
 - title: Stakeholders
   submenu:
-  - title: Key Players
+  - title: Key Players in the Process
     href: stakeholders/
   - title: Program Coordinator Responsibilities
     href: stakeholders/program-coordinators
@@ -40,7 +40,7 @@
     href: smarttax/resources
   - title: Recognizing Charge Cards
     href: smarttax/recognizing-your-account
-  - title: Legal History
+  - title: State Tax Legal History
     href: smarttax/legal-history
 - title: Policies & Audits
   submenu:
@@ -52,7 +52,7 @@
     href: policies-and-audits/smart-bulletins
 - title: Resources
   submenu:
-  - title: 889 tool
+  - title: Section 889 Tools
     href: resources/tools/section-889
   - title: Publications and Videos
     href: resources/publications
