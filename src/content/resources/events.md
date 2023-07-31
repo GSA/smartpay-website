@@ -1,6 +1,6 @@
 ---
 title: Events
-description: Upcoming events for GSA SmartPay card/account holders and program managers.
+description: Stay aware of upcoming GSA SmartPay events like training forums, summits, conferences, and fairs.
 order: 3
 ---
 

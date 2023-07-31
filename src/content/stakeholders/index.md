@@ -1,6 +1,6 @@
 ---
 title: Key Players in the Process
-description: The important participants in the GSA SmartPay program and descriptions of their roles
+description: Learn more about the key players in the GSA SmartPay program with a description of their roles and responsibilities.
 intro: "Key program participants in the GSA SmartPay® program include:"
 slug: "./"
 order: 0

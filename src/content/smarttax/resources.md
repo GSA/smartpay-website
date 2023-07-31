@@ -1,11 +1,11 @@
 ---
 title: Tax Resources
-description: A guide to assist merchants with recognizing the GSA SmartPay account types and identifying cards for sales tax exemption.
+description: Recognize the GSA SmartPay account types and identify cards for sales tax emption with the SmartTax Merchant Guide and SmartTax Video.
 intro: The GSA SmartPay® Program has resources to assist you with state sales tax exemption.
 order: 1
 category: smarttax
 tags:
-- tax
+  - tax
 ---
 ## SmartTax Merchant Guide
 A guide to assist merchants with recognizing the GSA SmartPay account types and identifying cards for sales tax exemption.
