@@ -1,6 +1,7 @@
 ---
 const {title, submenu, href} = Astro.props;
-let title_slug = title.toLowerCase().replace(' ', '-');
+let title_slug = title.toLowerCase().replace(/\s/g,'-');
+
 ---
 
  { submenu 
