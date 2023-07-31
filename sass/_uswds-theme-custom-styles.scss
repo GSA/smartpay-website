@@ -55,7 +55,11 @@ html, body {
 h4 {
    @include u-font('sans', $theme-type-scale-sm)
 }
-
+h1 {
+   @include u-font('serif', $theme-type-scale-2xl);
+   @include u-margin-y(0);
+   @include u-line-height('serif', 1)
+}
 .usa-prose {
    h4 {
       @include u-font('sans', $theme-type-scale-sm)
