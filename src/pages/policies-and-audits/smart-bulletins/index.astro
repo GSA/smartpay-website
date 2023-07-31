@@ -9,7 +9,7 @@ const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
     <TopNav parent_nav_path={smartbulletinsData.data.parent_nav_path} parent_nav_text = {`Return to the ${smartbulletinsData.data.parent_nav_text}`} />
     <main id="main-content">
       <h1>{smartbulletinsData.data.title}</h1>
-      <p class="usa-prose usa-intro">{smartbulletinsData.data.into}</p>
+      <p class="usa-prose usa-intro">{smartbulletinsData.data.intro}</p>
       <!--smart buletins table -->
       <table class="usa-table usa-table--borderless">
         <thead>
