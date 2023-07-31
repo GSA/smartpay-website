@@ -1,6 +1,6 @@
 ---
 title: Card/Account Holder Responsibilities
-description: Account holders must comply with agency regulations and rules, maintain records, and keep their account secure.
+description: Discover card and account holder responsibilities; how they can comply with agency regulations and rules, maintain records, and keep their account secure.
 intro: The account holder, also known as the cardholder, is the individual or agency/organization component designated by an agency/organization to receive a GSA SmartPay® account.
 order: 2
 category: stakeholders
