@@ -24,8 +24,10 @@ const parent_path ="policies-and-audits/"
   {entry.data.nosidenav? 
   <TopNav parent_nav_path="policies-and-audits" parent_nav_text = "Return to the Policies & Audits" />
    
-  <main id="main-content" class="usa-layout-docs__main  usa-prose usa-layout-docs">
-    <h1>{ entry.data.title }</h1>
+  <main id="main-content">
+    <div class="usa-prose">
+      <h1>{ entry.data.title }</h1>
+    </div>
     { entry.data.intro && ( 
       <p class="usa-intro">
         { entry.data.intro }
