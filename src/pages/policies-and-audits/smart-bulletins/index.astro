@@ -1,15 +1,16 @@
 ---
 import { getEntry } from 'astro:content';
 import PageLayout from '@layouts/PageLayout.astro';
-import TopNav from '@components/TopNav.astro'
+import FullSizeTemplate from '@components/FullSizeTemplate.astro'
 const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
 ---
 <PageLayout title={smartbulletinsData.data.title}>
-  <div>
-    <TopNav parent_nav_path={smartbulletinsData.data.parent_nav_path} parent_nav_text = {`Return to the ${smartbulletinsData.data.parent_nav_text}`} />
-    <main id="main-content">
-      <h1>{smartbulletinsData.data.title}</h1>
-      <p class="usa-prose usa-intro">{smartbulletinsData.data.into}</p>
+  <FullSizeTemplate 
+  title={smartbulletinsData.data.title}
+  parent_nav_path={smartbulletinsData.data.parent_nav_path} 
+  parent_nav_text = {`Return to the ${smartbulletinsData.data.parent_nav_text}`} 
+  intro={smartbulletinsData.data.into}
+  >
       <!--smart buletins table -->
       <table class="usa-table usa-table--borderless">
         <thead>
@@ -35,6 +36,5 @@ const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
           ))}
         </tbody>
       </table>
-    </main>
-  </div>
+  </FullSizeTemplate>
 </PageLayout>
