@@ -1,10 +1,14 @@
 ---
+/*
+This is Home page. 
+Top banner, search, Primary Menu and footer are defined in BaseLayout compment.
+Hero, callout and business line section details are defined in corresponding components.
+*/
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Hero from "@components/Hero.astro"
 import hero_image from "@assets/images/smartpay_website_hero.jpg"
 import Businesslines from '@components/Businesslines.astro';
 import Callout from "@components/Callout.astro";
-
 ---
 <BaseLayout title="GSA SmartPay" description="The GSA SmartPay Program is the largest government charge card and commercial payment solutions program in the world">
   <main id="main-content">
