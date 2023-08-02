@@ -1,3 +1,4 @@
+# Yaml data file that set up smart bulletin page. order is used for menu display order in Policies & Audit section. parent_nav-tex and parent_nav_path is used for top navigation section
 title: Smart Bulletins
 intro: Smart Bulletins keep customer agencies and stakeholders informed of new or updated policies, regulations, program management practices, and other developments.
 parent_nav_text: Polices & Audits
