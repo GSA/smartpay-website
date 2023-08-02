@@ -1,5 +1,6 @@
 ---
 title: Events
+description: Stay aware of upcoming GSA SmartPay events like training forums, summits, conferences, and fairs.
 order: 3
 ---
 

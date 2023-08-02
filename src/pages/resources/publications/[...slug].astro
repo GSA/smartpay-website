@@ -14,7 +14,7 @@ export async function getStaticPaths() {
 const { entry} = Astro.props;
 const { Content} = await entry.render();
 ---
-<PageLayout title ={entry.data.title} >
+<PageLayout title ={entry.data.title} description={entry.data.description}>
   <TopNav parent_nav_path="resources/publications" parent_nav_text = "Return to the Publications and Videos" />
   <main id="main-content" class="usa-layout-docs__main usa-prose usa-layout-docs">
     <h1>{entry.data.title}</h1>

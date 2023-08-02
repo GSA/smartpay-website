@@ -4,7 +4,8 @@ import { z, defineCollection } from 'astro:content';
 const faqCollection = defineCollection({
   schema: z.object({
     title: z.string(),
-    order: z.number()
+    order: z.number(),
+    description: z.string()
   }),
 });
 export const collections = {
