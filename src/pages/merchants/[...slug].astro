@@ -29,7 +29,7 @@ const navigation_items = [
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 ---
-<PageLayout title={entry.data.title}>
+<PageLayout title={entry.data.title} description={entry.data.description}>
   <SideNav 
     title="Merchants"
     parent_path=""

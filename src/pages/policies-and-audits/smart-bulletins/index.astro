@@ -4,6 +4,7 @@ import PageLayout from '@layouts/PageLayout.astro';
 import FullSizeTemplate from '@components/FullSizeTemplate.astro'
 const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
 ---
+
 <PageLayout title={smartbulletinsData.data.title}>
   <FullSizeTemplate 
   title={smartbulletinsData.data.title}

@@ -23,7 +23,7 @@ const format_date = date => date.toLocaleDateString('us-EN', options)
 const { entry } = Astro.props;
 const { Content, headings } = await entry.render();
 ---
-<PageLayout title={`${entry.data.name} Tax Information`}>
+<PageLayout title={`${entry.data.name} Tax Information`} description={`Information about ${entry.data.name} state taxes for GSA SmartPay card/account holders`}>
   <SinglePageSideNav 
     title={entry.data.name}
     headings={headings}
