@@ -2,7 +2,9 @@
  * Configure a list of redirects.
  */
 
-export default {
+import path from "path"
+
+const redirects = {
   "/content/about-gsa-smartpay": "/about",
   "/gsa-smartpay-benefits": "/about/benefits",
   "/purchase-program-overview-account-holders": "/about/business-lines",
@@ -176,4 +178,12 @@ export default {
   "/gsa-smartpay-program-support": "/contact",
   "/content/agency-bank-information": "/contact/banks-contact",
   "/content/bank-customer-service-centers": "/contact/banks-contact",
+}
+
+// Process the redirects by prefixing the site's base path if there is one.
+export default function generateRedirects(basePath = "/") {
+  Object.keys(redirects).forEach((key) => {
+    redirects[key] = path.posix.join(basePath, redirects[key])
+  })
+  return redirects
 }
