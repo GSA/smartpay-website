@@ -3,6 +3,7 @@ import mdx from '@astrojs/mdx';
 import process_anchors from "./src/plugins/process_anchors";
 import process_image_urls from './src/plugins/process_image_urls';
 import sitemap from "@astrojs/sitemap";
+import redirects from "./src/config/redirects";
 
 // https://astro.build/config
 export default defineConfig({
@@ -15,5 +16,6 @@ export default defineConfig({
         [process_anchors, {baseURL: process.env.BASEURL || '/'}],
         [process_image_urls, {baseURL: process.env.BASEURL || '/'}]
       ],
-    }
+    },
+    redirects
 });
