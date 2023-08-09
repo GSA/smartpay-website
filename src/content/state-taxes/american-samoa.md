@@ -1,7 +1,7 @@
 ---
-name: American Somoa
+name: American Samoa
 contact:
-  link: https://www.dfa.arkansas.gov/
+  link: https://www.americansamoa.gov/tax-office
   name: American Samoa Tax Office - Department of the Treasury
   phone: 1-684-633-4116
 exceptionsApply: false
