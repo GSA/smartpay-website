@@ -1,0 +1,20 @@
+---
+import TopNav from '@components/TopNav.astro'
+const { title, intro, parent_nav_path, parent_nav_text } = Astro.props;
+---
+<!--
+  This component is used for full size page without side nav, common style classes for full size template is set here.
+  It contains Common sections including Top navigation,page title and intro paragraph.
+  --> 
+<div class="full-size-template">
+    <TopNav parent_nav_path={parent_nav_path} parent_nav_text = {parent_nav_text} />
+    <main id="main-content" class="usa-prose ">
+        <h1>{ title }</h1>
+        { intro && ( 
+          <p class="usa-intro">
+            {intro}
+          </p>
+        )}
+        <slot />
+    </main>
+</div>

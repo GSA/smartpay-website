@@ -29,11 +29,17 @@
           margin-top: 0;
           height: 5rem;
         }
-  
+
         + .usa-logo__text {
           float: left;
         }
       }
+      // address mobile view logo too big issue
+       @media screen and (max-width:768px) {
+          .usa-logo-img {
+            height: 2rem;
+          }
+        }
     }
   
     &.usa-header--extended .usa-logo-img {
@@ -55,6 +61,12 @@
     .usa-hero__heading--alt{
         color: color('base-darkest');
     }
+    // address mobile view default spacing too much causing text not align properly issue
+    @media screen and (max-width:768px) {
+    .usa-button{
+      padding: 0.75rem 1rem;
+    }
+  }
 }
 // Business Line Section
 .align-items-center{
@@ -73,10 +85,14 @@
       color: white;
     }
 }
-
-.usa-nav__submenu{
-  width: 16rem;
+// added more space for business line headers for moblie view only
+@media screen and (max-width:768px) {
+  .usa-graphic-list__heading {
+    padding-top: 1rem;
+  }
 }
+
+
 // based on new design, h1-h3 are using Merriweather and use base darkest color
 h1, h2, h3{
   font-family: family('serif');

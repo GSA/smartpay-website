@@ -1,7 +1,12 @@
 ---
+/* 
+This page is to set up Policies & Audits parent level pages layout and routes except for smart bulletins. 
+It includs landing page (/policies-and-audits/), Policies page (/policies-and-audits/policies), Audit Reporistory page (/policies-and-audits/audits)
+Page use side nav or use full size template based on frontmatter full_size_template value is provided or not. 
+*/
 import PageLayout from '@layouts/PageLayout.astro';
 import SideNav from '@components/SideNav.astro'
-import TopNav from '@components/TopNav.astro'
+import FullSizeTemplate from '@components/FullSizeTemplate.astro'
 import { getCollection, getEntry } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -20,19 +25,17 @@ const { entry, entries, smartbulletinsData } = Astro.props;
 const { Content, headings } = await entry.render();
 const parent_path ="policies-and-audits/"
 ---
+
 <PageLayout title={entry.data.title}>
-  {entry.data.nosidenav? 
-  <TopNav parent_nav_path="policies-and-audits" parent_nav_text = "Return to the Policies & Audits" />
-   
-  <main id="main-content" class="usa-layout-docs__main  usa-prose usa-layout-docs">
-    <h1>{ entry.data.title }</h1>
-    { entry.data.intro && ( 
-      <p class="usa-intro">
-        { entry.data.intro }
-      </p>
-    )}
-    <Content />
-  </main>
+  {entry.data.full_size_template? 
+  <FullSizeTemplate 
+  title={ entry.data.title }
+  parent_nav_path="policies-and-audits" 
+  parent_nav_text = "Return to the Policies & Audits" 
+  intro ={entry.data.intro}
+  >
+  <Content />
+ </FullSizeTemplate>
 : 
 <SideNav 
     title="Policies & Audits"

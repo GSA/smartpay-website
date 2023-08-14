@@ -1,7 +1,9 @@
-
+---
+//This Component used for mdx page to display two column layout, UI page example: About->Business Lines
+---
 <div class="grid-container">
-    <div class="grid-row">
-      <div class="tablet:grid-col padding-top-2"><slot name="left"/></div>
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid-col-5 padding-top-2 "><slot name="left"/></div>
       <div class="tablet:grid-col"><slot name="right"/></div>
     </div>
   </div>
