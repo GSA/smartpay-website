@@ -20,7 +20,6 @@ pages.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
                 <li class="usa-sidenav__item">
                   <a 
                     href={`#${h.slug}`}
-                    onclick={`document.querySelector('#${h.slug}').scrollIntoView({behavior: "smooth"}); event.preventDefault();`}
                   >
                     {h.text}
                   </a>

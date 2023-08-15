@@ -16,7 +16,6 @@ const { headings, title } = Astro.props;
           <li class="usa-sidenav__item">
             <a
               href={`#${h.slug}`}
-              onclick={`document.querySelector('#${h.slug}').scrollIntoView({behavior: "smooth"}); event.preventDefault();`}
             >
               {h.text}
             </a>
@@ -26,7 +25,6 @@ const { headings, title } = Astro.props;
                   <li class="usa-sidenav__item">
                     <a
                       href={`#${h3.slug}`}
-                      onclick={`document.querySelector('#${h3.slug}').scrollIntoView({behavior: "smooth"}); event.preventDefault();`}
                     >
                       {h3.text}
                     </a>
