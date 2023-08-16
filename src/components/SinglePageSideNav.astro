@@ -18,7 +18,6 @@ const {headings, title, parent_nav_path, parent_nav_text} = Astro.props;
                 <li class="usa-sidenav__item">
                   <a
                     href={`#${h.slug}`}
-                    onclick={`document.querySelector('#${h.slug}').scrollIntoView({behavior: "smooth"}); event.preventDefault();`}
                   >
                   {h.text}
                   </a>
