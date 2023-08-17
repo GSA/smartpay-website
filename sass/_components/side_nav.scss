@@ -1,6 +1,6 @@
 .usa-sidenav {
     .usa-sidenav__item {
-        
+
         background-color: color('base-lightest');
         &:hover {
             background-color: color('base');
@@ -19,9 +19,9 @@
     }
 
     // used for FAQ page that doesn't have usa-current but have sub menu
-  
+
     a:not(:hover):not(.usa-current) {
-       
+
         background-color:color('base-lightest');
     }
     .usa-sidenav__item.current {
@@ -39,12 +39,12 @@
     // let the sidebar sticky to the top left when screen are scrolling
     position: sticky;
     top: 0;
-    h4 {
+    div.sp_site_nav_title {
         margin-top:0;
-        padding-top: 1em;
+        padding: 1em 0 1em .5em;
         border-top: 2px solid color('base-light');
-        padding-left: .5em;
         color: color('base');
+        font-weight: bold;
     }
 }
 

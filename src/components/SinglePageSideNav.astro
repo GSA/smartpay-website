@@ -12,11 +12,11 @@ const {headings, title, parent_nav_path, parent_nav_text} = Astro.props;
     <TopNav parent_nav_path = {parent_nav_path} parent_nav_text ={parent_nav_text} />
   )}
   <nav class="sp_site_nav" aria-label="Secondary navigation">
-    <h4>{ title }</h4>
+    <div class="sp_site_nav_title">{ title }</div>
       <ul class="usa-sidenav">
             {headings.filter(h => h.depth == 2).map(h => (
                 <li class="usa-sidenav__item">
-                  <a 
+                  <a
                     href={`#${h.slug}`}
                   >
                   {h.text}
