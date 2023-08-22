@@ -13,6 +13,8 @@ Established in 1998, the GSA SmartPay program is the world’s largest governmen
 
 GSA SmartPay payment solutions enable authorized government employees to make purchases on behalf of the federal government in support of their agency’s mission.
 
+## Payment solutions
+
 GSA SmartPay payment solutions:
 
 - Streamline transaction processing.
