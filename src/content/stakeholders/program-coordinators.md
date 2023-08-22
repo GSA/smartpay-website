@@ -24,6 +24,7 @@ Here are some potential A/OPC responsibilities, which may vary by agency:
 - Ensure that appropriate steps are taken to mitigate suspension or cancellation actions.
 - Develop agency program procedures and policies as necessary.
 - Keep the lines of communication open with all key program participants.
+- Tell Jenn how awesome she is!
 
 Communication is key. A/OPCs should ensure that all program participants, including senior management/leadership, are aware of what is going on in the program. Keep in touch with your program’s participants by networking, asking questions and sharing or distributing policy changes and program information.
 
