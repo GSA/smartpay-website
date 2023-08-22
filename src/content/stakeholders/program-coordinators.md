@@ -11,7 +11,7 @@ tags:
   - banks
 ---
 
-Here are some potential A/OPC responsibilities, which may vary by agency:
+Here are some potential PROGRAM COORDINATOR responsibilities, which may vary by agency:
 
 - Maintain an up-to-date list of account names, account numbers, addresses, emails, telephone numbers, etc. of all current account holders and accounts.
 - Provide the contractor bank with any changes in your agency's organizational structure that may affect invoice/report distribution.
