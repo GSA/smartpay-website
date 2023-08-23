@@ -14,7 +14,7 @@ summary:
 updated: 2023-02-15
 ---
 ## Travel Card
-* No forms are required at the point of sale for Travel CBAs, however a Maryland Sales and Use Tax Exemption Certificate may be required for CBA transactions.  The certificate is issued by the Comptroller of Maryland and the [Maryland Combined Registration Online Application](https://interactive.marylandtaxes.gov/webapps/comptrollercra/entrance.asp) is available online.
+* No forms are required at the point of sale for Travel CBAs. However a Maryland Sales and Use Tax Exemption Certificate, which is issued by the Comptroller of Maryland, may be required for CBA transactions. Agencies can apply online for the certificate using the [Maryland Combined Registration Online Application](https://interactive.marylandtaxes.gov/webapps/comptrollercra/entrance.asp).
 
 ## Laws, Regulations, Policies
 * [Business tax tip #6 Retail Sales Involving Exemption Certificates](https://www.marylandtaxes.gov/forms/Business_Tax_Tips/bustip6.pdf)
