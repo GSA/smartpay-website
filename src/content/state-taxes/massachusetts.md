@@ -9,6 +9,8 @@ summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
     tax.
+- icon: error_outline
+  text: IBAs <b>may be</b> exempt from occupancy excise tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
 updated: 2023-02-15
@@ -16,11 +18,11 @@ updated: 2023-02-15
 
 ## Forms
 
-### CBA Travel Card
+### Travel Card
 
 #### Notes
 
-To claim exemption as a federal employee you must provide the hotel with the following:
+No forms are required for exemption from occupany excise tax for either IBAs or CBAs. However, to claim exemption as a federal employee you must provide the hotel with the following:
 
 * A government identification.
 * Proof on agency letterhead or electronically by authorized personnel indicating that the employee is traveling at the direction of the federal government during the period of occupancy, including the reason, dates, and location for travel.
