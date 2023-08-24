@@ -4,7 +4,6 @@ contact:
   link: https://mtrevenue.gov/
   name: Montana Department of Revenue
   phone: 866-859-2254 or 406-444-5828
-exceptionsApply: true
 summary:
 - icon: error_outline
   text: The state <b>does not</b> have a sales tax; instead it assesses a lodging

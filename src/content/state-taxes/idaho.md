@@ -4,7 +4,6 @@ contact:
   link: https://tax.idaho.gov/
   name: Idaho State Tax Commission
   phone: 800-972-7660
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

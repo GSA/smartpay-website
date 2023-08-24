@@ -4,7 +4,6 @@ contact:
   link: https://www.revenue.pa.gov/Pages/default.aspx
   name: Pennsylvania Department of Revenue
   phone: 717-787-1064
-exceptionsApply: true
 summary:
 - icon: check_circle_outline
   text: Individually billed accounts (IBA) <b>are</b> exempt from hotel occupancy

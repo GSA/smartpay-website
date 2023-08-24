@@ -4,7 +4,6 @@ contact:
   link: https://www.revenue.nh.gov/
   name: New Hampshire Department of Revenue
   phone: 603-230-5000
-exceptionsApply: true
 summary:
 - icon: error_outline
   text: The state <b>does not</b> have a sales tax, but assesses a meals and rental

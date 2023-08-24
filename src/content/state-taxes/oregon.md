@@ -4,7 +4,6 @@ contact:
   link: https://www.oregon.gov/dor/Pages/index.aspx
   name: Oregon Department of Revenue
   phone: 503-378-4988 or 800-356-4222
-exceptionsApply: true
 summary:
 - icon: error_outline
   text: The state <b>does not</b> have a sales tax; instead it assesses a transient

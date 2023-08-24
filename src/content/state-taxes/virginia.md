@@ -4,7 +4,6 @@ contact:
   link: https://www.tax.virginia.gov/
   name: Virginia Department of Taxation
   phone: 804-367-8037
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

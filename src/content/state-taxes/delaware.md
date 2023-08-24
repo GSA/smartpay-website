@@ -4,7 +4,6 @@ contact:
   link: https://revenue.delaware.gov
   name: Delaware Division of Revenue
   phone: 302-577-8205
-exceptionsApply: true
 summary:
 - icon: error_outline
   text: The state <b>does not</b> have a sales tax; instead it imposes an occupancy

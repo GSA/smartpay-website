@@ -4,7 +4,6 @@ contact:
   link: https://dor.sc.gov/
   name: South Carolina Department of Revenue
   phone: 844-898-8542
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

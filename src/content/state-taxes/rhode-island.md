@@ -4,8 +4,6 @@ contact:
   link: https://tax.ri.gov/
   name: Division of Taxation
   phone: 1-401-574-8829
-
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

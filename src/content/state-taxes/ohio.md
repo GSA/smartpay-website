@@ -4,7 +4,6 @@ contact:
   link: https://tax.ohio.gov/
   name: Ohio Department of Taxation Business
   phone: 888-405-4039
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

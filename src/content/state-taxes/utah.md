@@ -4,7 +4,6 @@ contact:
   link: https://tax.utah.gov/
   name: Utah State Tax Commission
   phone: 801-297-2200 or 800-662-4335
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

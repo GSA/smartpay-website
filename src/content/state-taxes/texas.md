@@ -4,7 +4,6 @@ contact:
   link: https://comptroller.texas.gov/
   name: Texas Comptroller of Public Accounts
   phone: 800-252-5555
-exceptionsApply: false
 summary:
 - icon: check_circle_outline
   text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.

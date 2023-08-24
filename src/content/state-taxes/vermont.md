@@ -4,7 +4,6 @@ contact:
   link: https://tax.vermont.gov/
   name: Vermont Department of Taxation
   phone: 802-828-2551
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

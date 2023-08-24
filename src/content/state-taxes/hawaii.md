@@ -4,7 +4,6 @@ contact:
   link: https://tax.hawaii.gov/
   name: Hawaii Department of Taxation
   phone: 808-587-1577
-exceptionsApply: true
 summary:
 - icon: error_outline
   text: The state <b>does not</b> have a sales tax; instead it assesses a General

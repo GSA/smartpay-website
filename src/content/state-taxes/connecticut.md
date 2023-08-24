@@ -4,7 +4,6 @@ contact:
   link: https://portal.ct.gov/DRS/
   name: Connecticut Department of Revenue
   phone: 860-297-5962
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

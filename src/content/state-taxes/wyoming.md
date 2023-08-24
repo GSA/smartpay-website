@@ -4,7 +4,6 @@ contact:
   link: https://revenue.wyo.gov/
   name: Wyoming Department of Revenue
   phone: 307-777-5275
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

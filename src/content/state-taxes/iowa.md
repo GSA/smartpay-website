@@ -4,7 +4,6 @@ contact:
   link: https://tax.iowa.gov/
   name: Iowa Department of Revenue
   phone: 515-281-3114
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

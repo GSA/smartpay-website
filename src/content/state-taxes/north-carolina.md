@@ -4,7 +4,6 @@ contact:
   link: https://www.ncdor.gov/
   name: North Carolina Department of Revenue
   phone: 877-252-3052
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

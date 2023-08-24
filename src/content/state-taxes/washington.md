@@ -4,7 +4,6 @@ contact:
   link: https://dor.wa.gov/
   name: Department of Revenue Washington State
   phone: 360-705-6705
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

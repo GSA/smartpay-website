@@ -4,7 +4,6 @@ contact:
   link: https://www.tax.nd.gov/
   name: North Dakota Office of the State Tax Commissioner
   phone: 701-328-1246
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

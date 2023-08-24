@@ -4,7 +4,6 @@ contact:
   link: https://oklahoma.gov/tax.html
   name: Oklahoma Tax Commission
   phone: 405-521-3160
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

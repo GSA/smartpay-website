@@ -4,7 +4,6 @@ contact:
   link: https://www.mass.gov/orgs/massachusetts-department-of-revenue
   name: Massachusetts Department of Revenue
   phone: 617-887-6367
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

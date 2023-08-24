@@ -4,7 +4,6 @@ contact:
   link: https://www.revenue.wi.gov/
   name: Wisconsin Department of Revenue
   phone: 608-266-2776
-exceptionsApply: false
 summary:
 - icon: check_circle_outline
   text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.
