@@ -4,7 +4,6 @@ contact:
   link: https://hacienda.pr.gov/
   name: Puerto Rico Department of Treasury
   phone: 787-721-2020
-exceptionsApply: false
 summary:
 - icon: check_circle_outline
   text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.

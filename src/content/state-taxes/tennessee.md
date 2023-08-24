@@ -4,7 +4,6 @@ contact:
   link: https://www.tn.gov/revenue
   name: Tennessee Department of Revenue
   phone: 615-253-0600
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

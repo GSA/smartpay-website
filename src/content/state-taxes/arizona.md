@@ -4,7 +4,6 @@ contact:
   link: https://azdor.gov/
   name: Arizona Department of Revenue
   phone: 602-255-3381
-exceptionsApply: true
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state use tax.

@@ -4,7 +4,6 @@ contact:
   link: https://revenue.ky.gov/
   name: Kentucky Department of Revenue
   phone: 502-564-4581​
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

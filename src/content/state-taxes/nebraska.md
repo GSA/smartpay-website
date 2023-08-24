@@ -4,7 +4,6 @@ contact:
   link: https://revenue.nebraska.gov/
   name: Nebraska Department of Revenue
   phone: 402-471-5729 or 800-742-7474
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

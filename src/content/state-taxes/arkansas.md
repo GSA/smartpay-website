@@ -4,7 +4,6 @@ contact:
   link: https://www.dfa.arkansas.gov/
   name: Arkansas Department of Finance and Administration
   phone: 501-682-7104
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

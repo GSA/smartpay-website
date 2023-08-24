@@ -4,7 +4,6 @@ contact:
   link: https://www.in.gov/dor/
   name: Indiana Department of Revenue
   phone: 317-232-2240
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

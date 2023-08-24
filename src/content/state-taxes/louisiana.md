@@ -4,7 +4,6 @@ contact:
   link: https://revenue.louisiana.gov/
   name: Louisiana Department of Revenue
   phone: 225-219-7462
-exceptionsApply: false
 summary:
 - icon: check_circle_outline
   text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.

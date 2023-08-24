@@ -4,7 +4,6 @@ contact:
   link: https://dor.mo.gov/
   name: Missouri Department of Revenue
   phone: 573-751-2836
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

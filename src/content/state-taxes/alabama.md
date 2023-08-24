@@ -4,7 +4,6 @@ contact:
   link: https://www.revenue.alabama.gov/
   name: Alabama Department of Revenue
   phone: 334-242-1490
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

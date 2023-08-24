@@ -4,7 +4,6 @@ contact:
   link: https://www.guamtax.com/
   name: Guam Department of Revenue and Taxation
   phone: 671-635-1835
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

@@ -4,7 +4,6 @@ contact:
   link: https://www.tax.ny.gov/
   name: New York Department of Taxation and Finance
   phone: 518-485-2889
-exceptionsApply: false
 summary:
 - icon: check_circle_outline
   text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.

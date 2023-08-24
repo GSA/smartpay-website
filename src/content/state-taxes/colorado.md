@@ -4,7 +4,6 @@ contact:
   link: https://cdor.colorado.gov
   name: Colorado Department of Revenue
   phone: 303-238-7378
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

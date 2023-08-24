@@ -4,7 +4,6 @@ contact:
   link: https://www.revenue.state.mn.us/
   name: Minnesota Department of Revenue
   phone: 800-657-3777 or 651-296-6181
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

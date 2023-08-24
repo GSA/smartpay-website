@@ -4,7 +4,6 @@ contact:
   link: https://finance.gov.mp/revenue-taxation.php
   name: Division of Revenue and Taxation
   phone: 670-664-1040
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

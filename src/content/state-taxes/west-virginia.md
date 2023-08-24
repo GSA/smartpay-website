@@ -4,7 +4,6 @@ contact:
   link: https://tax.wv.gov/Pages/default.aspx
   name: West Virginia State Tax Department
   phone: 800-982-8297
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

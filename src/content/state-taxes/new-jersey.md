@@ -4,7 +4,6 @@ contact:
   link: https://www.state.nj.us/treasury/
   name: New Jersey Department of Treasury
   phone: 609-826-4400 or 800-323-4400
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

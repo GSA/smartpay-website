@@ -4,7 +4,6 @@ contact:
   link: https://otr.cfo.dc.gov/
   name: DC Office of Tax and Revenue
   phone: 202-727-4829
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

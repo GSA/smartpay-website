@@ -4,7 +4,6 @@ contact:
   link: https://www.dor.ms.gov/
   name: Mississippi Department of Revenue
   phone: 601-923-7700
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

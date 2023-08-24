@@ -4,7 +4,6 @@ contact:
   link: https://dor.sd.gov/
   name: South Dakota Department of Revenue
   phone: 800-829-9188
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

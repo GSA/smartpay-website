@@ -4,7 +4,6 @@ contact:
   link: https://www.cdtfa.ca.gov/taxes-and-fees/sutprograms.htm
   name: California Department of Tax and Fee Administration
   phone: 800-400-7115
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

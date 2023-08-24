@@ -4,7 +4,6 @@ contact:
   link: https://www2.illinois.gov/rev/Pages/default.aspx
   name: Illinois Department of Revenue
   phone: 800-732-8866
-exceptionsApply: true
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales

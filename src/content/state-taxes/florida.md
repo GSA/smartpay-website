@@ -4,7 +4,6 @@ contact:
   link: https://floridarevenue.com/
   name: Florida Department of Revenue
   phone: 850-488-6800
-exceptionsApply: false
 summary:
 - icon: check_circle_outline
   text: Individually billed accounts (IBA) <b>are</b> exempt from state sales

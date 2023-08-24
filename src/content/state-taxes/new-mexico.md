@@ -4,7 +4,6 @@ contact:
   link: https://www.tax.newmexico.gov/
   name: New Mexico Taxation and Revenue Department
   phone: 866-285-2996
-exceptionsApply: true
 summary:
 - icon: error_outline
   text: The state <b>does not</b> have a sales tax; instead it assesses a gross receipts

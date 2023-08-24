@@ -4,7 +4,6 @@ contact:
   link: https://www.americansamoa.gov/tax-office
   name: American Samoa Tax Office - Department of the Treasury
   phone: 1-684-633-4116
-exceptionsApply: false
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
