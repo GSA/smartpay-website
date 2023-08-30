@@ -17,7 +17,7 @@ updated: 2023-02-15
 
 ### Purchase Card
 
-* [Sales and Use Tax Blanket Exemption Certificate](https://tax.ohio.gov/static/forms/fill-in/sales_and_use/exemption_certificates/st_stec_b_fi.pdf) <span class="usa-tag">Optional</span>
+* [Sales and Use Tax Blanket Exemption Certificate [PDF, 1 page]](https://tax.ohio.gov/static/forms/fill-in/sales_and_use/exemption_certificates/st_stec_b_fi.pdf) <span class="usa-tag">Optional</span>
 
 #### Notes
 

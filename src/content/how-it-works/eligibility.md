@@ -20,7 +20,7 @@ For those eligible to apply, contact your agency/organization program coordinato
 
 ## Tribes, Tribal Organizations, and Other Non-Federal Entities
 
-The GSA SmartPay Fleet, Purchase, Travel and Integrated payment solutions can be used by tribes, tribal organizations, and other non-federal entities. To participate in the GSA SmartPay program, [fill out and submit the application](/files/gsasmartpay-application.pdf).
+The GSA SmartPay Fleet, Purchase, Travel and Integrated payment solutions can be used by tribes, tribal organizations, and other non-federal entities. To participate in the GSA SmartPay program, [fill out and submit the application [PDF, 6 pages]](/files/gsasmartpay-application.pdf).
 
 Tribes, tribal organizations, and non-federal entities that are interested in quickly meeting their immediate need with minimal resources may want to seriously consider joining the GSA pool.
 

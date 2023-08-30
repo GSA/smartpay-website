@@ -18,7 +18,7 @@ updated: 2023-02-15
 ## Laws, Regulations, Policies
 
 * [42.14.303 Exempt Accommodations and Accommodation Sales](https://rules.mt.gov/gateway/ruleno.asp?RN=42.14.303)
-* [Accommodations Taxes](https://leg.mt.gov/content/Publications/fiscal/leg_reference/Brochures/Accommodations-Taxes-2020_Final.pdf)
+* [Accommodations Taxes [PDF, 3 pages]](https://leg.mt.gov/content/Publications/fiscal/leg_reference/Brochures/Accommodations-Taxes-2020_Final.pdf)
 
 ## Point of Contact
 - [Montana Department of Revenue](https://mtrevenue.gov/)

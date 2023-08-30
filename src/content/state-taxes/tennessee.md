@@ -21,7 +21,7 @@ updated: 2023-02-15
 
 ## Laws, Regulations, Policies
 
-* [09-01 - Purchases by Government Employees](https://www.tn.gov/content/dam/tn/revenue/documents/notices/sales/sales09-01.pdf)
+* [09-01 - Purchases by Government Employees [PDF, 2 pages]](https://www.tn.gov/content/dam/tn/revenue/documents/notices/sales/sales09-01.pdf)
 
 ## Point of Contact
 - [Tennessee Department of Revenue](https://www.tn.gov/revenue)

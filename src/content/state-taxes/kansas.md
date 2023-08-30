@@ -18,11 +18,11 @@ updated: 2023-02-15
 
 ### Travel Card
 
-* [Form ST-28H Sales and/or Transient Guest Tax Exemption Certificate for Lodging](https://www.ksrevenue.gov/pdf/st28h.pdf)
+* [Form ST-28H Sales and/or Transient Guest Tax Exemption Certificate for Lodging [PDF, 2 pages]](https://www.ksrevenue.gov/pdf/st28h.pdf)
 
 ### Purchase Card
 
-* [Form ST-28G U.S. Government, Federal Agency or Instrumentality Exemption Certificate](https://www.ksrevenue.gov/pdf/st28g.pdf)
+* [Form ST-28G U.S. Government, Federal Agency or Instrumentality Exemption Certificate [PDF, 1 page]](https://www.ksrevenue.gov/pdf/st28g.pdf)
 
 ## Laws, Regulations, Policies
 

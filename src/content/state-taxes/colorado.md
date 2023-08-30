@@ -28,7 +28,7 @@ updated: 2023-02-15
 ## Laws, Regulations, Policies
 
 * [Tax Exemption Qualifications](https://tax.colorado.gov/tax-exemption-qualifications)
-* [FYI Sales 63 Government Purchases Exemptions](https://tax.colorado.gov/sites/tax/files/Sales63.pdf)
+* [FYI Sales 63 Government Purchases Exemptions [PDF, 7 pages]](https://tax.colorado.gov/sites/tax/files/Sales63.pdf)
 
 ## Point of Contact
 - [Colorado Department of Revenue](https://cdor.colorado.gov)
