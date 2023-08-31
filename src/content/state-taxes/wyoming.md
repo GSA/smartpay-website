@@ -17,7 +17,7 @@ updated: 2023-02-15
 
 ### Purchase Card
 
-* [Streamlined Sales and Use Tax Agreement Certificate of Exemption](https://sao.wyo.gov/wp-content/uploads/2019/10/exempt.pdf)
+* [Streamlined Sales and Use Tax Agreement Certificate of Exemption [PDF, 2 pages]](https://sao.wyo.gov/wp-content/uploads/2019/10/exempt.pdf)
 
 #### Notes
 

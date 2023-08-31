@@ -15,7 +15,7 @@ updated: 2023-02-15
 
 ## Laws, Regulations, Policies
 
-* [Maine Revenue Services Sales, Fuel & Special Tax Division Instructional Bulletin 36](https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/Bull3620160404.pdf)
+* [Maine Revenue Services Sales, Fuel & Special Tax Division Instructional Bulletin 36 [PDF, 8 pages]](https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/Bull3620160404.pdf)
 
 ## Point of Contact
 - [Maine Department of Revenue](https://www.maine.gov/portal/index.html)

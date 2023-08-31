@@ -17,7 +17,7 @@ updated: 2023-02-15
 
 ### Travel Card
 
-* [Form 6100: Exemption Certificate from Tax on Occupancy of Hotel, Motel and Tourist Home Rooms](https://revenuefiles.delaware.gov/docs/6100.pdf)
+* [Form 6100: Exemption Certificate from Tax on Occupancy of Hotel, Motel and Tourist Home Rooms [PDF, 1 page]](https://revenuefiles.delaware.gov/docs/6100.pdf)
 
 ## Point of Contact
 - [Delaware Division of Revenue](https://revenue.delaware.gov)

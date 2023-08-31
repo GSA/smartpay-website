@@ -18,9 +18,9 @@ The GSA SmartPay 3 Master Contract has base and option periods that comprise a p
 
 ## GSA SmartPay 3 Master Contract
 
-- [GSA SmartPay 3 Master Contract, Terms and Conditions (Current through Modification PS-19)](/files/sp3-master-contract.pdf).
+- [GSA SmartPay 3 Master Contract, Terms and Conditions (Current through Modification PS-19) [PDF, 248 pages]](/files/sp3-master-contract.pdf).
 - Period of Performance: November 30, 2018 through November 29, 2031.
-- [Modification Summary Log](/files/sp3-master-contract-mod-log.pdf).
+- [Modification Summary Log [PDF, 7 pages]](/files/sp3-master-contract-mod-log.pdf).
 
 ### GSA SmartPay 3 Contractor Banks
 

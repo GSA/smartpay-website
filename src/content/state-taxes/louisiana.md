@@ -25,8 +25,8 @@ updated: 2023-02-15
 
 ## Laws, Regulations, Policies
 
-* [Revenue Ruling No. 07-008 Sales Tax Federal Credit Card Purchases](https://revenue.louisiana.gov/LawsPolicies/RR07008.pdf)
-* [Revenue Information Bulletin No. 10-012 Sales Tax](https://www.revenue.louisiana.gov/LawsPolicies/RIB10012.pdf)
+* [Revenue Ruling No. 07-008 Sales Tax Federal Credit Card Purchases [PDF, 3 pages]](https://revenue.louisiana.gov/LawsPolicies/RR07008.pdf)
+* [Revenue Information Bulletin No. 10-012 Sales Tax [PDF, 3 pages]](https://www.revenue.louisiana.gov/LawsPolicies/RIB10012.pdf)
 
 #### Notes
 

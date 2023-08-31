@@ -17,6 +17,6 @@ Merchants, please note that:
 - If a merchant does not currently accept charge cards, they may consider contacting their financial institution to discuss accepting charge cards.
 - The transaction fees negotiated with the bank to accept cards from the private sector will also apply to government purchases.
 
-For more information on how to recognize GSA SmartPay account types and business lines, please view the [SmartTax Vendor Guide](/files/smartpay-vendor-guide.pdf).
+For more information on how to recognize GSA SmartPay account types and business lines, please view the [SmartTax Vendor Guide [PDF, 4 pages]](/files/smartpay-vendor-guide.pdf).
 
 For common merchant questions about the GSA SmartPay program, please visit the [FAQs section](/faq) of this website or contact the Center for Charge Card Management (CCCM) at [gsa_smartpay@gsa.gov](mailto:gsa_smartpay@gsa.gov).

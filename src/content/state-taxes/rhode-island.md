@@ -17,7 +17,7 @@ updated: 2023-04-11
 
 ### Purchase Card
 
-* [State of Rhode Island – Division of Taxation Sales and Use Tax ](https://tax.ri.gov/sites/g/files/xkgbur541/files/forms/2014/Sales/GSA-Fedl-Empl-Exempt.pdf) 
+* [State of Rhode Island – Division of Taxation Sales and Use Tax [PDF, 1 page]](https://tax.ri.gov/sites/g/files/xkgbur541/files/forms/2014/Sales/GSA-Fedl-Empl-Exempt.pdf) 
 
 ## Point of Contact
 - [Division of Taxation](https://tax.ri.gov/)

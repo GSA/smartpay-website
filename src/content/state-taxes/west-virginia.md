@@ -21,7 +21,7 @@ updated: 2023-02-15
 
 ## Laws, Regulations, Policies
 
-* [Sales and Use Tax Exemptions](https://tax.wv.gov/Documents/TSD/tsd300.pdf)
+* [Sales and Use Tax Exemptions [PDF, 4 pages]](https://tax.wv.gov/Documents/TSD/tsd300.pdf)
 
 ## Point of Contact
 - [West Virginia State Tax Department](https://tax.wv.gov/Pages/default.aspx)

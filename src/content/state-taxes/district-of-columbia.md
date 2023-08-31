@@ -15,8 +15,8 @@ updated: 2023-02-15
 
 ## Laws, Regulations, Policies
 
-* [OTR's Position for Sales Tax Concerning Hotels](https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/tax_guide_hotels.pdf)
-* [OTR Notice 2019-08 District of Columbia Sales Tax Exemption Payment Policy for Federal Government and District of Columbia Agencies](https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/GSA_Notice.pdf)
+* [OTR's Position for Sales Tax Concerning Hotels [PDF, 3 pages]](https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/tax_guide_hotels.pdf)
+* [OTR Notice 2019-08 District of Columbia Sales Tax Exemption Payment Policy for Federal Government and District of Columbia Agencies [PDF, 3 pages]](https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/GSA_Notice.pdf)
 
 ## Point of Contact
 - [DC Office of Tax and Revenue](https://otr.cfo.dc.gov/)
