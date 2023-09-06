@@ -1,7 +1,7 @@
 ---
 title: Merchants
 description: "Information about the GSA SmartPay program for merchants, vendors, and businesses."
-intro: "The GSA SmartPay® program provides payment solutions to the federal government for conducting official business."
+intro: "The GSA SmartPay® program provide's payment solutions to the federal government for conducting official business."
 slug: "./"
 order: 0
 category: merchants

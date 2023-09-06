@@ -1,5 +1,9 @@
 ---
 import TopNav from '@components/TopNav.astro'
+import { marked } from 'marked';
+import { markedSmartypants } from "marked-smartypants";
+marked.use(markedSmartypants());
+
 const { title, intro, parent_nav_path, parent_nav_text } = Astro.props;
 ---
 <!--
@@ -11,9 +15,7 @@ const { title, intro, parent_nav_path, parent_nav_text } = Astro.props;
     <main id="main-content" class="usa-prose ">
         <h1>{ title }</h1>
         { intro && ( 
-          <p class="usa-intro">
-            {intro}
-          </p>
+          <p class="usa-intro" set:html={ marked.parseInline(intro) } />
         )}
         <slot />
     </main>
