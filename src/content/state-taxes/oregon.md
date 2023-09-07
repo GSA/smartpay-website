@@ -6,13 +6,13 @@ contact:
   phone: 503-378-4988 or 800-356-4222
 summary:
 - icon: error_outline
-  text: The state <b>does not</b> have a sales tax; instead it assesses a transient
+  text: The state **does not** have a sales tax; instead it assesses a transient
     lodging tax for hotel stay.
 - icon: check_circle_outline
-  text: Individually billed accounts (IBA) <b>are</b> exempt from the transient lodging
+  text: Individually billed accounts (IBA) **are** exempt from the transient lodging
     tax.
 - icon: check_circle_outline
-  text: Centrally Billed Accounts (CBA) <b>are</b> exempt from the transient lodging tax.
+  text: Centrally Billed Accounts (CBA) **are** exempt from the transient lodging tax.
 updated: 2023-02-15
 ---
 

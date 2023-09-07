@@ -6,10 +6,10 @@ contact:
   phone: 717-787-1064
 summary:
 - icon: check_circle_outline
-  text: Individually billed accounts (IBA) <b>are</b> exempt from hotel occupancy
+  text: Individually billed accounts (IBA) **are** exempt from hotel occupancy
     tax.
 - icon: check_circle_outline
-  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+  text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
 updated: 2023-02-15
 ---
 
