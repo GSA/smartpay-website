@@ -6,13 +6,13 @@ contact:
   phone: 602-255-3381
 summary:
 - icon: highlight_off
-  text: Individually billed accounts (IBA) <b>are not</b> exempt from state use tax.
+  text: Individually billed accounts (IBA) **are not** exempt from state use tax.
 - icon: highlight_off
-  text: IBAs <b>are not</b> exempt from transaction privilege tax.
+  text: IBAs **are not** exempt from transaction privilege tax.
 - icon: check_circle_outline
-  text: Centrally billed accounts (CBA) <b>are</b> exempt from state use tax.
+  text: Centrally billed accounts (CBA) **are** exempt from state use tax.
 - icon: error_outline
-  text: CBAs <b>may not be</b> exempt from transaction privilege tax.
+  text: CBAs **may not be** exempt from transaction privilege tax.
 updated: 2023-02-15
 ---
 

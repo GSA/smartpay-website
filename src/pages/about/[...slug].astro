@@ -1,5 +1,6 @@
 ---
 import PageLayout from '@layouts/PageLayout.astro';
+import PageContentLayout from '@layouts/PageContentLayout.astro';
 import SideNav from '@components/SideNav.astro'
 
 import { getCollection } from 'astro:content';
@@ -26,16 +27,11 @@ const { Content, headings } = await entry.render();
     headings={headings}
     id={entry.id}
   />
-  <main id="main-content" class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
-    <h1>{ entry.data.title }</h1>
-
-    { entry.data.intro && ( 
-      <p class="usa-intro">
-        { entry.data.intro }
-      </p>
-    )}
-
+  <PageContentLayout
+    title={entry.data.title}
+    intro={entry.data.intro}
+  >
     <Content />
-    </main>
+  </PageContentLayout>
 </PageLayout>
     

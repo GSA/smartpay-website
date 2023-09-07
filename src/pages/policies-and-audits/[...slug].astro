@@ -5,6 +5,7 @@ It includs landing page (/policies-and-audits/), Policies page (/policies-and-au
 Page use side nav or use full size template based on frontmatter full_size_template value is provided or not. 
 */
 import PageLayout from '@layouts/PageLayout.astro';
+import PageContentLayout from '@layouts/PageContentLayout.astro';
 import SideNav from '@components/SideNav.astro'
 import FullSizeTemplate from '@components/FullSizeTemplate.astro'
 import { getCollection, getEntry } from 'astro:content';
@@ -27,34 +28,32 @@ const parent_path ="policies-and-audits/"
 ---
 
 <PageLayout title={entry.data.title}>
-  {entry.data.full_size_template? 
-  <FullSizeTemplate 
-  title={ entry.data.title }
-  parent_nav_path="policies-and-audits" 
-  parent_nav_text = "Return to the Policies & Audits" 
-  intro ={entry.data.intro}
-  >
-  <Content />
- </FullSizeTemplate>
-: 
-<SideNav 
-    title="Policies & Audits"
-    parent_path={parent_path}
-    pages={[...entries, smartbulletinsData]}
-    headings={headings}
-    id={entry.id}
-  />  
-  <main id="main-content" class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs"> 
-    <h1>{ entry.data.title }</h1>
-
-    { entry.data.intro && ( 
-      <p class="usa-intro">
-        { entry.data.intro }
-      </p>
-    )}
-
-    <Content />
-  </main>
+  {entry.data.full_size_template
+  ? (
+    <FullSizeTemplate 
+      title={ entry.data.title }
+      parent_nav_path="policies-and-audits" 
+      parent_nav_text = "Return to the Policies & Audits" 
+      intro ={entry.data.intro}
+    >
+      <Content />
+    </FullSizeTemplate>
+    )
+  : (
+    <SideNav 
+      title="Policies & Audits"
+      parent_path={parent_path}
+      pages={[...entries, smartbulletinsData]}
+      headings={headings}
+      id={entry.id}
+    />  
+    <PageContentLayout
+      title={entry.data.title}
+      intro={entry.data.intro}
+    >
+      <Content />
+  </PageContentLayout>
+  )
 }
 </PageLayout>
     

@@ -6,7 +6,7 @@ contact:
   phone: 907-269-6620
 summary:
 - icon: highlight_off
-  text: The state <b>does not</b> have a sales tax.
+  text: The state **does not** have a sales tax.
 updated: 2023-02-15
 ---
 

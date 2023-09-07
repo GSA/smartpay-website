@@ -6,10 +6,10 @@ contact:
   phone: 302-577-8205
 summary:
 - icon: error_outline
-  text: The state <b>does not</b> have a sales tax; instead it imposes an occupancy
+  text: The state **does not** have a sales tax; instead it imposes an occupancy
     tax for hotel stay.
 - icon: check_circle_outline
-  text: The federal government <b>is</b> exempt from occupancy tax.
+  text: The federal government **is** exempt from occupancy tax.
 updated: 2023-02-15
 ---
 

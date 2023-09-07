@@ -6,12 +6,12 @@ contact:
   phone: 808-587-1577
 summary:
 - icon: error_outline
-  text: The state <b>does not</b> have a sales tax; instead it assesses a General
+  text: The state **does not** have a sales tax; instead it assesses a General
     Excise Tax (GET) and a Transient Accomodation Tax (TAT) on merchants.
 - icon: highlight_off
-  text: Individually billed accounts (IBA) <b>are not</b> exempt from GET or TAT.
+  text: Individually billed accounts (IBA) **are not** exempt from GET or TAT.
 - icon: error_outline
-  text: Centrally billed accounts (CBA) <b>may be</b> exempt from GET.
+  text: Centrally billed accounts (CBA) **may be** exempt from GET.
 updated: 2023-02-15
 ---
 
