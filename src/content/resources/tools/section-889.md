@@ -23,7 +23,7 @@ The General Services Administration (GSA) – in partnership with NASA – has j
     * For UEI requests, ensure that the email subject line is exactly 12 characters long.
     * To avoid error messages, do not include additional text in the email’s subject line or in the body of the email.
 - After sending a request, users will generally receive an email response from [info@section889req.com](mailto:info@section889req.com) within five minutes. 
-- The email response identifies if the vendor is registered in the System for Award Management (SAM), if they have completed the representations required by the [FAR 52.204-26](https://www.acquisition.gov/far/52.204-26) provision and what responses were provided. 
+- The email response identifies if the vendor is registered in SAM, if they have completed the representations required by the [FAR 52.204-26](https://www.acquisition.gov/far/52.204-26) provision and what responses were provided. 
 - This capability gives Contracting Officers and users a quick way to check SAM.
 
 - [Section 889 Toolkit](https://dodprocurementtoolbox.com/site-pages/section-889-request)
