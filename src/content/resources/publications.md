@@ -1,7 +1,7 @@
 ---
 title: Publications and Videos
 description: Learn more with resources for account holders. We have guides, presentations and publications specific to travel, purchase, fleet and more.
-intro: We offer a variety of resources for account holders including guides, presentations and publications specific to travel, purchase, fleet and more.
+intro: We offer a variety of resources about the GSA SmartPay® program for account holders and Agency/Organization Program Coordinators (A/OPCs), including guides, presentations, publications, and videos specific to travel, purchase, fleet and more.
 order: 2
 ---
 
