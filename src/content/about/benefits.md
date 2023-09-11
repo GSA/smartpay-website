@@ -24,7 +24,7 @@ The GSA SmartPay program provides secure solutions for efficient payment transac
 
 ## Electronic Access to Data
 
-Through the GSA SmartPay contractor bank’s Electronic Access System (EAS), account managers and account holders have immediate access to complete transaction-level data, helping to mitigate fraud, waste and abuse.
+Through the Electronic Access System (EAS) of the GSA SmartPay contractor banks, account managers and account holders have immediate access to complete transaction-level data, helping to mitigate fraud, waste and abuse.
 
 ## Worldwide Acceptance
 
