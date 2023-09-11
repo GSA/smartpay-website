@@ -1,31 +1,34 @@
-# Astro Starter Kit: Minimal
+# GSA SmartPay® Website
 
-```
-npm create astro@latest -- --template minimal
-```
+This is the website for the GSA SmartPay program. 
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+It is a statically-generated site built using [Astro](https://astro.build) to run on [cloud.gov pages](https://pages.cloud.gov).
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
 ## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
+Inside of the project, you'll see the following folders and files:
 
 ```
 /
-├── public/
+├── sass/              /* USWDS sass components */
+├── public/            /* Static, unprocessed assets (css, js, …) */
 ├── src/
-│   └── pages/
-│       └── index.astro
+│   └── assets/        /* Sssets like images used in code */
+│   └── config/        /* Extra js processing */
+│   └── content/       /* Primary markdown content */
+│   └── components/    /* Eeusable Astro components */
+│   └── layouts/       /* Large astro components for pages */
+│   └── pages/         /* This directorty maps to the urls of the site
+│       └── about/
+    │   └── ...
+│   └── plugins/       /* Custom processing of markdown */ 
 └── package.json
 ```
 
 Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+There's nothing special about `src/components/` or `src/layouts` but that's where we like to put any Astro components.
 
 Any static assets, like images, can be placed in the `public/` directory.
 
@@ -42,6 +45,14 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
+## 🇺🇸 USWDS
+This site uses the [U.S. Web Design System (USWDS)](https://designsystem.digital.gov). To customize  USWDS styles you will need to edit the SASS components and styles in the `/sass` directory. Changes here will not be reflected in the site until you rebuild the css. To build the css, run gulp:
+
+```
+npx gulp compile --gulpfile gulpfile.cjs
+```
+This will rebuild the static assests and place them in the `/public` directory. To learn more, visit USWDS [Getting started for developers  ](https://designsystem.digital.gov/documentation/getting-started-for-developers/).
+
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+[Astro documentation](https://docs.astro.build). Astro also maintains a helpful [Discord server](https://astro.build/chat).
