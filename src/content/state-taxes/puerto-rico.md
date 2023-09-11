@@ -16,7 +16,7 @@ updated: 2023-02-15
 
 ### Travel Card
 
-* [Request for Room Tax Exemption](https://roomtax.prtourism.com/exemption_reqs.php?lan)
+* [Request for Room Tax Exemption](https://roomtax.prtourism.com/exemption_reqs.php?lan=en)
 
 ### Purchase Card
 
