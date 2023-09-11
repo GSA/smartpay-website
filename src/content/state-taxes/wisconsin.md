@@ -22,7 +22,7 @@ updated: 2023-02-15
 
 ## Laws, Regulations, Policies
 
-* [Exempt Sales to the Federal Government](https://www.revenue.wi.gov/Pages/TaxPro/2010/news-2010-100816.aspx#:~:text=Sales%20to%20the%20United%20States,Wisconsin%20sales%20and%20use%20taxes.)
+* [Publication 201 Wisconsin Sales and Use Tax Information](https://www.revenue.wi.gov/DOR%20Publications/pb201.pdf) - See (5) United States Government (pp. 77-78).
 
 ## Point of Contact
 - [Wisconsin Department of Revenue](https://www.revenue.wi.gov/)
