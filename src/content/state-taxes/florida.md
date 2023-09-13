@@ -19,7 +19,7 @@ updated: 2023-02-15
 
 #### Notes
 
-According to the State of Florida, a Certificate of Exemption is not required for federal government employees.
+According to the state of Florida, a Certificate of Exemption is not required for federal government employees.
 
 As a Certificate of Exemption is not required for federal government agencies or employees, federal government agencies or employees may not have a Certificate of Exemption.  However, the state does allow merchants to request a Certificate of Exemption for their records.  Should a merchant require a Certificate of Exemption, please see Florida Administrative Code Rule below for information and language about the Certificate of Exemption for federal government agencies and employees.
 

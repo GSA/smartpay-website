@@ -24,11 +24,11 @@ updated: 2023-02-15
 
 #### Notes
 
-In addition to a state use tax assessed to the cardholder, the State of Arizona can also assess a transaction privilege tax on the merchant.
+In addition to a state use tax assessed to the cardholder, the state of Arizona can also assess a transaction privilege tax on the merchant.
 
 Notes for the transaction privilege tax:
 
-* All merchants doing business in the State of Arizona are subject to the transaction privilege tax.
+* All merchants doing business in the state of Arizona are subject to the transaction privilege tax.
 * Merchants doing business with the federal government, where a CBA is used in the transaction, can request an exemption from the transaction privilege tax.
 * The merchant is not required to process the exemption form.
 * Should the merchant choose not to request an exemption, the state allows the transaction privilege tax to be passed along from the merchant to the cardholder.
