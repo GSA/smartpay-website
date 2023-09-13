@@ -21,7 +21,7 @@ updated: 2023-02-15
 
 #### Notes
 
-The State of Hawaii does not assess state sales tax on consumers.  Instead, the state assesses GET on businesses for the sale of goods.
+The state of Hawaii does not assess state sales tax on consumers.  Instead, the state assesses GET on businesses for the sale of goods.
 
 Notes for the GET:
 
