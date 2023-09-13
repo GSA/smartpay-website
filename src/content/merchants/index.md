@@ -19,4 +19,4 @@ Merchants, please note that:
 
 For more information on how to recognize GSA SmartPay account types and business lines, please view the [SmartTax Merchant Guide [PDF, 4 pages]](/files/smartpay-vendor-guide.pdf).
 
-For common merchant questions about the GSA SmartPay program, please visit the [FAQs section](/faq/#merchants) of this website or contact the Center for Charge Card Management (CCCM) at [gsa_smartpay@gsa.gov](mailto:gsa_smartpay@gsa.gov).
+For common merchant questions about the GSA SmartPay program, please visit the [FAQs section](/faq/#merchants) of this website or contact the GSA Center for Charge Card Management (CCCM) at [gsa_smartpay@gsa.gov](mailto:gsa_smartpay@gsa.gov).

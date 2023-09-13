@@ -29,7 +29,7 @@ The General Services Administration (GSA) – in partnership with NASA – has j
 - [Section 889 Toolkit](https://dodprocurementtoolbox.com/site-pages/section-889-request)
 - [Section 889 Bot Instruction Guide [PDF, 7 pages]](https://dodprocurementtoolbox.com/cms/sites/default/files/resources/2022-04/Section%20889%20Bot%20Implementation%20Guide_APRIL2022.pdf)
 - [Section 889 Bot FAQs [PDF, 6 pages]](https://dodprocurementtoolbox.com/cms/sites/default/files/resources/2022-04/Section%20889%20FAQ_APRIL2022.pdf)
-- [Section 889 Bot Operation Update as of 1/20/23](https://dodprocurementtoolbox.com/articles/section-889-bot-operation-update-as-of-12023)
+
 
 For more information on the NDAA Section 889 legislation, please visit [Policies](/policies-and-audits/policies).
 
