@@ -5,7 +5,7 @@
 import redirects from "./redirects"
 
 export default (page) => {
-  return !Object.keys(redirects).some(fromPath => {
+  return !Object.keys(redirects()).some(fromPath => {
     // Remove trailing slashes before comparing
     page = page.replace(/\/$/, "")
     fromPath = fromPath.replace(/\/$/, "")

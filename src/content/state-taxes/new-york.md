@@ -4,12 +4,11 @@ contact:
   link: https://www.tax.ny.gov/
   name: New York Department of Taxation and Finance
   phone: 518-485-2889
-exceptionsApply: false
 summary:
 - icon: check_circle_outline
-  text: Individually billed accounts (IBA) <b>are</b> exempt from state sales tax.
+  text: Individually billed accounts (IBA) **are** exempt from state sales tax.
 - icon: check_circle_outline
-  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+  text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
 updated: 2023-02-15
 ---
 
@@ -25,7 +24,7 @@ Form ST-129 cannot be used to claim exemption from locally imposed hotel occupan
 
 ## Laws, Regulations, Policies
 
-* [Publication 848:(2/15):A Guide to Sales Tax for Hotel and Motel Operators](https://www.tax.ny.gov/pdf/publications/sales/pub848.pdf) - Section “The United States of America and any of its agencies or instrumentalities”
+* [Publication 848:(2/15):A Guide to Sales Tax for Hotel and Motel Operators [PDF, 48 pages]](https://www.tax.ny.gov/pdf/publications/sales/pub848.pdf) - Section “The United States of America and any of its agencies or instrumentalities”
 * [Tax Bulletin ST-700 (TB-ST-700) Purchases and Sales by Governmental Entities](https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/purchases_and_sales_by_governmental_entities.htm)
 
 ## Point of Contact

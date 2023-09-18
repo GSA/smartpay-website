@@ -4,15 +4,14 @@ contact:
   link: https://tax.hawaii.gov/
   name: Hawaii Department of Taxation
   phone: 808-587-1577
-exceptionsApply: true
 summary:
 - icon: error_outline
-  text: The state <b>does not</b> have a sales tax; instead it assesses a General
+  text: The state **does not** have a sales tax; instead it assesses a General
     Excise Tax (GET) and a Transient Accomodation Tax (TAT) on merchants.
 - icon: highlight_off
-  text: Individually billed accounts (IBA) <b>are not</b> exempt from GET or TAT.
+  text: Individually billed accounts (IBA) **are not** exempt from GET or TAT.
 - icon: error_outline
-  text: Centrally billed accounts (CBA) <b>may be</b> exempt from GET.
+  text: Centrally billed accounts (CBA) **may be** exempt from GET.
 updated: 2023-02-15
 ---
 
@@ -22,7 +21,7 @@ updated: 2023-02-15
 
 #### Notes
 
-The State of Hawaii does not assess state sales tax on consumers.  Instead, the state assesses GET on businesses for the sale of goods.
+The state of Hawaii does not assess state sales tax on consumers.  Instead, the state assesses GET on businesses for the sale of goods.
 
 Notes for the GET:
 
@@ -33,7 +32,7 @@ Notes for the GET:
 ## Laws, Regulations, Policies
 
 * [Tax Facts 37-1 General Excise Tax](https://tax.hawaii.gov/legal/a2_b2_1taxfacts/)
-* [An Introduction to the Transient Accommodations Tax](https://files.hawaii.gov/tax/legal/brochures/TAT_brochure.pdf)
+* [An Introduction to the Transient Accommodations Tax [PDF, 22 pages]](https://files.hawaii.gov/tax/legal/brochures/TAT_brochure.pdf)
 
 ## Point of Contact
 - [Hawaii Department of Taxation](https://tax.hawaii.gov/)

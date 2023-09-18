@@ -1,4 +1,8 @@
 ---
+import { marked } from 'marked';
+import { markedSmartypants } from "marked-smartypants";
+marked.use(markedSmartypants());
+
 const {items} = Astro.props;
 
 const icon_colors = {
@@ -19,7 +23,7 @@ const explains_iba_cba = items.some(({text}) => text.includes('(IBA)')) &&  item
             <use xlink:href={`${import.meta.env.BASE_URL}images/sprite.svg#${icon}`}></use>
           </svg>
         </div>
-        <div class="usa-icon-list__content" set:html={text} />
+        <div class="usa-icon-list__content" set:html={marked.parseInline(text)} />
       </li>
       ))}
     </ul>

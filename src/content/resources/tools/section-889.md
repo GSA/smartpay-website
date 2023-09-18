@@ -3,7 +3,7 @@ title: Section 889 Tools
 description: Stay compliant with Section 889 with tools like the Section 889 Easy Search Tool and DoD’s Section 889 Request Bot.
 order: 1
 ---
-Section 889 of the John S. McCain National Defense Authorization Act (NDAA) for Fiscal Year 2019 ([P.L. 115-232](https://www.congress.gov/115/plaws/publ232/PLAW-115publ232.pdf)) and the [Federal Acquisition Regulation (FAR) Case 2018-017](https://www.federalregister.gov/documents/2019/08/13/2019-17201/federal-acquisition-regulation-prohibition-on-contracting-for-certain-telecommunications-and-video) prohibit the purchase of covered telecommunications equipment and services from vendors who sell products containing spyware. These devices could pose a threat to U.S. security by spying on or disrupting communications within the U.S. 
+Section 889 of the John S. McCain National Defense Authorization Act (NDAA) for Fiscal Year 2019 ([P.L. 115-232 [PDF, 789 pages]](https://www.congress.gov/115/plaws/publ232/PLAW-115publ232.pdf)) and the [Federal Acquisition Regulation (FAR) Case 2018-017](https://www.federalregister.gov/documents/2019/08/13/2019-17201/federal-acquisition-regulation-prohibition-on-contracting-for-certain-telecommunications-and-video) prohibit the purchase of covered telecommunications equipment and services from vendors who sell products containing spyware. These devices could pose a threat to U.S. security by spying on or disrupting communications within the U.S. 
 
 The General Services Administration (GSA) – in partnership with NASA – has joined the Department of Defense (DoD) in developing tools to assist account holders with finding Section 889 representations/certifications.
 
@@ -23,13 +23,13 @@ The General Services Administration (GSA) – in partnership with NASA – has j
     * For UEI requests, ensure that the email subject line is exactly 12 characters long.
     * To avoid error messages, do not include additional text in the email’s subject line or in the body of the email.
 - After sending a request, users will generally receive an email response from [info@section889req.com](mailto:info@section889req.com) within five minutes. 
-- The email response identifies if the vendor is registered in the System for Award Management (SAM), if they have completed the representations required by the [FAR 52.204-26](https://www.acquisition.gov/far/52.204-26) provision and what responses were provided. 
+- The email response identifies if the vendor is registered in SAM, if they have completed the representations required by the [FAR 52.204-26](https://www.acquisition.gov/far/52.204-26) provision and what responses were provided. 
 - This capability gives Contracting Officers and users a quick way to check SAM.
 
 - [Section 889 Toolkit](https://dodprocurementtoolbox.com/site-pages/section-889-request)
-- [Section 889 Bot Instruction Guide](https://dodprocurementtoolbox.com/cms/sites/default/files/resources/2022-04/Section%20889%20Bot%20Implementation%20Guide_APRIL2022.pdf)
-- [Section 889 Bot FAQs](https://dodprocurementtoolbox.com/cms/sites/default/files/resources/2022-04/Section%20889%20FAQ_APRIL2022.pdf)
-- [Section 889 Bot Operation Update as of 1/20/23](https://dodprocurementtoolbox.com/articles/section-889-bot-operation-update-as-of-12023)
+- [Section 889 Bot Instruction Guide [PDF, 7 pages]](https://dodprocurementtoolbox.com/cms/sites/default/files/resources/2022-04/Section%20889%20Bot%20Implementation%20Guide_APRIL2022.pdf)
+- [Section 889 Bot FAQs [PDF, 6 pages]](https://dodprocurementtoolbox.com/cms/sites/default/files/resources/2022-04/Section%20889%20FAQ_APRIL2022.pdf)
+
 
 For more information on the NDAA Section 889 legislation, please visit [Policies](/policies-and-audits/policies).
 

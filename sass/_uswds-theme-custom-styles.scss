@@ -28,6 +28,7 @@ i.e.
 html, body {
    height: 100%;
    line-height: line-height('body', 6);
+   scroll-behavior: smooth;
 }
 
 .flex-shrink-0 {

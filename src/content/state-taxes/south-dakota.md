@@ -4,13 +4,12 @@ contact:
   link: https://dor.sd.gov/
   name: South Dakota Department of Revenue
   phone: 800-829-9188
-exceptionsApply: false
 summary:
 - icon: highlight_off
-  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+  text: Individually billed accounts (IBA) **are not** exempt from state sales
     tax.
 - icon: check_circle_outline
-  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+  text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
 updated: 2023-02-15
 ---
 
@@ -22,7 +21,7 @@ updated: 2023-02-15
 
 ## Laws, Regulations, Policies
 
-* [Exempt Entities](https://dor.sd.gov/media/sgxnhnhl/exemptentities.pdf#:~:text=Federal%20Government%20and%20the%20South%20Dakota%20Department%20of,required%20to%20collect%20sales%20tax%20on%20taxable%20sales.)
+* [Exempt Entities [PDF, 3 pages]](https://dor.sd.gov/media/sgxnhnhl/exemptentities.pdf#:~:text=Federal%20Government%20and%20the%20South%20Dakota%20Department%20of,required%20to%20collect%20sales%20tax%20on%20taxable%20sales.)
 
 ## Point of Contact
 - [South Dakota Department of Revenue](https://dor.sd.gov/)

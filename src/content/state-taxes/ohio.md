@@ -4,13 +4,12 @@ contact:
   link: https://tax.ohio.gov/
   name: Ohio Department of Taxation Business
   phone: 888-405-4039
-exceptionsApply: false
 summary:
 - icon: highlight_off
-  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+  text: Individually billed accounts (IBA) **are not** exempt from state sales
     tax.
 - icon: check_circle_outline
-  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+  text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
 updated: 2023-02-15
 ---
 
@@ -18,7 +17,7 @@ updated: 2023-02-15
 
 ### Purchase Card
 
-* [Sales and Use Tax Blanket Exemption Certificate](https://tax.ohio.gov/static/forms/fill-in/sales_and_use/exemption_certificates/st_stec_b_fi.pdf) <span class="usa-tag">Optional</span>
+* [Sales and Use Tax Blanket Exemption Certificate [PDF, 1 page]](https://tax.ohio.gov/static/forms/fill-in/sales_and_use/exemption_certificates/st_stec_b_fi.pdf) <span class="usa-tag">Optional</span>
 
 #### Notes
 

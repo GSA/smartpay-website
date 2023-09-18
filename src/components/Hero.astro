@@ -6,7 +6,7 @@ const style = hero_image ? `background-image: linear-gradient(to right, #405e97,
 <section class:list={['padding-y-4', `${ background_class }`, { 'usa-hero': hero_image }]} style={style}>
   <div class="grid-container">
     <div class="usa-hero__callout">
-      <h1 class="usa-hero__heading"><span class="usa-hero__heading--alt">GSA SmartPay</span>
+      <h1 class="usa-hero__heading"><span class="usa-hero__heading--alt"><slot></slot></span>
       </h1>
       <p v-if="$slots.subheader" >
         <slot name="subheader"></slot>

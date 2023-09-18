@@ -1,0 +1,16 @@
+---
+/* Used as a wrapper for content pages that have a side navigation (most of the pages on the site) */
+const { title, intro } = Astro.props;
+import { marked } from 'marked';
+import { markedSmartypants } from "marked-smartypants";
+marked.use(markedSmartypants());
+---
+<main id="main-content" class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
+    <h1>{ title }</h1>
+
+    { intro && ( 
+      <p class="usa-intro" set:html={ marked.parseInline(intro) } />
+    )}
+
+    <slot />
+</main>

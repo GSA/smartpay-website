@@ -4,13 +4,12 @@ contact:
   link: https://tax.wv.gov/Pages/default.aspx
   name: West Virginia State Tax Department
   phone: 800-982-8297
-exceptionsApply: false
 summary:
 - icon: highlight_off
-  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+  text: Individually billed accounts (IBA) **are not** exempt from state sales
     tax.
 - icon: check_circle_outline
-  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+  text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
 updated: 2023-02-15
 ---
 
@@ -22,7 +21,7 @@ updated: 2023-02-15
 
 ## Laws, Regulations, Policies
 
-* [Sales and Use Tax Exemptions](https://tax.wv.gov/Documents/TSD/tsd300.pdf)
+* [Sales and Use Tax Exemptions [PDF, 4 pages]](https://tax.wv.gov/Documents/TSD/tsd300.pdf)
 
 ## Point of Contact
 - [West Virginia State Tax Department](https://tax.wv.gov/Pages/default.aspx)

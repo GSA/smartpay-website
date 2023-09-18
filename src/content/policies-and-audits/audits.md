@@ -1,7 +1,7 @@
 ---
 title: Audit Repository
 description: "The Audit Repository includes agency audits related to the GSA SmartPay program."
-intro: "The Audit Repository includes both multi-agency and agency-specific audits related to the GSA SmartPay program."
+intro: "The Audit Repository includes both multi-agency and agency-specific audits related to the GSA SmartPay® program."
 order: 2
 category: policies and audits
 tags:
@@ -31,7 +31,7 @@ tags:
 
 ## 2018
 
-- April: [2017 Annual Report: Additional Opportunities to Reduce Fragmentation, Overlap, and Duplication and Achieve Other Financial Benefits](/policies-and-audits/audits/2018-gao)
+- April: [2018 Annual Report: Additional Opportunities to Reduce Fragmentation, Overlap, and Duplication and Achieve Other Financial Benefits](/policies-and-audits/audits/2018-gao)
 - April: [DoD Reporting of Charge Card Misuse to OMB](/policies-and-audits/audits/2018-dod-purchase-travel)
 - July: [Report on the Government Purchase Card Initiative](/policies-and-audits/audits/2018-cigie-purchase)
 - November: [The Department of State’s Major Management And Performance Challenges](/policies-and-audits/audits/2018-dos)

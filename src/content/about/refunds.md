@@ -35,6 +35,6 @@ The exception permitting the deposit of refunds to the appropriation initially c
 
 ### Sources
 
-1. [Rebates from Travel Management Center Contractors](https://www.gao.gov/products/b-217913), B-217913, 65 Comp. Gen. 600; May 30, 1986.
+1. [Rebates from Travel Management Center Contractors](https://www.gao.gov/products/b-217913), B-217913, 65 Comp. Gen. 600, May 30, 1986.
 1. [Accounting for Rebates from Travel Management Center Contractors](https://www.gao.gov/products/b-217913.3), B-217913.3, 73 Comp. Gen. 210, June 24, 1994.
-1. [71 Comp. Gen. 502 (1992)](https://www.gao.gov/products/b-245856.7); [B-217913.2](https://www.gao.gov/products/b-217913.2), Feb. 19, 1993; [GAO, Policy and Procedures Manual for Guidance of Federal Agencies](https://www.gao.gov/products/149099), title 7, §§ 4.3, 5.4 ; 31 U.S.C. § 1552(b).
+1. [71 Comp. Gen. 502 (1992)](https://www.gao.gov/products/b-245856.7); [B-217913.2](https://www.gao.gov/products/b-217913.2), Feb. 19, 1993; [GAO, Policy and Procedures Manual for Guidance of Federal Agencies](https://www.gao.gov/products/149099), title 7, §§ 4.3, 5.4; 31 U.S.C. § 1552(b).

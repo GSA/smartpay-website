@@ -4,13 +4,12 @@ contact:
   link: https://cdor.colorado.gov
   name: Colorado Department of Revenue
   phone: 303-238-7378
-exceptionsApply: false
 summary:
 - icon: highlight_off
-  text: Individually billed accounts (IBA) <b>are not</b> exempt from state sales
+  text: Individually billed accounts (IBA) **are not** exempt from state sales
     tax.
 - icon: check_circle_outline
-  text: Centrally billed accounts (CBA) <b>are</b> exempt from state sales tax.
+  text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
 updated: 2023-02-15
 ---
 
@@ -29,7 +28,7 @@ updated: 2023-02-15
 ## Laws, Regulations, Policies
 
 * [Tax Exemption Qualifications](https://tax.colorado.gov/tax-exemption-qualifications)
-* [FYI Sales 63 Government Purchases Exemptions](https://tax.colorado.gov/sites/tax/files/Sales63.pdf)
+* [FYI Sales 63 Government Purchases Exemptions [PDF, 7 pages]](https://tax.colorado.gov/sites/tax/files/Sales63.pdf)
 
 ## Point of Contact
 - [Colorado Department of Revenue](https://cdor.colorado.gov)
