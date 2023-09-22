@@ -23,10 +23,10 @@ The GSA SmartPay® program provides statistical summary information and monthly 
 
 GSA SmartPay statistics for fiscal year 2022:
 
-- Total spend was $32.8 billion.
-- $426 million in refunds earned.
-- Each GSA SmartPay account, on average, spent $419 per transaction.
-- The Department of Veterans Affairs was the top agency by program spend with $14 billion (41.7% of total spend).
+- $32.8 billion in total program spend.
+- $426 million in refunds earned by agencies/organizations.
+- $418 was spent on average for each transaction.
+- The Department of Veterans Affairs was the top agency with $13.7 billion in spend (which equals to about 41.8% of total program spend).
 
 ---
 ## Purchase Card FPDS Reports
