@@ -94,8 +94,8 @@ bulletins:
   - number: No. 023
     title: GSA SmartPay - Third Party Payment Processors [PDF, 3 pages]
     audience: Purchase, Travel, Fleet, Integrated
-    published: 
-    lastupdated: Oct 27, 2021
+    published: Oct 27, 2021
+    lastupdated: N/A
     filename: smart-bulletin-023.pdf   
   - number: No. 022
     title: GSA SmartPay - GSA SmartPay Program Certification (GSPC) [PDF, 4 pages]
@@ -106,14 +106,14 @@ bulletins:
   - number: No. 021
     title: OMB Memorandum M-13-21 and Charge Card Compliance Summary [PDF, 4 pages]
     audience: Purchase, Travel, Integrated
-    published: Sep 2013
+    published: Sep 6, 2013
     lastupdated: Aug 28, 2020
     filename: smart-bulletin-021.pdf
   - number: No. 020
     title: What You Need to Know About State Taxes [PDF, 3 pages]
     audience: Purchase, Travel, Fleet, Integrated
-    published: 
-    lastupdated: Apr 10, 2020
+    published: Apr 10, 2020
+    lastupdated: N/A
     filename: smart-bulletin-020.pdf   
   - number: No. 019
     title: Amazon.com Tax Exemption Procedures [PDF, 3 pages]
@@ -130,7 +130,7 @@ bulletins:
   - number: No. 017
     title: Brands (Visa/Mastercard) to Permit Merchant Surcharges [PDF, 2 pages]
     audience: Purchase, Travel, Fleet, Integrated
-    published: Dec 2013
+    published: Jan 27, 2013
     lastupdated: Jan 10, 2023
     filename: smart-bulletin-017.pdf   
   - number: No. 016
