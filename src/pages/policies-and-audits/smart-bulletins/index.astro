@@ -23,7 +23,7 @@ const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
           <tr>
             <th scope="col">Number</th>
             <th scope="col">Title</th>
-            <th scope="col">Audience</th>
+            <th scope="col">Business Line(s)</th>
             <th scope="col">Published</th>
             <th scope="col">Last Updated</th>
           </tr>
@@ -35,7 +35,7 @@ const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
               <td class="grid-col-5">
                 <a href={`${import.meta.env.BASE_URL}files/smartbulletins/${item.filename}`}>{item.title}</a> 
               </td>
-              <td class="grid-col-2">{item.audience}</td>
+              <td class="grid-col-2">{item.business_line}</td>
               <td class="grid-col-2">{item.published}</td>
               <td class="grid-col-2">{item.lastupdated}</td>
             </tr>
