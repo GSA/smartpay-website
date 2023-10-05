@@ -21,11 +21,11 @@ Agencies/organizations have the opportunity to earn refunds — money that goes 
 
 Example refund calculations can be found in section B.3.3 of the [GSA SmartPay 3 Master Contract](/about/master-contract).
 
-## Refund Background
+## Refunds Background
 
 Unless an agency has specific statutory authority to handle funds received, 31 U.S.C. § 3302 states that incoming funds are to be deposited into the Treasury general fund. The exception to this rule is when funds qualify as "refunds" which are defined as "repayments for excess payments." Or, refunds can be defined as "amounts collected from outside sources for payments made in error, overpayments or adjustments for previous amounts disbursed." Under either definition, these "refunds" must go back to the appropriation or fund account(s) from which the excess payment were made.<sup>1</sup> <sup>2</sup>
 
-GSA originally looked into the use of refunds as part of the travel management company contracts. The Comptroller General found that if the contractor agreed to discount services to the federal government, the Government Accountability Office saw no reason prohibiting agencies from depositing savings to the credit of the appropriation against which the initial cost of the employee travel was charged.
+GSA originally looked into the use of refunds as part of the travel management company contracts. The Comptroller General found that if the contractor agreed to discount services to the federal government, the Government Accountability Office saw no reason to prohibit agencies from depositing savings to the credit of the appropriation against which the initial cost of the employee travel was charged.
 
 As receipts are actually a return of a portion of a prior agency payment and may be deposited to the credit of the appropriation against which the payment was initially charged rather than to a general fund receipt account. If the appropriation initially charged has not expired, the refund is available to support new obligations. If the appropriation account initially charged has expired, but has not yet closed, the refund is deposited to the credit of the expired account where it is available for recording or adjusting obligations properly incurred before the appropriation expired.<sup>3</sup>
 

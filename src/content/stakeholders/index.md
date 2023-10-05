@@ -15,17 +15,18 @@ tags:
 
 ## Agency/Organization Program Coordinators (A/OPCs)
 
-- Overall management and oversight of the accounts under their span of control.
-- Set up accounts and designate authorization controls.
-- Serve as a liaison between account holders and the bank.
-- Provide ongoing advice and assistance to account holders.
-- Audit accounts as required by the agency’s policy.
+- Overall management and oversight of the cards/accounts under their span of control.
+- Set up cards/accounts and designate authorization controls.
+- Serve as a liaison between card/account holders and the bank.
+- Provide ongoing advice and assistance to card/account holders.
+- Develop agency program procedures and policies as necessary.
+- Audit cards/accounts as required by the agency’s policy.
 - Use the bank's Electronic Access System (EAS) to perform account management and oversight.
 
 ## Approving Officials (AO)
 
-- Typically the account holder’s supervisor.
-- Assure proper use of the account.
+- Typically the card/account holder’s supervisor.
+- Assure proper use of the card/account.
 - Determine if purchases are necessary for accomplishing the mission of the agency.
 
 ## Card/Account Holders
@@ -53,9 +54,9 @@ tags:
 ## Contractor/Issuing Banks
 
 - Enable merchant payments for purchase transactions.
-- Establish accounts.
+- Establish cards/accounts.
 - Issue cards, if required.
-- Prepare the monthly statement for each account holder.
+- Prepare the monthly statement for each card/account holder.
 - Issue invoices to the DBO.
 - Provide 24-hour customer service.
 - Prepare reports that assist the agency in effectively utilizing the program.
@@ -64,7 +65,7 @@ tags:
 ## Brands
 
 - Financial institutions that dictate where payments can be processed.
-- Facilitate the payment process between account holders, merchants and issuing financial institutions.
+- Facilitate the payment process between card/account holders, merchants and issuing financial institutions.
 - Examples include Visa and Mastercard.
 
 ## Merchants
@@ -74,7 +75,7 @@ tags:
 
 ## GSA Contracting Officer
 
-- Administers the GSA SmartPay Master Contract on behalf of all authorized users, including your agency/organization.
+- Administer the GSA SmartPay Master Contract on behalf of all authorized users, including your agency/organization.
 - Make changes to the GSA SmartPay Master Contract requirements.
 - Legally commit or obligate the government to the expenditure of public funds for the GSA SmartPay Master Contract.
 - Render a final decision on a dispute pertaining to the GSA SmartPay Master Contract.
