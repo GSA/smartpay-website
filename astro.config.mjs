@@ -8,7 +8,7 @@ import sitemapFilter from "./src/config/sitemapFilter";
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://demo.smartpay.gsa.gov/',
+    site: 'https://smartpay.gsa.gov/',
     base: process.env.BASEURL,
     integrations: [mdx(), sitemap({ filter: sitemapFilter })],
     outDir: '_site',
