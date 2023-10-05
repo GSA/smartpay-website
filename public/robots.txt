@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://demo.smartpay.gsa.gov/sitemap-index.xml
+Sitemap: https://smartpay.gsa.gov/sitemap-index.xml
