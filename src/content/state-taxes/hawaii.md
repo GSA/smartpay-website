@@ -32,7 +32,7 @@ Notes for the GET:
 ## Laws, Regulations, Policies
 
 * [Tax Facts 37-1 General Excise Tax](https://tax.hawaii.gov/legal/a2_b2_1taxfacts/)
-* [An Introduction to the Transient Accommodations Tax [PDF, 22 pages]](https://files.hawaii.gov/tax/legal/brochures/TAT_brochure.pdf)
+* [An Introduction to the Transient Accommodations Tax [PDF, 22 pages]](https://files.hawaii.gov/tax/legal/brochures/TAT_brochure-23.pdf)
 
 ## Point of Contact
 - [Hawaii Department of Taxation](https://tax.hawaii.gov/)
