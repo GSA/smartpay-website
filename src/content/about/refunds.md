@@ -1,7 +1,7 @@
 ---
 title: Refunds
-description: "Agencies and organizations have the opportunity to earn refunds that can directly fund and support mission critical efforts."
-intro: Agencies/organizations have the opportunity to earn refunds — money that goes back to agencies that can directly fund and support mission critical efforts. 
+description: "Agencies/organizations have the opportunity to earn refunds that can directly fund and support mission critical efforts."
+intro: Agencies/organizations have the opportunity to earn refunds.
 order: 5
 category: about
 tags:
@@ -10,7 +10,7 @@ tags:
   - master contract
 ---
 
-Please note the following information about refunds:
+Refunds are a monetary payment provided by the contractor bank to agencies/organizations that can directly fund and support mission critical efforts. Please note the following about refunds:
 
 - An agency’s refund rate range has been established by the GSA SmartPay® 3 Master Contract.
 - Minimum refunds are a single rate that considers both volume of spend and speed of pay.
