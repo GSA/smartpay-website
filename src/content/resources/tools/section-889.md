@@ -1,11 +1,12 @@
 ---
 title: Section 889 Tools
 description: Stay compliant with Section 889 with tools like the Section 889 Easy Search Tool and DoD’s Section 889 Request Bot.
+intro: Stay compliant with Section 889 with tools like the Section 889 Easy Search Tool and DoD’s Section 889 Request Bot. 
 order: 1
 ---
 Section 889 of the John S. McCain National Defense Authorization Act (NDAA) for Fiscal Year 2019 ([P.L. 115-232 [PDF, 789 pages]](https://www.congress.gov/115/plaws/publ232/PLAW-115publ232.pdf)) and the [Federal Acquisition Regulation (FAR) Case 2018-017](https://www.federalregister.gov/documents/2019/08/13/2019-17201/federal-acquisition-regulation-prohibition-on-contracting-for-certain-telecommunications-and-video) prohibit the purchase of covered telecommunications equipment and services from vendors who sell products containing spyware. These devices could pose a threat to U.S. security by spying on or disrupting communications within the U.S. 
 
-The General Services Administration (GSA) – in partnership with NASA – has joined the Department of Defense (DoD) in developing tools to assist account holders with finding Section 889 representations/certifications.
+The General Services Administration (GSA) – in partnership with the National Aeronautics and Space Administration (NASA) – has joined the Department of Defense (DoD) in developing tools to assist account holders with finding Section 889 representations/certifications.
 
 ## Section 889 Easy Search Tool
 
