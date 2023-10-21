@@ -1,7 +1,7 @@
 ---
 title: Card/Account Holder Responsibilities
 description: Discover card and account holder responsibilities; how they can comply with agency regulations and rules, maintain records, and keep their account secure.
-intro: The card/account holder is designated by an agency/organization to receive a GSA SmartPay® card/account.
+intro: Card/account holders are designated by an agency to receive a GSA SmartPay® card/account.
 order: 2
 category: stakeholders
 tags:
