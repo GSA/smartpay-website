@@ -10,7 +10,9 @@ tags:
   - master contract
 ---
 
-Refunds are a monetary payment provided by the contractor bank to agencies/organizations that can directly fund and support mission critical efforts. Please note the following about refunds:
+Refunds are a monetary payment provided by the contractor bank to agencies/organizations that can directly fund and support mission critical efforts. 
+
+Please note the following about refunds:
 
 - An agency’s refund rate range has been established by the GSA SmartPay® 3 Master Contract.
 - Minimum refunds are a single rate that considers both volume of spend and speed of pay.
