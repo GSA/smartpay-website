@@ -1,7 +1,7 @@
 ---
 title: Publications and Videos
 description: Learn more with resources for account holders. We have guides, presentations and publications specific to travel, purchase, fleet and more.
-intro: We offer a variety of resources about the GSA SmartPay® program for card/account holders and Agency/Organization Program Coordinators (A/OPCs), including guides, presentations, publications, and videos specific to travel, purchase, fleet and more.
+intro: We offer a variety of resources about the GSA SmartPay® program for card/account holders and Agency/Organization Program Coordinators (A/OPCs).
 order: 2
 ---
 
@@ -29,6 +29,6 @@ order: 2
 - [View All Business Line Publications](/resources/publications/all-business-lines).
 
 ## Videos
-- Videos covering a wide range of GSA SmartPay topics, including how a transaction works, refunds, cardless payments, fraud prevention and more.
+- Videos covering a wide range of GSA SmartPay topics, including how a transaction works, refunds, cardless payments, fraud prevention, and more.
 
 - [View Videos](/resources/publications/videos).
