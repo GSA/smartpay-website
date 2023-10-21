@@ -1,7 +1,7 @@
 ---
 title: Events
 description: Stay aware of upcoming GSA SmartPay events like training forums, summits, conferences, and fairs.
-intro: Join us at in-person and virtual events to learn more about the GSA SmartPay program.
+intro: Join us at in-person and virtual events to learn more about the GSA SmartPay® program.
 order: 3
 ---
 
