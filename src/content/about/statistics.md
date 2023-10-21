@@ -1,7 +1,7 @@
 ---
 title: Statistics and Reports
 description: "We offer statistics and monthly reporting on spend, transactions, and the number of account holders."
-intro: "We offer statistics and reporting on spend, transactions, the number of account holders, and refunds."
+intro: "We offer statistics and reporting on spend, transactions, the number of card/account holders, and refunds."
 order: 7
 category: about
 tags:
