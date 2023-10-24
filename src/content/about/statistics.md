@@ -19,7 +19,7 @@ The GSA SmartPay® program provides statistical summary information and monthly 
 
 - Spend.
 - Transactions.
-- Number of account holders.
+- Number of card/account holders.
 
 GSA SmartPay statistics for fiscal year 2022:
 
@@ -36,12 +36,12 @@ GSA SmartPay statistics for fiscal year 2022:
 - [GSA SmartPay Purchase Card Statistics Report for FPDS [XLSX, 45KB]](/files/purchase-report.xlsx)
 
 ---
-## Sales, Transactions, Account Holder Data
+## Sales, Transactions, Card/Account Holder Data
 
 The following program data is provided for informational purposes only and should not be used to calculate agency refunds, basis points, or usage of GSA SmartPay payment solutions by agency personnel. This data has been provided by the respective banks and has not been verified for accuracy.
 
-- [Sales, Transactions, and Account Holder Data (FY 2009–June 2023) [XLSX, 7MB]](/files/stats-tool.xlsx) – Spreadsheets containing current statistics for GSA SmartPay Purchase, Travel and Fleet.  Note: For questions about usage of the tool and underlying data, refer to the [Frequently Asked Questions](/faq) page.
-- [Fiscal Years 1999–2009 Card Sales, Transactions and Account Holder Data [XLS, 10.2 MB]](/files/fy99-09-card-sales-transactions-cardholder-data.xls) – Spreadsheets containing fiscal years 1999–2009 data and statistics for GSA SmartPay Purchase, Travel and Fleet.
+- [Sales, Transactions, and Card/Account Holder Data (FY 2009–June 2023) [XLSX, 7MB]](/files/stats-tool.xlsx) – Spreadsheets containing current statistics for GSA SmartPay Purchase, Travel and Fleet business lines.  Note: For questions about usage of the tool and underlying data, refer to the [Frequently Asked Questions](/faq) page.
+- [Fiscal Years 1999–2009 Card Sales, Transactions and Card/Account Holder Data [XLS, 10.2 MB]](/files/fy99-09-card-sales-transactions-cardholder-data.xls) – Spreadsheets containing fiscal years 1999–2009 data and statistics for GSA SmartPay Purchase, Travel and Fleet business lines.
 
 ---
 
