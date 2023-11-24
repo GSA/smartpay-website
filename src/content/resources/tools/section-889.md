@@ -10,7 +10,7 @@ Section 889 of the John S. McCain National Defense Authorization Act (NDAA) for 
 
 For more information on the NDAA Section 889 legislation, please visit [Policies](/policies-and-audits/policies).
 
-## Section 889 Easy Search Tool
+## GSA's Section 889 Easy Search Tool
 
 
 - The [Section 889 Easy Search Tool](https://889.smartpay.gsa.gov/) checks for Section 889 representations in a vendor's System for Award Management (SAM) record at [SAM.gov](http://www.sam.gov). 
