@@ -16,4 +16,4 @@ Before making any purchase, including GSA SmartPay Purchase card/account transac
 Buyers should:
 - Be sure to follow their agency rules and procedures for compliance with applicable FASCSA orders to determine whether the purchase should be made. 
 - Keep in mind that the FASCSA order review should take place for all purchases at any dollar threshold.
-- Note that until DHS, DoD, or DNI create the first FASCSA order in [SAM.gov]((http://sam.gov)), the downloaded file will be empty.
+- Note that until DHS, DoD, or DNI create the first FASCSA order in [SAM.gov](http://sam.gov), the downloaded file will be empty.
