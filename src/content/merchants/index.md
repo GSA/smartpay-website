@@ -1,7 +1,7 @@
 ---
 title: Merchants
 description: "Information about the GSA SmartPay program for merchants, vendors, and businesses."
-intro: "GSA SmartPay® solutions are the federal government's preferred payment method to merchants."
+intro: "The federal government prefers to use GSA SmartPay® solutions to pay merchants."
 slug: "./"
 order: 0
 category: merchants
