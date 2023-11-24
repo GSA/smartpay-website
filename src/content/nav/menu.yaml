@@ -54,6 +54,8 @@
   submenu:
   - title: Section 889 Tools
     href: resources/tools/section-889
+  - title: FASCSA Order Check
+    href: resources/tools/FASCSA-Order-Check
   - title: Publications and Videos
     href: resources/publications
   - title: Events
