@@ -18,7 +18,7 @@ The card/account holder is responsible for:
 - Observing all dollar limits.
 - Reconciling and documenting transactions.
 
-Card/account holders must comply with all applicable regulations and procedures of your agency. If you’re unsure about a purchase or you’re unclear about your agency’s policy, please reach out to your agency/organization’s program coordinator (A/OPC) for guidance.
+Card/account holders must comply with all applicable regulations and procedures of your agency. If you’re unsure about a purchase or you’re unclear about your agency’s policy, please reach out to your Agency/Organization Program Coordinator (A/OPC) for guidance.
 
 Card/account holders are also responsible for reporting a lost or stolen GSA SmartPay card/account. If this occurs, please promptly contact the following parties:
 
