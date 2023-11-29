@@ -1,7 +1,7 @@
 ---
 title: FASCSA Order Check
-description: Before making any purchase, agency officials should review Federal Acquisition Supply Chain Security Act (FASCSA) orders.
-intro: Before making any purchase, agency officials should review Federal Acquisition Supply Chain Security Act (FASCSA) orders.
+description: Before making any purchase, buyers should review Federal Acquisition Supply Chain Security Act (FASCSA) orders.
+intro: Before making any purchase, buyers should review Federal Acquisition Supply Chain Security Act (FASCSA) orders.
 order: 2
 ---
 The federal government issued an [interim rule](https://www.federalregister.gov/documents/2023/10/05/2023-21320/federal-acquisition-regulation-implementation-of-federal-acquisition-supply-chain-security-act) that amends the Federal Acquisition Regulation (FAR) to implement supply chain risk information sharing and FASCSA orders. This rule became effective on December 4, 2023.
