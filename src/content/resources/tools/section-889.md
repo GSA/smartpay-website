@@ -1,7 +1,7 @@
 ---
 title: Section 889 Tools
 description: Stay compliant with Section 889 with tools like the Section 889 Easy Search Tool and DoD’s Section 889 Request Bot.
-intro: Use the Section 889 Easy Search Tool and the DoD's Section 889 Request Bot to check Section 889 representations. 
+intro: Use GSA's Section 889 Easy Search Tool and DoD's Section 889 Request Bot to check Section 889 representations. 
 order: 1
 ---
 The General Services Administration (GSA) – in partnership with the National Aeronautics and Space Administration (NASA) – has joined the Department of Defense (DoD) in developing tools to assist card/account holders with finding Section 889 representations.
