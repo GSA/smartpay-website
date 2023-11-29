@@ -1,6 +1,7 @@
 ---
 title: Refunds
-description: "Agencies and organizations have the opportunity to earn refunds that can directly fund and support mission critical efforts."
+description: "Agencies/organizations have the opportunity to earn refunds that can directly fund and support mission critical efforts."
+intro: Agencies/organizations have the opportunity to earn refunds.
 order: 5
 category: about
 tags:
@@ -9,7 +10,9 @@ tags:
   - master contract
 ---
 
-Agencies/organizations have the opportunity to earn refunds — money that goes back to agencies that can directly fund and support mission critical efforts.
+Refunds are a monetary payment provided by the contractor bank to agencies/organizations that can directly fund and support mission critical efforts. 
+
+Please note the following about refunds:
 
 - An agency’s refund rate range has been established by the GSA SmartPay® 3 Master Contract.
 - Minimum refunds are a single rate that considers both volume of spend and speed of pay.
@@ -29,7 +32,7 @@ GSA originally looked into the use of refunds as part of the travel management c
 
 As receipts are actually a return of a portion of a prior agency payment and may be deposited to the credit of the appropriation against which the payment was initially charged rather than to a general fund receipt account. If the appropriation initially charged has not expired, the refund is available to support new obligations. If the appropriation account initially charged has expired, but has not yet closed, the refund is deposited to the credit of the expired account where it is available for recording or adjusting obligations properly incurred before the appropriation expired.<sup>3</sup>
 
-This same analysis and reasoning applies to the GSA SmartPay Program refunds. Under the GSA SmartPay program, refunds are discounts offered by the banks, which may be deposited to the credit of the appropriation against which the initial cost was charged. If that appropriation has expired, but not yet closed, the refund may be credited to the expired account where available. If the appropriation has expired, and the expired account has been closed, the refund would be properly credited to the appropriate Treasury general fund.
+This same analysis and reasoning applies to the GSA SmartPay program refunds. Under the GSA SmartPay program, refunds are discounts offered by the banks, which may be deposited to the credit of the appropriation against which the initial cost was charged. If that appropriation has expired, but not yet closed, the refund may be credited to the expired account where available. If the appropriation has expired, and the expired account has been closed, the refund would be properly credited to the appropriate Treasury general fund.
 
 The exception permitting the deposit of refunds to the appropriation initially charged is permissive in nature. If an agency declines the refund, it should be deposited to the Treasury general fund.
 

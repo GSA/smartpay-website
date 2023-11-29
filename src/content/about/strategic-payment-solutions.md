@@ -1,6 +1,7 @@
 ---
 title: Strategic Payment Solutions
 description: GSA SmartPay offers payment solutions for efficiency, oversight, refunds, and more.
+intro: There are several types of strategic payment solutions available under the GSA SmartPay® 3 Master Contract. 
 order: 6
 category: about
 tags:
@@ -19,7 +20,6 @@ Strategic payment solutions allow you to:
 - Improve oversight and control.
 - Gain transparency and accountability within your program.
 
-There are several types of strategic payment solutions available under the GSA SmartPay® 3 Master Contract.
 
 ## Card-Not-Present Solutions
 
@@ -45,6 +45,6 @@ There are several types of strategic payment solutions available under the GSA S
 
 ## Find Your Solution
 
-Reach out to your Level 1 agency/organization’s program coordinator (A/OPC) to determine which solutions are available under your agency’s task order.
+Reach out to your Level 1 Agency/Organization Program Coordinator (A/OPC) to determine which solutions are available under your agency’s task order.
 
 Contact your GSA SmartPay contractor bank for examples of how the payment solution could be used in your program.

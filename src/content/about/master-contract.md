@@ -1,6 +1,7 @@
 ---
 title: Master Contract
 description: About the GSA SmartPay Master Contract, contracting banks, and terms and conditions.
+intro: The first GSA SmartPay® Master Contract was awarded in 1998. 
 order: 3
 category: about
 tags:
@@ -8,9 +9,9 @@ tags:
   - master contract
 ---
 
-Since the award of the inaugural GSA SmartPay® Master Contract in 1998, the GSA SmartPay program has provided convenient, efficient and effective payment solutions for the federal government, tribes and tribal organizations with a comprehensive portfolio of purchase, travel, fleet and integrated payment solutions to support mission needs.
+Since the inaugural GSA SmartPay® Master Contract award in 1998, the GSA SmartPay program has provided convenient, efficient, and effective payment solutions for the federal government, tribes, and tribal organizations with a comprehensive portfolio of purchase, travel, fleet, and integrated payment solutions to support mission needs.
 
-In 2007, the GSA SmartPay program was further expanded with the award of the GSA SmartPay 2 Master Contract. The GSA SmartPay 2 Master Contract required additional payment solutions beyond traditional carded products, as well as increased data analysis, reporting capabilities, and security requirements. The GSA SmartPay program continued to grow through increased adoption as agencies realized benefits afforded under the program, such as ease of use, transaction reporting and data analytic tools.
+In 2007, the GSA SmartPay program was further expanded with the award of the GSA SmartPay 2 Master Contract. The GSA SmartPay 2 Master Contract required additional payment solutions beyond traditional carded products, as well as increased data analysis, reporting capabilities, and security requirements. The GSA SmartPay program continued to grow through increased adoption as agencies realized benefits afforded under the program, such as ease of use, transaction reporting, and data analytic tools.
 
 On August 31, 2017, Citibank and U.S. Bank were awarded GSA SmartPay 3 Master Contracts to continue providing payment solutions to government agencies.
 

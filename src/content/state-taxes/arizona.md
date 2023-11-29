@@ -40,4 +40,4 @@ Notes for the transaction privilege tax:
 
 ## Point of Contact
 - [Arizona Department of Revenue](https://azdor.gov/)
-- 501-682-7104
+- 602-255-3381
