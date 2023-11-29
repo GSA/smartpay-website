@@ -45,6 +45,6 @@ Strategic payment solutions allow you to:
 
 ## Find Your Solution
 
-Reach out to your Level 1 agency/organization’s program coordinator (A/OPC) to determine which solutions are available under your agency’s task order.
+Reach out to your Level 1 Agency/Organization Program Coordinator (A/OPC) to determine which solutions are available under your agency’s task order.
 
 Contact your GSA SmartPay contractor bank for examples of how the payment solution could be used in your program.
