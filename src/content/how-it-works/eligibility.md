@@ -12,7 +12,7 @@ tags:
 
 Federal agencies, departments, tribal organizations and approved non-federal entities (including those eligible to use GSA sources of supply and/or cost-reimbursable contractors) can apply to obtain GSA SmartPay payment solutions. Further eligibility information can be found in section C.2.1.1 of the [GSA SmartPay 3 Master Contract](/about/master-contract/).
 
-For those eligible to apply, contact your agency/organization program coordinator (A/OPC) to obtain and submit an application for the GSA SmartPay account. Please note:
+For those eligible to apply, contact your Agency/)rganization Program Coordinator (A/OPC) to obtain and submit an application for the GSA SmartPay account. Please note:
 
 - New applicants should receive their GSA SmartPay account from the contractor bank within 10–14 calendar days from the time the application is submitted by your A/OPC.
 - Replacements for lost, stolen, broken or otherwise unusable cards will be sent within 48 hours of the request.
