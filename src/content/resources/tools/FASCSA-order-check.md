@@ -1,7 +1,7 @@
 ---
 title: FASCSA Order Check
 description: The Federal Acquisition Supply Chain Security Act (FASCSA) became effective in December 2023.
-intro: The Federal Acquisition Supply Chain Security Act (FASCSA) became effective in December 2023.
+intro: A Federal Acquisition Supply Chain Security Act (FASCSA) related rule became effective in December 2023.
 order: 2
 ---
 The federal government issued an [interim rule](https://www.federalregister.gov/documents/2023/10/05/2023-21320/federal-acquisition-regulation-implementation-of-federal-acquisition-supply-chain-security-act) that amends the Federal Acquisition Regulation (FAR) to implement supply chain risk information sharing and FASCSA orders. This rule became effective on December 4, 2023.
