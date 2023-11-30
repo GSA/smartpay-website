@@ -1,6 +1,6 @@
 ---
 title: Publications and Videos
-description: Learn more with resources for account holders. We have guides, presentations and publications specific to travel, purchase, fleet and more.
+description: Learn more with resources for account holders. We have guides, presentations and publications specific to travel, purchase, fleet, and more.
 intro: Learn more about the GSA SmartPay® program by reviewing these resources for various stakeholders.
 order: 3
 ---
@@ -34,6 +34,6 @@ order: 3
 - [View Videos](/resources/publications/videos).
 
 ## Forum Presentations
-- Presentations from the most recent GSA SmartPay Training Forum.
+- Presentations from GSA presenters featured at the most recent GSA SmartPay Training Forum.
 
-- [View Videos](/resources/publications/forum).
+- [View Forum Presentations](/resources/publications/forum).
