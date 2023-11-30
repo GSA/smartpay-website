@@ -32,3 +32,8 @@ order: 3
 - Videos covering a wide range of GSA SmartPay topics, including how a transaction works, refunds, cardless payments, fraud prevention, and more.
 
 - [View Videos](/resources/publications/videos).
+
+- ## Forum Presentations
+- Presentations from the most recent GSA SmartPay Training Forum.
+
+- [View Videos](/resources/publications/forum).
