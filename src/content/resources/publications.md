@@ -33,7 +33,7 @@ order: 3
 
 - [View Videos](/resources/publications/videos).
 
-- ## Forum Presentations
+## Forum Presentations
 - Presentations from the most recent GSA SmartPay Training Forum.
 
 - [View Videos](/resources/publications/forum).
