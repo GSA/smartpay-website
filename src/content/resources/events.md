@@ -28,7 +28,7 @@ This event is in-person only. There is no virtual portion of the event this year
 The forum website will go live with 2024 details around April 2024.
 
 ### Forum Presentations
-To view past forum presentations from GSA presenters, go to the Forum Presentation page(https://smartpay.gsa.gov/forum).
+To view past forum presentations from GSA presenters, go to the [Forum Presentation page](https://smartpay.gsa.gov/forum).
 
 ### Contact 
 For questions, reach out to the GSA SmartPay Program Support team at [gsa_smartpay@gsa.gov](mailto:gsa_smartpay@gsa.gov).
