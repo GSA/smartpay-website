@@ -33,7 +33,7 @@ order: 3
 
 - [View Videos](/resources/publications/videos).
 
-## Forum Presentations
-- Presentations from GSA presenters featured at the most recent GSA SmartPay Training Forum.
+## GSA SmartPay Training Forum Presentations
+- Forum presentation decks and videos for Agency/Organization Program Coordinators (A/OPCs) and others involved in the management of their agency's charge card program.
 
-- [View Forum Presentations](/resources/publications/forum).
+- [View GSA SmartPay Training Forum Presentations](/resources/publications/forum).
