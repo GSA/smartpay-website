@@ -53,6 +53,9 @@ npx gulp compile --gulpfile gulpfile.cjs
 ```
 This will rebuild the static assests and place them in the `/public` directory. To learn more, visit USWDS [Getting started for developers  ](https://designsystem.digital.gov/documentation/getting-started-for-developers/).
 
+
+## ☁️ Deploying to Cloud.gov Pages
+[Cloud.gov Pages](https://pages.cloud.gov/) manages the deployment of this site by watching for changes to the github repository. Changes to the `main` branch will be deployed to production. Changes to staging will be deployed to the demo site. For other branches Cloud.gov Pages will create a preview specific to that branch. See [Pages Documentation](https://cloud.gov/pages/documentation/) for specific information.
 ## 👀 Want to learn more?
 
 [Astro documentation](https://docs.astro.build). Astro also maintains a helpful [Discord server](https://astro.build/chat).
