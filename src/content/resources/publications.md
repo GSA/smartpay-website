@@ -32,8 +32,3 @@ order: 3
 - Videos covering a wide range of GSA SmartPay topics, including how a transaction works, refunds, cardless payments, fraud prevention, and more.
 
 - [View Videos](/resources/publications/videos).
-
-## GSA SmartPay Training Forum Presentations
-- Forum presentation decks and videos for Agency/Organization Program Coordinators (A/OPCs) and others involved in the management of their agency's charge card program.
-
-- [View GSA SmartPay Training Forum Presentations](/resources/publications/forum).
