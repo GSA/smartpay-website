@@ -44,17 +44,17 @@ Are you new to managing your fleet account program? This session provides a basi
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZIN9eOS0_KA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## TITLE
+## GSA SmartPay Online Tools
 
 ### Course Description
-Are you an A/OPC that is responsible for implementing best practices, guidance, policies, and innovative solutions for your agency/organization's purchase card program? Are you interested in learning more about strategic uses of the purchase card program and ways to leverage GSA SmartPay tools and information to maximize program efficiency? This course takes a deep dive into purchase card policies, guidance, offerings, and best practices for your purchase card program. We will discuss the A/OPC role as it relates to overall program management, look at ways to meet policy and guidance purchase card management requirements, and take a look at some non-traditional purchase card uses and ways to take your program to the next level!
+Review and explore GSA SmartPay’s online resources, including any additional new tools from this past year. Dive deep into online training from account management, taking quizzes, printing certificates, and other support. Showcase the common questions and FAQs on both websites. Show how to connect with GSA Smartpay employees and other users through social media.  Discuss any potential future site updates and enhancements that might be needed in the future.
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| All A/OPCs | [PPTX File [PPTX, 4.6MB]](/files/GSA004_GSA_SmartPay_Online_Tools.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmCArSeyBS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## TITLE
 
