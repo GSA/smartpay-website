@@ -2,7 +2,7 @@
 title: GSA SmartPay Training Forum Presentations
 intro: "Here are the forum presentations and videos from the most recent GSA SmartPay Training Forum."
 description: "Here are the forum presentations and videos from the most recent GSA SmartPay Training Forum."
-order: 6
+order: 5
 tags:
   - publications
   - forum
