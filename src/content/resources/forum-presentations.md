@@ -27,7 +27,7 @@ The purpose of this course is to provide valuable information to familiarize cus
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| All A/OPCs | [Advanced Concepts in Purchase Card Management [PPTX, 0.3MB}(/files/GSA002_GSA_SmartPay_3_Master_Contract_Basics.pptx) |
+| All A/OPCs | [GSA SmartPay 3 Master Contract Basics [PPTX, 0.3MB](/files/GSA002_GSA_SmartPay_3_Master_Contract_Basics.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZWWtBRrFWrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
