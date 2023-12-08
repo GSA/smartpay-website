@@ -27,7 +27,7 @@ The purpose of this course is to provide valuable information to familiarize cus
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| All A/OPCs | [File [PPTX, 0.3MB](/files/GSA002_GSA_SmartPay_3_Master_Contract_Basics.pptx] |
+| All A/OPCs | [File [PPTX, 0.3MB]](/files/GSA002_GSA_SmartPay_3_Master_Contract_Basics.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZWWtBRrFWrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
