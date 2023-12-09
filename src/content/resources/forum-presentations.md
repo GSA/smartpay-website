@@ -60,7 +60,7 @@ What’s new in 2023 with the GSA SmartPay program? Taught by the program direct
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| All A/OPCs | [File [PPTX, 0.5MB]](/files/GSA005_GSA_SmartPay_Program_Update.pptx) |
+| All A/OPCs | [PPT File [PPTX, 0.5MB]](/files/GSA005_GSA_SmartPay_Program_Update.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c_svkMPs_Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
