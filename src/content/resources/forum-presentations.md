@@ -68,7 +68,7 @@ What’s new in 2023 with the GSA SmartPay program? Taught by the program direct
 ## GSA SmartPay Purchase Management Essentials
 
 ### Course Description
-Learn the basics or refresh your skills for managing your Government Purchase Card program. This course covers purchase business line products and services available under GSA SmartPay® 3, roles and responsibilities, micro-purchase thresholds and exceptions, and more!
+Learn the basics or refresh your skills for managing your Government Purchase Card program. This course covers purchase business line products and services available under GSA SmartPay 3, roles and responsibilities, micro-purchase thresholds and exceptions, and more!
 
 | Audience      | Presentation |
 | ----------- | ----------- |
@@ -77,17 +77,17 @@ Learn the basics or refresh your skills for managing your Government Purchase Ca
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BgXvHJVjh0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## TITLE
+## GSA SmartPay Travel Management Essentials
 
 ### Course Description
-Are you an A/OPC that is responsible for implementing best practices, guidance, policies, and innovative solutions for your agency/organization's purchase card program? Are you interested in learning more about strategic uses of the purchase card program and ways to leverage GSA SmartPay tools and information to maximize program efficiency? This course takes a deep dive into purchase card policies, guidance, offerings, and best practices for your purchase card program. We will discuss the A/OPC role as it relates to overall program management, look at ways to meet policy and guidance purchase card management requirements, and take a look at some non-traditional purchase card uses and ways to take your program to the next level!
+Learn the basics or refresh your skills for managing your agency travel card program. This course covers travel business line products and services available under GSA SmartPay 3. The course will also touch on roles and responsibilities as well as preventative measures to detect fraud and misuse. Opportunities to test your knowledge and share your experience and best practices with peers.
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| Travel Attendees | [PPT File [PPTX, 0.5MB]](/files/GSA007_GSA_SmartPay_Travel_Management_Essentials.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ALGrwd_W3tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## TITLE
 
