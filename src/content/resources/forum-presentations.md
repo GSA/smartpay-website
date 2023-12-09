@@ -60,7 +60,7 @@ What’s new in 2023 with the GSA SmartPay program? Taught by the program direct
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| All A/OPCs | [PPT File [PPTX, 0.5MB]](/files/GSA005_GSA_SmartPay_Program_Update.pptx) |
+| All A/OPCs | [File [PPTX, 0.5MB]](/files/GSA005_GSA_SmartPay_Program_Update.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c_svkMPs_Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -72,7 +72,7 @@ Learn the basics or refresh your skills for managing your Government Purchase Ca
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, 7.8MB]](/files/GSA006_GSA_SmartPay_Purchase_Management_Essentials.pptx) |
+| Purchase Attendees | [File [PPTX, 7.8MB]](/files/GSA006_GSA_SmartPay_Purchase_Management_Essentials.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BgXvHJVjh0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -84,7 +84,7 @@ Learn the basics or refresh your skills for managing your agency travel card pro
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Travel Attendees | [PPT File [PPTX, 0.5MB]](/files/GSA007_GSA_SmartPay_Travel_Management_Essentials.pptx) |
+| Travel Attendees | [File [PPTX, 0.5MB]](/files/GSA007_GSA_SmartPay_Travel_Management_Essentials.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ALGrwd_W3tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -96,7 +96,7 @@ Are you an A/OPC that is responsible for implementing best practices, guidance, 
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| All A/OPCs | [PPT File [PPTX, 0.9MB]](/files/GSA008_GSA_SmartTax_Lessons_Learned_for_State_Sales_Tax.pptx) |
+| All A/OPCs | [File [PPTX, 0.9MB]](/files/GSA008_GSA_SmartTax_Lessons_Learned_for_State_Sales_Tax.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgUVut06Ins" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
