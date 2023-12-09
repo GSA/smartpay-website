@@ -72,7 +72,7 @@ Learn the basics or refresh your skills for managing your Government Purchase Ca
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, 7.8MB]](/files/GSA06_GSA_SmartPay_Purchase_Management_Essentials.pptx) |
+| Purchase Attendees | [PPT File [PPTX, 7.8MB]](/files/GSA006_GSA_SmartPay_Purchase_Management_Essentials.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BgXvHJVjh0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
