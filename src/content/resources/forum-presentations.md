@@ -12,7 +12,7 @@ Please join us for this interactive training on the AbilityOne program and learn
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| All Forum Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| All Forum Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pz-7ZnnXkMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -36,7 +36,7 @@ Join this class for an overview of buy.gsa.gov and its tools. This class will sh
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| Purchase Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t-Rabzhq_dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -48,7 +48,7 @@ Ms. Pamela Talbott, DCMA (in support of the GPC PMO) will address DoD GPC system
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| DoD Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| DoD Purchase Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ## DoD Travel Card Program Update
 
@@ -57,7 +57,7 @@ The DoD Travel Card Program Office will provide the latest information and updat
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| DoD Travel Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| DoD Travel Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rhcoLCthQbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -69,7 +69,7 @@ This course will review common and uncommon situations related to travel and tra
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Travel Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| Travel Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4I3Jlbi5r6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -81,7 +81,7 @@ FedMall is an e-commerce ordering system for Department of Defense (DoD), Federa
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| Purchase Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WaBb7sGegHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -93,7 +93,7 @@ This course will offer an overview of using GSA eBuy to create RFQs and RFIs, ma
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| All Forum Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| All Forum Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7X5_stGQ9pE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -105,7 +105,7 @@ Ms. Denise Reich and Ms. Sheila McGlynn, OUSD(A&S)/DPC/CeB, will address DoD GPC
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| DoD Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| DoD Purchase Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ## GSA Advantage! The Basics
 
@@ -114,7 +114,7 @@ Learn how your agency can benefit from using GSA Advantage!® to simplifies prod
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| All Forum Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| All Forum Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l0d5trBwX_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -126,7 +126,7 @@ The course covers the GSA SmartPay Fleet Card program, fraud detection and preve
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Fleet Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| Fleet Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/93DiUBFI8wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -138,7 +138,7 @@ GSA Fleet is a one-stop-shop for an agency’s non-tactical vehicle fleet. GSA F
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Fleet Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| Fleet Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LgzzKaHLWDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -243,7 +243,7 @@ GSA offers integrated services to manage Travel which includes the civilian E-Go
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Travel Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| Travel Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7XRhrcJw7Sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -255,7 +255,7 @@ Learn how the Federal Strategic Sourcing Initiative for Office Supplies Fourth G
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| All Forum Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| All Forum Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fLY3BFV2RNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -267,7 +267,7 @@ Boost your sustainable purchasing power with biobased products while meeting sta
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| All Forum Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| All Forum Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BalAOw2yjJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -279,4 +279,4 @@ This training provides an overview of data analytics and its importance to the G
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| All Forum Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| All Forum Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
