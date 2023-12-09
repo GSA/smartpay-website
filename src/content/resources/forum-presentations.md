@@ -5,6 +5,18 @@ description: "Here are the forum presentations and videos from the most recent G
 order: 5
 ---
 
+## The AbilityOne Program Overview
+
+### Course Description
+Please join us for this interactive training on the AbilityOne program and learn more about it's mission to generate meaningful employment opportunities for Americans who are blind or have significant disabiltiies.
+
+| Audience      | Presentation |
+| ----------- | ----------- |
+| All Forum Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pz-7ZnnXkMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Advanced Concepts in Purchase Card Management
 
 ### Course Description
@@ -16,6 +28,42 @@ Are you an A/OPC that is responsible for implementing best practices, guidance, 
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Federal Travel and Ethics
+
+### Course Description
+This course will review common and uncommon situations related to travel and travel-related ethics for civilian Federal travelers. Attendees will benefit from a review of the Federal Travel Regulation, including a discussion of routing travel, premium class travel accomodations, attendance at conferences, and non-Federal source travel. Recent changes to Government-wide travel regulations will also be discussed.
+
+| Audience      | Presentation |
+| ----------- | ----------- |
+| Travel Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4I3Jlbi5r6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## FedMall Overview
+
+### Course Description
+FedMall is an e-commerce ordering system for Department of Defense (DoD), Federal, State, and authorized local Agencies to search for and acquire products from government reserves and commercial sources. Buyers will have access to tens of millions of individual items of supply, from centrally managed DoD and General Service Administration (GSA) assets to commercial off-the-shelf (COTS) products. This course will provide an overview of the benefits of FedMall and information on FedMall shopping, ordering and research functionality.
+
+| Audience      | Presentation |
+| ----------- | ----------- |
+| Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WaBb7sGegHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## GSA Advantage! The Basics
+
+### Course Description
+Learn how your agency can benefit from using GSA Advantage!® to simplifies product search results with functionality that more closely resembles other commercial shopping sites. GSA Advantage!® offers the most comprehensive selection of approved products and services from GSA contracts. This course will take attendees step-by-step through the processes of registering, searching products and services, using and storing payment information, creating and forwarding shopping carts, and ordering and obtaining status and history reports.
+
+| Audience      | Presentation |
+| ----------- | ----------- |
+| All Forum Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l0d5trBwX_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## GSA SmartPay 3 Master Contract Basics
 
@@ -101,101 +149,56 @@ Are you an A/OPC that is responsible for implementing best practices, guidance, 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgUVut06Ins" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## TITLE
+## Innovation in Payments: A Strategic Approach
 
 ### Course Description
-Are you an A/OPC that is responsible for implementing best practices, guidance, policies, and innovative solutions for your agency/organization's purchase card program? Are you interested in learning more about strategic uses of the purchase card program and ways to leverage GSA SmartPay tools and information to maximize program efficiency? This course takes a deep dive into purchase card policies, guidance, offerings, and best practices for your purchase card program. We will discuss the A/OPC role as it relates to overall program management, look at ways to meet policy and guidance purchase card management requirements, and take a look at some non-traditional purchase card uses and ways to take your program to the next level!
+How can you make the most out of innovative payment solutions in your program?  This course discusses how agencies can leverage payment innovation to address agency challenges, streamline operations, and potentially earn more refunds. Participants will learn about strategic solutions offered under the GSA SmartPay 3 master contracts and engage in a panel discussion with agency charge card managers currently implementing innovative payment solutions.
+
+## OS4 Purchasing Channel
+
+### Course Description
+Learn how the Federal Strategic Sourcing Initiative for Office Supplies Fourth Generation (FSSI OS4) reduces costs, reduces price variability, and increases efficiencies by buying everyday office supplies from contractors with negotiated low prices. FSSI OS4 contracts are a Best in Class (BIC), streamlined, seamless way to procure supplies while complying with regulations and being friendly to small businesses.
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| All Forum Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## TITLE
-
-### Course Description
-Are you an A/OPC that is responsible for implementing best practices, guidance, policies, and innovative solutions for your agency/organization's purchase card program? Are you interested in learning more about strategic uses of the purchase card program and ways to leverage GSA SmartPay tools and information to maximize program efficiency? This course takes a deep dive into purchase card policies, guidance, offerings, and best practices for your purchase card program. We will discuss the A/OPC role as it relates to overall program management, look at ways to meet policy and guidance purchase card management requirements, and take a look at some non-traditional purchase card uses and ways to take your program to the next level!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fLY3BFV2RNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| All A/OPCs | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## TITLE
+##  Sustainable Purchasing with Biobased Products
 
 ### Course Description
-Are you an A/OPC that is responsible for implementing best practices, guidance, policies, and innovative solutions for your agency/organization's purchase card program? Are you interested in learning more about strategic uses of the purchase card program and ways to leverage GSA SmartPay tools and information to maximize program efficiency? This course takes a deep dive into purchase card policies, guidance, offerings, and best practices for your purchase card program. We will discuss the A/OPC role as it relates to overall program management, look at ways to meet policy and guidance purchase card management requirements, and take a look at some non-traditional purchase card uses and ways to take your program to the next level!
+Boost your sustainable purchasing power with biobased products while meeting statutory and Federal Acquisition Regulation (FAR) requirements. Biobased Products have a positive effect on the planet, home, workplace, and the U.S. economy. Purchase card/account holders will learn how to identify and locate biobased products to meet their needs.
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| All Forum Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BalAOw2yjJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## TITLE
+## Use of Data Analytics for Effective Program Oversight
 
 ### Course Description
-Are you an A/OPC that is responsible for implementing best practices, guidance, policies, and innovative solutions for your agency/organization's purchase card program? Are you interested in learning more about strategic uses of the purchase card program and ways to leverage GSA SmartPay tools and information to maximize program efficiency? This course takes a deep dive into purchase card policies, guidance, offerings, and best practices for your purchase card program. We will discuss the A/OPC role as it relates to overall program management, look at ways to meet policy and guidance purchase card management requirements, and take a look at some non-traditional purchase card uses and ways to take your program to the next level!
+This training provides an overview of data analytics and its importance to the GSA SmartPay program. This training will give A/OPCs insight into best practices and the commercial tools currently available* as part of the GSA SmartPay program.
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| All Forum Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## TITLE
 
-### Course Description
-Are you an A/OPC that is responsible for implementing best practices, guidance, policies, and innovative solutions for your agency/organization's purchase card program? Are you interested in learning more about strategic uses of the purchase card program and ways to leverage GSA SmartPay tools and information to maximize program efficiency? This course takes a deep dive into purchase card policies, guidance, offerings, and best practices for your purchase card program. We will discuss the A/OPC role as it relates to overall program management, look at ways to meet policy and guidance purchase card management requirements, and take a look at some non-traditional purchase card uses and ways to take your program to the next level!
 
-| Audience      | Presentation |
-| ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## TITLE
 
-### Course Description
-Are you an A/OPC that is responsible for implementing best practices, guidance, policies, and innovative solutions for your agency/organization's purchase card program? Are you interested in learning more about strategic uses of the purchase card program and ways to leverage GSA SmartPay tools and information to maximize program efficiency? This course takes a deep dive into purchase card policies, guidance, offerings, and best practices for your purchase card program. We will discuss the A/OPC role as it relates to overall program management, look at ways to meet policy and guidance purchase card management requirements, and take a look at some non-traditional purchase card uses and ways to take your program to the next level!
 
-| Audience      | Presentation |
-| ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## TITLE
-
-### Course Description
-Are you an A/OPC that is responsible for implementing best practices, guidance, policies, and innovative solutions for your agency/organization's purchase card program? Are you interested in learning more about strategic uses of the purchase card program and ways to leverage GSA SmartPay tools and information to maximize program efficiency? This course takes a deep dive into purchase card policies, guidance, offerings, and best practices for your purchase card program. We will discuss the A/OPC role as it relates to overall program management, look at ways to meet policy and guidance purchase card management requirements, and take a look at some non-traditional purchase card uses and ways to take your program to the next level!
-
-| Audience      | Presentation |
-| ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## TITLE
-
-### Course Description
-Are you an A/OPC that is responsible for implementing best practices, guidance, policies, and innovative solutions for your agency/organization's purchase card program? Are you interested in learning more about strategic uses of the purchase card program and ways to leverage GSA SmartPay tools and information to maximize program efficiency? This course takes a deep dive into purchase card policies, guidance, offerings, and best practices for your purchase card program. We will discuss the A/OPC role as it relates to overall program management, look at ways to meet policy and guidance purchase card management requirements, and take a look at some non-traditional purchase card uses and ways to take your program to the next level!
-
-| Audience      | Presentation |
-| ----------- | ----------- |
-| Purchase Attendees | [PPT File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## TITLE
 
