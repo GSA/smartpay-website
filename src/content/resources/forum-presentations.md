@@ -12,7 +12,7 @@ Please join us for this interactive training on the AbilityOne program and learn
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| All Forum Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| All Forum Attendees | [File [PPTX, 3.7MB]](/files/GSA011_The_AbilityOne_Program_Overview.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pz-7ZnnXkMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -36,7 +36,7 @@ Join this class for an overview of buy.gsa.gov and its tools. This class will sh
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| Purchase Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| Purchase Attendees | [File [PPTX, 15.3MB]](/files/GSA023_Buy.gsa.gov.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t-Rabzhq_dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -48,7 +48,7 @@ Ms. Pamela Talbott, DCMA (in support of the GPC PMO) will address DoD GPC system
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| DoD Purchase Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| DoD Purchase Attendees | [File [PPTX, 2.1MB]](/files/GSA025_DoD_GPC_Electronic_Systems_Update.pptx) |
 
 ## DoD Travel Card Program Update
 
@@ -57,7 +57,7 @@ The DoD Travel Card Program Office will provide the latest information and updat
 
 | Audience      | Presentation |
 | ----------- | ----------- |
-| DoD Travel Attendees | [File [PPTX, XXMB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| DoD Travel Attendees | [File [PPTX, 0.27MB]](/files/GSA024_DoD_Travel_Card_Program_Update.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rhcoLCthQbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
