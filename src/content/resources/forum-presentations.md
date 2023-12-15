@@ -10,9 +10,9 @@ order: 5
 ### Course Description
 Please join us for this interactive training on the AbilityOne program and learn more about its mission to generate meaningful employment opportunities for Americans who are blind or have significant disabiltiies.
 
-| Audience      | Presentation |
+| Audience      | PowerPoint File |
 | ----------- | ----------- |
-| All Forum Attendees | [File [PPTX, 3.7MB]](/files/GSA011_The_AbilityOne_Program_Overview.pptx) |
+| All Forum Attendees | [The AbilityOne Program Overview [PPTX, 3.7MB]](/files/GSA011_The_AbilityOne_Program_Overview.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pz-7ZnnXkMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
