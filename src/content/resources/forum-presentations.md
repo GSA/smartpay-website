@@ -273,8 +273,7 @@ Boost your sustainable purchasing power with biobased products while meeting sta
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| All Forum Attendees | [Sustainable Purchasing with Biobased Products
- [PPTX, 11.9MB]](/files/GSA012_Sustainable_Purchasing_with_Biobased_Products.pptx) |
+| All Forum Attendees | [Sustainable Purchasing with Biobased Products [PPTX, 11.9MB]](/files/GSA012_Sustainable_Purchasing_with_Biobased_Products.pptx) |
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BalAOw2yjJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
