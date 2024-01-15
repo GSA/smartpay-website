@@ -1,4 +1,4 @@
-import { defineConfig } from 'astro/config';
+import { defineConfig, squooshImageService } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import process_anchors from "./src/plugins/process_anchors";
 import process_image_urls from './src/plugins/process_image_urls';
@@ -18,5 +18,13 @@ export default defineConfig({
         [process_image_urls, {baseURL: process.env.BASEURL || '/'}]
       ],
     },
-    redirects: generateRedirects(process.env.BASEURL)
+    redirects: generateRedirects(process.env.BASEURL),
+    compressHTML: false,
+    scopedStyleStrategy: "where",
+    build: {
+      inlineStylesheets: "never"
+    },
+    image: {
+      service: squooshImageService(),
+    }
 });
