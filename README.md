@@ -44,8 +44,11 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`         | Preview your build locally, before deploying     |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
+| `npm run lint`            | Run linting tool                                 |
+| `npm run links:internal`  | Run broken link checker on internal links        |
+| `npm run pa11y-ci:gh`     | Run accessibility test                           |
 
-## 🇺🇸 USWDS
+## US USWDS
 This site uses the [U.S. Web Design System (USWDS)](https://designsystem.digital.gov). To customize  USWDS styles you will need to edit the SASS components and styles in the `/sass` directory. Changes here will not be reflected in the site until you rebuild the css. To build the css, run gulp:
 
 ```

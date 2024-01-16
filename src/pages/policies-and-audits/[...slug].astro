@@ -26,7 +26,6 @@ const { entry, entries, smartbulletinsData } = Astro.props;
 const { Content, headings } = await entry.render();
 const parent_path ="policies-and-audits/"
 ---
-
 {entry.data.full_size_template
   ? (
     <PageLayout title={entry.data.title}>
