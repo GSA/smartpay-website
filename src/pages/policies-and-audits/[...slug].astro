@@ -27,33 +27,36 @@ const { Content, headings } = await entry.render();
 const parent_path ="policies-and-audits/"
 ---
 
-<PageLayout title={entry.data.title}>
-  {entry.data.full_size_template
+{entry.data.full_size_template
   ? (
-    <FullSizeTemplate 
-      title={ entry.data.title }
-      parent_nav_path="policies-and-audits" 
-      parent_nav_text = "Return to the Policies & Audits" 
-      intro ={entry.data.intro}
-    >
-      <Content />
-    </FullSizeTemplate>
-    )
+    <PageLayout title={entry.data.title}>
+      <FullSizeTemplate 
+        title={ entry.data.title }
+        parent_nav_path="policies-and-audits" 
+        parent_nav_text = "Return to the Policies & Audits" 
+        intro ={entry.data.intro}
+      >
+        <Content />
+      </FullSizeTemplate>
+    </PageLayout>
+  )
   : (
-    <SideNav 
-      title="Policies & Audits"
-      parent_path={parent_path}
-      pages={[...entries, smartbulletinsData]}
-      headings={headings}
-      id={entry.id}
-    />  
-    <PageContentLayout
-      title={entry.data.title}
-      intro={entry.data.intro}
-    >
-      <Content />
-  </PageContentLayout>
+    <PageLayout title={entry.data.title}>
+        <SideNav 
+          title="Policies & Audits"
+          parent_path={parent_path}
+          pages={[...entries, smartbulletinsData]}
+          headings={headings}
+          id={entry.id}
+        />  
+        <PageContentLayout
+          title={entry.data.title}
+          intro={entry.data.intro}
+        >
+          <Content />
+      </PageContentLayout>
+    </PageLayout>
   )
 }
-</PageLayout>
+
     
