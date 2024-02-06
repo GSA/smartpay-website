@@ -18,5 +18,6 @@ export default defineConfig({
         [process_image_urls, {baseURL: process.env.BASEURL || '/'}]
       ],
     },
-    redirects: generateRedirects(process.env.BASEURL)
+    redirects: generateRedirects(process.env.BASEURL),
+    trailingSlash: 'ignore'
 });
