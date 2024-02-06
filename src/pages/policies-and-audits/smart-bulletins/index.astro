@@ -48,7 +48,7 @@ export async function getStaticPaths() {
             <tr>
               <th scope="row" class="grid-col-1">{item.data.number}</th>
               <td class="grid-col-5">
-                <a href={`${import.meta.env.BASE_URL}smart-bulletins/${item.slug}`}>{item.data.title}</a> 
+                <a href={`${import.meta.env.BASE_URL}policies-and-audits/smart-bulletins/${item.slug}`}>{item.data.title}</a> 
               </td>
               <td class="grid-col-2">{item.data.businessline}</td>
               <td class="grid-col-2">{item.data.published}</td>
