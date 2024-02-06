@@ -5,11 +5,26 @@ Page is using full size template with no side nav, it has top nav return to pare
 This page is served as one optionfor Smartpay team to compare markdown table structure in MDX file vs Yaml file. 
 If SP team prefer markdown way, this page needs to be converted to use markdown way, e.g. policies page. 
  */
-import { getEntry } from 'astro:content';
+import { getCollection, getEntry } from 'astro:content';
 import PageLayout from '@layouts/PageLayout.astro';
 import FullSizeTemplate from '@components/FullSizeTemplate.astro'
-const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
+
+const smartbulletinsData = await getEntry('smartbulletins-old', 'smart-bulletins');
+const smartbulletins = await getCollection('smart-bulletins')
+smartbulletins.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
+
+export async function getStaticPaths() {
+  const entries = await getCollection('about');
+  return entries.map(entry => {
+    const slug = entry.slug == './' ? undefined : entry.slug
+    return {
+      params: { slug: slug },
+      props: { entry, entries }
+    }
+  })
+}
 ---
+
 <PageLayout title={smartbulletinsData.data.title}>
   <FullSizeTemplate 
   title={smartbulletinsData.data.title}
@@ -17,7 +32,7 @@ const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
   parent_nav_text = {`Return to the ${smartbulletinsData.data.parent_nav_text}`} 
   intro={smartbulletinsData.data.intro}
   >
-      <!--smart buletins table -->
+     <!-- smart buletins table -->
       <table class="usa-table usa-table--borderless">
         <thead>
           <tr>
@@ -29,6 +44,17 @@ const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
           </tr>
         </thead>
         <tbody>
+          { smartbulletins.map(item => (
+            <tr>
+              <th scope="row" class="grid-col-1">{item.data.number}</th>
+              <td class="grid-col-5">
+                <a href={`${import.meta.env.BASE_URL}policies-and-audits/smart-bulletins/${item.slug}`}>{item.data.title}</a> 
+              </td>
+              <td class="grid-col-2">{item.data.businessline}</td>
+              <td class="grid-col-2">{item.data.published}</td>
+              <td class="grid-col-2">{item.data.lastupdated}</td>
+            </tr>
+          ))}
           { smartbulletinsData.data.bulletins.map(item => (
             <tr>
               <th scope="row" class="grid-col-1">{item.number}</th>
