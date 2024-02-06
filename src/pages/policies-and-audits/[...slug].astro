@@ -12,7 +12,7 @@ import { getCollection, getEntry } from 'astro:content';
 
 export async function getStaticPaths() {
   const entries = await getCollection('policies-and-audits');
-  const smartbulletinsData = await getEntry('smartbulletins', 'smart-bulletins');
+  const smartbulletinsData = await getEntry('smartbulletins-old', 'smart-bulletins');
 
   return entries.map(entry => {
     const slug = entry.slug == './' ? undefined : entry.slug
