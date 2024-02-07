@@ -22,7 +22,7 @@ The GSA SmartPay® program provides statistical summary information and monthly 
 GSA SmartPay statistics for fiscal year 2023:
 
 - $37.5 billion in total program spend.
-- $464.7 million in refunds earned by agencies/organizations.
+- $472 million in refunds earned by agencies/organizations.
 - $426 was spent on average for each transaction.
 
 ## Purchase Card FPDS Reports
