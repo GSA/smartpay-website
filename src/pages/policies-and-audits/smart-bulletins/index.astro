@@ -11,7 +11,7 @@ import FullSizeTemplate from '@components/FullSizeTemplate.astro'
 
 const smartbulletinsData = await getEntry('smartbulletins-old', 'smart-bulletins');
 const smartbulletins = await getCollection('smart-bulletins')
-smartbulletins.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
+smartbulletins.sort(a => 0 - parseInt(a.data.order))
 
 export async function getStaticPaths() {
   const entries = await getCollection('about');
@@ -48,7 +48,7 @@ export async function getStaticPaths() {
             <tr>
               <th scope="row" class="grid-col-1">{item.data.number}</th>
               <td class="grid-col-5">
-                <a href={`${import.meta.env.BASE_URL}policies-and-audits/smart-bulletins/${item.slug}`}>{item.data.title}</a> 
+                <a href={`${import.meta.env.BASE_URL}policies-and-audits/smart-bulletins/${item.slug}`}>{item.data.intro}</a> 
               </td>
               <td class="grid-col-2">{item.data.businessline}</td>
               <td class="grid-col-2">{item.data.published}</td>
