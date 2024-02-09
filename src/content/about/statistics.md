@@ -19,12 +19,11 @@ The GSA SmartPay® program provides statistical summary information and monthly 
 - Transactions.
 - Number of card/account holders.
 
-GSA SmartPay statistics for fiscal year 2022:
+GSA SmartPay statistics for fiscal year 2023:
 
-- $32.8 billion in total program spend.
-- $426 million in refunds earned by agencies/organizations.
-- $418 was spent on average for each transaction.
-- The Department of Veterans Affairs was the top agency with $13.7 billion in spend (which equals to about 41.8% of total program spend).
+- $37.5 billion in total program spend.
+- $472 million in refunds earned by agencies/organizations.
+- $426 was spent on average for each transaction.
 
 ## Purchase Card FPDS Reports
 
@@ -48,4 +47,10 @@ Types of refunds include:
 - Sales refunds: Based on the dollar or spend volume during a specified time period.
 - Corrective refunds: Payments made to the agency/organization to correct improper or erroneous payments on an invoice.
 
-- [Annual Refund Report [XLSX, 25 KB]](/files/refund-report.xlsx)
+- [Annual Refund Report [XLSX, 20.5 KB]](/files/refund-report.xlsx)
+
+## GSA SmartPay Socioeconomic Data
+
+This report provides the aggregate GSA SmartPay spend government-wide for the various socioeconomic categories, e.g., Women-Owned Small Business, Veteran-Owned Small Business, etc. The report breaks out the spend at and below the Micro-Purchase Threshold (MPT) as well as spend above the MPT. The report also provides the overall percentage of GSA SmartPay spend on small businesses relative to the total purchase card spend under the program. This socioeconomic data is industry data which leverages the available commercial charge card platform; as such it may not conform to the specific Small Business Administration (SBA) standards.
+
+- [GSA SmartPay Socioeconomic Data [XLSX, 104KB]](/files/GSA.SmartPay.Socioeconomic.Data.FY17-FY23_.EXTERNAL-Updated.Jan.2024.xlsx)
