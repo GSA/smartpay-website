@@ -12,7 +12,7 @@ tags:
 
 ## 2024
 
-- January: [Audit of DoD Use of the Government Purchase Card in Response to the Coronavirus Disease–2019 Pandemic](https://media.defense.gov/2024/Jan/18/2003378248/-1/-1/1/DODIG-2024-045%20SECURE.PDF)
+- January: [Audit of DoD Use of the Government Purchase Card in Response to the Coronavirus Disease–2019 Pandemic](/policies-and-audits/audits/2024-dod-purchase)
 
 ## 2020
 
