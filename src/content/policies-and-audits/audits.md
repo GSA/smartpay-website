@@ -10,6 +10,10 @@ tags:
   - regulation
 ---
 
+## 2024
+
+- January: [Audit of DoD Use of the Government Purchase Card in Response to the Coronavirus Disease–2019 Pandemic](https://media.defense.gov/2024/Jan/18/2003378248/-1/-1/1/DODIG-2024-045%20SECURE.PDF)
+
 ## 2020
 
 - January: [U.S. Department of Housing and Urban Development (HUD), Washington, DC - Government Purchase Cards](/policies-and-audits/audits/2020-hud-purchase)
