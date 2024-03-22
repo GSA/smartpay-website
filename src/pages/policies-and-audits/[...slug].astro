@@ -8,21 +8,20 @@ import PageLayout from '@layouts/PageLayout.astro';
 import PageContentLayout from '@layouts/PageContentLayout.astro';
 import SideNav from '@components/SideNav.astro'
 import FullSizeTemplate from '@components/FullSizeTemplate.astro'
-import { getCollection, getEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const entries = await getCollection('policies-and-audits');
-  const smartbulletinsData = await getEntry('smartbulletins-old', 'smart-bulletins');
 
   return entries.map(entry => {
     const slug = entry.slug == './' ? undefined : entry.slug
     return {
       params: { slug: slug },
-      props: { entry, entries, smartbulletinsData }
+      props: { entry, entries }
     }
   })
 }
-const { entry, entries, smartbulletinsData } = Astro.props;
+const { entry, entries } = Astro.props;
 const { Content, headings } = await entry.render();
 const parent_path ="policies-and-audits/"
 ---
@@ -43,7 +42,7 @@ const parent_path ="policies-and-audits/"
     <SideNav 
       title="Policies & Audits"
       parent_path={parent_path}
-      pages={[...entries, smartbulletinsData]}
+      pages={[...entries]}
       headings={headings}
       id={entry.id}
     />  
