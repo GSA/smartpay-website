@@ -24,7 +24,7 @@ states.sort((a, b) => a.data.name.localeCompare(b.data.name));
         const state = dropdown.value;
 
         if (state) {
-            const target=`${import.meta.env.BASE_URL}smarttax/state-tax-forms/${state.toLowerCase()}`
+            const target=`${import.meta.env.BASE_URL}smarttax/tax-information-by-state/${state.toLowerCase()}`
             window.location.href = target;
         }
         e.preventDefault();

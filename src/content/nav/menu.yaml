@@ -32,9 +32,9 @@
     href: stakeholders/account-holders
 - title: Merchants
   href: merchants/
-- title: State Tax Information
+- title: State Taxes
   submenu:
-  - title: State Tax Forms
+  - title: Tax Information by State
     href: smarttax/state-tax-forms
   - title: Tax Resources
     href: smarttax/resources
