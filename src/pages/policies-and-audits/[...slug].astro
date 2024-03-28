@@ -8,51 +8,62 @@ import PageLayout from '@layouts/PageLayout.astro';
 import PageContentLayout from '@layouts/PageContentLayout.astro';
 import SideNav from '@components/SideNav.astro'
 import FullSizeTemplate from '@components/FullSizeTemplate.astro'
-import { getCollection } from 'astro:content';
+import {getCollection} from 'astro:content';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('policies-and-audits');
+    const entries = await getCollection('policies-and-audits');
 
-  return entries.map(entry => {
-    const slug = entry.slug == './' ? undefined : entry.slug
-    return {
-      params: { slug: slug },
-      props: { entry, entries }
-    }
-  })
+    return entries.map(entry => {
+        const slug = entry.slug == './' ? undefined : entry.slug
+        return {
+            params: {slug: slug},
+            props: {entry, entries}
+        }
+    })
 }
-const { entry, entries } = Astro.props;
-const { Content, headings } = await entry.render();
-const parent_path ="policies-and-audits/"
+const {entry, entries} = Astro.props;
+const {Content, headings} = await entry.render();
+const parent_path = "policies-and-audits/"
 ---
 
 <PageLayout title={entry.data.title}>
-  {entry.data.full_size_template
-  ? (
-    <FullSizeTemplate 
-      title={ entry.data.title }
-      parent_nav_path="policies-and-audits" 
-      parent_nav_text = "Return to the Policies & Audits" 
-      intro ={entry.data.intro}
-    >
-      <Content />
-    </FullSizeTemplate>
-    )
-  : (
-    <SideNav 
-      title="Policies & Audits"
-      parent_path={parent_path}
-      pages={[...entries]}
-      headings={headings}
-      id={entry.id}
-    />  
-    <PageContentLayout
-      title={entry.data.title}
-      intro={entry.data.intro}
-    >
-      <Content />
-  </PageContentLayout>
-  )
-}
+    {entry.data.full_size_template
+        ? (
+                    <FullSizeTemplate
+                            title={entry.data.title}
+                            parent_nav_path="policies-and-audits"
+                            parent_nav_text="Return to the Policies & Audits"
+                            intro={entry.data.intro}
+                    >
+                        <Content/>
+                    </FullSizeTemplate>
+        )
+        : (
+            <!-- One of two sidenav's only shown in desktop breakpoints. -->
+                    <SideNav
+                            title="Policies & Audits"
+                            parent_path={parent_path}
+                            pages={[...entries]}
+                            headings={headings}
+                            id={entry.id}
+                            classList="usa-layout-docs__sidenav display-none desktop:display-block desktop:grid-col-4"
+                    />
+                    <PageContentLayout
+                            title={entry.data.title}
+                            intro={entry.data.intro}
+                    >
+                        <Content/>
+                    </PageContentLayout>
+            <!-- New duplicate section only shown on mobile. -->
+                    <SideNav
+                            title="Policies & Audits"
+                            parent_path={parent_path}
+                            pages={[...entries]}
+                            headings={headings}
+                            id={entry.id}
+                            classList="usa-layout-docs__sidenav desktop:display-none mobile:grid-col-12"
+                    />
+        )
+    }
 </PageLayout>
     
