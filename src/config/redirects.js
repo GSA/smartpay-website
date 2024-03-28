@@ -179,7 +179,8 @@ const redirects = {
   "/gsa-smartpay-program-support": "/contact",
   "/content/agency-bank-information": "/contact/banks-contact",
   "/content/bank-customer-service-centers": "/contact/banks-contact",
-  "/smarttax/state-tax-forms/": "/smarttax/tax-information-by-state"
+  "/smarttax/state-tax-forms": "/smarttax/tax-information-by-state",
+  "/smarttax/state-tax-forms/[slug]": "/smarttax/tax-information-by-state/[slug]"
 }
 
 // Process the redirects by prefixing the site's base path if there is one.
