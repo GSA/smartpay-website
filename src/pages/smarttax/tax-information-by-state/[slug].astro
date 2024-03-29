@@ -24,6 +24,7 @@ const { entry } = Astro.props;
 const { Content, headings } = await entry.render();
 ---
 <PageLayout title={`${entry.data.name} Tax Information`} description={`Information about ${entry.data.name} state taxes for GSA SmartPay card/account holders`}>
+  <!-- One of two sidenav's only shown in desktop breakpoints. -->
   <SinglePageSideNav 
     title={entry.data.name}
     headings={headings}
@@ -48,5 +49,13 @@ const { Content, headings } = await entry.render();
       <i>Updated {format_date(entry.data.updated)}</i>
     </p>
   </main>
+  <!-- New duplicate section only shown on mobile. -->
+  <SinglePageSideNav
+      title={entry.data.name}
+      headings={headings}
+      parent_nav_path = "smarttax/state-tax-forms"
+      parent_nav_text = "Return to State Tax Forms"
+      classList = "usa-layout-docs__sidenav desktop:display-none mobile:grid-col-12"
+  />
 </PageLayout>
     
