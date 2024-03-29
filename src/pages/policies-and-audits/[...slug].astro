@@ -45,13 +45,22 @@ const parent_path ="policies-and-audits/"
       pages={[...entries]}
       headings={headings}
       id={entry.id}
+      classList = "usa-layout-docs__sidenav display-none desktop:display-block desktop:grid-col-4"
     />  
     <PageContentLayout
       title={entry.data.title}
       intro={entry.data.intro}
     >
       <Content />
-  </PageContentLayout>
+   </PageContentLayout>
+                  <SideNav
+                          title="Policies & Audits"
+                          parent_path={parent_path}
+                          pages={[...entries]}
+                          headings={headings}
+                          id={entry.id}
+                          classList = "usa-layout-docs__sidenav desktop:display-none mobile:grid-col-12"
+                  />        
   )
 }
 </PageLayout>

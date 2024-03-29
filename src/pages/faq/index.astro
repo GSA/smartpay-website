@@ -22,17 +22,25 @@ for(const heading of headings){
     currentParent.submenu.push(heading);
   }
 }
-//console.log(newHeadings)
+
 ---
 <PageLayout title={page.data.title} description={page.data.description}>
+  <!-- One of two sidenav's only shown in desktop breakpoints. -->
   <SideNav 
-  title="Frequently Asked Questions"
-  headings ={newHeadings}
+      title="Frequently Asked Questions"
+      headings ={newHeadings}
+      classList = "usa-layout-docs__sidenav display-none desktop:display-block desktop:grid-col-4"
   />
-  <main id="main-content" class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
+  <main id="main-content" class="desktop:grid-col-8 usa-prose usa-layout-docs">
     <h1>Frequently Asked Questions</h1>
     <Content />
   </main>
+  <!-- New duplicate section only shown on mobile. -->
+  <SideNav 
+      title="Frequently Asked Questions"
+      headings ={newHeadings}
+      classList = "usa-layout-docs__sidenav desktop:display-none mobile:grid-col-12"
+  />
 </PageLayout>
 <script >
   import {handleAccordionSearch} from "../../assets/js/faqHelper.js"

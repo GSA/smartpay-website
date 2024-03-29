@@ -5,9 +5,9 @@ Page title itself is not part of menu item. Menu items is only set for individua
 It include top navigation return to its parent level navigation.
 */
 import TopNav from "@components/TopNav.astro";
-const {headings, title, parent_nav_path, parent_nav_text} = Astro.props;
+const {headings, title, parent_nav_path, parent_nav_text, classList} = Astro.props;
 ---
-<div class="usa-layout-docs__sidenav desktop:grid-col-4">
+<div class={`${classList}`}>
   { parent_nav_path && parent_nav_text && (
     <TopNav parent_nav_path = {parent_nav_path} parent_nav_text ={parent_nav_text} />
   )}
