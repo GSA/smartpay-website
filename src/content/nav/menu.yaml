@@ -35,7 +35,7 @@
 - title: State Taxes
   submenu:
   - title: Tax Information by State
-    href: smarttax/state-tax-forms
+    href: smarttax/tax-information-by-state
   - title: Tax Resources
     href: smarttax/resources
   - title: Recognizing Charge Cards
