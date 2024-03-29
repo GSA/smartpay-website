@@ -21,14 +21,24 @@ const { Content, headings } = await entry.render();
 ---
 
 <PageLayout title ={entry.data.title} description={entry.data.description}>
+  <!-- One of two sidenav's only shown in desktop breakpoints. -->
   <SideNav 
     title={entry.data.title}
     headings ={headings}
     parent_nav_path="policies-and-audits/audits"
-    parent_nav_text = "Return to the Audit Repository" 
+    parent_nav_text = "Return to the Audit Repository"
+    classList = "usa-layout-docs__sidenav display-none desktop:display-block desktop:grid-col-4"
   />
-  <main id="main-content" class="usa-layout-docs__main desktop:grid-col-8 usa-prose usa-layout-docs">
+  <main id="main-content" class="desktop:grid-col-8 usa-prose usa-layout-docs">
     <h1>{entry.data.title}</h1>
     <Content />
   </main>
+  <!-- New duplicate section only shown on mobile. -->
+  <SideNav
+      title={entry.data.title}
+      headings ={headings}
+      parent_nav_path="policies-and-audits/audits"
+      parent_nav_text = "Return to the Audit Repository"
+      classList = "usa-layout-docs__sidenav desktop:display-none mobile:grid-col-12"
+  />
 </PageLayout>

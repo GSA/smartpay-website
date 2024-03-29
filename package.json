@@ -32,7 +32,7 @@
     "@typescript-eslint/eslint-plugin": "^6.2.0",
     "@typescript-eslint/parser": "^6.2.0",
     "@uswds/compile": "^1.1.0",
-    "@uswds/uswds": "^3.7.1",
+    "@uswds/uswds": "^3.8.0",
     "broken-link-checker": "^0.7.8",
     "eslint": "^8.45.0",
     "eslint-plugin-astro": "^0.27.2",

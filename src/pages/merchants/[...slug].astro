@@ -31,11 +31,13 @@ const { entry } = Astro.props;
 const { Content } = await entry.render();
 ---
 <PageLayout title={entry.data.title} description={entry.data.description}>
+  <!-- One of two sidenav's only shown in desktop breakpoints. -->
   <SideNav 
     title="Merchants"
     parent_path=""
     pages={navigation_items}
     id={entry.id}
+    classList = "usa-layout-docs__sidenav display-none desktop:display-block desktop:grid-col-4"
   />
   <PageContentLayout
     title={entry.data.title}
@@ -43,5 +45,13 @@ const { Content } = await entry.render();
   >
     <Content />
   </PageContentLayout>
+  <!-- New duplicate section only shown on mobile. -->
+  <SideNav
+      title="Merchants"
+      parent_path=""
+      pages={navigation_items}
+      id={entry.id}
+      classList = "usa-layout-docs__sidenav desktop:display-none mobile:grid-col-12"
+  />
 </PageLayout>
     
