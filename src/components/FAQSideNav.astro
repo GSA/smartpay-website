@@ -8,7 +8,7 @@ const { headings, title, classList } = Astro.props;
 ---
 
 <!-- One of two sidenav's only shown in desktop breakpoints. -->
-<div class={`${classList}`}>
+<div class={classList}>
   <nav class="sp_site_nav" aria-label="Secondary navigation">
     <div class="sp_site_nav_title">{title}</div>
     {
