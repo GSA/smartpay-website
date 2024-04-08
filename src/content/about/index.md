@@ -10,7 +10,7 @@ tags:
   - master contract
 ---
 
-Established in 1998, the GSA SmartPay program provides payment solution services to more than 560 federal agencies/organizations and Native American tribal governments. 
+Established in 1998, the GSA SmartPay program provides payment solution services to more than 250 federal agencies/organizations and Native American tribal governments. 
 
 These payment solutions:
 - Enable authorized employees to make purchases on behalf of the federal government in support of their agency’s mission.
