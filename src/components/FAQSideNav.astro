@@ -4,10 +4,11 @@ This component is used for FAQ page side navigation.
 It takes title and headings parameters.
 Sidenav won't set page title as menu item. Menu items only set on H2 headings as parent menu and h3 headings as its sub menu
 */
-const { headings, title } = Astro.props;
+const { headings, title, classList } = Astro.props;
 ---
 
-<div class="usa-layout-docs__sidenav desktop:grid-col-4">
+<!-- One of two sidenav's only shown in desktop breakpoints. -->
+<div class={classList}>
   <nav class="sp_site_nav" aria-label="Secondary navigation">
     <div class="sp_site_nav_title">{title}</div>
     {
