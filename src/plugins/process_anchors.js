@@ -51,6 +51,11 @@ function process_markdown_link(node, baseURL) {
   if (properties.href.startsWith('/') && !properties.href.startsWith('//')) {
     properties.href = path.join('/', baseURL, properties.href)
   }
+
+  //add download attribute to links going to internal files
+  if(isInternalDomain(properties.href) && properties.href.includes("/files/")){
+    properties.download = '';
+  }
 }
 export default (options) => {
   return tree => {
