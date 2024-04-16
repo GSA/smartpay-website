@@ -53,4 +53,4 @@ Types of refunds include:
 
 This report provides the aggregate GSA SmartPay spend government-wide for the various socioeconomic categories, e.g., Women-Owned Small Business, Veteran-Owned Small Business, etc. The report breaks out the spend at and below the Micro-Purchase Threshold (MPT) as well as spend above the MPT. The report also provides the overall percentage of GSA SmartPay spend on small businesses relative to the total purchase card spend under the program. This socioeconomic data is industry data which leverages the available commercial charge card platform; as such it may not conform to the specific Small Business Administration (SBA) standards.
 
-- [GSA SmartPay Socioeconomic Data [XLSX, 104KB]](/files/GSA.SmartPay.Socioeconomic.Data.FY17-FY23_.EXTERNAL-Updated.Jan.2024.xlsx)
+- [GSA SmartPay Socioeconomic Data [XLSX, 104KB]](/files/GSA.SmartPay.Socioeconomic.Data-updated.April.2024.xlsx)
