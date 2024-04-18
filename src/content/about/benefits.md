@@ -32,7 +32,7 @@ Through the use of commercial payment infrastructure, customers are able to use 
 
 ## Identification for Discount Programs
 
-GSA SmartPay solutions provide automatic point-of-sale recognition for many GSA discount programs, including [Federal Strategic Sourcing Initiative](https://www.gsa.gov/buy-through-us/purchasing-programs/federal-strategic-sourcing-initiative-fssi) (FSSI), the [GSA City Pair Program](https://www.gsa.gov/travel/plan-book/transportation-airfare-rates-pov-rates-etc/city-pair-program-cpp) (CPP) and more.
+GSA SmartPay solutions provide automatic point-of-sale recognition for many GSA discount programs, including [Federal Strategic Sourcing Initiative](https://www.gsa.gov/buy-through-us/purchasing-programs/federal-strategic-sourcing-initiative-fssi) (FSSI), the [GSA City Pair Program](https://www.gsa.gov/travel/plan-a-trip/transportation-airfare-rates-pov-rates-etc/airfare-rates-city-pair-program) (CPP) and more.
 
 ## Other Benefits
 
