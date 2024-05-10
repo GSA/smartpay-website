@@ -27,7 +27,7 @@ GSA SmartPay statistics for fiscal year 2023:
 
 ## Purchase Card Federal Procurement Data System (FPDS) Reports
 
-[FAR 4.606(a)(2)](https://www.ecfr.gov/current/title-48/chapter-1/subchapter-A/part-4/subpart-4.6/section-4.606) requires the GSA Center for Charge Card Management (CCCM) to provide the Government purchase card data, at a minimum annually, and GSA will incorporate that data into FPDS for reports. Currently the Government purchase card data is not being reported into FPDS. Instead, the data is posted here on the GSA SmartPay® website. Please contact gsa_smartpay@gsa.gov with questions related to this FAR 4.606(a)(2) reporting requirement.
+[FAR 4.606(a)(2)](https://www.ecfr.gov/current/title-48/chapter-1/subchapter-A/part-4/subpart-4.6/section-4.606) requires the GSA Center for Charge Card Management (CCCM) to provide the Government purchase card data, at a minimum annually, and GSA will incorporate that data into FPDS for reports. Currently the Government purchase card data is not being reported into FPDS. Instead, the data is posted here on the GSA SmartPay website. Please contact gsa_smartpay@gsa.gov with questions related to this FAR 4.606(a)(2) reporting requirement.
 
 - An updated GSA SmartPay Purchase Card Statistics Report for FPDS will be published in the future.
 
