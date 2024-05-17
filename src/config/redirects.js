@@ -115,7 +115,7 @@ const redirects = {
   "/content/public-law": "/policies-and-audits/policies",
   "/content/audit-repository": "/policies-and-audits/audits",
   "/content/smart-bulletins": "/policies-and-audits/smart-bulletins",
-  "/smart-bulletin-no-037": "/policies-and-audits/smart-bulletins",
+  "/content/smart-bulletin-no-037": "/policies-and-audits/smart-bulletins",
   "/content/smart-bulletin-no-036": "/policies-and-audits/smart-bulletins",
   "/content/smart-bulletin-no-035": "/policies-and-audits/smart-bulletins",
   "/content/smart-bulletin-no-034": "/policies-and-audits/smart-bulletins",
@@ -135,7 +135,7 @@ const redirects = {
   "/content/smart-bulletin-no-020": "/policies-and-audits/smart-bulletins",
   "/content/smart-bulletin-no-019": "/policies-and-audits/smart-bulletins",
   "/content/smart-bulletin-no-018": "/policies-and-audits/smart-bulletins",
-  "/smart-bulletin-no-017": "/policies-and-audits/smart-bulletins",
+  "/content/smart-bulletin-no-017": "/policies-and-audits/smart-bulletins",
   "/content/smart-bulletin-no-016": "/policies-and-audits/smart-bulletins",
   "/content/smart-bulletin-no-015": "/policies-and-audits/smart-bulletins",
   "/content/smart-bulletin-no-014": "/policies-and-audits/smart-bulletins",
@@ -179,7 +179,8 @@ const redirects = {
   "/gsa-smartpay-program-support": "/contact",
   "/content/agency-bank-information": "/contact/banks-contact",
   "/content/bank-customer-service-centers": "/contact/banks-contact",
-  "/smarttax/state-tax-forms": "/smarttax/tax-information-by-state"
+  "/smarttax/state-tax-forms": "/smarttax/tax-information-by-state",
+  "/content/prohibited-vendor-list/":"/policies-and-audits/smart-bulletins/033/"
 }
 
 // Process the redirects by prefixing the site's base path if there is one.
