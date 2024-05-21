@@ -14,9 +14,10 @@ export default defineConfig({
     outDir: '_site',
     markdown: {
       rehypePlugins: [
-        [process_anchors, {baseURL: process.env.BASEURL || '/'}],
-        [process_image_urls, {baseURL: process.env.BASEURL || '/'}]
+        [process_anchors, {baseURL: process.env.BASEURL}],
+        [process_image_urls, {baseURL: process.env.BASEURL}]
       ],
     },
-    redirects: generateRedirects(process.env.BASEURL)
+    redirects: generateRedirects(process.env.BASEURL),
+    trailingSlash: 'always',
 });
