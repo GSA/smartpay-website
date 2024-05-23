@@ -12,7 +12,7 @@ tags:
 
 ## 2024
 
-- January: [Audit of DoD Use of the Government Purchase Card in Response to the Coronavirus Disease–2019 Pandemic](/policies-and-audits/audits/2024-dod-purchase)
+- January: [Audit of DoD Use of the Government Purchase Card in Response to the Coronavirus Disease–2019 Pandemic](/policies-and-audits/audits/2024-dod-purchase/)
 
 ## 2020
 
