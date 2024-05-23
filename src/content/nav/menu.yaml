@@ -3,66 +3,66 @@
   - title: About GSA SmartPay
     href: about/
   - title: Benefits of the Program
-    href: about/benefits
+    href: about/benefits/
   - title: Business Lines
-    href: about/business-lines
+    href: about/business-lines/
   - title: Master Contract
-    href: about/master-contract
+    href: about/master-contract/
   - title: Logos and Designs
-    href: about/logos
+    href: about/logos/
   - title: Refunds
-    href: about/refunds
+    href: about/refunds/
   - title: Strategic Payment Solutions
-    href: about/strategic-payment-solutions
+    href: about/strategic-payment-solutions/
   - title: Statistics and Reports
-    href: about/statistics
+    href: about/statistics/
 - title: How It Works
   submenu: 
   - title: How GSA SmartPay Works
     href: how-it-works/
   - title: Eligibility and the Application Process
-    href: how-it-works/eligibility
+    href: how-it-works/eligibility/
 - title: Stakeholders
   submenu:
   - title: Key Players in the Process
     href: stakeholders/
   - title: Program Coordinator Responsibilities
-    href: stakeholders/program-coordinators
+    href: stakeholders/program-coordinators/
   - title: Card/Account Holder Responsibilities
-    href: stakeholders/account-holders
+    href: stakeholders/account-holders/
 - title: Merchants
   href: merchants/
 - title: State Taxes
   submenu:
   - title: Tax Information by State
-    href: smarttax/tax-information-by-state
+    href: smarttax/tax-information-by-state/
   - title: Tax Resources
-    href: smarttax/resources
+    href: smarttax/resources/
   - title: Recognizing Charge Cards
-    href: smarttax/recognizing-your-account
+    href: smarttax/recognizing-your-account/
   - title: State Tax Legal History
-    href: smarttax/legal-history
+    href: smarttax/legal-history/
 - title: Policies & Audits
   submenu:
   - title: Policies
-    href: policies-and-audits/policies
+    href: policies-and-audits/policies/
   - title: Audit Repository
-    href: policies-and-audits/audits
+    href: policies-and-audits/audits/
   - title: Smart Bulletins
-    href: policies-and-audits/smart-bulletins
+    href: policies-and-audits/smart-bulletins/
 - title: Resources
   submenu:
   - title: Section 889 Tools
-    href: resources/tools/section-889
+    href: resources/tools/section-889/
   - title: FASCSA Order Check
-    href: resources/fascsa-order-check
+    href: resources/fascsa-order-check/
   - title: American Security Drone Act of 2023
-    href: resources/american-security-drone-act
+    href: resources/american-security-drone-act/
   - title: Visa Supplier Search
-    href: resources/visa-supplier-search
+    href: resources/visa-supplier-search/
   - title: Publications and Videos
-    href: resources/publications
+    href: resources/publications/
   - title: Events
-    href: resources/events
+    href: resources/events/
   - title: GSA SmartPay Training Forum Presentations
-    href: resources/forum-presentations
+    href: resources/forum-presentations/
