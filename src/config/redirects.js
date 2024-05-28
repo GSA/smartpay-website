@@ -180,7 +180,8 @@ const redirects = {
   "/content/agency-bank-information": "/contact/banks-contact",
   "/content/bank-customer-service-centers": "/contact/banks-contact",
   "/smarttax/state-tax-forms": "/smarttax/tax-information-by-state",
-  "/content/prohibited-vendor-list/":"/policies-and-audits/smart-bulletins/033/"
+  "/content/prohibited-vendor-list/": "/policies-and-audits/smart-bulletins/033/",
+  "/resources/visa-supplier-search/": "/resources/visa-supplier-matching-service"
 }
 
 // Process the redirects by prefixing the site's base path if there is one.
