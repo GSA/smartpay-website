@@ -20,15 +20,14 @@ states.sort((a, b) => a.data.name.localeCompare(b.data.name));
 
 <script type="module">
     function loadState(e) {
+        e.preventDefault();
         const dropdown = document.getElementById("ddlstates");
         const state = dropdown.value;
 
         if (state) {
-            const target=`${import.meta.env.BASE_URL}smarttax/tax-information-by-state/${state.toLowerCase()}`
+            const target=`${window.location.origin}/smarttax/tax-information-by-state/${state.toLowerCase()}/`
             window.location.href = target;
         }
-        e.preventDefault();
-        return false;
     }
     document.getElementById("state-tax-form").addEventListener("submit", loadState);
 
