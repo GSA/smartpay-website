@@ -6,6 +6,7 @@ const states = await getCollection('state-taxes');
 
 states.sort((a, b) => a.data.name.localeCompare(b.data.name));
 ---
+<input type="hidden" id="custId" name="custId" value=`${import.meta.env.BASE_URL}`>
 <label class="usa-label text-bold" for="ddlstates">{label} </label>
 <form id="state-tax-form" class="usa-form sp-inline-form margin-bottom-4">
     <select class="usa-select sp-inline-form-input" name="ddlstates" id="ddlstates">
@@ -25,8 +26,7 @@ states.sort((a, b) => a.data.name.localeCompare(b.data.name));
         const state = dropdown.value;
 
         if (state) {
-            const target=`${window.location.origin}/smarttax/tax-information-by-state/${state.toLowerCase()}/`
-            window.location.href = target;
+            window.location.pathname = `/smarttax/tax-information-by-state/${state.toLowerCase()}/`
         }
     }
     document.getElementById("state-tax-form").addEventListener("submit", loadState);
