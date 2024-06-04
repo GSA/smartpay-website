@@ -1,0 +1,13 @@
+{
+    "recurse": true,
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0",
+        "Referer": "http://localhost:4321/"
+    },
+    "skip": [
+        "https://www.fpds.gov/downloads/FPDSNG_DataDictionary_1.2.pdf",
+        "https://www.congress.gov/bill/110th-congress/house-bill/5720",
+        "https://www.congress.gov/bill/117th-congress/house-bill/2617/text",
+        "https://www.congress.gov/bill/118th-congress/house-bill/2670"
+        ]
+}
