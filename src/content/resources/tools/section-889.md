@@ -8,7 +8,7 @@ The General Services Administration (GSA) – in partnership with the National A
 
 Section 889 of the John S. McCain National Defense Authorization Act (NDAA) for Fiscal Year 2019 ([P.L. 115-232 [PDF, 789 pages]](https://www.congress.gov/115/plaws/publ232/PLAW-115publ232.pdf)) and the [Federal Acquisition Regulation (FAR) Case 2018-017](https://www.federalregister.gov/documents/2019/08/13/2019-17201/federal-acquisition-regulation-prohibition-on-contracting-for-certain-telecommunications-and-video) prohibit the purchase of covered telecommunications equipment and services from vendors who sell products containing spyware. These devices could pose a threat to U.S. security by spying on or disrupting communications within the U.S.
 
-For more information on the NDAA Section 889 legislation, please visit [Policies](/policies-and-audits/policies).
+For more information on the NDAA Section 889 legislation, please visit [Policies](/policies-and-audits/policies/).
 
 ## GSA's Section 889 Easy Search Tool
 

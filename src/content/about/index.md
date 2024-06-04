@@ -20,4 +20,4 @@ These payment solutions:
 
 The GSA Center for Charge Card Management (CCCM) and GSA SmartPay contractor banks are dedicated to identifying opportunities to provide customers with GSA SmartPay solutions to help address agency payment challenges.
 
-CCCM seeks to increase awareness of available payment solutions under the [GSA SmartPay 3 Master Contract](/about/master-contract) and help agencies continue to find ways to increase payment efficiencies, earn refunds, and identify innovative ways to improve cost savings.
+CCCM seeks to increase awareness of available payment solutions under the [GSA SmartPay 3 Master Contract](/about/master-contract/) and help agencies continue to find ways to increase payment efficiencies, earn refunds, and identify innovative ways to improve cost savings.
