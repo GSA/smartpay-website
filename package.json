@@ -14,9 +14,9 @@
     "pa11y-ci:desktop": "pa11y-ci --config ./.pa11yci-desktop --sitemap http://localhost:8080/sitemap-0.xml   --sitemap-find \"^https://smartpay.gsa.gov/\" --sitemap-replace \"http://localhost:8080/\"",
     "pa11y-ci:mobile": "pa11y-ci --config ./.pa11yci-mobile --sitemap http://localhost:8080/sitemap-0.xml   --sitemap-find \"^https://smartpay.gsa.gov/\" --sitemap-replace \"http://localhost:8080/\"",
     "pa11y-ci:gh": "npx start-server-and-test serve http://localhost:8080 pa11y-ci",
-    "links:internal": "npx start-server-and-test serve http://localhost:8080 'blc -e -r http://localhost:8080'",
-    "links:external": "npx start-server-and-test serve http://localhost:8080 'blc -i -r http://localhost:8080'",
-    "lint": "eslint src --ext js,astro"
+    "link-checker:pipeline": "npx start-server-and-test serve http://localhost:8080 'npx linkinator http://localhost:8080 --config linkinator-config.json'",
+    "lint": "eslint src --ext js,astro",
+    "link-checker": "npx linkinator http://localhost:4321/ --config linkinator-config.json"
   },
   "dependencies": {
     "@astrojs/mdx": "^3.0.0",
@@ -33,12 +33,12 @@
     "@typescript-eslint/parser": "^6.2.0",
     "@uswds/compile": "^1.1.0",
     "@uswds/uswds": "^3.8.0",
-    "broken-link-checker": "^0.7.8",
     "eslint": "^8.45.0",
     "eslint-plugin-astro": "^0.27.2",
     "gulp": "^4.0.2",
     "pa11y-ci": "^3.0.1",
-    "start-server-and-test": "^2.0.3"
+    "start-server-and-test": "^2.0.3",
+    "linkinator": "^6.0.5"
   },
   "overrides": {
     "glob-parent": "^5.1.2"
