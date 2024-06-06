@@ -190,7 +190,6 @@ const redirects = {
   "/files/smartbulletins/smart-bulletin-036.pdf": "/policies-and-audits/smart-bulletins/036/",
   "/files/smartbulletins/smart-bulletin-037.pdf": "/policies-and-audits/smart-bulletins/037/",
   "/files/smartbulletins/smart-bulletin-038.pdf": "/policies-and-audits/smart-bulletins/038/",
-  "/files/smartbulletins/smart-bulletin-038.pdf/": "/policies-and-audits/smart-bulletins/038/",
   "/files/smartbulletins/smart-bulletin-039.pdf": "/policies-and-audits/smart-bulletins/039/",
   "/section-889-easy-search-tools": "/resources/tools/section-889/",
   "/content/general-resources-account-holders": "/resources/publications/",
@@ -228,9 +227,6 @@ const redirects = {
 export default function generateRedirects(basePath = "/") {
   Object.keys(redirects).forEach((key) => {
     redirects[key] = path.posix.join(basePath, redirects[key])
-    if(!key.endsWith('/')){
-      redirects[`${key}/`] = path.posix.join(basePath, redirects[key])
-    }
   })
   return redirects
 }
