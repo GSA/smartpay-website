@@ -19,6 +19,5 @@ export default defineConfig({
         [process_image_urls, {baseURL: base}]
       ],
     },
-    redirects: generateRedirects(base),
-    trailingSlash: 'always',
+    redirects: generateRedirects(base)
 });
