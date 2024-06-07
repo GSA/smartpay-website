@@ -2,7 +2,7 @@
 const { text, link } = Astro.props;
 const isInternal = link.includes("http")? false: true
 ---
-{isInternal? <a href={`${import.meta.env.BASE_URL}${link}`} class="usa-button">{text}</a>:<a href={link} class="usa-button usa-link--external">{text}</a>}
+{isInternal? <a href={`/${link}`} class="usa-button">{text}</a>:<a href={link} class="usa-button usa-link--external">{text}</a>}
 
 
 

@@ -20,7 +20,7 @@ const explains_iba_cba = items.some(({text}) => text.includes('(IBA)')) &&  item
       <li class="usa-icon-list__item">
         <div class:list={["usa-icon-list__icon", icon_colors[icon]]}>
           <svg class="usa-icon" aria-hidden="true" role="img">
-            <use xlink:href={`${import.meta.env.BASE_URL}images/sprite.svg#${icon}`}></use>
+            <use xlink:href={`/images/sprite.svg#${icon}`}></use>
           </svg>
         </div>
         <div class="usa-icon-list__content" set:html={marked.parseInline(text)} />
@@ -30,12 +30,12 @@ const explains_iba_cba = items.some(({text}) => text.includes('(IBA)')) &&  item
     {explains_iba_cba 
     ? (
       <p class="margin-bottom-0">
-        <a class="usa-link" href={`${import.meta.env.BASE_URL}smarttax/recognizing-your-account/`}>Need help recognizing a card or telling if a card is an IBA or CBA?</a>
+        <a class="usa-link" href={`/smarttax/recognizing-your-account/`}>Need help recognizing a card or telling if a card is an IBA or CBA?</a>
       </p>
     )
     : (
       <p class="margin-bottom-0">
-        <a class="usa-link" href={`${import.meta.env.BASE_URL}smarttax/recognizing-your-account/`}>Need help recognizing a card or telling if a card is an individually billed account (IBA) or a centrally billed account (CBA)?</a>
+        <a class="usa-link" href={`/smarttax/recognizing-your-account/`}>Need help recognizing a card or telling if a card is an individually billed account (IBA) or a centrally billed account (CBA)?</a>
       </p>
     )  
   }
