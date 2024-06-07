@@ -11,7 +11,7 @@ pages.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
         <li class:list={["usa-sidenav__item", {current: id === page.id }]}>
           <a
             class={id === page.id ? 'usa-current' : null }
-            href={`/${parent_path}${page.slug || page.id}/`}
+            href={`${import.meta.env.BASE_URL}${parent_path}${page.slug || page.id}/`}
           >{page.data.title}
           </a>
           <ul class="usa-sidenav__sublist">

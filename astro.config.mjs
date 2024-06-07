@@ -6,7 +6,9 @@ import sitemap from "@astrojs/sitemap";
 import generateRedirects from './src/config/redirects';
 import sitemapFilter from "./src/config/sitemapFilter";
 
-const base = process.env.BASEURL ? process.env.BASEURL : '/'
+
+const base = process.env.BASEURL ? (process.env.BASEURL.endsWith('/')? process.env.BASEURL: `${process.env.BASEURL}/`) : '/'
+
 // https://astro.build/config
 export default defineConfig({
     site: 'https://smartpay.gsa.gov/',

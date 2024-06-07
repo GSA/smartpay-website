@@ -2,7 +2,7 @@
 // Component used for Top Navigation that return to parent nav page
 import previousNavIcon from '@assets/images/previous-nav-icon.svg'
 const { parent_nav_path, parent_nav_text} = Astro.props;
-const url = `/${parent_nav_path}`
+const url = `${import.meta.env.BASE_URL}${parent_nav_path}`
 ---
 <div class="display-flex margin-bottom-2 width-full">
     <img src={previousNavIcon.src} aria-hidden="true" role="img" >
