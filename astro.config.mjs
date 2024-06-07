@@ -20,5 +20,5 @@ export default defineConfig({
       ],
     },
     redirects: generateRedirects(base),
-    trailingSlash: 'always',
+    trailingSlash: 'ignore',
 });
