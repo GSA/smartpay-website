@@ -19,7 +19,7 @@ The GSA SmartPay 3 Master Contract has base and option periods that comprise a p
 
 ## GSA SmartPay 3 Master Contract
 
-- [GSA SmartPay 3 Master Contract, Terms and Conditions (Current through Modification PS-20) [PDF, 229 pages]](/files/sp3-master-contract.pdf).
+- [GSA SmartPay 3 Master Contract, Terms and Conditions (Current through Modification PO-0021) [PDF, 229 pages]](/files/sp3-master-contract.pdf).
 - [Modification Summary Log [PDF, 5 pages]](/files/sp3-master-contract-mod-log.pdf).
 
 ### GSA SmartPay 3 Contractor Banks
