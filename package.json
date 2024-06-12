@@ -5,11 +5,10 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "clean": "rimraf _site",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "federalist": "npm run clean && npm run build",
+    "federalist": "npm run build",
     "serve": "npm run build && npm run preview -- --port 8080",
     "pa11y-ci": "npm run pa11y-ci:desktop && npm run pa11y-ci:mobile",
     "pa11y-ci:desktop": "pa11y-ci --config ./.pa11yci-desktop --sitemap http://localhost:8080/sitemap-0.xml   --sitemap-find \"^https://smartpay.gsa.gov/\" --sitemap-replace \"http://localhost:8080/\"",
@@ -39,7 +38,6 @@
     "gulp": "^4.0.2",
     "linkinator": "^6.0.5",
     "pa11y-ci": "^3.0.1",
-    "rimraf": "^5.0.7",
     "start-server-and-test": "^2.0.3"
   },
   "overrides": {
