@@ -21,7 +21,7 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v3
         with:
-          node-version: 16.x
+          node-version: 18.x
           cache: npm
       - name: Install dependencies
         run: npm ci
@@ -35,7 +35,7 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v3
         with:
-          node-version: 16.x
+          node-version: 18.x
           cache: npm
       - name: Install dependencies
         run: npm ci
@@ -51,12 +51,12 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v3
         with:
-          node-version: 16.x
+          node-version: 18.x
           cache: npm
       - name: Install dependencies
         run: npm ci
-      - name: Run broken link checker on internal links
-        run: npm run links:internal
+      - name: Run broken link checker
+        run: npm run link-checker:pipeline
 
   linter:
     runs-on: ubuntu-latest
@@ -67,7 +67,7 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v3
         with:
-          node-version: 16.x
+          node-version: 18.x
           cache: npm
       - name: Install dependencies
         run: npm ci

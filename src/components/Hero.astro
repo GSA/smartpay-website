@@ -1,7 +1,7 @@
 ---
 //This component sets home page hero section under primary menu, background image is set when provided, background color default to bg-primary 
 const { hero_image, background_class = 'bg-primary' } = Astro.props;
-const style = hero_image ? `background-image: linear-gradient(to right, #405e97, transparent), url(${hero_image});`: 'background-image: none'
+const style = hero_image.src ? `background-image: linear-gradient(to right, #405e97, transparent), url(${hero_image.src});`: 'background-image: none'
 ---
 <section class:list={['padding-y-4', `${ background_class }`, { 'usa-hero': hero_image }]} style={style}>
   <div class="grid-container">
