@@ -23,6 +23,10 @@ updated: 2023-02-15
 
 This form can help confirm the transaction is not subject to sales tax in a time where the vendor may be unsure of the validity of the transaction.
 
+## Laws, Regulations, Policies
+
+* [ST 1999-03 - Purchases by Government Employees](https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use/information-releases/st199903)
+
 ## Point of Contact
 - [Ohio Department of Taxation Business](https://tax.ohio.gov/)
 - 888-405-4039
