@@ -221,4 +221,4 @@ This training provides an overview of data analytics and its importance to the G
 | All Forum Attendees | [Use of Data Analytics for Effective Program Oversight [PDF, 1.0MB]](/files/smartpay-training-forum/2024/Use_of_Data_Analytics_for_Effective_Program_Oversight.pdf) |
 
 ## 2023 GSA SmartPay Training Forum Presentations
-Here are the forum presentations and videos from the 2023 GSA SmartPay Training Forum [2023 GSA SmartPay Training Forum Presentations](/resources/forum-presentations)
+Looking for last year's courses? Access the forum presentations and videos from the 2023 GSA SmartPay Training Forum here: [2023 GSA SmartPay Training Forum Presentations](/resources/forum-presentations)
