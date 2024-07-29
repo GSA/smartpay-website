@@ -33,7 +33,7 @@ Join this class for an overview of [buy.gsa.gov](https://buy.gsa.gov/) and its t
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| Purchase Attendees | [Buy.gsa.gov - A Smart Place To Do Market Research [PDF, 2.01MB]](/files/smartpay-training-forum/2024/Buy.GSA.Gov.pdf) |
+| Purchase Attendees | [Buy.gsa.gov - A Smart Place To Do Market Research [PDF, 2.1MB]](/files/smartpay-training-forum/2024/Buy.GSA.Gov.pdf) |
 
 ## Easy Ordering With Global Supply
 
@@ -221,4 +221,4 @@ This training provides an overview of data analytics and its importance to the G
 | All Forum Attendees | [Use of Data Analytics for Effective Program Oversight [PDF, 1.0MB]](/files/smartpay-training-forum/2024/Use_of_Data_Analytics_for_Effective_Program_Oversight.pdf) |
 
 ## 2023 GSA SmartPay Training Forum Presentations
-Looking for last year's courses? Access the forum presentations and videos from the 2023 GSA SmartPay Training Forum here: [2023 GSA SmartPay Training Forum Presentations](/resources/forum-presentations)
+Looking for last year's courses? Access the forum presentations and videos from the 2023 GSA SmartPay Training Forum here: [2023 GSA SmartPay Training Forum Presentations](/resources/forum-presentations-2023)
