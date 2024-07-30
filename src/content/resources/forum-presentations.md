@@ -1,6 +1,6 @@
 ---
 title: GSA SmartPay® Training Forum Presentations
-intro: "Here are the forum presentations and videos from the 2023 GSA SmartPay Training Forum."
+intro: "Here are the forum presentations and videos from the 2024 GSA SmartPay Training Forum."
 description: "Here are the forum presentations and videos from the most recent GSA SmartPay Training Forum."
 order: 6
 ---
@@ -8,14 +8,12 @@ order: 6
 ## The AbilityOne Program Overview
 
 ### Course Description
-Please join us for this interactive training on the AbilityOne program and learn more about its mission to generate meaningful employment opportunities for Americans who are blind or have significant disabiltiies.
+Please join us for this interactive training on the AbilityOne program and learn more about its mission to generate meaningful employment opportunities for Americans who are blind or have significant disabilities.
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| All Forum Attendees | [The AbilityOne Program Overview [PPTX, 3.7MB]](/files/GSA011_The_AbilityOne_Program_Overview.pptx) |
+| All Forum Attendees | [The AbilityOne Program Overview [PDF, 0.8MB]](/files/smartpay-training-forum/2024/The_AbilityOne_Program_Overview.pdf) |
 
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pz-7ZnnXkMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Advanced Concepts in Purchase Card Management
 
@@ -24,10 +22,8 @@ Are you an A/OPC that is responsible for implementing best practices, guidance, 
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| Purchase Attendees | [Advanced Concepts in Purchase Card Management [PPTX, 6.4MB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
+| Purchase Attendees | [Advanced Concepts in Purchase Card Management [PDF, 0.7MB]](/files/smartpay-training-forum/2024/Advanced_Concepts_in_Purchase_Card_Management.pdf) |
 
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Buy.gsa.gov - A Smart Place To Do Market Research
 
@@ -37,43 +33,25 @@ Join this class for an overview of [buy.gsa.gov](https://buy.gsa.gov/) and its t
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| Purchase Attendees | [Buy.gsa.gov - A Smart Place To Do Market Research [PPTX, 15.3MB]](/files/GSA023_Buy.gsa.gov.pptx) |
+| Purchase Attendees | [Buy.gsa.gov - A Smart Place To Do Market Research [PDF, 2.1MB]](/files/smartpay-training-forum/2024/Buy.GSA.Gov.pdf) |
 
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t-Rabzhq_dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## DoD GPC Electronic Systems Update
+## Easy Ordering With Global Supply
 
 ### Course Description
-Ms. Pamela Talbott, DCMA (in support of the GPC PMO) will address DoD GPC systems, related policy, and best practices. Jim Tew, DLA, will cover the GPC processes within PIEE. His update will include GPC roles, the JAM appointment process, and GPC reporting. Mr. Tew also will provide helpful hints and tips, as well as recent improvements to JAM. Intended Audience: All DoD GPC CPMs, OA/OPCs, A/OPCs, A/BOs, and RMs.
+Learn how to use GSA Global Supply to access tens of thousands of office supplies, tools, furniture and more. Find out how easy your purchase can be when requisitioning via GSA Global Supply using the GSA SmartPay Government Purchase Card. GSA Global Supply ensures compliance with federal procurement regulations (FAR, AbilityOne, Section 889, etc.) so that purchases are safe and simple.
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| DoD Purchase Attendees | [DoD GPC Electronic Systems Update [PPTX, 2.1MB]](/files/GSA025_DoD_GPC_Electronic_Systems_Update.pptx) |
-
-## DoD Travel Card Program Update
-
-### Course Description
-The DoD Travel Card Program Office will provide the latest information and updates on the DoD Travel Card Program.
-
-| Audience      | Presentation File |
-| ----------- | ----------- |
-| DoD Travel Attendees | [DoD Travel Card Program Update [PPTX, 0.3MB]](/files/GSA024_DoD_Travel_Card_Program_Update.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rhcoLCthQbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| All Forum Attendees | [Easy Ordering With Global Supply [PDF, 1.9MB]](/files/smartpay-training-forum/2024/Easy_Ordering_With_Global_Supply.pdf) |
 
 ## Federal Travel and Ethics
 
 ### Course Description
-This course will review common and uncommon situations related to travel and travel-related ethics for civilian federal travelers. Attendees will benefit from a review of the Federal Travel Regulation, including a discussion of routing travel, premium class travel accomodations, attendance at conferences, and non-Federal source travel. Recent changes to governmentwide travel regulations will also be discussed.
+This course will review common and uncommon situations related to travel and travel-related ethics for civilian federal travelers. Attendees will benefit from a review of the Federal Travel Regulation, including a discussion of routing travel, premium class travel accommodations, attendance at conferences, and non-Federal source travel. Recent changes to government wide travel regulations will also be discussed.
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| Travel Attendees | [Federal Travel and Ethics [PPTX, 1.5MB]](/files/GSA019_Federal_Travel_and_Ethics.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4I3Jlbi5r6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| Travel Attendees | [Federal Travel and Ethics [PDF, 0.8MB]](/files/smartpay-training-forum/2024/Federal_Travel_and_Ethics.pdf) |
 
 ## FedMall Overview
 
@@ -82,10 +60,7 @@ FedMall is an e-commerce ordering system for Department of Defense (DoD), federa
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| Purchase Attendees | [FedMall Overview [PPTX, 2.8MB]](/files/GSA016_FedMall_Overview.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WaBb7sGegHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| Purchase Attendees | [FedMall Overview [PDF, 1.8MB]](/files/smartpay-training-forum/2024/FedMall_Overview.pdf) |
 
 ## Getting the Most Out of GSA eBuy and eBuy Open
 
@@ -94,19 +69,7 @@ This course will offer an overview of using GSA eBuy to create RFQs and RFIs, ma
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| All Forum Attendees | [Getting the Most Out of GSA eBuy and eBuy Open [PPTX, 17.7MB]](/files/GSA028_Getting_the_Most_Out_of_GSA_eBuy_and_eBuy_Open.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7X5_stGQ9pE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Governmentwide Commercial Purchase Card Policies and Directives - OUSD(A&S)/DPC/CeB
-
-### Course Description
-Ms. Denise Reich and Ms. Sheila McGlynn, OUSD(A&S)/DPC/CeB, will address DoD GPC Program policies, procedures, directives, and other topical issues, followed by a Q&A session with the audience. Intended Audience: All DoD GPC CPMs, OA/OPCs, A/OPCs, and A/BOs.
-
-| Audience      | Presentation File |
-| ----------- | ----------- |
-| DoD Purchase Attendees | [Governmentwide Commercial Purchase Card Policies and Directives [PPTX, 12.1MB]](/files/GSA027_Governmentwide_Commercial_Purchase_Card_Policies_and_Directives.pptx) |
+| All Forum Attendees | [Getting the Most Out of GSA eBuy and eBuy Open [PDF, 4.2MB]](/files/smartpay-training-forum/2024/Getting_the_Most_Out_of_GSA_eBuy_and_eBuy_Open.pdf) |
 
 ## GSA Advantage!® The Basics
 
@@ -115,10 +78,7 @@ Learn how your agency can benefit from using GSA Advantage! to simplifies produc
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| All Forum Attendees | [GSA Advantage! The Basics [PPTX, 16.1MB]](/files/GSA017_GSA_Advantage_The_Basics.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l0d5trBwX_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| All Forum Attendees | [GSA Advantage! The Basics [PDF, 6.1MB]](/files/smartpay-training-forum/2024/GSA_Advantage_The_Basics.pdf) |
 
 ## GSA Fleet Card Program
 
@@ -127,10 +87,7 @@ The course covers the GSA SmartPay Fleet Card program, fraud detection and preve
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| Fleet Attendees | [GSA Fleet Card Program [PPTX, 8.5MB]](/files/GSA021_GSA_Fleet_Card_Program.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/93DiUBFI8wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| Fleet Attendees | [GSA Fleet Card Program [PDF, 2.3MB]](/files/smartpay-training-forum/2024/GSA_Fleet_Card_Program.pdf) |
 
 ## GSA Fleet Offerings
 
@@ -139,10 +96,7 @@ GSA Fleet is a one-stop-shop for an agency’s non-tactical vehicle fleet. GSA F
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| Fleet Attendees | [GSA Fleet Offerings [PPTX, 0.5MB]](/files/GSA022_GSA_Fleet_Offerings.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LgzzKaHLWDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| Fleet Attendees | [GSA Fleet Offerings [PDF, 1.0MB]](/files/smartpay-training-forum/2024/GSA_Fleet_Offerings.pdf) |
 
 ## GSA SmartPay 3 Master Contract Basics
 
@@ -151,10 +105,7 @@ The purpose of this course is to provide valuable information to familiarize cus
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| All A/OPCs | [GSA SmartPay 3 Master Contract Basics [PPTX, 0.3MB]](/files/GSA002_GSA_SmartPay_3_Master_Contract_Basics.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWWtBRrFWrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| All A/OPCs | [GSA SmartPay 3 Master Contract Basics [PDF, 0.5MB]](/files/smartpay-training-forum/2024/GSA_SmartPay_3_Master_Contract_Basics.pdf) |
 
 ## GSA SmartPay Fleet Management Essentials
 
@@ -163,10 +114,7 @@ Are you new to managing your fleet account program? This session provides a basi
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| Fleet Attendees | [GSA SmartPay Fleet Management Essentials [PPTX, 14.9MB]](/files/GSA003_GSA_SmartPay_Fleet_Management_Essentials.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZIN9eOS0_KA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| Fleet Attendees | [GSA SmartPay Fleet Management Essentials [PDF, 1.3MB]](/files/smartpay-training-forum/2024/GSA_SmartPay_Fleet_Management_Essentials.pdf) |
 
 ## GSA SmartPay Online Tools
 
@@ -180,10 +128,7 @@ In this course, we will:
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| All A/OPCs | [GSA SmartPay Online Tools [PPTX, 4.6MB]](/files/GSA004_GSA_SmartPay_Online_Tools.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmCArSeyBS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| All A/OPCs | [GSA SmartPay Online Tools [PDF, 0.4MB]](/files/smartpay-training-forum/2024/GSA_SmartPay_Online_Tools.pdf) |
 
 ## GSA SmartPay Program Update
 
@@ -192,10 +137,7 @@ What’s new in 2023 with the GSA SmartPay program? Taught by the program direct
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| All A/OPCs | [GSA SmartPay Program Update [PPTX, 0.5MB]](/files/GSA005_GSA_SmartPay_Program_Update.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c_svkMPs_Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| All A/OPCs | [GSA SmartPay Program Update [PDF, 0.9MB]](/files/smartpay-training-forum/2024/GSA_SmartPay_Program_Update.pdf) |
 
 ## GSA SmartPay Purchase Management Essentials
 
@@ -204,10 +146,16 @@ Learn the basics or refresh your skills for managing your government purchase ca
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| Purchase Attendees | [GSA SmartPay Purchase Management Essentials [PPTX, 7.8MB]](/files/GSA006_GSA_SmartPay_Purchase_Management_Essentials.pptx) |
+| Purchase Attendees | [GSA SmartPay Purchase Management Essentials [PDF, 1.7MB]](/files/smartpay-training-forum/2024/GSA_SmartPay_Purchase_Management_Essentials.pdf) |
 
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BgXvHJVjh0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## GSA SmartPay's Strategic Payment Solutions
+
+### Course Description
+How can you make the most out of strategic payment solutions in your program? This course discusses how agencies can leverage payment innovation to address agency challenges, streamline operations, and potentially earn more refunds. Participants will learn about strategic solutions offered under the GSA SmartPay 3 Master Contract and engage in a panel discussion with agency charge card managers who have implemented strategic payment solutions.
+
+| Audience      | Presentation File |
+| ----------- | ----------- |
+| All Forum Attendees | [GSA SmartPay's Strategic Payment Solutions [PDF, 0.4MB]](/files/smartpay-training-forum/2024/GSA_SmartPays_Strategic_Payment_Solutions.pdf) |
 
 ## GSA SmartPay Travel Management Essentials
 
@@ -216,10 +164,7 @@ Learn the basics or refresh your skills for managing your agency travel card pro
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| Travel Attendees | [GSA SmartPay Travel Management Essentials [PPTX, 0.5MB]](/files/GSA007_GSA_SmartPay_Travel_Management_Essentials.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ALGrwd_W3tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| Travel Attendees | [GSA SmartPay Travel Management Essentials [PDF, 0.7MB]](/files/smartpay-training-forum/2024/GSA_SmartPay_Travel_Management_Essentials.pdf) |
 
 ## GSA SmartTax - Lessons Learned for State Sales Tax
 
@@ -228,19 +173,7 @@ Do you or your account holders have questions about when to pay state sales tax 
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| All A/OPCs | [GSA SmartTax - Lessons Learned for State Sales Tax [PPTX, 0.9MB]](/files/GSA008_GSA_SmartTax_Lessons_Learned_for_State_Sales_Tax.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xgUVut06Ins" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Innovation in Payments: A Strategic Approach
-
-### Course Description
-How can you make the most out of innovative payment solutions in your program?  This course discusses how agencies can leverage payment innovation to address agency challenges, streamline operations, and potentially earn more refunds. Participants will learn about strategic solutions offered under the GSA SmartPay 3 Master Contracts and engage in a panel discussion with agency charge card managers currently implementing innovative payment solutions.
-
-| Audience      | Presentation File |
-| ----------- | ----------- |
-| All A/OPCs | [Innovation in Payments: A Strategic Approach [PPTX, 0.4MB]](/files/GSA009_Innovation_in_Payments.pptx) |
+| All A/OPCs | [GSA SmartTax - Lessons Learned for State Sales Tax [PDF, 0.8MB]](/files/smartpay-training-forum/2024/GSA_SmartTax_Lessons_Learned_for_State_Sales_Tax.pdf) |
 
 ## Making Informed, Cost Saving Travel Decisions and SmartPay Essentials
 
@@ -249,10 +182,7 @@ GSA offers integrated services to manage Travel which includes the civilian E-Go
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| Travel Attendees | [Making Informed, Cost Saving Travel Decisions and SmartPay Essentials [PPTX, 11.3MB]](/files/GSA020_Making_Informed_Cost_Saving_Travel_Decisions_and_SmartPay_Essentials.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7XRhrcJw7Sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| Travel Attendees | [Making Informed, Cost Saving Travel Decisions and SmartPay Essentials [PDF, 1.3MB]](/files/smartpay-training-forum/2024/Making_Informed_Cost_Saving_Travel_Decisions_and_SmartPay_Essentials.pdf) |
 
 ## OS4 Purchasing Channel
 
@@ -261,10 +191,16 @@ Learn how the Federal Strategic Sourcing Initiative for Office Supplies Fourth G
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| All Forum Attendees | [OS4 Purchasing Channel [PPTX, 3.7MB]](/files/GSA014_OS4_Purchasing_Channel.pptx) |
+| All Forum Attendees | [OS4 Purchasing Channel [PDF, 2.5MB]](/files/smartpay-training-forum/2024/OS4_Purchasing_Channel.pdf) |
 
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fLY3BFV2RNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Smart Pay Forum Commercial Platforms Program
+
+### Course Description
+GSA’s Commercial Platforms program enables agencies to utilize partnerships with multiple commercially available online platforms for the purchase of routine, commercial items. Attend this session to learn more about these participating platforms and how your agency can leverage their leading edge commercial capabilities to save cardholders time and money, while reducing supply chain risk, and advancing the priorities of the Administration.
+
+| Audience      | Presentation File |
+| ----------- | ----------- |
+| All Forum Attendees | [Smart Pay Forum Commercial Platforms Program [PDF, 1.5MB]](/files/smartpay-training-forum/2024/Smart_Pay_Forum_Commercial_Platforms_Program.pdf) |
 
 ##  Sustainable Purchasing with Biobased Products
 
@@ -273,10 +209,7 @@ Boost your sustainable purchasing power with biobased products while meeting sta
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| All Forum Attendees | [Sustainable Purchasing with Biobased Products [PPTX, 11.9MB]](/files/GSA012_Sustainable_Purchasing_with_Biobased_Products.pptx) |
-
-### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BalAOw2yjJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| All Forum Attendees | [Sustainable Purchasing with Biobased Products [PDF, 3.4MB]](/files/smartpay-training-forum/2024/Sustainable_Purchasing_with_Biobased_Products.pdf) |
 
 ## Use of Data Analytics for Effective Program Oversight
 
@@ -285,4 +218,7 @@ This training provides an overview of data analytics and its importance to the G
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| All Forum Attendees | [Use of Data Analytics for Effective Program Oversight [PPTX, 1.1MB]](/files/GSA010_Use_of_Data_Analytics_for_Effective_Program_Oversight.pptx) |
+| All Forum Attendees | [Use of Data Analytics for Effective Program Oversight [PDF, 1.0MB]](/files/smartpay-training-forum/2024/Use_of_Data_Analytics_for_Effective_Program_Oversight.pdf) |
+
+## 2023 GSA SmartPay Training Forum Presentations
+Looking for last year's courses? Access the forum presentations and videos from the 2023 GSA SmartPay Training Forum here: [2023 GSA SmartPay Training Forum Presentations](/resources/forum-presentations-2023)
