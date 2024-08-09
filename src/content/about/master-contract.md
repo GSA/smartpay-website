@@ -34,6 +34,6 @@ To obtain a copy of your agency/organization’s task order, please contact Citi
 #### U.S. Bank
 
 - **Contract Number:** GS-36F-GA001​
-- **Address:** 800 Nicollet Mall, Minneapolis, MN 55402
+- **Address:** 5800 S Corporate Pl, Sioux Falls, SD 57108
 
 To obtain a copy of your agency/organization’s task order, please contact U.S. Bank at 1-888-994-6722 (within the United States).
