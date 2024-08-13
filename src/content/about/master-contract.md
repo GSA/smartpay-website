@@ -27,7 +27,7 @@ The GSA SmartPay 3 Master Contract has base and option periods that comprise a p
 #### Citibank, N.A.
 
 - **Contract Number:** GS-36F-GA002​  
-- **Address:**  701 E 60th St N, Sioux Falls, SD  57104-0432  
+- **Address:**  5800 S Corporate Pl, Sioux Falls, SD 57108  
 
 To obtain a copy of your agency/organization’s task order, please contact Citibank at 1-800-790-7206 (within the United States).
 
