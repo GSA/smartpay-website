@@ -1,0 +1,32 @@
+---
+import PageLayout from '@layouts/PageLayout.astro';
+import { getCollection } from 'astro:content';
+import FullSizeTemplate from '@components/FullSizeTemplate.astro'
+
+export async function getStaticPaths() {
+  const entries = await getCollection('helpful-hints');
+  return entries.map(entry => {
+    return {
+      params: { slug: entry.slug },
+      props: { entry, entries }
+    }
+  })
+}
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+
+<PageLayout 
+  title={entry.data.title}
+  description={entry.data.description}
+>
+  <FullSizeTemplate 
+  title={ entry.data.title }
+  parent_nav_path="about/business-lines" 
+  parent_nav_text = "Return to Business Lines" 
+  intro ={entry.data.intro}
+  >
+  <Content />
+  </FullSizeTemplate>
+</PageLayout>
