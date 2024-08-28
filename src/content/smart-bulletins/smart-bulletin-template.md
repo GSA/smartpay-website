@@ -1,6 +1,6 @@
 ---
-title: "Smart Bulletin No. {XXX}"
-intro: ""
+title: ""
+intro: "GSA SmartPay® Smart Bulletin No. {XXX}"
 number: ""
 order: 
 businessline: ""
