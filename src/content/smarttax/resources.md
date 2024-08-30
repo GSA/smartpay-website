@@ -10,7 +10,7 @@ tags:
 ## SmartTax Merchant Guide
 A guide to assist merchants with recognizing the GSA SmartPay account types and identifying cards for sales tax exemption.
 
-[SmartTax Merchant Guide [PDF, 4 pages]](/files/smartpay-vendor-guide.pdf) 
+[SmartTax Merchant Guide](/merchants/vendor-guide) 
 
 ## SmartTax Video
 A video about how to prepare for sales tax exemption before your trip.
