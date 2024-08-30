@@ -20,7 +20,7 @@ Please note the following about refunds:
 - An agency and the GSA SmartPay contractor bank can negotiate additional refund incentives and document it in their task order.  
 - Agencies can maximize refunds earned by using GSA SmartPay payment solutions rather than convenience checks, personal payments (like cash or personal credit cards) and traditional contract payments.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/5iYRruEPUNM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/5iYRruEPUNM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 Example refund calculations can be found in section B.3.3 of the [GSA SmartPay 3 Master Contract](/about/master-contract/).
 

@@ -30,7 +30,7 @@ Strategic payment solutions allow you to:
   - Mobile Payments.
   - Single Use Accounts.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/KmPUAw6CvD0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/KmPUAw6CvD0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## ePayables
 
@@ -41,7 +41,8 @@ Strategic payment solutions allow you to:
   - Buyer-Initiated Payments.
   - Supplier-Initiated Payments.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/9UQ3fCCW2pk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9UQ3fCCW2pk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## Find Your Solution
 
