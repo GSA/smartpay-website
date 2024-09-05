@@ -15,7 +15,7 @@ Please join us for this interactive training on the AbilityOne program and learn
 | All Forum Attendees | [The AbilityOne Program Overview [PPTX, 3.7MB]](/files/GSA011_The_AbilityOne_Program_Overview.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pz-7ZnnXkMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pz-7ZnnXkMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## Advanced Concepts in Purchase Card Management
 
@@ -27,7 +27,7 @@ Are you an A/OPC that is responsible for implementing best practices, guidance, 
 | Purchase Attendees | [Advanced Concepts in Purchase Card Management [PPTX, 6.4MB]](/files/GSA001_Advanced_Concepts_in_Purchase_Card_Management.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bI9C8DmCITY?si=MMpsxcCFPhvr_l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## Buy.gsa.gov - A Smart Place To Do Market Research
 
@@ -40,7 +40,7 @@ Join this class for an overview of [buy.gsa.gov](https://buy.gsa.gov/) and its t
 | Purchase Attendees | [Buy.gsa.gov - A Smart Place To Do Market Research [PPTX, 15.3MB]](/files/GSA023_Buy.gsa.gov.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t-Rabzhq_dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t-Rabzhq_dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## DoD GPC Electronic Systems Update
 
@@ -61,7 +61,7 @@ The DoD Travel Card Program Office will provide the latest information and updat
 | DoD Travel Attendees | [DoD Travel Card Program Update [PPTX, 0.3MB]](/files/GSA024_DoD_Travel_Card_Program_Update.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rhcoLCthQbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rhcoLCthQbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## Federal Travel and Ethics
 
@@ -73,7 +73,7 @@ This course will review common and uncommon situations related to travel and tra
 | Travel Attendees | [Federal Travel and Ethics [PPTX, 1.5MB]](/files/GSA019_Federal_Travel_and_Ethics.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4I3Jlbi5r6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4I3Jlbi5r6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## FedMall Overview
 
@@ -85,7 +85,7 @@ FedMall is an e-commerce ordering system for Department of Defense (DoD), federa
 | Purchase Attendees | [FedMall Overview [PPTX, 2.8MB]](/files/GSA016_FedMall_Overview.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WaBb7sGegHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WaBb7sGegHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## Getting the Most Out of GSA eBuy and eBuy Open
 
@@ -97,7 +97,7 @@ This course will offer an overview of using GSA eBuy to create RFQs and RFIs, ma
 | All Forum Attendees | [Getting the Most Out of GSA eBuy and eBuy Open [PPTX, 17.7MB]](/files/GSA028_Getting_the_Most_Out_of_GSA_eBuy_and_eBuy_Open.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7X5_stGQ9pE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7X5_stGQ9pE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## Governmentwide Commercial Purchase Card Policies and Directives - OUSD(A&S)/DPC/CeB
 
@@ -118,7 +118,7 @@ Learn how your agency can benefit from using GSA Advantage! to simplifies produc
 | All Forum Attendees | [GSA Advantage! The Basics [PPTX, 16.1MB]](/files/GSA017_GSA_Advantage_The_Basics.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l0d5trBwX_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l0d5trBwX_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## GSA Fleet Card Program
 
@@ -130,7 +130,7 @@ The course covers the GSA SmartPay Fleet Card program, fraud detection and preve
 | Fleet Attendees | [GSA Fleet Card Program [PPTX, 8.5MB]](/files/GSA021_GSA_Fleet_Card_Program.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/93DiUBFI8wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/93DiUBFI8wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## GSA Fleet Offerings
 
@@ -142,7 +142,7 @@ GSA Fleet is a one-stop-shop for an agency’s non-tactical vehicle fleet. GSA F
 | Fleet Attendees | [GSA Fleet Offerings [PPTX, 0.5MB]](/files/GSA022_GSA_Fleet_Offerings.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LgzzKaHLWDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LgzzKaHLWDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## GSA SmartPay 3 Master Contract Basics
 
@@ -154,7 +154,7 @@ The purpose of this course is to provide valuable information to familiarize cus
 | All A/OPCs | [GSA SmartPay 3 Master Contract Basics [PPTX, 0.3MB]](/files/GSA002_GSA_SmartPay_3_Master_Contract_Basics.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWWtBRrFWrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWWtBRrFWrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## GSA SmartPay Fleet Management Essentials
 
@@ -166,7 +166,7 @@ Are you new to managing your fleet account program? This session provides a basi
 | Fleet Attendees | [GSA SmartPay Fleet Management Essentials [PPTX, 14.9MB]](/files/GSA003_GSA_SmartPay_Fleet_Management_Essentials.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZIN9eOS0_KA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZIN9eOS0_KA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## GSA SmartPay Online Tools
 
@@ -183,7 +183,7 @@ In this course, we will:
 | All A/OPCs | [GSA SmartPay Online Tools [PPTX, 4.6MB]](/files/GSA004_GSA_SmartPay_Online_Tools.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmCArSeyBS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmCArSeyBS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## GSA SmartPay Program Update
 
@@ -195,7 +195,7 @@ What’s new in 2023 with the GSA SmartPay program? Taught by the program direct
 | All A/OPCs | [GSA SmartPay Program Update [PPTX, 0.5MB]](/files/GSA005_GSA_SmartPay_Program_Update.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c_svkMPs_Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c_svkMPs_Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## GSA SmartPay Purchase Management Essentials
 
@@ -207,7 +207,7 @@ Learn the basics or refresh your skills for managing your government purchase ca
 | Purchase Attendees | [GSA SmartPay Purchase Management Essentials [PPTX, 7.8MB]](/files/GSA006_GSA_SmartPay_Purchase_Management_Essentials.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BgXvHJVjh0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BgXvHJVjh0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## GSA SmartPay Travel Management Essentials
 
@@ -219,7 +219,7 @@ Learn the basics or refresh your skills for managing your agency travel card pro
 | Travel Attendees | [GSA SmartPay Travel Management Essentials [PPTX, 0.5MB]](/files/GSA007_GSA_SmartPay_Travel_Management_Essentials.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ALGrwd_W3tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ALGrwd_W3tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## GSA SmartTax - Lessons Learned for State Sales Tax
 
@@ -231,7 +231,7 @@ Do you or your account holders have questions about when to pay state sales tax 
 | All A/OPCs | [GSA SmartTax - Lessons Learned for State Sales Tax [PPTX, 0.9MB]](/files/GSA008_GSA_SmartTax_Lessons_Learned_for_State_Sales_Tax.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xgUVut06Ins" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xgUVut06Ins" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## Innovation in Payments: A Strategic Approach
 
@@ -252,7 +252,7 @@ GSA offers integrated services to manage Travel which includes the civilian E-Go
 | Travel Attendees | [Making Informed, Cost Saving Travel Decisions and SmartPay Essentials [PPTX, 11.3MB]](/files/GSA020_Making_Informed_Cost_Saving_Travel_Decisions_and_SmartPay_Essentials.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7XRhrcJw7Sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7XRhrcJw7Sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## OS4 Purchasing Channel
 
@@ -264,7 +264,7 @@ Learn how the Federal Strategic Sourcing Initiative for Office Supplies Fourth G
 | All Forum Attendees | [OS4 Purchasing Channel [PPTX, 3.7MB]](/files/GSA014_OS4_Purchasing_Channel.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fLY3BFV2RNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fLY3BFV2RNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ##  Sustainable Purchasing with Biobased Products
 
@@ -276,7 +276,7 @@ Boost your sustainable purchasing power with biobased products while meeting sta
 | All Forum Attendees | [Sustainable Purchasing with Biobased Products [PPTX, 11.9MB]](/files/GSA012_Sustainable_Purchasing_with_Biobased_Products.pptx) |
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BalAOw2yjJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BalAOw2yjJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## Use of Data Analytics for Effective Program Oversight
 

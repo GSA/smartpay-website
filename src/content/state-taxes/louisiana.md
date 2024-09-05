@@ -16,7 +16,7 @@ updated: 2023-02-15
 
 ### Travel Card
 
-* [R-1376 Government Employees Hotel Lodging Sales/Use Tax Exemption Certificate](https://revenue.louisiana.gov/Forms/ForBusinesses)
+* [R-1376 Government Employees Hotel Lodging Sales/Use Tax Exemption Certificate](https://revenue.louisiana.gov/TaxForms/1376(9_19)F.pdf)
 
 ### Purchase Card
 
