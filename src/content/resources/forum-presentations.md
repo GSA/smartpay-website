@@ -187,7 +187,7 @@ GSA offers integrated services to manage Travel which includes the civilian E-Go
 
 | Audience      | Presentation File |
 | ----------- | ----------- |
-| Travel Attendees | Available Soon |
+| Travel Attendees | [Making Informed, Cost Saving Travel Decisions and SmartPay Essentials [PDF, 1.3MB]](/files/smartpay-training-forum/2024/Making_Informed_Cost_Saving_Travel_Decisions_and_SmartPay_Essentials_v2.pdf) |
 
 ## OS4 Purchasing Channel
 
