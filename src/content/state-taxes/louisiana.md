@@ -28,7 +28,7 @@ updated: 2024-09-05
 * [Revenue Ruling No. 07-008 Sales Tax Federal Credit Card Purchases [PDF, 3 pages]](https://revenue.louisiana.gov/LawsPolicies/RR07008.pdf)
 * [Revenue Information Bulletin No. 10-012 Sales Tax [PDF, 3 pages]](https://www.revenue.louisiana.gov/LawsPolicies/RIB10012.pdf)
 
-#### Notes
+### Notes
 
 In addition to applicable forms, federal government employees may be required to present an active GSA SmartPay charge card, valid government identification, and either valid travel orders on agency letterhead or one of the completed forms above.
 
