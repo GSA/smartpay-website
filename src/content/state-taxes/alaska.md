@@ -24,7 +24,7 @@ Alaska imposes a separate excise tax on rental vehicles. Government employees ar
 
 * [Vehicle Rental Tax Exemption FAQs](https://tax.alaska.gov/programs/programs/help/faq/faq.aspx?60255#section2)
 
-#### Notes
+### Notes
 
 The state of Alaska does not have a sales tax. Municipal, county, and local governments have the ability to assess other taxes and may have separate tax exemption forms and requirements.
 
