@@ -26,7 +26,8 @@ states.sort((a, b) => a.data.name.localeCompare(b.data.name));
         const state = dropdown.value;
 
         if (state) {
-            const target=`${base_url}smarttax/tax-information-by-state/${state.toLowerCase()}/`;
+            // Create State Tax URL, replaced spaces in the selected value with dash to match URL pattern and prevent URL encoding
+            const target=`${base_url}smarttax/tax-information-by-state/${state.replace(/\s+/g, '-').toLowerCase()}/`;
             window.location.href = target;
         }
     }
