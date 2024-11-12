@@ -23,11 +23,11 @@ For more information on the NDAA Section 889 legislation, please visit [Policies
 
 
 - The CAAMP bot, formerly known as the Section 889 Request bot, is a robotic process automation (RPA) capability developed by DoD’s Defense Pricing, Contracting, and Acquisition Policy (DPCAP).
-- To obtain a vendor’s 889 representation and other vendor details, email ‘osd.section889request@mail.mil’ with the vendor’s Commercial and Government Entity (CAGE) code or Unique Entity ID (UEI) in the subject line. Please note that:
+- To obtain a vendor’s 889 representation and other vendor details, email [osd.section889request@mail.mil](mailto:osd.section889request@mail.mil) with the vendor’s Commercial and Government Entity (CAGE) code or Unique Entity ID (UEI) in the subject line. Please note that:
     * For CAGE code requests, ensure that the email subject line is exactly 5 characters long. 
     * For UEI requests, ensure that the email subject line is exactly 12 characters long.
     * To avoid error messages, do not include additional text in the email’s subject line or in the body of the email.
-- After sending a request, users will receive an email response from ‘osd.section889request@mail.mil’ within ten minutes.
+- After sending a request, users will receive an email response from [osd.section889request@mail.mil](mailto:osd.section889request@mail.mil) within ten minutes.
 - The email response identifies if the vendor is registered in SAM if they have completed representations required by FAR 52.204-26 provision and what responses were provided. CAAMP also now provides vendor representations for FAR 52.219-1, FAR 9.405, and FAR 8.7 provisions.
 - This capability gives Contracting Officers, Purchase Card Holders, and other users a quick way to check SAM.
 - For information about the additional information provided in CAAMP bot responses, please visit:
