@@ -17,8 +17,11 @@ import path from 'path'
 function isInternalDomain(url) {
   try {
     const domain = new URL(url)
-    
-    return domain.hostname === 'gsa.gov' || domain.hostname === 'www.gsa.gov'|| domain.protocol === 'mailto:'
+    const internalHost = [
+      'gsa.gov',
+      'www.gsa.gov' 
+    ]
+    return internalHost.includes(domain.hostname) || domain.protocol === 'mailto:'
   } catch(e) {
     // this represents urls like "/some/path" without domain
     return true
