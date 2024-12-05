@@ -23,8 +23,6 @@ The GSA SmartPay Training Forum is the premier training event for charge card pr
 This event is virtual only. There is no in-person portion of the event this year.
 
 ### Website(s)
-[2025 GSA SmartPay Forum Website](https://gsasmartpayforum.org/)
-
 The forum website will go live with 2025 details around January 2025.
 
 ### Contact 
