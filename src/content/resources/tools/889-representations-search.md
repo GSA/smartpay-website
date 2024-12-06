@@ -1,7 +1,7 @@
 ---
-title: Section 889 Tools
-description: Stay compliant with Section 889 with tools like the Section 889 Easy Search Tool and the Department of Defense's Contracting Assistant for Awards and Micro-Purchases (CAAMP) Bot.
-intro: Use GSA’s Section 889 Easy Search Tool and Department of Defense's Contracting Assistant for Awards and Micro-Purchases (CAAMP) Bot to check Section 889 representations. 
+title: 889 Representations Search
+description: Stay compliant with Section 889 with tools like the 889 Representations Search and the Department of Defense's Contracting Assistant for Awards and Micro-Purchases (CAAMP) Bot.
+intro: Use GSA’s Representations Search and the Department of Defense's Contracting Assistant for Awards and Micro-Purchases (CAAMP) Bot to check Section 889 representations. 
 order: 1
 ---
 
@@ -11,10 +11,10 @@ Section 889 of the John S. McCain National Defense Authorization Act (NDAA) for 
 
 For more information on the NDAA Section 889 legislation, please visit [Policies](/policies-and-audits/policies/).
 
-## GSA's Section 889 Easy Search Tool
+## GSA's 889 Representations Search
 
 
-- The [Section 889 Easy Search Tool](https://889.smartpay.gsa.gov/) checks for Section 889 representations in a vendor's System for Award Management (SAM) record at [SAM.gov](http://www.sam.gov). 
+- The [889 Representations Search](https://889.smartpay.gsa.gov/) checks for Section 889 representations in a vendor's System for Award Management (SAM) record at [SAM.gov](http://www.sam.gov). 
 - Only vendors doing business above the micro-purchase threshold (MPT) are required to register in [SAM.gov](http://www.SAM.gov).
 - Contracts that are For Official Use Only (FOUO) or classified, and contractors that do not wish for their information to be publicly available, will not show up in search results. 
 - If a vendor representation is not available, card/account holders may still be permitted to purchase from a listed vendor. However, the card/account holder would be responsible for documenting compliance with Section 889 in accordance with agency requirements.
