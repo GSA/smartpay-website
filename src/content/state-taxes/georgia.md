@@ -17,7 +17,7 @@ updated: 2023-02-15
 
 ### Travel Card
 
-* [State of Georgia Certificate of Exemption of Local Hotel/Motel Excise Tax](https://sao.georgia.gov/search?search=sog%20hotel%20tax%20exempt&sm_site_name=sao)
+* [State of Georgia Certificate of Exemption of Local Hotel/Motel Excise Tax](https://www.google.com/url?client=internal-element-cse&cx=450907bf5042c4844&q=https://sao.georgia.gov/document/publication/sog-hotel-tax-exempt-formfinalpdf/download&sa=U&ved=2ahUKEwihpuv9t7KKAxURQzABHV4hGAMQFnoECAYQAQ&usg=AOvVaw2gZNdWpaA7dsJc2YMyPW9N&fexp=72801196,72801194,72801195)
 
 #### Notes
 
