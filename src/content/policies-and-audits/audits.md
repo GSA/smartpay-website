@@ -10,6 +10,10 @@ tags:
   - regulation
 ---
 
+## 2025
+
+- January: [Audit of the DoD Government Travel Charge Card Program: The Visa IntelliLink Compliance Management System](/policies-and-audits/audits/2025-dod-travel/)
+
 ## 2024
 
 - January: [Audit of DoD Use of the Government Purchase Card in Response to the Coronavirus Disease–2019 Pandemic](/policies-and-audits/audits/2024-dod-purchase/)
