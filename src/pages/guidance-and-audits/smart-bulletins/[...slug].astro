@@ -1,7 +1,7 @@
 ---
 /* 
 This page is to set up Policies & Audits parent level pages layout and routes except for smart bulletins. 
-It includs landing page (/policies-and-audits/), Policies page (/policies-and-audits/policies), Audit Reporistory page (/policies-and-audits/audits)
+It includes landing page (/guidance-and-audits/), Policies page (/guidance-and-audits/policies), Audit Reporistory page (/guidance-and-audits/audits)
 Page use side nav or use full size template based on frontmatter full_size_template value is provided or not. 
 */
 import PageLayout from '@layouts/PageLayout.astro';
@@ -28,7 +28,7 @@ const { Content } = await entry.render();
 >
   <FullSizeTemplate 
   title={entry.data.title}
-  parent_nav_path="policies-and-audits/smart-bulletins/" 
+  parent_nav_path="guidance-and-audits/smart-bulletins/" 
   parent_nav_text = "Return to Smart Bulletins" 
   intro ={entry.data.intro}
   >

@@ -42,14 +42,14 @@
     href: smarttax/recognizing-your-account/
   - title: State Tax Legal History
     href: smarttax/legal-history/
-- title: Policies & Audits
+- title: Guidance & Audits
   submenu:
-  - title: Policies
-    href: policies-and-audits/policies/
+  - title: Guidance
+    href: guidance-and-audits/guidance/
   - title: Audit Repository
-    href: policies-and-audits/audits/
+    href: guidance-and-audits/audits/
   - title: Smart Bulletins
-    href: policies-and-audits/smart-bulletins/
+    href: guidance-and-audits/smart-bulletins/
 - title: Resources
   submenu:
   - title: 889 Representations Search
