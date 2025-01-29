@@ -1,7 +1,7 @@
 ---
 /* 
 This page is to set up Policies & Audits parent level pages layout and routes except for smart bulletins. 
-It includs landing page (/policies-and-audits/), Policies page (/policies-and-audits/policies), Audit Reporistory page (/policies-and-audits/audits)
+It includes landing page (/guidance-and-audits/), Guidance page (/guidance-and-audits/guidance), Audit Reporistory page (/guidance-and-audits/audits)
 Page use side nav or use full size template based on frontmatter full_size_template value is provided or not. 
 */
 import PageLayout from '@layouts/PageLayout.astro';
@@ -11,7 +11,7 @@ import FullSizeTemplate from '@components/FullSizeTemplate.astro'
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('policies-and-audits');
+  const entries = await getCollection('guidance-and-audits');
 
   return entries.map(entry => {
     const slug = entry.slug == './' ? undefined : entry.slug
@@ -23,7 +23,7 @@ export async function getStaticPaths() {
 }
 const { entry, entries } = Astro.props;
 const { Content, headings } = await entry.render();
-const parent_path ="policies-and-audits/"
+const parent_path ="guidance-and-audits/"
 ---
 
 <PageLayout title={entry.data.title}>
@@ -31,8 +31,8 @@ const parent_path ="policies-and-audits/"
   ? (
     <FullSizeTemplate 
       title={ entry.data.title }
-      parent_nav_path="policies-and-audits/" 
-      parent_nav_text = "Return to the Policies & Audits" 
+      parent_nav_path="guidance-and-audits/" 
+      parent_nav_text = "Return to the Guidance & Audits" 
       intro ={entry.data.intro}
     >
       <Content />
@@ -40,7 +40,7 @@ const parent_path ="policies-and-audits/"
     )
   : (
     <SideNav 
-      title="Policies & Audits"
+      title="Guidance & Audits"
       parent_path={parent_path}
       pages={[...entries]}
       headings={headings}
@@ -54,7 +54,7 @@ const parent_path ="policies-and-audits/"
       <Content />
    </PageContentLayout>
                   <SideNav
-                          title="Policies & Audits"
+                          title="Guidance & Audits"
                           parent_path={parent_path}
                           pages={[...entries]}
                           headings={headings}

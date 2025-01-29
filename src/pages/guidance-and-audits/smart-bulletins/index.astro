@@ -3,7 +3,7 @@
 This is to set up Smart Bulletins page using yaml file. 
 Page is using full size template with no side nav, it has top nav return to parent page and have table structure for main content
 This page is served as one optionfor Smartpay team to compare markdown table structure in MDX file vs Yaml file. 
-If SP team prefer markdown way, this page needs to be converted to use markdown way, e.g. policies page. 
+If SP team prefer markdown way, this page needs to be converted to use markdown way, e.g. guidance page. 
  */
 import { getCollection } from 'astro:content';
 import PageLayout from '@layouts/PageLayout.astro';
@@ -27,9 +27,9 @@ export async function getStaticPaths() {
 <PageLayout title="Smart Bulletins">
   <FullSizeTemplate 
   title = "Smart Bulletins"
-  parent_nav_path = "policies-and-audits/"
-  parent_nav_text = "Return to the Polices & Audits"
-  intro = "Smart Bulletins keep agencies informed of new or updated policies/regulations, program management practices, and other developments."
+  parent_nav_path = "guidance-and-audits/"
+  parent_nav_text = "Return to the Guidance & Audits"
+  intro = "Smart Bulletins keep agencies informed of new or updated guidance/regulations, program management practices, and other developments."
   >
      <!-- smart buletins table -->
       <table class="usa-table usa-table--borderless">
@@ -47,7 +47,7 @@ export async function getStaticPaths() {
             <tr>
               <th scope="row" class="grid-col-1">{item.data.number}</th>
               <td class="grid-col-5">
-                <a href={`${import.meta.env.BASE_URL}policies-and-audits/smart-bulletins/${item.slug}/`}>{item.data.title}</a> 
+                <a href={`${import.meta.env.BASE_URL}guidance-and-audits/smart-bulletins/${item.slug}/`}>{item.data.title}</a> 
               </td>
               <td class="grid-col-2">{item.data.businessline}</td>
               <td class="grid-col-2">{item.data.published}</td>
