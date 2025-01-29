@@ -12,7 +12,7 @@ tags:
 
 ## 2025
 
-- January: [(U) Audit of the DoD Government Travel Charge Card Program: The Visa IntelliLink Compliance Management System](/policies-and-audits/audits/2025-dod-travel/)
+- January: [(U) Audit of the DoD Government Travel Charge Card Program: The Visa IntelliLink Compliance Management System](/guidance-and-audits/audits/2025-dod-travel/)
 
 ## 2024
 
