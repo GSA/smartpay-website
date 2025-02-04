@@ -37,3 +37,9 @@ To obtain a copy of your agency/organization’s task order, please contact Citi
 - **Address:** 800 Nicollet Mall, Minneapolis, MN 55402
 
 To obtain a copy of your agency/organization’s task order, please contact U.S. Bank at 1-888-994-6722 (within the United States).
+
+## Provide Feedback on SmartPay 4
+
+The General Services Administration (GSA) SmartPay master contracts are flexible agreements that allow federal agencies to partner with commercial financial institutions for payment solutions—without any cost to the government! Under these contracts, agencies can request specific services through task orders, which cover both charge card services and cardless account services.
+
+We’d love to hear your thoughts on the SmartPay 4 Master Contract! If you have any suggestions, comments, or ideas, please get in touch with us at [SP4Ideas@gsa.gov](mailto:SP4Ideas@gsa.gov). Your feedback is important to us!
