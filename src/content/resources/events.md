@@ -23,7 +23,7 @@ The GSA SmartPay Training Forum is the premier training event for charge card pr
 This event is virtual only. There is no in-person portion of the event this year.
 
 ### Website(s)
-[GSA SmartPay Forum Website](https://gsasmartpayforum.org/)
+[GSA SmartPay Forum Website ](https://gsasmartpayforum.org/)
 
 ### Contact 
 For questions, reach out to the GSA SmartPay Program Support team at [gsa_smartpay@gsa.gov](mailto:gsa_smartpay@gsa.gov).

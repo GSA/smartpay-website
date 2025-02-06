@@ -2,7 +2,7 @@
 //This componet is for Home page call out section under hero section: Section 889 Search, State Tax Information, 25th anniversary celebration 
 import callout_889 from "@assets/images/callout_889.svg";
 import callout_map from "@assets/images/callout_map.svg";
-import red_card_with_background from "@assets/images/red_card_with_background.png";
+import smartpay_4_feedback from "@assets/images/smartpay_4_feedback.svg";
 
 const baseUrl = import.meta.env.BASE_URL;
 ---
@@ -58,25 +58,25 @@ const baseUrl = import.meta.env.BASE_URL;
     </div>
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-6 margin-top-1">
-        <a href="https://www.youtube.com/watch?v=tYNWRHNvCEs">
-          <img
+        <a href={`${baseUrl}about/master-contract/#provide-feedback-on-smartpay-4`}>
+          <img 
             width="464"
-            height="256"
-            src={red_card_with_background.src}
-            alt="Red GSA SmartPay charge card, with application form in the background."
+            height="255.8"
+            src={smartpay_4_feedback.src}
+            alt="Two speech bubbles with smily faces"
           />
         </a>
       </div>
       <div class="tablet:grid-col-6">
-        <h2 class="margin-top-0 margin-bottom-1">
-          Contract Payments to Vendors
+        <h2 class="margin-top-0 margin-bottom-1" >
+          Provide Feedback on SmartPay 4
         </h2>
         <p>
-          Learn about the advantages of using a GSA SmartPay Purchase card/account to make contract payments to vendors.
+          We'd love to hear your thoughts on the SmartPay 4 Master Contract.
         </p>
         <p>
-          <a class="usa-link--external" href="https://www.youtube.com/watch?v=tYNWRHNvCEs"
-            >Go to the Contract Payments video</a>
+          <a class="usa-link" href={`${baseUrl}about/master-contract/#provide-feedback-on-smartpay-4`}
+            >Go to Provide Feedback on SmartPay 4</a>
         </p>
       </div>
     </div>
