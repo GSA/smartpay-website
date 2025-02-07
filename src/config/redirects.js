@@ -113,7 +113,7 @@ const redirects = {
   "/content/diem-rates": "/guidance-and-audits/guidance/",
   "/ndaa-section-889": "/guidance-and-audits/guidance/",
   "/content/public-law": "/guidance-and-audits/guidance/",
-  "/content/audit-repository": "/guidance-and-audits/guidance/",
+  "/content/audit-repository": "/guidance-and-audits/audits/",
   "/content/smart-bulletins": "/guidance-and-audits/smart-bulletins/",
   "/content/smart-bulletin-no-037": "/guidance-and-audits/smart-bulletins/",
   "/content/smart-bulletin-no-036": "/guidance-and-audits/smart-bulletins/",
