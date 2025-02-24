@@ -5,7 +5,9 @@ intro: Join us at in-person and virtual events to learn more about the GSA Smart
 order: 5
 ---
 
-## GSA SmartPay Training Forum - The 2025 GSA SmartPay Virtual Training Forum is on hold at this time, a final determination will be made in the coming weeks.
+## GSA SmartPay Training Forum 
+
+**The 2025 GSA SmartPay Virtual Training Forum is on hold at this time, a final determination will be made in the coming weeks.**
 
 ### Audience 
 Agency/Organization Program Coordinators (A/OPCs), Financial Managers, Approving Officials, Billing Officials, and other agency personnel who play a role in managing their agency’s GSA SmartPay charge card program. **This event is not intended for card/account holders.**
