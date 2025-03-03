@@ -24,7 +24,7 @@ The GSA SmartPay Fleet, Purchase, Travel and Integrated payment solutions can be
 
 Tribes, tribal organizations, and non-federal entities that are interested in quickly meeting their immediate need with minimal resources may want to consider joining the GSA pool.
 
-For further details about the application process and about the GSA pool option, please reach out to Pamela Morgan (Business Management Specialist, Center for Charge Card Management) at [pamela.morgan@gsa.gov](mailto:pamela.morgan@gsa.gov).
+For further details about the application process and about the GSA pool option, please email GSA's Center for Charge Card Management (CCCM) at [gsa_smartpay@gsa.gov](mailto:gsa_smartpay@gsa.gov).
 
 ## State/Local Governments
 
