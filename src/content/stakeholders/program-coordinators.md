@@ -1,5 +1,6 @@
 ---
 title: Program Coordinator Responsibilities
+meta.title: Program Coordinator Responsibilities
 description: Learn more about program coordinators' responsibilities. They serve as the as the liaison between agencies, contracting banks, and the account holder.
 intro: Agency/Organization Program Coordinators (A/OPCs) manage your agency’s GSA SmartPay® program.
 order: 1
