@@ -1,6 +1,6 @@
 ---
 title: Statistics and Reports
-meta.title:  Statistics and Reports
+metaTitle:  Statistics and Reports
 description: "We offer statistics and monthly reporting on spend, transactions, and the number of account holders."
 intro: "We offer statistics and reporting on spend, transactions, the number of card/account holders, and refunds."
 order: 7
