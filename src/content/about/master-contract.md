@@ -1,5 +1,6 @@
 ---
 title: Master Contract
+metaTitle: GSA SmartPay Master Contract
 description: About the GSA SmartPay Master Contract, contracting banks, and terms and conditions.
 intro: The first GSA SmartPay® Master Contract was awarded in 1998. 
 order: 3

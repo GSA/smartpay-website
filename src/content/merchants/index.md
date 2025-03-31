@@ -1,5 +1,6 @@
 ---
 title: Merchants
+metaTitle: Information about GSA SmartPay Program for Merchants
 description: "Information about the GSA SmartPay program for merchants, vendors, and businesses."
 intro: "The federal government prefers to use GSA SmartPay® solutions to pay merchants."
 slug: "./"

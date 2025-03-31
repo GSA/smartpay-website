@@ -1,5 +1,6 @@
 ---
 title: Eligibility and the Application Process
+metaTitle: Eligibility and the Application Process
 description: "Who is eligible and how to apply for GSA SmartPay solutions."
 intro: "Eligibility for the program is determined by the GSA SmartPay® Contracting Officer."
 order: 1
