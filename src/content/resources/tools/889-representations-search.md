@@ -1,6 +1,6 @@
 ---
 title: 889 Representations Search
-meta.title: 889 Representations Search
+pageTitle: 889 Representations Search
 description: Stay compliant with Section 889 with tools like the 889 Representations Search and the Department of Defense's Contracting Assistant for Awards and Micro-Purchases (CAAMP) Bot.
 intro: Use GSA’s Representations Search and the Department of Defense's Contracting Assistant for Awards and Micro-Purchases (CAAMP) Bot to check Section 889 representations. 
 order: 1

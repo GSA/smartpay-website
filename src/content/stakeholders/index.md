@@ -1,6 +1,6 @@
 ---
 title: Key Players in the Process
-metaTitle: Key Players in the Process
+pageTitle: Key Players in the Process
 description: Learn more about the key players in the GSA SmartPay program with a description of their roles and responsibilities.
 intro: "Learn more about the roles and responsibilites of key players in the GSA SmartPay® program."
 slug: "./"

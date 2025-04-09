@@ -1,6 +1,6 @@
 ---
-title: About GSA SmartPay®
-metaTitle: About GSA SmartPay Program
+title: About GSA SmartPay Program
+pageTitle: About GSA SmartPay®
 description: "The GSA SmartPay program is the world’s largest government charge card and commercial payment solutions program."
 intro: "GSA SmartPay is the world’s largest government charge card and commercial payment solutions program."
 slug: "./"

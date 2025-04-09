@@ -1,6 +1,6 @@
 ---
-title: Audit Repository
-metaTitle:: GSA SmartPay Program Related Audits
+title: GSA SmartPay Program Related Audits
+pageTitle: Audit Repository
 description: "The Audit Repository includes agency audits related to the GSA SmartPay program."
 intro: "The repository includes both multi-agency and agency-specific audits related to the GSA SmartPay® program."
 order: 2

@@ -1,6 +1,6 @@
 ---
-title: Refunds
-metaTitle: GSA SmartPay Refund Opportunities
+title: GSA SmartPay Refund Opportunities
+pageTitle: Refunds
 description: "Agencies/organizations have the opportunity to earn refunds that can directly fund and support mission critical efforts."
 intro: Agencies/organizations have the opportunity to earn refunds.
 order: 5

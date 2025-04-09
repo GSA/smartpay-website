@@ -1,6 +1,6 @@
 ---
-title: GSA SmartPay® Training Forum Presentations 2023
-metaTitle: 2023 GSA SmartPay® Training Forum Presentations
+title: 2023 GSA SmartPay® Training Forum Presentations
+pageTitle: GSA SmartPay® Training Forum Presentations 2023
 intro: "Here are the forum presentations and videos from the 2023 GSA SmartPay Training Forum."
 description: "Here are the forum presentations and videos from the most recent GSA SmartPay Training Forum."
 order: 6
