@@ -1,18 +1,18 @@
 ---
-const { id, pages, headings, parent_path, title, classList} = Astro.props;
+const { id, pages, headings, parent_path, pageTitle, classList} = Astro.props;
 pages.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
 ---
 
 <div class={`${classList}`}>
   <nav class="sp_site_nav" aria-label="Secondary navigation">
-    <div class="sp_site_nav_title">{ title }</div>
+    <div class="sp_site_nav_title">{ pageTitle }</div>
     <ul class="usa-sidenav">
       {pages.map(page => (
         <li class:list={["usa-sidenav__item", {current: id === page.id }]}>
           <a
             class={id === page.id ? 'usa-current' : null }
             href={`${import.meta.env.BASE_URL}${parent_path}${page.slug || page.id}/`}
-          >{page.data.title}
+          >{page.data.pageTitle}
           </a>
           <ul class="usa-sidenav__sublist">
             {id === page.id && headings
