@@ -12,7 +12,7 @@ pages.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
           <a
             class={id === page.id ? 'usa-current' : null }
             href={`${import.meta.env.BASE_URL}${parent_path}${page.slug || page.id}/`}
-          >{page.data.title}
+          >{page.data.pageTitle}
           </a>
           <ul class="usa-sidenav__sublist">
             {id === page.id && headings

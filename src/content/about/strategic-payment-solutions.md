@@ -1,5 +1,6 @@
 ---
 title: Strategic Payment Solutions
+pageTitle: Strategic Payment Solutions
 description: GSA SmartPay offers payment solutions for efficiency, oversight, refunds, and more.
 intro: There are several types of strategic payment solutions available under the GSA SmartPay® 3 Master Contract. 
 order: 6

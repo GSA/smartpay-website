@@ -1,6 +1,7 @@
 ---
 title: Visa Supplier Matching Service
-description: Provide resource for identifying merchants that accept Visa.
+pageTitle: Visa Supplier Matching Service
+description: Provide resources for identifying merchants that accept Visa.
 order: 4
 ---
 
