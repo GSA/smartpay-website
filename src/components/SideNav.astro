@@ -1,11 +1,11 @@
 ---
-const { id, pages, headings, parent_path, pageTitle, classList} = Astro.props;
+const { id, pages, headings, parent_path, title, classList} = Astro.props;
 pages.sort((a, b) => parseInt(a.data.order) - parseInt(b.data.order))
 ---
 
 <div class={`${classList}`}>
   <nav class="sp_site_nav" aria-label="Secondary navigation">
-    <div class="sp_site_nav_title">{ pageTitle }</div>
+    <div class="sp_site_nav_title">{ title }</div>
     <ul class="usa-sidenav">
       {pages.map(page => (
         <li class:list={["usa-sidenav__item", {current: id === page.id }]}>
