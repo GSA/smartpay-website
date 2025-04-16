@@ -1,5 +1,6 @@
 ---
-title: Publications and Videos
+title: Publications and Videos for SmartPay Credit Card Holders
+pageTitle: Publications and Videos
 description: Learn more with resources for account holders. We have guides, presentations and publications specific to travel, purchase, fleet, and more.
 intro: Learn more about the GSA SmartPay® program by reviewing these resources for various stakeholders.
 order: 5

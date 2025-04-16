@@ -1,11 +1,12 @@
 ---
-title: Events
+title: GSA SmartPay Program Events
+pageTitle: Events
 description: Stay aware of upcoming GSA SmartPay events like training forums, summits, conferences, and fairs.
 intro: Join us at in-person and virtual events to learn more about the GSA SmartPay® program.
 order: 5
 ---
 
-## GSA SmartPay Training Forum
+## GSA SmartPay Training Forum 
 
 **The 2025 GSA SmartPay Virtual Training Forum has been canceled.**
 
