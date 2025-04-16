@@ -24,7 +24,7 @@ export async function getStaticPaths() {
 }
 ---
 
-<PageLayout title="Smart Bulletins">
+<PageLayout title="GSA SmartPay Program - Smart Bulletins">
   <FullSizeTemplate 
   title = "Smart Bulletins"
   parent_nav_path = "guidance-and-audits/"
@@ -47,7 +47,7 @@ export async function getStaticPaths() {
             <tr>
               <th scope="row" class="grid-col-1">{item.data.number}</th>
               <td class="grid-col-5">
-                <a href={`${import.meta.env.BASE_URL}guidance-and-audits/smart-bulletins/${item.slug}/`}>{item.data.title}</a> 
+                <a href={`${import.meta.env.BASE_URL}guidance-and-audits/smart-bulletins/${item.slug}/`}>{item.data.pageTitle}</a> 
               </td>
               <td class="grid-col-2">{item.data.businessline}</td>
               <td class="grid-col-2">{item.data.published}</td>
