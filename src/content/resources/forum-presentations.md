@@ -1,5 +1,6 @@
 ---
-title: GSA SmartPay® Training Forum Presentations
+title: GSA SmartPay Training Forum Presentations
+pageTitle: GSA SmartPay® Training Forum Presentations
 intro: "Here are the forum presentations from the 2024 GSA SmartPay Training Forum."
 description: "Here are the forum presentations from the most recent GSA SmartPay Training Forum."
 order: 6
