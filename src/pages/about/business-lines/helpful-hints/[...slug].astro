@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 import FullSizeTemplate from '@components/FullSizeTemplate.astro'
 
 export async function getStaticPaths() {
-  const entries = await getCollection('helpful-hints');
+  const entries = await getCollection('helpfulHints');
   return entries.map(entry => {
     return {
       params: { slug: entry.slug },

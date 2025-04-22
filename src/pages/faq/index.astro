@@ -1,10 +1,10 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
 import SideNav from '../../components/FAQSideNav.astro'
-import { getEntry} from 'astro:content';
+import { getEntry, render} from 'astro:content';
 const page = await getEntry('faq','faq');
 
-const faq = await page.render()
+const faq = await render(page)
 const Content = faq.Content
 const headings = faq.headings
 

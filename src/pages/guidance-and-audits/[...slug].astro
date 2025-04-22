@@ -11,7 +11,7 @@ import FullSizeTemplate from '@components/FullSizeTemplate.astro'
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('guidance-and-audits');
+  const entries = await getCollection('guidanceAndAudits');
 
   return entries.map(entry => {
     const slug = entry.slug == './' ? undefined : entry.slug

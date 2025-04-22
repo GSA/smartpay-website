@@ -2,13 +2,13 @@
 /*
 This page is set up to maintain the uri while being moved to a nested location.
  */
- import PageLayout from '@layouts/PageLayout.astro';
+import PageLayout from '@layouts/PageLayout.astro';
 import FullSizeTemplate from '@components/FullSizeTemplate.astro'
-import { getEntry} from 'astro:content';
-const page = await getEntry('forum-presentations-2023','forum-presentations-2023');
+import { getEntry, render } from 'astro:content';
+const page = await getEntry('forumPresentations2023','forum-presentations-2023');
 
-const faq = await page.render()
-const PageContent = faq.Content
+const forumPresentation = await render(page)
+const PageContent = forumPresentation.Content
 
 ---
 
