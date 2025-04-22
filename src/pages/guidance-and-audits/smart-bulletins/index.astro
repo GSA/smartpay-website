@@ -9,7 +9,7 @@ import { getCollection } from 'astro:content';
 import PageLayout from '@layouts/PageLayout.astro';
 import FullSizeTemplate from '@components/FullSizeTemplate.astro'
 
-const files = await getCollection('smart-bulletins')
+const files = await getCollection('smartBulletins')
 const smartbulletins= files.filter(a => a.data.order != null).sort(a => 0 - parseInt(a.data.order))
 
 export async function getStaticPaths() {

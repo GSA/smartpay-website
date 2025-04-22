@@ -6,7 +6,7 @@ import SideNav from '@components/SideNav.astro'
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('smarttax');
+  const entries = await getCollection('smartTax');
   return entries.map(entry => {
     return {
       params: { slug: entry.slug },

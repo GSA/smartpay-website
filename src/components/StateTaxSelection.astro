@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 
 const {current_state, label} = Astro.props;
-const states = await getCollection('state-taxes');
+const states = await getCollection('stateTaxes');
 
 states.sort((a, b) => a.data.name.localeCompare(b.data.name));
 ---

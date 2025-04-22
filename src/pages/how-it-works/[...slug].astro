@@ -6,7 +6,7 @@ import SideNav from '@components/SideNav.astro'
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('how-it-works');
+  const entries = await getCollection('howItWorks');
   return entries.map(entry => {
     const slug = entry.slug == './' ? undefined : entry.slug
     return {

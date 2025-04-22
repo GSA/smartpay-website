@@ -7,7 +7,7 @@ import StateTaxSummaryList from '@components/StateTaxSummaryList.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('state-taxes');
+  const entries = await getCollection('stateTaxes');
   return entries.map(entry => {
 
     return {
