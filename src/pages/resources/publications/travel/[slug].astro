@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import PageLayout from '@layouts/PageLayout.astro';
 import FullSizeTemplate from "../../../../components/FullSizeTemplate.astro";
 export async function getStaticPaths() {
-    const entries = await getCollection('travel-publications');
+    const entries = await getCollection('travelPublications');
     return entries.map(entry => {
         return {
             params: { slug: entry.slug},
