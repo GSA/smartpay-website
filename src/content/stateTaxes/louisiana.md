@@ -16,17 +16,17 @@ updated: 2024-09-05
 
 ### Travel Card
 
-* [R-1376 Government Employees Hotel Lodging Sales/Use Tax Exemption Certificate](https://revenue.louisiana.gov/TaxForms/1376(9_19)F.pdf)
+* [R-1376 Government Employees Hotel Lodging Sales/Use Tax Exemption Certificate [PDF, 2 pages]](https://dam.ldr.la.gov/taxforms/1376(9_19)F.pdf).
 
 ### Purchase Card
 
-* [Form R-1304 Sales Tax Exemption for Certain Purchases and Leases for the Federal Government or the U.S. Department of Navy](https://revenue.louisiana.gov/Forms/ForBusinesses)
-* [Form R-1356-L Sales Tax Exemption for Purchases by the Federal Government](https://revenue.louisiana.gov/Forms/ForBusinesses)
+* [Form R-1304 Sales Tax Exemption for Certain Purchases and Leases for the Federal Government or the U.S. Department of Navy [PDF, 1 page]]( https://dam.ldr.la.gov/taxforms/1304(7_19)%20F.pdf).
+* [Form R-1356-L Sales Tax Exemption for Purchases by the Federal Government [PDF, 1 page]](https://dam.ldr.la.gov/taxforms/1356(7_07)F.pdf).
 
 ## Laws, Regulations, Policies
 
-* [Revenue Ruling No. 07-008 Sales Tax Federal Credit Card Purchases [PDF, 3 pages]](https://revenue.louisiana.gov/LawsPolicies/RR07008.pdf)
-* [Revenue Information Bulletin No. 10-012 Sales Tax [PDF, 3 pages]](https://www.revenue.louisiana.gov/LawsPolicies/RIB10012.pdf)
+* [Revenue Ruling No. 07-008 Sales Tax Federal Credit Card Purchases [PDF, 3 pages]](https://dam.ldr.la.gov/lawspolicies/RR07008.pdf).
+* [Revenue Information Bulletin No. 10-012 Sales Tax [PDF, 3 pages]](https://dam.ldr.la.gov/lawspolicies/RIB10012.pdf).
 
 ### Notes
 
