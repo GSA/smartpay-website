@@ -15,6 +15,9 @@ on:
 jobs:
   setup:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
     steps:
       - name: Checkout code from ${{ github.repository }}
         uses: actions/checkout@v3
@@ -28,6 +31,9 @@ jobs:
 
   accessibility_scan:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
     needs: setup
     steps:
       - name: Checkout code from ${{ github.repository }}
@@ -44,6 +50,9 @@ jobs:
 
   link_checker:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
     needs: setup
     steps:
       - name: Checkout code from ${{ github.repository }}
@@ -60,6 +69,9 @@ jobs:
 
   linter:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
     needs: setup
     steps:
       - name: Checkout code from ${{ github.repository }}
