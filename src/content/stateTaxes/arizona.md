@@ -13,7 +13,7 @@ summary:
   text: Centrally billed accounts (CBA) **are** exempt from state use tax.
 - icon: error_outline
   text: CBAs **may not be** exempt from transaction privilege tax.
-updated: 2023-11-28
+updated: 2025-05-29
 ---
 
 ## Forms
