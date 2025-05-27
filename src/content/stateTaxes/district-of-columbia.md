@@ -7,10 +7,10 @@ contact:
 summary:
 - icon: highlight_off
   text: Individually billed accounts (IBA) **are not** exempt from state sales
-    tax.5-05-29
+    tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
-updated: 202
+updated: 2025-05-29
 ---
 
 ## Laws, Regulations, Policies
