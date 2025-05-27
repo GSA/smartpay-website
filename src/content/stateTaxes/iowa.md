@@ -10,14 +10,14 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
-updated: 2023-02-15
+updated: 2025-05-29
 ---
 
 ## Forms
 
 ### Purchase Card
 
-* [Iowa Sales/Use/Excise Tax Exemption Certificate 31-014](https://tax.iowa.gov/forms/iowa-salesuseexcise-tax-exemption-certificate-31-014)
+* [Iowa Sales/Use/Excise Tax Exemption Certificate 31-014](https://revenue.iowa.gov/media/2265/download?inline)
 
 ## Point of Contact
 - [Iowa Department of Revenue](https://tax.iowa.gov/)
