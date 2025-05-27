@@ -7,7 +7,7 @@ contact:
 summary:
 - icon: highlight_off
   text: The state **does not** have a sales tax.
-updated: 2023-02-15
+updated: 2025-05-29
 ---
 
 ## Forms

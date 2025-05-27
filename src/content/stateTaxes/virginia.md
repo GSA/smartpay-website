@@ -10,7 +10,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
-updated: 2025-03-07
+updated: 2025-05-29
 ---
 
 ## Laws, Regulations, Policies

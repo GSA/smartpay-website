@@ -11,7 +11,7 @@ summary:
   text: Individually billed accounts (IBA) **are not** exempt from transient guest tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
-updated: 2023-02-15
+updated: 2025-05-29
 ---
 
 ## Forms

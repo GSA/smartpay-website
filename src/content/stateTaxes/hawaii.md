@@ -12,7 +12,7 @@ summary:
   text: Individually billed accounts (IBA) **are not** exempt from GET or TAT.
 - icon: error_outline
   text: Centrally billed accounts (CBA) **may be** exempt from GET.
-updated: 2023-02-15
+updated: 2025-05-29
 ---
 
 ## Forms
