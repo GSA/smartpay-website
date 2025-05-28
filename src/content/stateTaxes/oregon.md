@@ -13,7 +13,7 @@ summary:
     tax.
 - icon: check_circle_outline
   text: Centrally Billed Accounts (CBA) **are** exempt from the transient lodging tax.
-updated: 2023-02-15
+updated: 2025-05-29
 ---
 
 ## Forms

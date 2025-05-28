@@ -12,7 +12,7 @@ summary:
   text: IBAs **may be** exempt from occupancy excise tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
-updated: 2023-02-15
+updated: 2025-05-29
 ---
 
 ## Forms

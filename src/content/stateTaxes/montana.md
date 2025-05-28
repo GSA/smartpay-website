@@ -12,7 +12,7 @@ summary:
   text: Individually billed accounts (IBA) **are not** exempt from the lodging sales tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) **are** exempt from the lodging sales tax.
-updated: 2023-02-15
+updated: 2025-05-29
 ---
 
 ## Laws, Regulations, Policies
