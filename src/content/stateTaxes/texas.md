@@ -9,7 +9,7 @@ summary:
   text: Individually billed accounts (IBA) **are** exempt from state sales tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
-updated: 2023-02-15
+updated: 2025-05-29
 ---
 
 ## Forms
@@ -26,7 +26,7 @@ updated: 2023-02-15
 ## Laws, Regulations, Policies
 
 * [Guidelines to Texas Tax Exemptions](https://comptroller.texas.gov/taxes/publications/96-1045.php) - Select AP-204 Federal and all Others
-* [Texas Administrative Code, Rule 3.322 Exempt Organizations](https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&app=9&p_dir=F&p_rloc=207487&p_tloc=14750&p_ploc=1&pg=2&p_tac=&ti=34&pt=1&ch=3&rl=322) - Sections (C) and (G)
+* [Texas Administrative Code, Rule 3.322 Exempt Organizations](https://texas-sos.appianportalsgov.com/rules-and-meetings?interface=LANDING_PAGE) - Sections (C) and (G)
 
 ## Point of Contact
 - [Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)

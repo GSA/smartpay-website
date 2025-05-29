@@ -9,7 +9,7 @@ summary:
   text: Individually billed accounts (IBA) **are** exempt from state sales tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
-updated: 2023-02-15
+updated: 2025-05-29
 ---
 
 ## Forms
@@ -21,7 +21,7 @@ updated: 2023-02-15
 ### Purchase Card
 
 * [Puerto Rico Department of Treasury Form AS2916.1 (English Version) [PDF, 2 pages]](https://hacienda.pr.gov/downloads/pdf/formularios/AS%202916.1.pdf)
-* [Puerto Rico Department of Treasury Form SC2916 (Spanish Version) [PDF, 4 pages]](http://www.hacienda.gobierno.pr/sites/default/files/documentos/sc_2916_2015_1.pdf)
+* [Puerto Rico Department of Treasury Form SC2916 (Spanish Version) [PDF, 2 pages]](https://hacienda.pr.gov/sites/default/files/documentos/sc_2916_2015_1.pdf)
 
 #### Notes
 
