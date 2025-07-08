@@ -31,6 +31,7 @@ const travelPublications = defineCollection({})
 const publications = defineCollection({})
 const forumPresentations2023 = defineCollection({})
 const allBusinessLinesPublications = defineCollection({})
+const fleetPublications = defineCollection({})
 
 export const collections = {
   'faq': faqCollection,
@@ -50,5 +51,6 @@ export const collections = {
   stateTaxes,
   travelPublications,
   publications,
-  allBusinessLinesPublications
+  allBusinessLinesPublications,
+  fleetPublications
 };
