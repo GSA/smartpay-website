@@ -2,6 +2,7 @@
 import GSAHeader from '@components/GSAHeader.astro';
 import USAIdentifier from '@components/USAIdentifier.astro';
 import Banner from '@components/Banner.astro';
+import BackToTop from '@components/BackToTop.astro';
 
 const { title, description } = Astro.props;
 ---
@@ -29,6 +30,7 @@ const { title, description } = Astro.props;
   <body>
     <div id="app" class="grid-row flex flex-column height-full">
       <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+      <BackToTop />
       <Banner />
       <div class="background flex-fill">
         <GSAHeader />
