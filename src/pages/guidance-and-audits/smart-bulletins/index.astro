@@ -10,7 +10,7 @@ import PageLayout from '@layouts/PageLayout.astro';
 import FullSizeTemplate from '@components/FullSizeTemplate.astro'
 
 const files = await getCollection('smartBulletins')
-const smartbulletins= files.filter(a => a.data.order != null).sort(a => 0 - parseInt(a.data.order))
+const smartbulletins= files.filter(a => a.data.order != null).sort((a,b) => parseInt(b.data.order) - parseInt(a.data.order))
 
 export async function getStaticPaths() {
   const entries = await getCollection('about');
