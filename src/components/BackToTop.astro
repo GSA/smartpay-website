@@ -1,0 +1,71 @@
+---
+import arrowUpwardIcon from "@assets/images/usa-icons/arrow_upward.svg"
+---
+<div id="btt-container" class="back-to-top text-center text-white bg-primary-dark opacity-0 invisible" title="Return to the top of the page">
+        <div>
+            <span class="text-underline">TOP</span>
+        </div>
+        <div>
+            <img
+                    src={arrowUpwardIcon.src}
+                    class=".usa-icon--size-5"
+                    alt="Scroll Up"
+            />
+        </div>
+</div>
+<script is:inline>
+    const backToTopContainer = document.getElementById('btt-container');
+    const scrollThreshold = 300;
+
+    function toggleButtonVisibility() {
+        if (window.scrollY > scrollThreshold) {
+            backToTopContainer.classList.remove('opacity-0', 'invisible');
+            backToTopContainer.classList.add('opacity-100', 'visible');
+        } else {
+            backToTopContainer.classList.add('opacity-0', 'invisible');
+            backToTopContainer.classList.remove('opacity-100', 'visible');
+        }
+    }
+
+    function scrollToTop() {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+    
+    window.addEventListener('scroll', toggleButtonVisibility);
+    backToTopContainer.addEventListener('click', scrollToTop);
+</script>
+<style>
+    #btt-container {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        width: 50px;
+        height: 60px;
+        border: 1px solid white;
+        border-radius: 10px;
+        cursor: pointer;
+        z-index: 8990;
+    }
+    
+    #btt-container > a {
+        text-decoration: none;
+    }
+    
+    .opacity-0 {
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+    }
+
+    .opacity-100 {
+        opacity: 1;
+        transition: opacity 0.3s ease-in-out;
+    }
+
+    .invisible {
+        pointer-events: none;
+    }
+
+    .visible {
+        pointer-events: auto;
+    }
+</style>

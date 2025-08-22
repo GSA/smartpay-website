@@ -10,7 +10,7 @@ import PageLayout from '@layouts/PageLayout.astro';
 import FullSizeTemplate from '@components/FullSizeTemplate.astro'
 
 const files = await getCollection('smartBulletins')
-const smartbulletins= files.filter(a => a.data.order != null).sort(a => 0 - parseInt(a.data.order))
+const smartbulletins= files.filter(a => a.data.order != null).sort((a,b) => parseInt(b.data.order) - parseInt(a.data.order))
 
 export async function getStaticPaths() {
   const entries = await getCollection('about');
@@ -24,7 +24,7 @@ export async function getStaticPaths() {
 }
 ---
 
-<PageLayout title="GSA SmartPay Program - Smart Bulletins">
+<PageLayout title="GSA SmartPay Program - Smart Bulletins" description="Smart Bulletins keep agencies informed of new or updated guidance/regulations, program management practices, and other developments.">
   <FullSizeTemplate 
   title = "Smart Bulletins"
   parent_nav_path = "guidance-and-audits/"

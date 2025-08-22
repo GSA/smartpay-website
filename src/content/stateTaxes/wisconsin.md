@@ -9,7 +9,7 @@ summary:
   text: Individually billed accounts (IBA) **are** exempt from state sales tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
-updated: 2025-05-29
+updated: 2025-08-21
 ---
 
 ## Forms
@@ -23,6 +23,7 @@ updated: 2025-05-29
 ## Laws, Regulations, Policies
 
 * [Publication 201 Wisconsin Sales and Use Tax Information](https://www.revenue.wi.gov/DOR%20Publications/pb201.pdf) - See (5) United States Government (pp. 77-78).
+* [Publication 219 Hotels, Motels, and Other Lodging Providers](https://www.revenue.wi.gov/DOR%20Publications/pb219.pdf)
 
 ## Point of Contact
 - [Wisconsin Department of Revenue](https://www.revenue.wi.gov/)
