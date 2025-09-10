@@ -9,14 +9,14 @@ summary:
   text: Individually billed accounts (IBA) **are** exempt from state sales tax.
 - icon: check_circle_outline
   text: Centrally billed accounts (CBA) **are** exempt from state sales tax.
-updated: 2025-05-29
+updated: 2025-09-19
 ---
 
 ## Forms
 
 ### Travel Card
 
-* [Request for Room Tax Exemption](https://roomtax.prtourism.com/exemption_reqs.php?lan=en)
+* [Request for Room Tax Exemption](https://roomtax.tourism.pr.gov/exemption_reqs.php?lan=en)
 
 ### Purchase Card
 
