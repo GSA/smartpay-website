@@ -2,12 +2,39 @@
 //This componet is for Home page call out section under hero section: Section 889 Search, State Tax Information, 25th anniversary celebration 
 import callout_889 from "@assets/images/callout_889.svg";
 import callout_map from "@assets/images/callout_map.svg";
-import red_card_with_background from "@assets/images/red_card_with_background.png";
+import callout_travel_blue_card from "@assets/images/callout_travel_blue_card.png";
 
 const baseUrl = import.meta.env.BASE_URL;
 ---
 <section class="sp_callout">
   <div class="grid-container margin-y-6">
+    <div class="grid-row grid-gap">
+        <div class="tablet:grid-col-6 margin-top-1">
+            <a href="https://www.gsa.gov/travel/travel-and-lodging-services/rideshare">
+                <img
+                        width="464"
+                        height="256"
+                        src={callout_travel_blue_card.src}
+                        alt="Blue GSA SmartPay charge card, with ride share app on phone."
+                />
+            </a>
+        </div>
+        <div class="tablet:grid-col-6">
+            <h2 class="margin-top-0 margin-bottom-1" >
+                GSA Partners with Uber
+            </h2>
+            <p>
+                Federal employees can now access ground transportation services through a government-wide ridesharing solution, 
+                <a href="https://www.gsa.gov/about-us/newsroom/news-releases/gsa-partners-with-uber-for-business-07162025" class="usa-link--external"
+                >GSA partners with Uber for business</a
+                >.
+            </p>
+            <p>
+                <a class="usa-link--external" href="https://www.gsa.gov/travel/travel-and-lodging-services/rideshare"
+                >Go to Rideshare to enroll</a>
+            </p>
+        </div>
+    </div>
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-6 margin-top-1">
         <a href="https://889.smartpay.gsa.gov/">
@@ -53,30 +80,6 @@ const baseUrl = import.meta.env.BASE_URL;
         <p>
           <a class="usa-link" href={`${baseUrl}smarttax/tax-information-by-state/`}
             >Go to tax information</a>
-        </p>
-      </div>
-    </div>
-    <div class="grid-row grid-gap">
-      <div class="tablet:grid-col-6 margin-top-1">
-        <a href="https://www.youtube.com/watch?v=tYNWRHNvCEs">
-          <img 
-            width="464"
-            height="256"
-            src={red_card_with_background.src}
-            alt="Red GSA SmartPay charge card, with application form in the background."
-          />
-        </a>
-      </div>
-      <div class="tablet:grid-col-6">
-        <h2 class="margin-top-0 margin-bottom-1" >
-          Contract Payments to Vendors
-        </h2>
-        <p>
-          Learn about the advantages of using a GSA SmartPay Purchase card/account to make contract payments to vendors.
-        </p>
-        <p>
-          <a class="usa-link--external" href="https://www.youtube.com/watch?v=tYNWRHNvCEs"
-            >Go to the Contract Payments video</a>
         </p>
       </div>
     </div>
