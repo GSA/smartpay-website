@@ -38,7 +38,7 @@
     "eslint-plugin-astro": "^0.27.2",
     "gulp": "^4.0.2",
     "linkinator": "^6.0.5",
-    "pa11y-ci": "^3.1.0",
+    "pa11y-ci": "^4.0.1",
     "start-server-and-test": "^2.0.11"
   },
   "overrides": {
