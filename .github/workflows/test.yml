@@ -6,11 +6,10 @@ name: Run Tests
 on:
   push:
     branches: # Run actions when code is committed to these branches
-      - main
+      - hieuso
   pull_request:
     branches: # Run actions when a PR is pushed based on one of these branches
-      - main
-      - staging
+      - hieuso
 
 jobs:
   setup:
