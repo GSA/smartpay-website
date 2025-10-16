@@ -22,7 +22,7 @@ function isInternalDomain(url) {
       'www.gsa.gov' 
     ]
     return internalHost.includes(domain.hostname) || domain.protocol === 'mailto:'
-  } catch(e) {
+  } catch {
     // this represents urls like "/some/path" without domain
     return true
   }
