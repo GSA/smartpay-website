@@ -35,7 +35,7 @@ GSA SmartPay statistics for fiscal year 2024:
 
 The following program data is provided for informational purposes only and should not be used to calculate agency refunds, basis points, or usage of GSA SmartPay payment solutions by agency personnel. This data has been provided by the respective banks and has not been verified for accuracy.
 
-- [Sales, Transactions, and Card/Account Holder Data (FY 2009– Jun 2025) [XLSX, 5.1 MB]](/files/StatsTool_FY25JUN.xlsx) – Spreadsheets containing current statistics for GSA SmartPay Purchase, Travel, and Fleet business lines.  Note: For questions about usage of the tool and underlying data, refer to the [Frequently Asked Questions](/faq/) page.
+- [Sales, Transactions, and Card/Account Holder Data (FY 2009– Jul 2025) [XLSX, 5.1 MB]](/files/StatsTool_FY25JUL.xlsx) – Spreadsheets containing current statistics for GSA SmartPay Purchase, Travel, and Fleet business lines.  Note: For questions about usage of the tool and underlying data, refer to the [Frequently Asked Questions](/faq/) page.
 - [Fiscal Years 1999–2009 Card Sales, Transactions, and Card/Account Holder Data [XLS, 10.2 MB]](/files/fy99-09-card-sales-transactions-cardholder-data.xls) – Spreadsheets containing fiscal years 1999–2009 data and statistics for GSA SmartPay Purchase, Travel, and Fleet business lines.
 
 ## Refund Reporting
