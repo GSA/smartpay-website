@@ -20,9 +20,9 @@
     "link-checker": "npx linkinator http://localhost:4321/ --config linkinator-config.json"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.2.4",
-    "@astrojs/sitemap": "^3.3.0",
-    "astro": "^5.13.7",
+    "@astrojs/mdx": "^4.3.11",
+    "@astrojs/sitemap": "^3.6.0",
+    "astro": "^5.15.9",
     "hast-util-select": "^5.0.5",
     "marked": "^8.0.1",
     "marked-smartypants": "^1.1.2",
