@@ -3,10 +3,10 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "astro dev --mode development",
     "start": "astro dev",
     "clean": "rimraf _site",
-    "build": "astro build",
+    "build": "astro build --mode development",
     "preview": "astro preview",
     "astro": "astro",
     "federalist": "npm run build",

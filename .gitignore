@@ -122,3 +122,5 @@ node_modules
 
 # astro type information
 .astro
+# Snyk Security Extension - AI Rules (auto-generated)
+.github/instructions/snyk_rules.instructions.md

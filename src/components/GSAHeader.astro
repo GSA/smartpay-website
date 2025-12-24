@@ -3,6 +3,10 @@
 import GSALogo from '@assets/images/gsa-smartpay-program-logo.svg'
 import searchIcon from "@assets/images/usa-icons/search--white.svg"
 import PrimaryMenu from '@components/PrimaryMenu.astro';
+
+const trainingUrl = import.meta.env.TRAINING_URL;
+
+const URL_BASE = import.meta.env.BASE_URL_LOCALHOST;
 ---
 
 <header class="usa-header usa-header--extended">
@@ -25,8 +29,8 @@ import PrimaryMenu from '@components/PrimaryMenu.astro';
       <PrimaryMenu />
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
-          <li class="usa-nav__secondary-item">
-            <a href="https://training.smartpay.gsa.gov">
+          <li class="usa-nav__secondary-item">{URL_BASE}- {trainingUrl}
+            <a href={trainingUrl}>
               Training
             </a>
           </li>
