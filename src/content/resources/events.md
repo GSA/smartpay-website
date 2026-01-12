@@ -8,7 +8,7 @@ order: 5
 
 ## GSA SmartPay Training Forum 
 
-**The 2025 GSA SmartPay Virtual Training Forum has been canceled.**
+**There is no GSA SmartPay Training Forum scheduled for FY26.  Please be sure to check this page for future updates.**
 
 ### Audience 
 Agency/Organization Program Coordinators (A/OPCs), Financial Managers, Approving Officials, Billing Officials, and other agency personnel who play a role in managing their agency’s GSA SmartPay charge card program. **This event is not intended for card/account holders.**
