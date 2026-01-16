@@ -16,7 +16,6 @@
     "pa11y-ci:mobile": "pa11y-ci --config ./.pa11yci-mobile --sitemap http://localhost:8080/sitemap-0.xml   --sitemap-find \"^https://smartpay.gsa.gov/\" --sitemap-replace \"http://localhost:8080/\"",
     "pa11y-ci:gh": "npx start-server-and-test serve http://localhost:8080 pa11y-ci",
     "link-checker:pipeline": "npx start-server-and-test serve http://localhost:8080 'npx linkinator http://localhost:8080/ --config linkinator-config.json'",
-    "link-checker:pipeline": "npx start-server-and-test serve http://localhost:8080 'npx linkinator http://localhost:8080/ --config linkinator-config.json'",
     "lint": "eslint src --ext js,astro",
     "link-checker": "npx linkinator http://localhost:4321/ --config linkinator-config.json"
   },
