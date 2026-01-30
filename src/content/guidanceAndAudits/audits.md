@@ -15,6 +15,7 @@ tags:
 
 - January: [(U) Audit of the DoD Government Travel Charge Card Program: The Visa IntelliLink Compliance Management System](/guidance-and-audits/audits/2025-dod-travel/)
 - May: [Payment Cards: Costs and Benefits for Federal Entities](/guidance-and-audits/audits/2025-gao-purchase/)
+- November: [Audit of the DoD Government Travel Charge Card Program: Citi Electronic Access System](/guidance-and-audits/audits/2025-dod-travel-citi/)
 
 ## 2024
 
